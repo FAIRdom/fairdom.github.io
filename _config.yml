@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: FAIRDOM
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -20,11 +20,31 @@ description: A virtual proof that I'm awesome
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+  About:
+    - FAIRDOM Association: '/fish'
+    - People: '/wibble'
+    - Cite FAIRDOM: '/'
+    - Publications: '/'
+    - Funders: '/'
+    - Contact Us: '/'
+  Platform:
+    - Seek: '/'
+    - Rightfield: '/'
+    - JWS Online: '/'
+    - OpenBis: '/'
+  Communities:
+    - Users: '/'
+  Knowledge Hub:
+    - Community standards: '/'
+  Partners: '/'
+  Contribute:
+    - Join the mailing list: '/'
+  Latest:
+    - News: '/'
+    - Blog: '/'
+    - FAIRDOM Events: '/'
+    - Past FAIRDOM Events: '/'
+    - Elixir and de.Nbi Events: '/'
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
