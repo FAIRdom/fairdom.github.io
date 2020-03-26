@@ -4,6 +4,19 @@ title: My website
 subtitle: This is where I will tell my friends way too much about me
 use-site-title: true
 ---
+<h2>Latest news</h2>
+<div class="posts-list">
+  {% for news in site.news reversed limit: 5 %}
+  <article class="post-preview">
+    <a href="{{ news.url | relative_url }}">
+      <h3 class="post-title">{{ news.title }}</h3>
+      <p class="post-meta">
+        Posted on {{ news.date | date: site.date_format }}
+      </p>
+    </a>
+  </article>
+  {% endfor %}
+</div>
 
 <div class="posts-list">
   {% for post in paginator.posts %}
