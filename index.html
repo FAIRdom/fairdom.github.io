@@ -4,6 +4,8 @@ title: My website
 subtitle: This is where I will tell my friends way too much about me
 use-site-title: true
 ---
+<script src="/js/jquery-1.11.2.min.js"></script>
+
 <h2>Latest news</h2>
 <div class="posts-list">
   {% for news in site.news reversed limit: 5 %}
@@ -17,6 +19,31 @@ use-site-title: true
   </article>
   {% endfor %}
 </div>
+
+<hr/>
+
+<h2>Upcoming events</h2>
+<div class="posts-list">
+  {% assign events = site.events | sort: 'start_date' %}
+  {% for event in events %}
+    <article class="post-preview event" data-start-date="{{ event.start_date }}" style="display: none">
+      <a href="{{ event.url | relative_url }}">
+        <h3 class="post-title">{{ event.title }}</h3>
+        <p class="post-meta">
+          At {{ event.start_date | date: site.date_format }}
+        </p>
+      </a>
+    </article>
+  {% endfor %}
+</div>
+
+<script type="application/javascript">
+  $( document ).ready(function() {
+    $('article.event').filter(function (){
+      return (new Date($(this).data('start-date')) >= new Date());
+    }).show();
+  });
+</script>
 
 <div class="posts-list">
   {% for post in paginator.posts %}

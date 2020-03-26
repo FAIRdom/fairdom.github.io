@@ -274,6 +274,8 @@ plugins:
 
 ## additions
 
+future: true
+
 ## collections
 collections:
   news:
