@@ -8,7 +8,7 @@ use-site-title: true
 
 <h2>Latest news</h2>
 <div class="posts-list">
-  {% for news in site.news reversed limit: 5 %}
+  {% for news in site.news reversed %}
   <article class="post-preview">
     <a href="{{ news.url | relative_url }}">
       <h3 class="post-title">{{ news.title }}</h3>
