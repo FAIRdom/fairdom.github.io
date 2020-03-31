@@ -13,7 +13,7 @@ FAIRDOM is committed to ensuring that FAIR data management is simple, practical,
 
 After working closely with our Norwegian Digital Life partners, the new releases of SEEK and NeLS now integrate with each other. This allows access to Norwegian infrastructure for storage, computing and archiving of research data as well as a rich toolbox for FAIR project data management. NeLS supports Norwegian life science researchers in executing Bioinformatics analysis on their data. Using SEEK with NeLS, data or analysis generated within projects can easily be shared among the project participants and made accessible when they are ready for publication.
 
-If you are interested in working with FAIRDOM to integrate with your local or national resources, you can contact us here: [community@fair-dom.org](mailto://community@fair-dom.org)
+If you are interested in working with FAIRDOM to integrate with your local or national resources, you can contact us here: [community@fair-dom.org](mailto:community@fair-dom.org)
 
 The integration work of NeLS and SEEK has been funded by the Centre for Digital Life Norway and has been performed in collaboration with ELIXIR Norway and FAIRDOM partners at the University of Manchester. Several Digital Life projects have participated in testing of the new versions.
 

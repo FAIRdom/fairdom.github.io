@@ -7,7 +7,7 @@ title: Position available with Digital Salmon - Two researcher/postdoctoral posi
 
 Application deadline: Saturday 2018-12-15.
 
-Email enquiries welcome: **Jon Olav Vik**, [jon.vik.@nmbu.no](mailto://jon.vik.@nmbu.no).  
+Email enquiries welcome: **Jon Olav Vik**, [jon.vik.@nmbu.no](mailto:jon.vik.@nmbu.no).  
 
 The Norwegian University of Life Sciences has two vacant researcher or postdoc positions (up to two years) in systems biology of Atlantic salmon metabolism. 
 These are part of the [Digital Salmon](https://www.nmbu.no/prosjekter/digisal), a transdisciplinary project using experimental omics data on metabolic reaction networks. Ideal for modellers seeking challenges and exposure to a world-class environment in integrative genetics and systems biology.
@@ -31,4 +31,4 @@ Full advertisement and online application form:
 
 [https://www.jobbnorge.no/en/available-jobs/job/160435/two-researcher-postdoctoral-positions-systems-biology-modelling](https://www.jobbnorge.no/en/available-jobs/job/160435/two-researcher-postdoctoral-positions-systems-biology-modelling)
 
-Application deadline: Saturday 2018-12-15. Email enquiries welcome: **Jon Olav Vik**, [jon.vik.@nmbu.no](mailto://jon.vik.@nmbu.no).
+Application deadline: Saturday 2018-12-15. Email enquiries welcome: **Jon Olav Vik**, [jon.vik.@nmbu.no](mailto:jon.vik.@nmbu.no).
