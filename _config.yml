@@ -21,8 +21,8 @@ description: A virtual proof that I'm awesome
 # List of links in the navigation bar
 navbar-links:
   About:
-    - FAIRDOM Association: '/fish'
-    - People: '/wibble'
+    - FAIRDOM Association: '/'
+    - People: '/'
     - Cite FAIRDOM: '/'
     - Publications: '/'
     - Funders: '/'
