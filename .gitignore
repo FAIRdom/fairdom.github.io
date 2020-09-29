@@ -3,6 +3,7 @@ _site
 .sass-cache
 .vagrant
 .idea/
+.jekyll-cache/
 
 # general
 .DS_Store
