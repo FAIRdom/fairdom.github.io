@@ -1,0 +1,16 @@
+- title: About
+  url: /about/
+- title: Platform
+  dropdown:
+    - title: SEEK
+      url: /seek/
+    - title: RightField
+      url: https://rightfield.org.uk
+- title: Community
+  url: /community/
+  dropdown:
+      - title: comms1
+        url: /comms1/
+      - title: comms2
+        url: /comms2/
+

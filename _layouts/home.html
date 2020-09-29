@@ -11,13 +11,14 @@ layout: default
   {%- endif -%}
 
   <section>
+    {{ site.news.size }}
     {{ content }}
   </section>
 
-  {%- if site.posts.size > 0 -%}
-    <p class="h4">{{ page.list_title | default: "Posts" }}</p>
+  {%- if site.news.size > 0 -%}
+    <p class="h4">{{ page.list_title | default: "News" }}</p>
     <ul class="list-unstyled">
-      {%- for post in site.posts -%}
+      {%- for post in site.news reversed -%}
       <li>
         <span class="text-muted">
           {%- assign date_format = "%b %-d, %Y" -%}
