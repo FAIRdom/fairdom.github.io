@@ -1,0 +1,14 @@
+<div class="bg-light p-2 h-100">
+
+    <div class="h3">Latest News</div>
+    <ul class="list-unstyled">
+    {% assign news = site.news | reverse %}
+    {% for post in news limit:6   %}
+        <li>
+            <a href="{{post.url | relative_url}}">{{post.title | escape}}</a>
+            <br/><small>{{ post.date | date: site.date_format }}</small>
+        </li>
+    {% endfor %}
+    </ul>
+
+</div>

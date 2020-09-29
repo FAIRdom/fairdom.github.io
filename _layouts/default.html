@@ -7,11 +7,25 @@
 
     {%- include header.html -%}
 
-    <div class="py-5">
-      <div class="container page-content">
+
+    <div class="container page-content">
+      <div class="row">
+        {% if page.sidebar == true %}
+          <div class="col-md-3 px-0">
+            {% include sidebar.html %}
+          </div>
+          <div class="col-md-9">
+            {{ content }}
+          </div>
+        {% else %}
           {{ content }}
+        {% endif %}
+
+
       </div>
+
     </div>
+
 
     {%- include footer.html -%}
 
