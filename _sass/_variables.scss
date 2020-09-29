@@ -43,12 +43,13 @@ $teal:    #20c997 !default;
 $cyan:    #6CC3D5 !default;
 
 $primary:       #39495c !default;
+$primary-dark: #293442 !default;
 $secondary:     #F3969A !default;
 $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
 $danger:        $red !default;
-$light:         $gray-100 !default;
+$light: #e9edef !default;
 $dark:          $gray-800 !default;
 
 $yiq-contrasted-threshold: 250 !default;
