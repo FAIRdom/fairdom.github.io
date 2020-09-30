@@ -12,6 +12,5 @@ FAIRDOM helps you to be in control of collecting, managing, storing, and publish
 Or [find out more](https://fair-dom.org/about-fairdom) about making your research FAIR – Findable, Accessible, Interoperable, and Re-usable.
 
 
-<div class="flex-video" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/PWutnWBfUSw" frameborder="0" allowfullscreen></iframe>
-</div>
+
+<iframe class="you-tube" src="https://www.youtube.com/embed/PWutnWBfUSw" frameborder="0" allowfullscreen></iframe>
