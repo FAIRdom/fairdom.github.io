@@ -7,10 +7,16 @@
     - title: RightField
       url: https://rightfield.org.uk
 - title: Community
-  url: /community/
   dropdown:
       - title: comms1
         url: /comms1
       - title: comms2
         url: /comms2
+- title: Knowledge Hub
+  dropdown:
+    - title: Community Standards
+      url: /community-standards
+    - title: Data and Model Repositories and Commons
+      url: /data-model-repositories
+
 

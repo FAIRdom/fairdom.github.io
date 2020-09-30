@@ -43,8 +43,7 @@ $teal:    #20c997 !default;
 $cyan:    #6CC3D5 !default;
 
 $primary:       #39495c !default;
-$primary-dark: #293442 !default;
-$secondary:     #F3969A !default;
+$secondary: #5f698b !default;
 $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
@@ -56,7 +55,7 @@ $yiq-contrasted-threshold: 250 !default;
 
 // Body
 
-$body-color:                $gray-600 !default;
+$body-color:                $gray-700 !default;
 $body-bg:                   $primary;
 
 // Components
