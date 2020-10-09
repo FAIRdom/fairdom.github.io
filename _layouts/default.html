@@ -3,14 +3,15 @@
 
   {%- include head.html -%}
 
-  <body>
+  <body class="d-flex flex-column">
 
     {%- include header.html -%}
 
 
-
+    <div class="flex-grow-1 flex-shrink-0">
     <div class="container page-content">
       <div class="row bg-white">
+
         {% if page.sidebar == true %}
           <div class="col-md-9 order-lg-1 order-md-1">
             {{ content }}
@@ -22,11 +23,9 @@
           {{ content }}
         {% endif %}
 
-
       </div>
-
     </div>
-
+    </div>
 
     {%- include footer.html -%}
 
