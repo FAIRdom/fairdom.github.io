@@ -9,22 +9,22 @@
 
 
     <div class="flex-grow-1 flex-shrink-0">
-    <div class="container page-content">
-      <div class="row bg-white">
+      <div class="container page-content">
+        <div class="row bg-white">
 
-        {% if page.sidebar == true %}
-          <div class="col-md-9 order-lg-1 order-md-1">
+          {% if page.sidebar == true %}
+            <div class="col-md-9 order-lg-1 order-md-1">
+              {{ content }}
+            </div>
+            <div class="col-md-3 px-0 order-lg-0 order-md-0">
+              {% include sidebar.html %}
+            </div>
+          {% else %}
             {{ content }}
-          </div>
-          <div class="col-md-3 px-0 order-lg-0 order-md-0">
-            {% include sidebar.html %}
-          </div>
-        {% else %}
-          {{ content }}
-        {% endif %}
+          {% endif %}
 
+        </div>
       </div>
-    </div>
     </div>
 
     {%- include footer.html -%}
