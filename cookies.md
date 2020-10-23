@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Cookies
-exclude_from_nav: true
 ---
 
 We measure visitors to our website using Google Analytics, which requires the use of cookies.
