@@ -5,6 +5,9 @@
   {%- seo -%}
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   {%- feed_meta -%}
+  {% include gtag.html %}
   <script src="{{ "/assets/javascript/bootstrap/jquery.min.js" | relative_url }}"></script>
   <script src="{{ "/assets/javascript/bootstrap/bootstrap.bundle.min.js" | relative_url }}"></script>
+
+ {% include cookie-popup.html %}
 </head>

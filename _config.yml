@@ -39,6 +39,8 @@ collections:
 
 date_format: "%B %-d, %Y"
 
+gtag: "G-746SKYZGG6"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
