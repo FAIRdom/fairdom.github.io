@@ -3,14 +3,10 @@
   <div class="container">
 
     <p class="h5 mb-3">{{ site.title | escape }}</p>
-
-      <div class="col-sm text-right">
-        <p>
-          <a href="https://nicolas-van.github.io/bootstrap-4-github-pages/">Built upon Bootstrap 4 Github Pages</a>
-        </p>
-      </div>
-
-    </div>
+    <p>
+      {% octicon pencil height:16  %}<a href="https://github.com/FAIRdom/fairdom.github.io/edit/{{ site.branch }}/{{ page.path }}" class="edit">Edit this page</a>
+    </p>
+    
 
   </div>
 </div>
