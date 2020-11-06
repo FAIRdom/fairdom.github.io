@@ -42,13 +42,13 @@ $green:   #56CC9D !default;
 $teal:    #20c997 !default;
 $cyan:    #6CC3D5 !default;
 
-$primary:       #39495c !default;
-$secondary:     #232d39 !default;
+$primary:       #1c4587 !default;
+$secondary:     $gray-300 !default;
 $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
 $danger:        $red !default;
-$light: #e9edef !default;
+$light:         $gray-200 !default;
 $dark:          $gray-800 !default;
 
 $yiq-contrasted-threshold: 250 !default;
@@ -56,7 +56,7 @@ $yiq-contrasted-threshold: 250 !default;
 // Body
 
 $body-color:                $gray-700 !default;
-$body-bg:                   $primary;
+$body-bg:                   $light;
 
 // Components
 
@@ -83,7 +83,7 @@ $dropdown-link-hover-bg:            $secondary !default;
 $navbar-dark-color:                 rgba($white,.6) !default;
 $navbar-dark-hover-color:           $white !default;
 
-$navbar-light-color:                rgba($black,.3) !default;
+$navbar-light-color:                rgba($black,.9) !default;
 $navbar-light-hover-color:          $gray-700 !default;
 $navbar-light-active-color:         $gray-700 !default;
 $navbar-light-disabled-color:       rgba($black,.1) !default;
