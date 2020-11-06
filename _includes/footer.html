@@ -3,10 +3,10 @@
   <div class="container">
 
     <p class="h5 mb-3">{{ site.title | escape }}</p>
-    <p>
-      {% octicon pencil height:16  %}<a href="https://github.com/FAIRdom/fairdom.github.io/edit/{{ site.branch }}/{{ page.path }}" class="edit">Edit this page</a>
+    <p class="small">
+      {% octicon pencil height:12  %}<a href="{{site.repository}}/edit/{{ site.branch }}/{{ page.path }}" class="edit">Edit this page</a>
     </p>
-    
+
 
   </div>
 </div>
