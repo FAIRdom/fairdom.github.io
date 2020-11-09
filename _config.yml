@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 #github_username:  jekyll
 
 repository: "https://github.com/FAIRdom/fairdom.github.io"
-branch: "theme-updates"
+branch: "master"
 
 # Build settings
 plugins:
