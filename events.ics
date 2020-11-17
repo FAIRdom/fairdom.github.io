@@ -1,0 +1,19 @@
+---
+layout: null
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:http://www.fair-dom.org/
+METHOD:PUBLISH{% for event in site.events %}
+BEGIN:VEVENT
+UID:{{ event.date | date: "%Y%m%d" }}@fair-dom.org
+ORGANIZER;CN="FAIRDOM Team"
+LOCATION: {{ event.location }}
+SUMMARY:{{ event.title | remove: ',' | remove: ';' }}
+DESCRIPTION:{{ event.title}} {{ event.url }}
+CLASS:PUBLIC
+DTSTART:{{ event.start_date | date: "%Y%m%d" }}T170000Z
+DTEND:{{ event.end_date | date: "%Y%m%d" }}T190000Z
+DTSTAMP:{{ event.start_date | date: "%Y%m%d" }}T170000Z
+END:VEVENT{% endfor %}
+END:VCALENDAR
