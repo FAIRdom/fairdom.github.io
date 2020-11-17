@@ -12,12 +12,12 @@ LOCATION: {{ event.location }}
 SUMMARY:{{ event.title | remove: ',' | remove: ';' }}
 DESCRIPTION:"{{ site.url }}{{ event.url }}"
 CLASS:PUBLIC
-DTSTART:{{ event.start_date | date: "%Y%m%d" }}T170000Z
+DTSTART:{{ event.start_date | date: "%Y%m%d" }}T000000Z
 {% if event.end_date %}
-DTEND:{{ event.end_date | date: "%Y%m%d" }}T190000Z
+DTEND:{{ event.end_date | date: "%Y%m%d" }}T235900Z
 {%- else -%}
-DTEND:{{ event.start_date | date: "%Y%m%d" }}T190000Z
+DTEND:{{ event.start_date | date: "%Y%m%d" }}T235900Z
 {% endif %}
-DTSTAMP:{{ event.start_date | date: "%Y%m%d" }}T170000Z
+DTSTAMP:{{ event.start_date | date: "%Y%m%d" }}T000000Z
 END:VEVENT{% endfor %}
 END:VCALENDAR
