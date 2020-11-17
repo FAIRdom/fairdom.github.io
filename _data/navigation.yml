@@ -8,8 +8,8 @@
       url: https://rightfield.org.uk
 - title: Community
   dropdown:
-      - title: comms1
-        url: /comms1
+      - title: Communities
+        url: /communities
       - title: comms2
         url: /comms2
 - title: Knowledge Hub
