@@ -37,8 +37,10 @@ collections:
   events:
     output: true
     permalink: /:collection/:path/
+    sort_by: start_date
 
 date_format: "%B %-d, %Y"
+event_date_format: "%A, %B %-d, %Y"
 
 gtag: "G-746SKYZGG6"
 

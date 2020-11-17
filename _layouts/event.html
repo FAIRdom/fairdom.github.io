@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<article class="bg-white rounded p-5">
+    <header>
+        <h1>{{ page.title | escape }}</h1>
+            <p class="text-muted">
+            <p>
+                Start date:
+                <time datetime="{{ page.start_date | date_to_xmlschema }}">
+                    {{ page.start_date | date: site.event_date_format }}
+                </time>
+            </p>
+            {%- if page.end_date %}
+            <p>
+                End date: <time datetime="{{ page.end_date | date_to_xmlschema }}">
+                {{ page.end_date | date: site.event_date_format }}
+            </time>
+            </p>
+            {%- endif -%}
+
+            {%- if page.location %}
+            <p>
+                {%- if page.location_url %}
+                Location: <a href="{{ page.location_url }}">{{ page.location }}</a>
+                {%- else -%}
+                Location: {{ page.location }}
+                {%- endif -%}
+            </p>
+            {%- endif -%}
+
+            <p class="text-muted">
+                <time datetime="{{ page.date | date_to_xmlschema }}">
+                    {{ page.date | date: site.date_format }}
+                </time>
+                {%- if page.author -%}
+                • {{ page.author }}
+                {%- endif -%}
+            </p>
+        </p>
+    </header>
+    <hr/>
+    <section>
+        <h3>Description</h3>
+        {{ content }}
+    </section>
+
+</article>
