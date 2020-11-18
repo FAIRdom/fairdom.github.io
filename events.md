@@ -3,6 +3,8 @@ layout: page
 title: Events
 ---
 
+<iframe src="https://calendar.google.com/calendar/embed?src=rojbh1o8ffvrbqcj9boh22d361bvrd20%40import.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="600" height="400" frameborder="0" scrolling="no"></iframe>
+
 <ul class="list-unstyled">
   {% assign events = site.events | reverse %}
   {% for event in events %}
