@@ -30,6 +30,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-octicons
 
+feed:
+  collections:
+    news:
+      path: "/news.xml"
+
 collections:
   news:
     output: true
