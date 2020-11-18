@@ -3,7 +3,15 @@ layout: page
 title: Events
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?src=rojbh1o8ffvrbqcj9boh22d361bvrd20%40import.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="600" height="400" frameborder="0" scrolling="no"></iframe>
+<div class="float-right pb-1">
+<a href="/calendar" class="float-right">
+<button class="btn btn-outline-primary">
+{% octicon calendar height:16 %} Calendar
+</button>
+</a>
+</div>
+
+<br/>
 
 <ul class="list-unstyled">
   {% assign events = site.events | reverse %}
