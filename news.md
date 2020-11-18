@@ -3,6 +3,13 @@ layout: page
 title: News
 ---
 
+<div class="float-right">
+<a href="/news.xml">
+{% octicon rss height:32 %}
+</a>
+</div>
+<br/>
+
 <ul class="list-unstyled">
   {% assign reversed = site.news | reverse %}
   {% for news in reversed %}
