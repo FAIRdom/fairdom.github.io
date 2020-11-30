@@ -1,9 +1,9 @@
 ---
 layout: post
 title: SABIO-RK Training 31st May 2017
+image: /img/news/sabio-rk.png
 ---
 
-![SABIO-RK](/img/news/sabio-rk.png)
 
 Are you fed up with searching the literature for kinetic data?
 We offer an introduction and hands-on training for the SABIO-RK database containing manually curated kinetic data of biochemical reactions.

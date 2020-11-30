@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Ghent FAIRDOM workshop, 11-12 June 2019
+image: /img/news/fairdom-logo-big-blue-624x170.png
 ---
 
-![fairdom](/img/news/fairdom-logo-big-blue-624x170.png)
 
 Frederik Coppens of VIB invited institutional data managers from the Belgian Flanders region, as well as FAIRDOM team and users to Ghent in order to discuss FAIRDOM data management and possible future collaboration.
 

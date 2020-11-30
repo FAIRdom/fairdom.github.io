@@ -1,9 +1,8 @@
 ---
 layout: post
 title: We Are Providing Data Management Support for the Second ERACoBioTech Call.
+image: /img/news/eracobiotech.jpg
 ---
-
-![Erocobiotech](/img/news/eracobiotech.jpg)
 
 FAIRDOM currently supports more than half of the projects from the first ERACoBioTech Call in their data management. 
 We are offering our support services for the second [ERA CoBioTech call](https://www.cobiotech.eu/). We can work with you to draft your data management plan, and then provide software, training, and support throughout your project. We will be holding webinars on the following dates.

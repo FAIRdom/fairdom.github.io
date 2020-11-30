@@ -1,9 +1,9 @@
 ---
 layout: post
 title: FAIRDOM becomes an Association e.V
+image: /img/news/association-carole-wolfgang-2016.jpg
 ---
 
-![FAIRDOM association](/img/news/association-carole-wolfgang-2016.jpg)
 
 Fantastic news and a great end to the year: we are now an Association e.V.!
 

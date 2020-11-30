@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Save the date for our workshop and user meeting at ICSB 2018, 27th October 2018!!
+image: /img/news/SaveTheDate-624x443.png
 ---
-
-![Save the date](/img/news/SaveTheDate-624x443.png)
 
 **Registration is now closed**
 

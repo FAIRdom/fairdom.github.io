@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Making FAIR data management easier for Norwegian life science researchers.
+image: /img/news/fair-data-management.png
 ---
-
-![FAIR data management](/img/news/fair-data-management.png)
 
 **The new versions of the FAIRDOM/SEEK platform and the [ELIXIR Norwegian e-Infrastructure for Life Sciences (NeLS)](https://nels.bioinfo.no/) are now linked. 
 This will provide SEEK and NeLS users with unprecedented opportunities for storing, sharing, and archiving of data in ways that comply 

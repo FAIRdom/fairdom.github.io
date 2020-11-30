@@ -1,9 +1,9 @@
 ---
 layout: post
 title: FAIRDOM hosting training as part of Synthetic Biology UK in Manchester on Wednesday 29th November.
+image: /img/news/hands-on.png
 ---
 
-![Hands On](/img/news/hands-on.png)
 
 We are excited to announce our 2017 SynBio Data Management Training Day. The event is co-located with Synthetic Biology UK, in Manchester. The venue will be the Manchester Institute for Biotechnology ([http://www.mib.ac.uk/contact/](http://www.mib.ac.uk/contact/)).
 

@@ -36,12 +36,15 @@ News will automatically adopt the _news_ layout unless overridden.
 You can optionally set the _date_ in the front-matter to override the date specified by the filename - useful if correcting a date in the future
 without breaking the URL.
 
+If you wish to provide an image then set the _image_ to the relative path of the image file.
+
 The front-matter for News could look like
 
 ```
 ---
 title: This is the news
 date: 2020-02-16
+image: "/img/news/elixir-logo.png"
 ---
 ```
 

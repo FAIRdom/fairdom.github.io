@@ -1,9 +1,9 @@
 ---
 layout: post
 title: “NETTAB 2018 - Building a FAIR Bioinformatics environment” Call for Abstracts.
+image: /img/news/nettab304_bestLogo-1.jpg
 ---
 
-![Nettab](/img/news/nettab304_bestLogo-1.jpg)
 
 CALL FOR ABSTRACTS FOR ORAL COMMUNICATIONS
 NETTAB 2018 is organised in collaboration with ELIXIR Nodes of the UK and Italy as well as the Italian Society of Bioinformatics, BITS.

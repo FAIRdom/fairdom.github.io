@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Carole Goble presents at DigitalLife 2018
+image: /img/news/SDL_LOGO_ENG-624x285.png
 ---
 
-![SDL Logo](/img/news/SDL_LOGO_ENG-624x285.png)
 
 Our very own Carole Goble presented “Trust and Accountability: experiences from the FAIRDOM Commons Initiative” at this years DigitalLife conference in Norway.
 

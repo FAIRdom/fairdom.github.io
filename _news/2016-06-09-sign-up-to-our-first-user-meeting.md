@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Sign-up to our first user meeting
+image: /img/news/barcelona-2016.png
 ---
 
-![Barcelona](/img/news/barcelona-2016.png)
 
 We’re excited to announce the first combined user meeting for FAIRDOM.  
 

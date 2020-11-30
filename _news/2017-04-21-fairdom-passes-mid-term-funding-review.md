@@ -1,9 +1,9 @@
 ---
 layout: post
 title: FAIRDOM passes 30 month funding review
+image: /img/news/heidelberg-castle.jpg
 ---
 
-![Heidelberg](/img/news/heidelberg-castle.jpg)
 
 On the 27th and 28th March, the FAIRDOM team met in the historic town of Heidelberg in Germany for our 30 month funding review.  The meeting was attended by the whole FAIRDOM team, reviewers, funders, and special guest users Jon Olav Vik from the Digital Salmon project, and Ursula Klingmüller, from the IMOMESIC project.
 

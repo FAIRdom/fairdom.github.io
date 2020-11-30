@@ -1,9 +1,9 @@
 ---
 layout: post
 title: FAIR Data Management for Projects - FAIR at the first Mile
+image: "/img/news/elixir-logo.png"
 ---
 
-![exlir](/img/news/elixir-logo.png)
 
 FAIRDOM members Carole Goble, Wolfgang Müller & Frederik Coppens ran an ELIXIR workshop at the all ELIXIR hands meeting in Lisbon, 17 – 20 June 2019. Its purpose was to
 

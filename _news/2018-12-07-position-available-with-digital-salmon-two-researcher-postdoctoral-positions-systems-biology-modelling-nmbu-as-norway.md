@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Position available with Digital Salmon - Two researcher/postdoctoral positions – systems biology modelling (NMBU, Ås, Norway)
+image: /img/news/digisal.png
 ---
 
-![Digital salmon](/img/news/digisal.png)
+
 
 Application deadline: Saturday 2018-12-15.
 

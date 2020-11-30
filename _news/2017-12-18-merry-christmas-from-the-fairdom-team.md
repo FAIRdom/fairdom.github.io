@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Merry Christmas from the FAIRDOM Team.
+image: /img/news/xmas-2017.png
 ---
 
-![Merry Xmas](/img/news/xmas-2017.png)
 
 It has been another fantastic year here at FAIRDOM.
 

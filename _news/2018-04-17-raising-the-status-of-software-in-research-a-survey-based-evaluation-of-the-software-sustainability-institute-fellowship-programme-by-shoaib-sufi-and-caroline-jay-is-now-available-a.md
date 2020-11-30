@@ -1,9 +1,9 @@
 ---
 layout: post
 title: “Raising the status of software in research - A survey-based evaluation of the Software Sustainability Institute Fellowship Programme” by Shoaib Sufi and Caroline Jay is now available as a PeerJ Preprint
+image: /img/news/ssi_logo_with_name-small2.png
 ---
 
-![SSI](/img/news/ssi_logo_with_name-small2.png)
 
 The [Software Sustainability Institute (SSI)](https://www.software.ac.uk/index.php/) is a national facility in the UK for cultivating and improving research software to support world-class research. Since 2012 the institute have been running a fellowship programme. The fellowship programme supports researchers in adopting and promoting activities within their area of research that assists with software sustainability.
 
