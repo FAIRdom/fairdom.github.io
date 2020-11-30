@@ -38,14 +38,14 @@ feed:
 collections:
   news:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path.html
   events:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path.html
     sort_by: start_date
   pages:
     output: true
-    permalink: /:path
+    permalink: /:path.html
 
 defaults:
   - scope:
