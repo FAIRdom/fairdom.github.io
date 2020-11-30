@@ -1,9 +1,7 @@
 - title: About
-  url: /about
+  url: /about.html
 - title: Platform
   dropdown:
-    - title: SEEK
-      url: /seek
     - title: RightField
       url: https://rightfield.org.uk
 - title: Community
@@ -17,9 +15,9 @@
     - title: Data and Model Repositories and Commons
       url: /data-model-repositories
 - title: News
-  url: /news
+  url: /news.html
 - title: Events
-  url: /events
+  url: /events.html
 
 
 
