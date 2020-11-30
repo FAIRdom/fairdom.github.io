@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Job Posting - Senior Advisor (2.5 yr) in Data Management for the Digital Salmon
-image: /img/news/salmon-insides.png
+image: /assets/images/news/salmon-insides.png
 ---
 
 Join our Norwegian partners as a Data Manager. Working with colleagues accross Norway, with continued support from the FAIRDOM Team and network. Would suit an early career data manager making their first steps, or a more experienced scientist transitioning into support a role.

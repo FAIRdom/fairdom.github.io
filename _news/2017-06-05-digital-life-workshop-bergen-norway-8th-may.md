@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Digital Life Workshop, Bergen, Norway, 8th May
-image: /img/news/digital-life-2017.jpg
+image: /assets/images/news/digital-life-2017.jpg
 ---
 
 At the start of this week Natalie Stanford, Olga Krebs, and Ron Henkel, from the FAIRDOM Team, 

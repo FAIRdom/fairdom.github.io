@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FAIR Data Management for Projects - FAIR at the first Mile
-image: "/img/news/elixir-logo.png"
+image: "/assets/images/news/elixir-logo.png"
 ---
 
 

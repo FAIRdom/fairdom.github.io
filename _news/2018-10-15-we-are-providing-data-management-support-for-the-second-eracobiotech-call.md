@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We Are Providing Data Management Support for the Second ERACoBioTech Call.
-image: /img/news/eracobiotech.jpg
+image: /assets/images/news/eracobiotech.jpg
 ---
 
 FAIRDOM currently supports more than half of the projects from the first ERACoBioTech Call in their data management. 

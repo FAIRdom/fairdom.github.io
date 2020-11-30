@@ -1,7 +1,7 @@
 ---
 layout: post
 title: CORBEL launches 2nd Open Call for research projects!
-image: /img/news/btn_apply_now-Kopie-624x160.jpg
+image: /assets/images/news/btn_apply_now-Kopie-624x160.jpg
 ---
 
 The CORBEL Open Call invites researchers to apply to access technologies and services from more than 20 facilities from 10 different research infrastructures across Europe. Selected projects will gain unprecedented opportunities to utilise a wide range of high-end technologies and services. 

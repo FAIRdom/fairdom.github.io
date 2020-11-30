@@ -1,7 +1,7 @@
 ---
 layout: post
 title: “Raising the status of software in research - A survey-based evaluation of the Software Sustainability Institute Fellowship Programme” by Shoaib Sufi and Caroline Jay is now available as a PeerJ Preprint
-image: /img/news/ssi_logo_with_name-small2.png
+image: /assets/images/news/ssi_logo_with_name-small2.png
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Carole Goble presents at DigitalLife 2018
-image: /img/news/SDL_LOGO_ENG-624x285.png
+image: /assets/images/news/SDL_LOGO_ENG-624x285.png
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Merry Christmas from the FAIRDOM Team.
-image: /img/news/xmas-2017.png
+image: /assets/images/news/xmas-2017.png
 ---
 
 

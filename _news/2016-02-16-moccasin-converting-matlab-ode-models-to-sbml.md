@@ -9,7 +9,7 @@ Introducing MOCCASIN (Model ODE Converter for Creating Automated SBML INteropera
 MOCCASIN was developed by a transatlantic team of tech wizards, and published in BIOINFORMATICS this month. 
 It uses Python, requires no access to MATLAB to run, and offers users command-line and graphical user interface options.
 
-![Moccasin Gui](/img/news/moccasin.png)
+![Moccasin Gui](/assets/images/news/moccasin.png)
 _GUI of MOCCASIN_
 
 The paper is available here:  [https://doi.org/10.1093/bioinformatics/btw056](https://doi.org/10.1093/bioinformatics/btw056)

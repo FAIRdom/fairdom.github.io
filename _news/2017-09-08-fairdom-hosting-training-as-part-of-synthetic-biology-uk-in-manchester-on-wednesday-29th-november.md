@@ -1,7 +1,7 @@
 ---
 layout: post
 title: FAIRDOM hosting training as part of Synthetic Biology UK in Manchester on Wednesday 29th November.
-image: /img/news/hands-on.png
+image: /assets/images/news/hands-on.png
 ---
 
 

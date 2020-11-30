@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Join our User Meeting
-image: /img/news/2016-user-meeting.png 
+image: /assets/images/news/2016-user-meeting.png 
 ---
 
 
