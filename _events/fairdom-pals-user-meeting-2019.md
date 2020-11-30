@@ -1,5 +1,4 @@
 ---
-layout: event
 title: FAIRDOM PALs User Meeting 2019
 start_date: 2019-07-18
 end_date: 2019-07-19

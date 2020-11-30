@@ -9,7 +9,7 @@
 - title: Community
   dropdown:
       - title: Communities
-        url: /communities/index
+        url: /communities/
 - title: Knowledge Hub
   dropdown:
     - title: Community Standards

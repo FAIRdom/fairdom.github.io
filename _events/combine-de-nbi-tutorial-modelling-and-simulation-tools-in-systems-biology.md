@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "COMBINE & de.NBI Tutorial: Modelling and Simulation Tools in Systems Biology"
 start_date: 2019-10-31
 location: Okinawa Insitute of Science and Technology Graduate University

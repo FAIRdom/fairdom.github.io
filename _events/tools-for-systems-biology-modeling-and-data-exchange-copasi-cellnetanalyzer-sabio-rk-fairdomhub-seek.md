@@ -1,5 +1,4 @@
 ---
-layout: event
 title: Tools for Systems biology modeling and data exchange - COPASI, CellNetAnalyzer, SABIO-RK, FAIRDOMHub/SEEK
 start_date: 2020-04-27
 end_date: 2020-04-29

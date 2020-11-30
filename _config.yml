@@ -45,7 +45,7 @@ collections:
     sort_by: start_date
   pages:
     output: true
-    permalink: /:path/
+    permalink: /:path
 
 defaults:
   - scope:
@@ -53,6 +53,14 @@ defaults:
       type: "pages"
     values:
       layout: "page"
+  - scope:
+      type: "news"
+    values:
+      layout: "post"
+  - scope:
+      type: "events"
+    values:
+      layout: "event"
 
 date_format: "%B %-d, %Y"
 event_date_format: "%A, %B %-d, %Y"

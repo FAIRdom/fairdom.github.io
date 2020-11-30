@@ -1,5 +1,4 @@
 ---
-layout: post
 title: ICSB 2015 Cancelled
 ---
 

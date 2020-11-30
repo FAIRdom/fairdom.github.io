@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "ELIXIR Webinar: Trustworthy data repositories in the Life Sciences: The role of CoreTrustSeal Certification (29th May 2019)"
 start_date: 2019-05-29
 location: Online
