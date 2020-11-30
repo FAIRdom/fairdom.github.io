@@ -43,6 +43,16 @@ collections:
     output: true
     permalink: /:collection/:path/
     sort_by: start_date
+  pages:
+    output: true
+    permalink: /:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
 
 date_format: "%B %-d, %Y"
 event_date_format: "%A, %B %-d, %Y"
