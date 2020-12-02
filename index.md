@@ -7,7 +7,7 @@ layout: frontpage
 <h1><span class='text-blue'>FAIR</span><span class='text-primary'>DOM</span>: AN ECOSYSTEM OF SERVICES FOR SCIENTIFIC DATA MANAGEMENT AND MORE</h1> 
 
 
-   Collect, Manage, store and publishing your data, models, and operating procedures 
+   Collect, Manage, Store and Publish your data, models and operating procedures in a FAIR manner
 
    [Join](https://fair-dom.org/contribute/join-us) the hundreds of researchers who have improved research management practices in their lab, and for themselves using our software and expertise.
 
