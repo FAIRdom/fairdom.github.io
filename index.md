@@ -4,7 +4,7 @@ layout: frontpage
 
 
 
-# FAIRDOM: AN ECOSYSTEM OF SERVICES FOR SCIENTIFIC DATA MANAGEMENT AND MORE 
+<h1><span class='text-primary'>FAIR</span><span class='text-blue'>DOM</span>: AN ECOSYSTEM OF SERVICES FOR SCIENTIFIC DATA MANAGEMENT AND MORE</h1> 
 
 
    Collect, Manage, store and publishing your data, models, and operating procedures 
