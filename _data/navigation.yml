@@ -1,10 +1,8 @@
 - title: About
   url: /about.html
-- title: Platform
-
 - title: FairdomHub
   url: /fairdomhub.html
-
+- title: Platform
   dropdown:
     - title: RightField
       url: https://rightfield.org.uk
