@@ -10,11 +10,11 @@ title: About FAIRDOM
 
 ### FAIRDOM comprises five partner institutions from four countries:
 
- * The University of Manchester, UK: Prof. Carole Goble (Coordination); Prof. Jacky Snoep
- * The Heidelberg Institute for Theoretical Studies (HITS), Germany: Dr. Wolfgang Müller
- * The University of Zürich, Switzerland: Dr. Lars Malmström
- * The Eidgenössische Technische Hochschule (ETH) Zürich, Switzerland: Dr. Bernd Rinn
- * The University of Leiden, Netherlands: Dr. Katy Wolstencroft
+ * **The University of Manchester, UK**: Prof. Carole Goble (Coordination); Prof. Jacky Snoep
+ * **The Heidelberg Institute for Theoretical Studies (HITS), Germany**: Dr. Wolfgang Müller
+ * **The University of Zürich, Switzerland**: Dr. Lars Malmström
+ * **The Eidgenössische Technische Hochschule (ETH) Zürich, Switzerland**: Dr. Bernd Rinn
+ * **The University of Leiden, Netherlands**: Dr. Katy Wolstencroft
  
 ### FAIRDOM builds on the outcomes of the successful SysMO-DB and SyBIT data management projects, uniting their tool and database development as well as their experience serving large systems biology projects
 
