@@ -2,7 +2,7 @@
 title: About
 ---
 
-**FAIRDOM** is a joint action of ERA-Net ERASysAPP and European Research Infrastructure ISBE to establish a data and model management service facility for Systems Biology.  Our prime mission is to support researchers, students, trainers, funders and publishers by enabling Systems Biology projects to make their Data, Operating procedures and Models, **Findable, Accessible, Interoperable and Reusable (FAIR) **.
+**FAIRDOM** is a joint action of ERA-Net ERASysAPP and European Research Infrastructure ISBE to establish a data and model management service facility for Systems Biology.  Our prime mission is to support researchers, students, trainers, funders and publishers by enabling Systems Biology projects to make their Data, Operating procedures and Models, **Findable, Accessible, Interoperable and Reusable (FAIR)**.
 
 
 <img src ="/assets/images/fairdom-front.png" class="img-fluid" alt="FAIRDOM Overview">
