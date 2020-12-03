@@ -7,13 +7,13 @@ This checklist walks you through the fundamental questions you should ask yourse
 
 This data checklist includes integration of the Data Management Plan requirements on H2020 grants (PDF available [here](http://ec.europa.eu/research/participants/data/ref/h2020/grants_manual/hi/oa_pilot/h2020-hi-oa-data-mgt_en.pdf)
 
-###Data Summary
+### Data Summary
 If you are working directly with **FAIRDOM**
 
   * Please identify a DMP Responsible Persons in your project (names)
   * Please identify a bench scientist and a modeler who is participating in PALs meetings. PALs meeting is discussing data management needs, requirements and solutions with non-PIs.
 
-####Basic Information
+#### Basic Information
 
   * State the purpose of the data collection/generation.
   * Explain the relation to the objectives of the project
@@ -53,9 +53,9 @@ It will help with local storage for temporarily-held local data prior to process
  * Determine which organisational boundaries have to be traversed by which data.
  * Make sure with your *local* data protection officer and ethics commission that the data can be shared with your partners along the flow described with the anonymisation levels as described.  Why local? Some laws change across surprising boundaries. E.g. in Germany Universities and other public organisations are subject to another data protection law than enterprises. Why seek advice? In some cases you may be required to be able to recover the name-data-relation, e.g. to enable study participants to *leave* a study.
 
-###FAIR Data
+### FAIR Data
 
-####Making data findable (documentation and metadata management)
+#### Making data findable (documentation and metadata management)
 
   * What documentation and metadata will accompany the data (assist its discoverability)? (Details on methodology, definitions, procedures, SOPs, vocabularies, units, dependencies, etc)
   * What information is needed for the data to be read and interpreted in the future?
@@ -86,7 +86,7 @@ It will help with local storage for temporarily-held local data prior to process
   * What are your data quality assurance processes?
   * How long do you expect your data to remain re-usable?
 
-###Other Considerations
+### Other Considerations
 
   * What are the cost estimates of making your data FAIR?
   * What is the perceived long-term value of making your data FAIR?
