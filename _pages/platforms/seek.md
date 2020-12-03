@@ -1,6 +1,6 @@
 ---
 
-title: [SEEK](https://seek4science.org/)
+title: SEEK
 
 ---
 
