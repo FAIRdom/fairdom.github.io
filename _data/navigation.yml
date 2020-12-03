@@ -5,9 +5,10 @@
 - title: Platform
   dropdown:
     - title: SEEK
-      url: /seek.html
+      url: /platforms/
     - title: RightField
-      url: https://rightfield.org.uk
+      url: /platforms
+   
 - title: Community
   dropdown:
       - title: Communities
