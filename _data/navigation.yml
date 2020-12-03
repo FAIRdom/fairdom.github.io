@@ -14,6 +14,10 @@
       url: /knowledgehub/datamodels.html
     - title: Data Management Checklist
       url: /knowledgehub/dm_checklist.html
+      - title: Data Repositories and Commons
+      url: /knowledgehub/data_repositories.html
+      - title: Publications
+      url: /knowledgehub/publications.html
 - title: Community
   dropdown:
       - title: Communities
