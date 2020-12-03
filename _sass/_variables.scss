@@ -110,3 +110,17 @@ $pagination-disabled-border-color:  $pagination-disabled-bg !default;
 $breadcrumb-bg:                     $primary !default;
 $breadcrumb-divider-color:          $white !default;
 $breadcrumb-active-color:           $breadcrumb-divider-color !default;
+
+// font size
+$font-size-base:              1rem !default; // Assumes the browser default, typically `16px`
+
+$heading-downscale: 0.75;
+
+$h1-font-size:                $font-size-base * 2.5 * $heading-downscale !default;
+$h2-font-size:                $font-size-base * 2 * $heading-downscale!default;
+$h3-font-size:                $font-size-base * 1.75 * $heading-downscale!default;
+$h4-font-size:                $font-size-base * 1.5 * $heading-downscale!default;
+$h5-font-size:                $font-size-base * 1.25 * $heading-downscale!default;
+$h6-font-size:                $font-size-base * $heading-downscale!default;
+
+
