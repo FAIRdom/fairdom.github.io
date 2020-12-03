@@ -8,12 +8,6 @@
 @import "bootstrap-4-jekyll/bootstrap-4-jekyll";
 @import "bootstrap_customization";
 
-iframe.you-tube {
-  display: block;
-  margin: 0 auto;
-  width: 640px;
-  height: 320px;
-}
 
 img.fair-icon {
   height: 60px;
@@ -33,10 +27,43 @@ img.post-image {
   margin-bottom: 1em;
 }
 
-div.fair-text {
-  font-size: 140%;
-  margin-top: 0.5em;
+@include media-breakpoint-up(xs) {
+  .fair-text {
+    font-size: 80%;
+  }
+  iframe.you-tube {
+    display: block;
+    margin: 0 auto;
+    width: 320px;
+    height: 160px;
+  }
 }
+
+@include media-breakpoint-up(sm) {
+  .fair-text {
+    font-size: 100%;
+  }
+  iframe.you-tube {
+    display: block;
+    margin: 0 auto;
+    width: 480px;
+    height: 200px;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  .fair-text {
+    font-size: 140%;
+    margin-top: 0.5em;
+  }
+  iframe.you-tube {
+    display: block;
+    margin: 0 auto;
+    width: 640px;
+    height: 320px;
+  }
+}
+
 
 .text-blue {
   color: $blue;
