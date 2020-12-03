@@ -5,9 +5,9 @@
 - title: Platform
   dropdown:
     - title: SEEK
-      url: /platforms/
+      url: /platforms/seek.html
     - title: RightField
-      url: /platforms
+      url: /platforms/rightfield.html
 - title: Community
   dropdown:
       - title: Communities
