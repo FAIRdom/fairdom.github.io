@@ -18,5 +18,5 @@ This innate need for robust exchange between researchers has driven a strong gra
 
 A more detailed description of the FAIR guiding principles has been [published](https://www.nature.com/articles/sdata201618) by Mark Wilkinson et al. in Nature’s Scientific Data.
 
-You can identify a basic data and model management plan using our [checklist](https://fair-dom.org/knowledgehub/data-management-checklist/).
+You can identify a basic data and model management plan using our [checklist](https://fairdom.github.io/knowledgehub/dm_checklist.html).
 
