@@ -4,6 +4,8 @@
   url: /fairdomhub.html
 - title: Platform
   dropdown:
+    - title: SEEK
+      url: /seek.html
     - title: RightField
       url: https://rightfield.org.uk
 - title: Community
