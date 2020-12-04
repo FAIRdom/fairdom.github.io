@@ -10,7 +10,7 @@ UID:{{ event.start_date | date: "%Y%m%d" }}@fair-dom.org
 LOCATION: {{ event.location }}
 SUMMARY:{{ event.title | remove: ',' | remove: ';' }}
 DESCRIPTION:{{ site.url }}{{ event.url }}
-DTSTAMP:{{ event.start_date | date: "%Y%m%d" }}T000000Z
+DTSTAMP:{{ event.date | date: "%Y%m%d" }}T000000Z
 DTSTART;VALUE=DATE:{{ event.start_date | date: "%Y%m%d" }}{% if event.end_date %}
 DTEND;VALUE=DATE:{{ event.end_date | date: "%Y%m%d" }}{% else %}
 DTEND;VALUE=DATE:{{ event.start_date | date: "%Y%m%d" }}{% endif %}

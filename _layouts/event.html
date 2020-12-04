@@ -29,15 +29,6 @@ layout: default
                 {%- endif -%}
             </p>
             {%- endif -%}
-
-            <p class="text-muted">
-                <time datetime="{{ page.date | date_to_xmlschema }}">
-                    {{ page.date | date: site.date_format }}
-                </time>
-                {%- if page.author -%}
-                • {{ page.author }}
-                {%- endif -%}
-            </p>
         </p>
     </header>
     <hr/>
@@ -45,5 +36,15 @@ layout: default
         <h3>Description</h3>
         {{ content }}
     </section>
+    <hr/>
+    <small class="text-muted text-">
+        Posted on
+        <time datetime="{{ page.date | date_to_xmlschema }}">
+            {{ page.date | date: site.date_format }}
+        </time>
+        {%- if page.author -%}
+        • {{ page.author }}
+        {%- endif -%}
+    </small>
 
 </article>
