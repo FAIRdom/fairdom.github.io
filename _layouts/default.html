@@ -13,10 +13,10 @@
         <div class="row bg-white">
 
           {% if layout.sidebar == true %}
-            <div class="col-md-9 order-lg-1 order-md-1">
+            <div class="col-md-9 order-lg-0 order-md-0">
               {{ content }}
             </div>
-            <div class="col-md-3 px-0 order-lg-0 order-md-0">
+            <div class="col-md-3 px-0 order-lg-1 order-md-1">
               {% include sidebar.html %}
             </div>
           {% else %}
