@@ -16,8 +16,6 @@
       url: /knowledgehub/dm_checklist.html
     - title: Data Repositories and Commons
       url: /knowledgehub/data_repositories.html
-    - title: Publications
-      url: /knowledgehub/publications.html
 - title: Community
   dropdown:
       - title: Communities
@@ -34,6 +32,12 @@
   url: /news.html
 - title: Events
   url: /events.html
+- title: Cite Us
+  dropdown:
+    - title: Citation
+      url: /citeus/citations.html
+    - title: Media Kit
+      url: /citeus/mediakit.html    
 - title: Join Us
   url: /contribute.html
 
