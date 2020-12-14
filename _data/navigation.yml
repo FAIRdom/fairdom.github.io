@@ -24,12 +24,12 @@
         url: /communities/
 - title: Outreach
   dropdown:
-    -title: Publications
-     url: /outreach/publications.html
-    -title: Presentations
-     url:  /outreach/presentations.html
-    -title: Tutorials
-     url: /outreach/tutorials.html
+    - title: Publications
+      url: /outreach/publications.html
+    - title: Presentations
+      url:  /outreach/presentations.html
+    - title: Tutorials
+      url: /outreach/tutorials.html
 - title: News
   url: /news.html
 - title: Events
