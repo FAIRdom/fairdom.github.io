@@ -1,7 +1,7 @@
 - title: About  
   dropdown:
     - title: About
-      url:   /about/about.htl
+      url:   /about/about.html
     - title: Contributors
       url: /about/contributors.html 
     - title: User Communities
