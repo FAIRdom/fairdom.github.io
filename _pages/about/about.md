@@ -2,20 +2,24 @@
 title: About FAIRDOM
 ---
 
-**FAIRDOM** consortium is an open initiative of various partners including funding programmes, large-consortia, institutes, small groups as well as individuals. The prime mission is to support researchers, students, trainers, funders and publishers by enabling collaborative projects to make their data, documents operating procedures and models,  **Findable, Accessible, Interoperable and Reusable (FAIR)**. To achieve this we provide an open source software platform to help projects, programmes and centres to :
-                          * organise their people & investigations
-                          * organise, catalogue, manage & share outputs
-                          * catalogue across different repositories
+**FAIRDOM** consortium is an open initiative of various partners including funding programmes, large-consortia, institutes, small groups as well as individuals. The prime mission is to support researchers, students, trainers, funders and publishers by enabling collaborative projects to make their data, documents operating procedures and models,  **Findable, Accessible, Interoperable and Reusable (FAIR)**. To achieve this we provide an open source software platform to help projects, programmes and centres to:  
+
+                          * organise their people & investigations  
+                          
+                          * organise, catalogue, manage & share outputs  
+                          
+                          * catalogue across different repositories  
+                          
 
 The associate partners work together in varying degrees from using the software and providing development feedback, through to co-development of software, knowledge and broader collaboration. 
 
 
-{% include image.html file="/assets/images/About_FARDOM.png" alt="" caption="" %}
+           {% include image.html file="/assets/images/About_FAIRDOM.png" alt="" caption="" %}
 
-## Current partners forming the FAIRDOM Consortium are: 
+## Current partners forming the FAIRDOM Consortium are:  
 
 
-### Institutes & Universities: 
+### Institutes & Universities:  
 
       1. The University of Manchester, UK
       2. Heidelberg Institute for Theoretical Studies (HITS), Germany
@@ -27,7 +31,7 @@ The associate partners work together in varying degrees from using the software 
       8. VIB, Ghent (?)  
       
 
-### Infrastructures: 
+### Infrastructures:  
 
      1. ELIXIR UK
      2. ELIXIR Belgium
@@ -35,7 +39,7 @@ The associate partners work together in varying degrees from using the software 
      4. ELIXIR Germany (de.NBI)  
 
  
-## Founding members: 
+## Founding members:  
 
 
 Historically, FAIRDOM was founded as a joint action of ERANet ERASysAPP and European Research Infrastructure ISBE to establish a data and model management service facility for Systems Biology. It comprised of five partner institutions from four countries: 
