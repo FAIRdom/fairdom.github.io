@@ -1,5 +1,12 @@
 - title: About
   url: /about.html
+  dropdown:
+    - title: Contributors
+      url: /contributors.html 
+    - title: User Communities
+      url: /communities.html
+    - title: Funders
+      url: /funders.html
 - title: FairdomHub
   url: /fairdomhub.html
 - title: Platform
