@@ -4,7 +4,6 @@ title: Funders
 
 ---
 
-## Funders:
 
 ### At present FAIRDOM is supported directly or indirectly by various Infrastructures and Projects such as the:
 
