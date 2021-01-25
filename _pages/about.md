@@ -2,26 +2,43 @@
 title: About FAIRDOM
 ---
 
-**FAIRDOM** is a joint action of ERA-Net ERASysAPP and European Research Infrastructure ISBE to establish a data and model management service facility for Systems Biology.  Our prime mission is to support researchers, students, trainers, funders and publishers by enabling Systems Biology projects to make their Data, Operating procedures and Models, **Findable, Accessible, Interoperable and Reusable (FAIR)**.
+**FAIRDOM** consortium is an open initiative of various partners including funding programmes, large-consortia, institutes, small groups as well as individuals. The prime mission is to support researchers, students, trainers, funders and publishers by enabling collaborative projects to make their data, documents operating procedures and models,  **Findable, Accessible, Interoperable and Reusable (FAIR)**. To achieve this we provide an open source software platform to help projects, programmes and centres to :
+                          * organise their people & investigations
+                          * organise, catalogue, manage & share outputs
+                          * catalogue across different repositories
 
+The associate partners work together in varying degrees from using the software and providing development feedback, through to co-development of software, knowledge and broader collaboration. 
 
-<img src ="/assets/images/fairdom-front.png" class="img-fluid" alt="FAIRDOM Overview">
+## Current partners forming the FAIRDOM Consortium are: 
 
+### Institutes & Universities:
+      1. The University of Manchester, UK
+      2. Heidelberg Institute for Theoretical Studies (HITS), Germany
+      3. The University of Leiden, Netherlands
+      4. The University of Edinburgh, UK
+      5. Stellenbosch University, South Africa
+      6. University of Zürich, Switzerland
+      7. ETH Zurich (?)
+      8. VIB, Ghent (?)
 
-### FAIRDOM comprises five partner institutions from four countries:
+### Infrastructures:
+     1. ELIXIR UK
+     2. ELIXIR Belgium
+     3. ELIXIR Norway
+     4. ELIXIR Germany (de.NBI)
 
- * **The University of Manchester, UK**: Prof. Carole Goble (Coordination); Prof. Jacky Snoep
- * **The Heidelberg Institute for Theoretical Studies (HITS), Germany**: Dr. Wolfgang Müller
- * **The University of Zürich, Switzerland**: Dr. Lars Malmström
- * **The Eidgenössische Technische Hochschule (ETH) Zürich, Switzerland**: Dr. Bernd Rinn
- * **The University of Leiden, Netherlands**: Dr. Katy Wolstencroft
  
-### FAIRDOM builds on the outcomes of the successful SysMO-DB and SyBIT data management projects, uniting their tool and database development as well as their experience serving large systems biology projects
+## Founding members:
 
-#### We achieve this by:
+Historically, FAIRDOM was founded as a joint action of ERANet ERASysAPP and European Research Infrastructure ISBE to establish a data and model management service facility for Systems Biology. It comprised of five partner institutions from four countries: 
 
-* The FAIRDOM Open Software Platform and toolset to manage data, models and projects that combines standards, the SEEK4Science and openBIS tool suites and community tools.
-* A centrally hosted, public FAIRDOMHub – a “Systems Biology Community Commons” – for independent researchers, projects and programmes.  Researchers can manage their projects and project assets in a secure way. Journals, funders and communities have a resource for shared and published data, models and methods. FAIRDOMHub brings together already established programme SEEKs for SysMO, VLN and independent project SEEKs.
-* A Facility of support services for curation, training, and data management planning for the EraSysAPP projects.
-* A European Knowledge community for standards, data and model management expertise, FAIRDOM users and developers, and developers of Systems Biology tools and resources. We run workshops and summer schools, and will develop a library of standard templates for data, model and SOP management.
-* Working with stakeholders – funders, policy makers, research infrastructures, journals and standards initiatives – to foster FAIR data and model management in  Systems Biology. We work actively with COMBINE and ISBE, as well as other national initiatives.
+     1. The University of Manchester, UK: Prof. Carole Goble (Coordination);  Prof. Jacky Snoep
+     2. Heidelberg Institute for Theoretical Studies (HITS), Germany: Dr. Wolfgang Müller
+     3. The University of Zürich, Switzerland: Dr. Lars Malmström
+     4. The Eidgenössische Technische Hochschule (ETH) Zürich, Switzerland: Dr. Bernd Rinn
+     5. The University of Leiden, Netherlands: Dr. Katy Wolstencroft
+
+
+
+     <img src ="/assets/images/fairdom-front.png" class="img-fluid" alt="FAIRDOM Overview">
+
