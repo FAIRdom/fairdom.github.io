@@ -1,12 +1,12 @@
 - title: About
-  url: /about.html
+  url: /about/about.html
   dropdown:
     - title: Contributors
-      url: /contributors.html 
+      url: /about/contributors.html 
     - title: User Communities
-      url: /communities.html
+      url: /about/communities.html
     - title: Funders
-      url: /funders.html
+      url: /about/funders.html
 - title: FairdomHub
   url: /fairdomhub.html
 - title: Platform
@@ -23,10 +23,6 @@
       url: /knowledgehub/dm_checklist.html
     - title: Data Repositories and Commons
       url: /knowledgehub/data_repositories.html
-- title: Community
-  dropdown:
-      - title: Communities
-        url: /communities/
 - title: Outreach
   dropdown:
     - title: Publications
