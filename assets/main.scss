@@ -27,6 +27,12 @@ img.post-image {
   margin-bottom: 1em;
 }
 
+img.about-image {
+  display:block;
+  width: 70%;
+  margin: 0 auto;
+}
+
 @include media-breakpoint-up(xs) {
   .fair-text {
     font-size: 80%;
