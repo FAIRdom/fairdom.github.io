@@ -11,7 +11,7 @@ knowledge resources and its corresponding metadata. When paired with our SEEK pl
 to publication.
 
 
-###Community use. 
+### Community use
 
 openBIS is currently being used by several SystemsX.ch and EU projects applying mass spectrometric measurements of metabolites and proteins, high content 
 screening or next generation sequencing technologies. The attributes making it interesting to a system biology research community include: versatility, 
