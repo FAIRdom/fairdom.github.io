@@ -1,5 +1,5 @@
 ---
-FAIRDOM Platforms
+title:FAIRDOM Platforms
 ---
 
 The FAIRDOM Platform uses a stack of software platforms to provide a “Project Commons” – that is, a shared place where projects 
@@ -23,7 +23,8 @@ The SEEK is designed to organise data held on different data infrastructures.
 NeLS is the Norwegian e-Infrastructure for Life Sciences. When paired with the FAIRDOM-SEEK  it provides a way for organising and publishing data collected 
 by the ELIXIR-Norway data and analysis services.
 
-## Supporting Analysis and Modelling
+## Supporting Analysis and Modelling 
+
 ### Modelling
 JWS Online is a systems biology tool for the construction, modification and simulation of kinetic models and for the storage of curated models. It can be used online, and is also integrated into the SEEK platform, to support model management.
 
