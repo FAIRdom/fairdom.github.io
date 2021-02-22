@@ -5,13 +5,13 @@ title: Presentations
 
 You can find more presentations from the FAIRDOM Team, and from invited speakers at FAIRDOM events on the [FAIRDOMHub](https://www.fairdomhub.org/projects/19/presentations)
 
-Here is a selection of key presentations from the FAIRDOM Team, and from invited speakers at FAIRDOM events, that will provide foundation knowledge for data and model management:
+A selection of key presentations from the FAIRDOM Team, and from invited speakers at FAIRDOM events: 
 
 ### 2019
 
 #### FAIRy stories: tales from building the FAIR Research Commons from Carole Goble
 
-<iframe class="you-tube" src="https://www.slideshare.net/carolegoble/fairy-stories-tales-from-building-the-fair-research-commons" frameborder="0" allowfullscreen></iframe>
+<iframe class="slide-share" src="https://www.slideshare.net/carolegoble/fairy-stories-tales-from-building-the-fair-research-commons" frameborder="0" allowfullscreen></iframe>
 
 
 #### FAIRy stories: tales from building the FAIR Research Commons from Carole Goble
