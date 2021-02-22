@@ -7,7 +7,8 @@ You can find presentations from the FAIRDOM Team and invited speakers at FAIRDOM
 
 Here is a selection of key presentations from the FAIRDOM Team and invited speakers from various FAIRDOM events:
 
-## 2020
+
+## 2020 
 
 #### How are we Faring with FAIR? (and what FAIR is not) by Carole Goble
 
@@ -19,13 +20,11 @@ Here is a selection of key presentations from the FAIRDOM Team and invited speak
 #### FAIRy stories: tales from building the FAIR Research Commons from Carole Goble
 
 <iframe class='slide-share' src="//www.slideshare.net/slideshow/embed_code/key/yKYEboHmzECrlG" frameborder="0" allowfullscreen></iframe>
-
 (https://www.slideshare.net/carolegoble/fairy-stories-tales-from-building-the-fair-research-commons)
 
 #### FAIRy stories: tales from building the FAIR Research Commons from Carole Goble
 
 <iframe class='slide-share' src="//www.slideshare.net/slideshow/embed_code/key/9xJAqJCSjlv1P6" frameborder="0" allowfullscreen></iframe>
-
 (https://www.slideshare.net/carolegoble/lets-go-on-a-fair-safari-157523008)
 
 
@@ -41,7 +40,6 @@ Here is a selection of key presentations from the FAIRDOM Team and invited speak
 <iframe class='slide-share' src="//www.slideshare.net/slideshow/embed_code/key/nMWCAee4N7PKAH" frameborder="0" allowfullscreen></iframe>
 (https://www.slideshare.net/carolegoble/trust-and-accountability-experiences-from-the-fairdom-commons-initiative)
 
-## 2017
 
 ## 2016
 
