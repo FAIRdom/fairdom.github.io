@@ -1,7 +1,5 @@
 ---
-
 title: OpenBIS
-
 ---
 
 
@@ -13,7 +11,7 @@ to publication.
 
 ### Community use
 
-openBIS is currently being used by several SystemsX.ch and EU projects applying mass spectrometric measurements of metabolites and proteins, high content 
+openBIS is currently being used by several [SystemsX.ch](http://www.systemsx.ch) and EU projects applying mass spectrometric measurements of metabolites and proteins, high content 
 screening or next generation sequencing technologies. The attributes making it interesting to a system biology research community include: versatility, 
 simplicity in deployment, scalability to very large data, flexibility to handle any biological data type and extensibility to the needs of any potential user.
 
@@ -25,4 +23,4 @@ For downloading the current servers (Application server and Datastore server) pl
 ### Contributing to openBIS
 
 The source code can be found in the [CISD Source Code Repository](http://svnsis.ethz.ch/repos/cisd/)
-You can access the OpenBIS publication [here] (https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-468)
+You can access the OpenBIS publication [here](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-468)
