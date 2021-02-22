@@ -87,3 +87,14 @@ div#front-page-content p {
 div.partner-footer-logo img {
   max-width: 90%;
 }
+
+iframe.slide-share {
+  // display: block;
+  // margin: 0 auto;
+  border:1px solid #CCC; 
+  border-width:1px; 
+  margin-bottom:5px; 
+  max-width: 100%;
+  min-width: 595px;
+  min-height: 485px;
+}
