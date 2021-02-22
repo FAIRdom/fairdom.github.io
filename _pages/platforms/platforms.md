@@ -1,11 +1,11 @@
 ---
-title:FAIRDOM Platforms
+title: FAIRDOM Platforms
 ---
 
 The FAIRDOM Platform uses a stack of software platforms to provide a “Project Commons” – that is, a shared place where projects 
 can organised their own data, models, protocols, workflows  in their own managed space.
 
-![FAIRDOM platform](/assets/images/Platforms.png){: .platforms-image}
+![FAIRDOM platform](/assets/images/Platforms.png)
 
 ## Organising and Sharing Project Assets
 The SEEK platform is FAIRDOM’s web-based resource for sharing heterogeneous scientific research datasets, models or simulations, processes and research outcomes. 
