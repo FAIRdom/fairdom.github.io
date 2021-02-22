@@ -17,9 +17,9 @@
     - title: RightField
       url: /platforms/rightfield.html
     - title: JWS Online
-      url:  /platforms/jws.html
+      url: /platforms/jws.html
     - title: OpenBIS
-      url:  /platforms/openbis.html
+      url: /platforms/openbis.html
 - title: Knowledge Hub
   dropdown:
     - title: Data Model and Managment
