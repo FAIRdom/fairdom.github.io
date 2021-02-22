@@ -11,7 +11,8 @@ Here is a selection of key presentations from the FAIRDOM Team, and from invited
 
 #### FAIRy stories: tales from building the FAIR Research Commons from Carole Goble
 
-(https://www.slideshare.net/carolegoble/fairy-stories-tales-from-building-the-fair-research-commons)
+<iframe class="you-tube" src="https://www.slideshare.net/carolegoble/fairy-stories-tales-from-building-the-fair-research-commons" frameborder="0" allowfullscreen></iframe>
+
 
 #### FAIRy stories: tales from building the FAIR Research Commons from Carole Goble
 
