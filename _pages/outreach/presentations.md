@@ -7,6 +7,13 @@ You can find presentations from the FAIRDOM Team and invited speakers at FAIRDOM
 
 Here is a selection of key presentations from the FAIRDOM Team and invited speakers from various FAIRDOM events:
 
+## 2020
+
+#### How are we Faring with FAIR? (and what FAIR is not) by Carole Goble
+
+<iframe class='slide-share' src="//www.slideshare.net/slideshow/embed_code/key/1tffPaD8Dk9awm" frameborder="0" allowfullscreen></iframe>
+(https://www.slideshare.net/carolegoble/how-are-we-faring-with-fair-and-what-fair-is-not)
+
 ## 2019
 
 #### FAIRy stories: tales from building the FAIR Research Commons from Carole Goble
@@ -22,27 +29,40 @@ Here is a selection of key presentations from the FAIRDOM Team and invited speak
 (https://www.slideshare.net/carolegoble/lets-go-on-a-fair-safari-157523008)
 
 
-#### Reproducible Research: how could Research Objects help from Carole Goble
+## 2018 
 
-<iframe class='slide-share' src="//www.slideshare.net/slideshow/embed_code/key/4NjtpA25NfBXVy" frameborder="0" allowfullscreen></iframe>
+#### Introduction to FAIRDOM by Carole Goble
 
+<iframe class='slide-share' src="//www.slideshare.net/slideshow/embed_code/key/4GsT86wHeHJcz8" frameborder="0" allowfullscreen></iframe>
+(https://www.slideshare.net/carolegoble/introduction-to-fairdom)
 
-(https://www.slideshare.net/carolegoble/reproducible-research-how-could-research-objects-help)
+#### Trust and Accountability: experiences from the FAIRDOM Commons Initiative. from Carole Goble
 
-#### Reflections on a (slightly unusual) multi-disciplinary academic career from Carole Goble
+<iframe class='slide-share' src="//www.slideshare.net/slideshow/embed_code/key/nMWCAee4N7PKAH" frameborder="0" allowfullscreen></iframe>
+(https://www.slideshare.net/carolegoble/trust-and-accountability-experiences-from-the-fairdom-commons-initiative)
 
-<iframe class='slide-share' src="//www.slideshare.net/slideshow/embed_code/key/D18zG6QxaAh66" frameborder="0" allowfullscreen></iframe>
+## 2017
 
-(https://www.slideshare.net/carolegoble/reflections-on-a-slightly-unusual-multidisciplinary-academic-career)
+## 2016
 
-#### Better Software, Better Research from Carole Goble
+#### Research Objects, SEEK and FAIRDOM by Carole Goble
+<iframe class='slide-share' src="//www.slideshare.net/slideshow/embed_code/key/3uH2L6SATeehOL" frameborder="0" allowfullscreen></iframe>
+(https://www.slideshare.net/carolegoble/research-objects-seek-and-fairdom)
 
-<iframe class='slide-share' src="//www.slideshare.net/slideshow/embed_code/key/gmyxwv6nb3lggJ" frameborder="0" allowfullscreen></iframe>
+### Making your data good enough for sharing by Carole Goble
+<iframe class='slide-share' src="//www.slideshare.net/slideshow/embed_code/key/BcUYDjFGwRevmk" frameborder="0" allowfullscreen></iframe> 
+(https://www.slideshare.net/FAIRDOM/making-your-data-good-enough-for-sharing)
 
-(https://www.slideshare.net/carolegoble/better-software-better-research)
+### The FAIRDOM Commons for Systems Biology by Carole Goble
+<iframe class='slide-share' src="//www.slideshare.net/slideshow/embed_code/key/BcUYDjFGwRevmk" frameborder="0" allowfullscreen></iframe> 
+(https://www.slideshare.net/FAIRDOM/the-fairdom-commons-for-systems-biology)
 
-#### Reproducibility (and the R*) of Science: motivations, challenges and trends from Carole Goble
+### Reproducible and citable data and models: An Introduction by Carole Goble, Wolfgang Muller, Dagmar Waltemath
+<iframe class='slide-share' src="//www.slideshare.net/slideshow/embed_code/key/fFuwLIKeF1myMP" frameborder="0" allowfullscreen></iframe> 
+(https://www.slideshare.net/FAIRDOM/reproducible-and-citable-data-and-models-an-introduction)
 
-<iframe class='slide-share' src="//www.slideshare.net/slideshow/embed_code/key/JmjiY3g99gBk6r" frameborder="0" allowfullscreen></iframe>
+## 2015
 
-(https://www.slideshare.net/carolegoble/reproducibility-and-the-r-of-science-motivations-challenges-and-trends)
+### FAIR data and model management for systems biology by Carole Goble
+<iframe class='slide-share' src="//www.slideshare.net/slideshow/embed_code/key/t8Qm5CoFsRmSij" frameborder="0" allowfullscreen></iframe>
+https://www.slideshare.net/FAIRDOM/fair-data-and-model-management-for-systems-biology
