@@ -10,7 +10,8 @@
       url: /about/funders.html
 - title: FairdomHub
   url: /fairdomhub.html
-- title: Platform
+- title: Platforms
+  url: /platforms/platforms.html
   dropdown:
     - title: SEEK
       url: /platforms/seek.html
@@ -18,8 +19,6 @@
       url: /platforms/rightfield.html
     - title: JWS Online
       url: /platforms/jws.html
-    - title: OpenBIS
-      url: /platforms/openbis.html
 - title: Knowledge Hub
   dropdown:
     - title: Data Model and Managment
