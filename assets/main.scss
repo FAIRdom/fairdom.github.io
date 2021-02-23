@@ -74,7 +74,7 @@ img.about-image {
     max-width: 100%;
     min-width: 500px;
     min-height: 400px;
-  }
+  }  
 }
 
 @include media-breakpoint-up(lg) {
@@ -97,6 +97,16 @@ img.about-image {
     max-width: 100%;
     min-width: 640px;
     min-height: 520px;
+  }
+  .navbar {
+    font-size:18px;
+    padding-bottom: 0.24rem;
+  }
+}
+
+@include media-breakpoint-up(xl) {
+  .navbar {
+    font-size:20px;
   }
 }
 

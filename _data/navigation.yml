@@ -8,6 +8,10 @@
       url: /about/communities.html
     - title: Funders
       url: /about/funders.html
+    - title: Cite Us
+      url: /citeus/citation.html
+    - title: Media Kit
+      url: /citeus/mediakit.html
 - title: FairdomHub
   url: /fairdomhub.html
 - title: Platforms
@@ -38,13 +42,7 @@
 - title: News
   url: /news.html
 - title: Events
-  url: /events.html
-- title: Cite Us
-  dropdown:
-    - title: Citation
-      url: /citeus/citation.html
-    - title: Media Kit
-      url: /citeus/mediakit.html    
+  url: /events.html        
 - title: Join Us
   url: /contribute.html
 
