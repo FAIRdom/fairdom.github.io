@@ -2,7 +2,8 @@
 title: FAIRDOM LOGOs
 ---
 
-For use in presentations, tutroials and all other FAIRDOM related activitied the FAIRDOM logo, is available in several formats:
+For use in presentations, tutroials and all other FAIRDOM related activities the FAIRDOM logo is available in several formats:  
+
 
 ## Dark Blue Background
 
