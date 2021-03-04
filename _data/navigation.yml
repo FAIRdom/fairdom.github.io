@@ -1,7 +1,9 @@
 - title: About  
   dropdown:
     - title: Overview
-      url:   /about/about.html
+      url: /about/about.html
+    - title: People
+      url: /about/people.html
     - title: Contributors
       url: /about/contributors.html 
     - title: User Communities
@@ -24,14 +26,10 @@
       url: /platforms/rightfield.html
     - title: JWS Online
       url: /platforms/jws.html
-- title: Knowledge Hub
+- title: Support
   dropdown:
-    - title: Data Model and Managment
-      url: /knowledgehub/datamodels.html
     - title: Data Management Checklist
       url: /knowledgehub/dm_checklist.html
-    - title: Data Repositories and Commons
-      url: /knowledgehub/data_repositories.html
 - title: Outreach
   dropdown:
     - title: Publications
