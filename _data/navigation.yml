@@ -14,7 +14,7 @@
       url: /citeus/mediakit.html
 - title: FairdomHub
   url: /fairdomhub.html
-- title: Platforms
+- title: Platform
   url: /platforms/platforms.html
   dropdown:
     - title: SEEK
