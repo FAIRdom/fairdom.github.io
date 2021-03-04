@@ -15,8 +15,9 @@
 - title: FairdomHub
   url: /fairdomhub.html
 - title: Platform
-  url: /platforms/platforms.html
   dropdown:
+    - title: Platform
+      url: /platforms/platforms.html
     - title: SEEK
       url: /platforms/seek.html
     - title: RightField
