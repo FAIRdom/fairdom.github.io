@@ -23,6 +23,10 @@ The SEEK is designed to organise data held on different data infrastructures.
 NeLS is the Norwegian e-Infrastructure for Life Sciences. When paired with the FAIRDOM-SEEK  it provides a way for organising and publishing data collected 
 by the ELIXIR-Norway data and analysis services.
 
+## Helping with Metadata Management 
+
+Rightfield is an open-source tool for adding ontology term selection to Excel spreadsheets. Rightfield is used by a ‘Template Creator’ to create semantically aware Excel spreadsheet templates. The Excel templates are then reused by Scientists to collect and annotate their data; without any need to understand, or even be aware of, Rightfield or the ontologies used. Rightfield embedded templates are used within the Samples framework of the SEEK.
+
 ## Supporting Analysis and Modelling 
 
 ### Modelling
@@ -34,5 +38,3 @@ Galaxy is  a scientific workflow, data integration, and data and analysis persis
 ### Executable Notebooks
 Jupyter Notebook  is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text. Uses include: data cleaning and transformation, numerical simulation, statistical modeling, data visualization, machine learning, and much more. Using the SEEK API it is easy to integrate the SEEK with your notebook.
 
-## Helping with Metadata Management
-Rightfield is an open-source tool for adding ontology term selection to Excel spreadsheets. Rightfield is used by a ‘Template Creator’ to create semantically aware Excel spreadsheet templates. The Excel templates are then reused by Scientists to collect and annotate their data; without any need to understand, or even be aware of, Rightfield or the ontologies used. Rightfield embedded templates are used within the Samples framework of the SEEK.
