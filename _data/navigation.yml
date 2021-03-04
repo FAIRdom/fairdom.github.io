@@ -1,6 +1,6 @@
 - title: About  
   dropdown:
-    - title: About
+    - title: Overview
       url:   /about/about.html
     - title: Contributors
       url: /about/contributors.html 
