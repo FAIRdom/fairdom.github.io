@@ -1,7 +1,8 @@
-----
-title: FAIRDOM People
-----
+---
 
+title: FAIRDOM People
+
+---
 
 
 ## Leads
