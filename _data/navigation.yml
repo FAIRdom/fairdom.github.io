@@ -41,7 +41,12 @@
 - title: News
   url: /news.html
 - title: Events
-  url: /events.html        
+  dropdown:
+    - title: Upcoming Events
+      url: upcoming_events.html
+    - title: Past Events
+      url: past_events.html
+    
 - title: Join Us
   url: /contribute.html
 
