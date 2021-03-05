@@ -43,9 +43,9 @@
 - title: Events
   dropdown:
     - title: Upcoming Events
-      url: upcoming_events.html
+      url: upcoming-events.html
     - title: Past Events
-      url: past_events.html
+      url: past-events.html
     
 - title: Join Us
   url: /contribute.html
