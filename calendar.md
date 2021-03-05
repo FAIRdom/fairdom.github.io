@@ -3,4 +3,10 @@ layout: page
 title: Events Calendar
 ---
 
-<iframe src="https://calendar.google.com/calendar/embed?src=rojbh1o8ffvrbqcj9boh22d361bvrd20%40import.calendar.google.com&ctz=Europe%2FLondon" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe id="open-web-calendar" 
+    style="background:url('https://raw.githubusercontent.com/niccokunzmann/open-web-calendar/master/static/img/loaders/circular-loader.gif') center center no-repeat;"
+    src="https://open-web-calendar.herokuapp.com/calendar.html?url=https%3A%2F%2Ffairdom.github.io%2Fevents.ics&amp;title=FAIRDOM%20Events"
+    sandbox="allow-scripts allow-same-origin allow-top-navigation"
+    allowTransparency="true" scrolling="no" 
+    frameborder="0" height="600px" width="100%">
+</iframe>
