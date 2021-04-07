@@ -1,5 +1,5 @@
-url: https://fairdom.github.io/
-repository: FAIRdom/fairdom.github.io
+url: https://fairdom.github.io/fairdom-website
+repository: FAIRdom/fairdom-website
 
 topnav_title: FAIRDOM
 # this appears on the top navigation bar next to the home button
@@ -10,7 +10,7 @@ site_title: FAIRDOM
 company_name: FAIRDOM
 # this appears in the page_ending
 
-github_editme_path: bedroesb/fairdom.github.io/blob/new-theme/
+github_editme_path: FAIRdom/fairdom-website/blob/main/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 description: "A Consortium of Services for Research Data Management and More"
