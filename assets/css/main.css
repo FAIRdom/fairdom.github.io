@@ -232,7 +232,7 @@ ul#results-container li a:hover {
     margin: 20px 0px;
 }
 
-.post-content figure img {
+.post-content figure img, .post-content p img {
     width: auto;
     height: auto;
     max-width: 100%;
@@ -617,6 +617,7 @@ h2.card-title {
     color: var(--primary-theme-color);
     margin-left: 12px;
     font-size: small;
+    border-radius: 0px;
 }
 
 .githubEditButton:hover {
