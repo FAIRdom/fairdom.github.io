@@ -1,21 +1,21 @@
 <footer id="footer">
     <div class="container py-1 py-4">
         <div class="row">
-            <div class="col-lg-3 col-sm-6 mb-2 mb-sm-4">
-                <h6>Acknowledgements</h6>
-                <p>
-                </p>
+            <div class="col-lg-3 col-sm-6 mb-2">
             </div>
-            <div class="col-lg-3 col-sm-6 mb-2 mb-sm-4">
+            <div class="col-lg-3 col-sm-6 mb-2">
+                <ul>
+                    <li>Acknowledgements here</li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-sm-6 mb-2">
+                <ul>
+                    <li><a href="mailto:{{ site.contact_email }}">Contact us</a></li>
+                    <li><a href="{{ '/privacy.html' | relative_url }}">Privacy</a></li>
+                </ul>
 
             </div>
-            <div class="col-lg-3 col-sm-6 mb-2 mb-sm-4">
-                <h6>Feel free to contact us:</h6>
-                <p>
-                    <a href="mailto:{{ site.contact_email }}">{{ site.contact_email }}</a>
-                </p>
-            </div>
-            <div class="col-lg-3 col-sm-6 mb-2 mb-sm-4">
+            <div class="col-lg-3 col-sm-6 mb-2">
                 <img class="company-logo" src="{{ 'assets/img/transparent-fairdom-logo-square5.svg' | relative_url }}"
                     alt="Company logo" width="88px">
             </div>

@@ -1,54 +1,59 @@
 {%- assign sidebar = site.data.sidebars[page.sidebar] %}
-<ul id="menu" class="menu">
-    {% if sidebar.title or sidebar.version %}
-    <li class="sidebarTitle">{{sidebar.title}} {{sidebar.version}}</li>
-    {% endif %}
-    {%- for folder in sidebar.subitems %}
-    {%- if page.url == folder.url %}
-    <li class="active{%- if folder.hr %} hr-margin{% endif %}">
-    {%- else %}
-    <li {%- if folder.hr %} class="hr-margin"{% endif %}>
-    {%- endif %}
-    {%- if folder.external_url %}
-        <a title="{{folder.title}}" href="{{folder.external_url}}" target="_blank" rel="noopener">{{folder.title}}</a>
-    {%- else %}    
-        <a title="{{folder.title}}" href="{{folder.url | relative_url }}">{{ folder.title }}</a>
-    {%- endif %}
-    {%- if folder.subitems %}
-        <ul>
-            {%- for subfolder in folder.subitems %}
-            {%- if page.url == subfolder.url %}
-            <li class="active">
-            {%- else %}
-            <li>
-            {%- endif %}
-            {%- if subfolder.external_url %}
-                <a title="{{subfolder.title}}" href="{{subfolder.external_url}}" target="_blank" rel="noopener">{{subfolder.title}}</a>
-            {%- else %}    
-                <a title="{{subfolder.title}}" href="{{subfolder.url | relative_url }}">{{ subfolder.title }}</a>
-            {%- endif %}
-            {%- if subfolder.subitems %}
-                <ul>
-                    {%- for subsubfolder in subfolder.subitems %}
-                    {%- if page.url == subsubfolder.url %}
-                    <li class="active">
-                    {%- else %}
-                    <li>
-                    {%- endif %}
-                    {%- if subsubfolder.external_url %}
-                        <a title="{{subsubfolder.title}}" href="{{subsubfolder.external_url}}" target="_blank" rel="noopener">{{subsubfolder.title}}</a>
-                    {%- else %}    
-                        <a title="{{subsubfolder.title}}" href="{{subsubfolder.url | relative_url }}">{{ subsubfolder.title }}</a>
-                    {%- endif %}
-                    </li>
-                    {%- endfor %}
-                </ul>
-            {%- endif %}
-            </li>
-            {%- endfor %}
-        </ul>
-    {%- endif %}
-    </li>
-    {%- endfor %}
-</ul>
-<script>$("li.active").parents('li').toggleClass("active parent");</script>
+<button class="d-lg-none collapsed sidebar-collapse btn-custom w-100 mb-4" type="button" data-bs-toggle="collapse" data-bs-target="#side-nav" aria-controls="side-nav" aria-expanded="true" aria-label="Toggle navigation">
+    {{ page.sidebar | capitalize }} menu <i title="navbar-toggler" class="fa fa-bars ms-2"></i>
+</button>
+<div class="collapse" id="side-nav" aria-label="Side navigation">
+    <ul id="menu" class="menu list-unstyled mb-4 mb-lg-0">
+        {% if sidebar.title or sidebar.version %}
+        <li class="sidebarTitle">{{sidebar.title}} {{sidebar.version}}</li>
+        {% endif %}
+        {%- for folder in sidebar.subitems %}
+        {%- if page.url == folder.url %}
+        <li class="active{%- if folder.hr %} hr-margin{% endif %}">
+        {%- else %}
+        <li {%- if folder.hr %} class="hr-margin"{% endif %}>
+        {%- endif %}
+        {%- if folder.external_url %}
+            <a title="{{folder.title}}" href="{{folder.external_url}}" target="_blank" rel="noopener">{{folder.title}}</a>
+        {%- else %}    
+            <a title="{{folder.title}}" href="{{folder.url | relative_url }}">{{ folder.title }}</a>
+        {%- endif %}
+        {%- if folder.subitems %}
+            <ul class="list-unstyled">
+                {%- for subfolder in folder.subitems %}
+                {%- if page.url == subfolder.url %}
+                <li class="active">
+                {%- else %}
+                <li>
+                {%- endif %}
+                {%- if subfolder.external_url %}
+                    <a title="{{subfolder.title}}" href="{{subfolder.external_url}}" target="_blank" rel="noopener">{{subfolder.title}}</a>
+                {%- else %}    
+                    <a title="{{subfolder.title}}" href="{{subfolder.url | relative_url }}">{{ subfolder.title }}</a>
+                {%- endif %}
+                {%- if subfolder.subitems %}
+                    <ul class="list-unstyled">
+                        {%- for subsubfolder in subfolder.subitems %}
+                        {%- if page.url == subsubfolder.url %}
+                        <li class="active">
+                        {%- else %}
+                        <li>
+                        {%- endif %}
+                        {%- if subsubfolder.external_url %}
+                            <a title="{{subsubfolder.title}}" href="{{subsubfolder.external_url}}" target="_blank" rel="noopener">{{subsubfolder.title}}</a>
+                        {%- else %}    
+                            <a title="{{subsubfolder.title}}" href="{{subsubfolder.url | relative_url }}">{{ subsubfolder.title }}</a>
+                        {%- endif %}
+                        </li>
+                        {%- endfor %}
+                    </ul>
+                {%- endif %}
+                </li>
+                {%- endfor %}
+            </ul>
+        {%- endif %}
+        </li>
+        {%- endfor %}
+    </ul>
+    <script>$("li.active").parents('li').toggleClass("active parent");</script>
+</div>

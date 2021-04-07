@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-{%- include head.html %}
+{% include head.html %}
 {%- if page.datatable == true %}
     <!-- Include the standard DataTables bits -->
     <link rel="stylesheet" type="text/css" href="{{ 'assets/css/dataTables.bootstrap5.min.css' | relative_url }}">
@@ -28,13 +28,13 @@
     <div class="container">
         <div id="main">
             <!-- Content Row -->
-            <div class="row">
-                {% assign content_col_size = "col-lg-12" %}{% unless page.hide_sidebar %}
+            <div class="row gx-0 gx-lg-5">
+                {%- assign content_col_size = "col-lg-12" %}{% unless page.hide_sidebar %}
                 <!-- Sidebar Column -->
-                <div class="col-lg-3 container-menu">
+                <div class="col-lg-3">
                     {% include sidebar.html %}
                 </div>
-                {% assign content_col_size = "col-lg-9" %}{% endunless %}
+                {%- assign content_col_size = "col-lg-9" %}{% endunless %}
                 <!-- Content Column -->
                 <div class="{{content_col_size}}">
                     {{content}}
