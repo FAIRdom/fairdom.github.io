@@ -1,0 +1,86 @@
+url: https://fairdom.github.io/
+repository: FAIRdom/fairdom.github.io
+
+topnav_title: FAIRDOM
+# this appears on the top navigation bar next to the home button
+
+site_title: FAIRDOM
+# this appears in the html browser tab for the site title (seen mostly by search engines, not users)
+
+company_name: FAIRDOM
+# this appears in the page_ending
+
+github_editme_path: bedroesb/fairdom.github.io/blob/new-theme/
+# if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
+
+description: "A Consortium of Services for Research Data Management and More"
+# Metadata description of the website
+
+host: 127.0.0.1
+# the preview server used. Leave as is.
+
+port: 4000
+# the port where the preview is rendered. You can leave this as is unless you have other Jekyll builds using this same port that might cause conflicts. in that case, use another port such as 4006.
+
+exclude:
+  - .gitignore
+  - CODEOWNERS
+  - var/
+  - README.md
+
+feedback_subject_line: FAIRDOM feedback
+
+contact_email: community@fair-dom.org
+# used as a contact email for the Feedback link in the top navigation bar
+
+# feedback_disable: true
+# if you uncomment the previous line, the Feedback link gets removed
+
+feedback_text: "Give feedback"
+# if you uncomment the previous line, it changes the Feedback text
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
+
+feed:
+  collections:
+    news:
+      path: "/news.xml"
+
+collections:
+  news:
+    output: true
+    layout: "page"
+    permalink: /:collection/:path.html
+  events:
+    output: true
+    layout: "page"
+    permalink: /:collection/:path.html
+    sort_by: start_date
+
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      permalink: /:basename:output_ext
+      layout: "page"
+      search: true
+      sidebar: main
+      topnav: topnav
+
+date_format: "%B %-d, %Y"
+event_date_format: "%A, %B %-d, %Y"
+
+gtag: "G-746SKYZGG6"
+
+plugins:
+  - jemoji
+  - jekyll-feed
+  - jekyll-octicons
