@@ -283,7 +283,6 @@ figcaption {
 }
 
 .menu li a {
-    margin-top: 4px;
     color: var(--main-text-color);
     background-color: var(--light-grey);
     display: block;
