@@ -1,16 +1,16 @@
 :root {
     --primary-theme-color: #3b97d3;
-    --secondairy-theme-color: #2c3e50;
+    --secondary-theme-color: #2c3e50;
     --tertiary-theme-color: #275a7b;
     --link-color: #3b97d3;
     --light-grey: #f2f3f5;
     --white: #ffffff;
     --hover-grey: #83858e;
-    --nav-bg: var(--secondairy-theme-color);
+    --nav-bg: var(--secondary-theme-color);
     --nav-color: var(--white);
-    --main-text-color: var(--secondairy-theme-color);
+    --main-text-color: var(--secondary-theme-color);
     --main-bg-color: var(--white);
-    --footer-bg: var(--secondairy-theme-color);
+    --footer-bg: var(--secondary-theme-color);
     --footer-color: var(--white);
     --white-text: var(--white);
 }
@@ -271,7 +271,7 @@ figcaption {
     background-color: var(--nav-bg);
 }
 
-.sidebarTitle {
+.sidebar-title {
     margin: 11px 0px;
     font-weight: 800;
     font-size: 1.3em;
@@ -558,13 +558,10 @@ h2.card-title {
 
 /*-----Contributors cards-----*/
 
-#contributors-carousel .carousel-control-next, .carousel-control-prev {
-    width: 3%;
-}
-
 .contributor-cards .card {
     background-color: var(--light-grey);
     border: 0;
+    border-radius: 4px;
 }
 
 .contributor-cards .badge {
@@ -575,6 +572,29 @@ h2.card-title {
 .contributor-cards .card-affiliation {
     color: var(--primary-theme-color);
     font-size: 0.8em;
+}
+
+.contributor-cards .card-body {
+    padding-top: 0rem;
+}
+
+/*-----Contributors carousel-----*/
+
+#contributors-carousel .carousel-control-next, .carousel-control-prev {
+    width: 3%;
+}
+
+@media (max-width:768px) {
+    #contributors-carousel .card-title {
+        font-size: 0.5em
+    }
+    #contributors-carousel .card-affiliation {
+        color: var(--primary-theme-color);
+        font-size: 0.4em;
+    }
+    #contributors-carousel .card-body {
+        padding: 0rem 0.5rem 0.5rem 0.5rem;
+    }
 }
 
 /*-----Social icons-----*/
@@ -602,24 +622,19 @@ h2.card-title {
         width: 1.2ex;
         height: 1.2ex;
     }
-    #contributors-carousel .card-body {
-        padding: 0.5rem 0.5rem;
-    }
-    #contributors-carousel .card-title {
-        font-size: 0.5em
-    }
 }
+
 
 /*-----Edit me button-----*/
 
-.githubEditButton {
+.github-edit-btn {
     color: var(--primary-theme-color);
     margin-left: 12px;
     font-size: small;
     border-radius: 0px;
 }
 
-.githubEditButton:hover {
+.github-edit-btn:hover {
     color: var(--primary-theme-color);
     background-color: var(--light-grey);
     text-decoration: none;
@@ -675,7 +690,8 @@ h2.card-title {
     color: var(--primary-theme-color);
 }
 
-/* ----- Extra Classes */
+/*--------------Custom classes--------------*/
+/* ---------------------------------------- */
 
 .form-control {
     background-color: var(--tertiary-theme-color);
