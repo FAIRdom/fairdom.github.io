@@ -1,5 +1,5 @@
 ---
-title: "FAIRDOM: A Consortium of Services for Research Data Management and More"
+title: "A Consortium of Services for Research Data Management and More"
 search: exclude
 ---
 
