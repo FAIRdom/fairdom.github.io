@@ -10,7 +10,7 @@ search: exclude
 
 Or **[find out more](https://fair-dom.org/about-fairdom)** about making your research **FAIR – Findable, Accessible, Interoperable, and Re-usable**.
 
-<iframe class="you-tube" src="https://www.youtube.com/embed/PWutnWBfUSw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/PWutnWBfUSw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 {%- if site.news.size > 0 -%}
@@ -28,3 +28,4 @@ Or **[find out more](https://fair-dom.org/about-fairdom)** about making your res
 
 For more news click [here](news)
 {%- endif -%}
+

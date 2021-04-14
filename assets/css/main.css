@@ -699,34 +699,30 @@ h2.card-title {
     border-style: none;
 }
 
-iframe.you-tube {
-    display: block;
-    margin: 40px auto;
-    width: 700px;
-    height: 380px;
-}
-
-iframe.slide-share {
-    border: 1px solid #CCC;
-    border-width: 1px;
-    margin-bottom: 5px;
-    max-width: 100%;
-    min-width: 640px;
-    min-height: 520px;
+iframe {
+    height:300px; 
+    width:100%;
 }
 
 li.event-list-item {
     display: none;
   }
-  
-.fair-icon i {
-    font-size: 5rem;
-} 
 
 .fair-icon {
-    width: 8rem;
+    width: 11rem;
     font-size: 1.2rem;
 } 
+
+@media (max-width:768px) {
+    .fair-icon i {
+        font-size: 2rem;
+    } 
+
+    .fair-icon {
+        width: 100%;
+        font-size: 0.8rem;
+    } 
+}
 
 .home-title {
     font-size: 2.5em;

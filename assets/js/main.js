@@ -59,9 +59,9 @@ $(function () {
 /**
  * Toggle button texts
  */
- jQuery(function ($) {
+jQuery(function ($) {
   $('.toggle-text[data-bs-toggle="collapse"]').on('click', function () {
-      $(this)
+    $(this)
       .data('text-original', $(this).text())
       .text($(this).data('text-alt'))
       .data('text-alt', $(this).data('text-original'));
@@ -73,22 +73,21 @@ $(function () {
  * Making relevant events visible
  */
 function nowToDateString() {
-    return new Date().toISOString().substring(0,10);
+  return new Date().toISOString().substring(0, 10);
 };
 
 function showEventsBeforeNow() {
-    var dstr = nowToDateString();
-    var elements = $('.event-list-item').filter(function() {
-        return $(this).data('start') < dstr;
-    }); 
-    elements.show();           
+  var dstr = nowToDateString();
+  var elements = $('.event-list-item').filter(function () {
+    return $(this).data('start') < dstr;
+  });
+  elements.show();
 };
 
 function showEventsAfterNow() {
-    var dstr = nowToDateString();
-    var elements = $('.event-list-item').filter(function() {
-        return $(this).data('start') >= dstr;
-    }); 
-    elements.show();           
+  var dstr = nowToDateString();
+  var elements = $('.event-list-item').filter(function () {
+    return $(this).data('start') >= dstr;
+  });
+  elements.show();
 };
-
