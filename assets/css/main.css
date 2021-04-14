@@ -683,12 +683,6 @@ h2.card-title {
 /*--------------Custom classes--------------*/
 /* ---------------------------------------- */
 
-@media (min-width: 992px) {
-    .navbar {
-        height: 100px;
-    }
-}
-
 .form-control {
     background-color: var(--tertiary-theme-color);
     border-color: var(--tertiary-theme-color);
@@ -725,3 +719,17 @@ li.event-list-item {
     display: none;
   }
   
+.fair-icon i {
+    font-size: 5rem;
+} 
+
+.fair-icon {
+    width: 8rem;
+    font-size: 1.2rem;
+} 
+
+.home-title {
+    font-size: 2.5em;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
