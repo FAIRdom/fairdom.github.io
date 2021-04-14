@@ -1,5 +1,4 @@
 ---
-layout: post
 title: CORBEL launches 2nd Open Call for research projects!
 image: images/news/btn_apply_now-Kopie-624x160.jpg
 ---

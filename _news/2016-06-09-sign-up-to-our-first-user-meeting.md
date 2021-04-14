@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Sign-up to our first user meeting
 image: images/news/barcelona-2016.png
 ---

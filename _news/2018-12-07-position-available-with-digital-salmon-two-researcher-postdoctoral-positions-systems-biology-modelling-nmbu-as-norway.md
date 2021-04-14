@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Position available with Digital Salmon - Two researcher/postdoctoral positions – systems biology modelling (NMBU, Ås, Norway)
 image: images/news/digisal.png
 ---

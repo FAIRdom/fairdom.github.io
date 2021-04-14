@@ -1,5 +1,4 @@
 ---
-layout: post
 title: A new version of SEEK is now available, version 1.7.0
 ---
 

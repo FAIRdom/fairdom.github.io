@@ -1,5 +1,4 @@
 ---
-layout: post
 title: FAIRDOM supporting the Data Management for the ERA CoBioTech Call.
 ---
 

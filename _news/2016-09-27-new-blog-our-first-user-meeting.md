@@ -1,5 +1,4 @@
 ---
-layout: post
 title: New Blog - Our First User Meeting
 ---
 

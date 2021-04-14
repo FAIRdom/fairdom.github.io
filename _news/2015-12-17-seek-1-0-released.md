@@ -1,5 +1,4 @@
 ---
-layout: post
 title: SEEK 1.0 Released !!
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Join us at “FAIR Data Management in Life-Sciences” a workshop and user meeting in Lyon France, Sat 27th Oct.
 ---
 

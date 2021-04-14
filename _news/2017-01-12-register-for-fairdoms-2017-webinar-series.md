@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Register for FAIRDOM’s 2017 Webinar Series
 ---
 

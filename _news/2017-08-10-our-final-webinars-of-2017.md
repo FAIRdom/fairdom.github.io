@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Our final webinars of 2017
 ---
 

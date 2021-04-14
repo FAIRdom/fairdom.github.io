@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Norway to establish a national centre for digital life.
 ---
 

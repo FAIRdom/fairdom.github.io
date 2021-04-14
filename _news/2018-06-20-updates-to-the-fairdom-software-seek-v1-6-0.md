@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Updates to the FAIRDOM software (SEEK v1.6.0)
 ---
 

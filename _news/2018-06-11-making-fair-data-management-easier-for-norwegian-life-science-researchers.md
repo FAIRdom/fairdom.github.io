@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Making FAIR data management easier for Norwegian life science researchers.
 image: images/news/fair-data-management.png
 ---

@@ -1,15 +1,9 @@
 ---
-layout: page
 title: News
 ---
 
-<div class="float-right">
-<a href="/news.xml">
-{% octicon rss height:32 %}
-</a>
-</div>
+<a href="/news.xml"><i class="fas fa-rss fs-1"></i></a>
 <br/>
-
 <ul class="list-unstyled">
     {%- for post in site.news reversed -%}
     <li>

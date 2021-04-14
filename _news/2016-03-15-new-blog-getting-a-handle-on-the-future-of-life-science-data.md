@@ -1,5 +1,4 @@
 ---
-layout: post
 title: New Blog - Getting a handle on the future of life-science data
 ---
 

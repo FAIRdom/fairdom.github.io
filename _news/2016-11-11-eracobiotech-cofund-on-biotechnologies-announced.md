@@ -1,5 +1,4 @@
 ---
-layout: post
 title: ERACoBioTech - Cofund on Biotechnologies Announced
 image: images/news/eracobiotech-2016.png
 ---

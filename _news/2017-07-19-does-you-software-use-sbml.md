@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Does you software use SBML?
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: SABIO-RK Training 31st May 2017
 image: images/news/sabio-rk.png
 ---

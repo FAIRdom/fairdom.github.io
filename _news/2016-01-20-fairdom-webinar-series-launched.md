@@ -1,5 +1,4 @@
 ---
-layout: post
 title: FAIRDOM webinars – facing your data management challenges with you!
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Congratulations to Carole Goble on Honorary Doctorate
 image: images/news/carole-honorary-doctorate.png
 ---

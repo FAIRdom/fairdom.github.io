@@ -67,3 +67,28 @@ $(function () {
       .data('text-alt', $(this).data('text-original'));
   });
 });
+
+
+/**
+ * Making relevant events visible
+ */
+function nowToDateString() {
+    return new Date().toISOString().substring(0,10);
+};
+
+function showEventsBeforeNow() {
+    var dstr = nowToDateString();
+    var elements = $('.event-list-item').filter(function() {
+        return $(this).data('start') < dstr;
+    }); 
+    elements.show();           
+};
+
+function showEventsAfterNow() {
+    var dstr = nowToDateString();
+    var elements = $('.event-list-item').filter(function() {
+        return $(this).data('start') >= dstr;
+    }); 
+    elements.show();           
+};
+

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Software Carpentry Bootcamp and ContentMine Hackathon @ TGAC, Norwich UK
 ---
 

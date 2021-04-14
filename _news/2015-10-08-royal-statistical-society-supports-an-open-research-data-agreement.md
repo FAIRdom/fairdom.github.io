@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Royal Statistical Society supports an open research data agreement
 ---
 

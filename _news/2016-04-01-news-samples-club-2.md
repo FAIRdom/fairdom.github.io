@@ -1,5 +1,4 @@
 ---
-layout: post
 title: New Blog - Samples Club 2
 ---
 We held our second Samples Club in Manchester on March 21st-23rd. 

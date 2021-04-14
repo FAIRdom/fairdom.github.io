@@ -67,12 +67,12 @@ h1 {
     margin-top: 15px;
 }
 
-.post-content a {
+a {
     text-decoration: none;
     color: var(--link-color);
 }
 
-.post-content a:hover {
+a:hover {
     color: var(--link-color);
     text-decoration: underline;
 }
@@ -522,11 +522,14 @@ h2.card-title {
     padding: 7px 11px;
     text-align: left;
     border: 0;
+    vertical-align: middle;
+    color: var(--main-text-color)
 }
 
 .btn-custom:hover {
     background-color: var(--primary-theme-color);
     color: var(--white-text);
+    text-decoration: none;
 }
 
 .btn-custom.plus::after {
@@ -717,3 +720,8 @@ iframe.slide-share {
     min-width: 640px;
     min-height: 520px;
 }
+
+li.event-list-item {
+    display: none;
+  }
+  

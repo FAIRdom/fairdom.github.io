@@ -1,5 +1,4 @@
 ---
-layout: post
 title: MOCCASIN - converting MATLAB ODE models to SBML
 ---
 

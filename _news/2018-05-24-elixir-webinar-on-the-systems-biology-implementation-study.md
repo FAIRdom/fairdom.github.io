@@ -1,5 +1,4 @@
 ---
-layout: post
 title: ELIXIR Webinar on the Systems Biology Implementation Study
 image: images/news/elixir-logo.png
 ---

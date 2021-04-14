@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Second Samples Club Meeting, University of Manchester, March 21st to 22nd 2016.
 ---
 

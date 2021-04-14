@@ -52,11 +52,13 @@ collections:
   news:
     output: true
     layout: "page"
+    sidebar: main
     permalink: /:collection/:path.html
   events:
     output: true
     layout: "page"
     permalink: /:collection/:path.html
+    sidebar: main
     sort_by: start_date
 
 
@@ -70,7 +72,6 @@ defaults:
       layout: "page"
       search: true
       sidebar: main
-      topnav: topnav
 
 date_format: "%B %-d, %Y"
 event_date_format: "%A, %B %-d, %Y"
@@ -80,4 +81,3 @@ gtag: "G-746SKYZGG6"
 plugins:
   - jemoji
   - jekyll-feed
-  - jekyll-octicons

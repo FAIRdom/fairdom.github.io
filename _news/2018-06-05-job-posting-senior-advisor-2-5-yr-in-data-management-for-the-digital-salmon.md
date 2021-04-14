@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Job Posting - Senior Advisor (2.5 yr) in Data Management for the Digital Salmon
 image: images/news/salmon-insides.png
 ---

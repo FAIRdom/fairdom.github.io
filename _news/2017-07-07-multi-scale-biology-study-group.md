@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Multi-Scale Biology Study Group, 12th-15th December 2017
 ---
 

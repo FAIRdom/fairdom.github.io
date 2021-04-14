@@ -1,5 +1,4 @@
 ---
-layout: post
 title: New paper on standards and data management practices in systems biology
 ---
 

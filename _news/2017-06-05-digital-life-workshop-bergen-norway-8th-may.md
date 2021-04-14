@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Digital Life Workshop, Bergen, Norway, 8th May
 image: images/news/digital-life-2017.jpg
 ---

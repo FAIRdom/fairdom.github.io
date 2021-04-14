@@ -1,5 +1,4 @@
 ---
-layout: post
 title: FAIRDOM can support the data management of your ERACoBioTech Bids.
 ---
 

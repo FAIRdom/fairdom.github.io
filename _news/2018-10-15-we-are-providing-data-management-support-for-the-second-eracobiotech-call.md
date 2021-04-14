@@ -1,5 +1,4 @@
 ---
-layout: post
 title: We Are Providing Data Management Support for the Second ERACoBioTech Call.
 image: images/news/eracobiotech.jpg
 ---

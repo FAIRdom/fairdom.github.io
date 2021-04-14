@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Ghent FAIRDOM workshop, 11-12 June 2019
 image: images/news/fairdom-logo-big-blue-624x170.png
 ---

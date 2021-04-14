@@ -1,5 +1,4 @@
 ---
-layout: post
 title: SEEK Version 1.2 released
 ---
 The FAIRDOM team are pleased to announce a new version of SEEK, version 1.2, available to [download and install](http://docs.seek4science.org/get-seek.html).

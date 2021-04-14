@@ -1,5 +1,4 @@
 ---
-layout: post
 title: FAIRDOM Webinar on “openBIS ELN-LIMS - an open resource for academic laboratories” Thursday 16th March @ 2pm GMT
 ---
 FAIRDOM’s 2017 Webinar series is in full swing! Webinars run on the third Thursday of each month, and our next webinar is Thursday March 16th @ 2pm GMT.

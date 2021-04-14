@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Save the date (15th September 2016) - FAIRDOM User Meeting as a Satellite of ICSB 2016
 ---
 

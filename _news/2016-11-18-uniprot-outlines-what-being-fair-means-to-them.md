@@ -1,5 +1,4 @@
 ---
-layout: post
 title: UniProt outlines what being FAIR means to them
 ---
 
