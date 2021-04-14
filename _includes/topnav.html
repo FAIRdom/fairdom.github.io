@@ -6,7 +6,6 @@
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                 <i title="navbar-toggler" class="fa fa-bars"></i>
             </button>
-            {%- include fair-banner.html -%}
             <div class="collapse navbar-collapse justify-content-end" id="navbarCollapse">
                 <ul class="navbar-nav">
                     <!-- navigation entries -->
@@ -18,15 +17,15 @@
                     <li class="nav-item ms-0 ms-lg-3 mt-2 mt-lg-0">
                         <a class="nav-link ps-2" href="{{item.external_url}}" target="_blank" rel="noopener">{{item.title}}</a>
                     </li>
-                    {% elsif page.url contains item.url %}
+                    {%- elsif page.url contains item.url %}
                     <li class="nav-item ms-0 ms-lg-3 mt-2 mt-lg-0">
                         <a class="nav-link ps-2 active" aria-current="page" href="{{item.url | relative_url }}">{{item.title}}</a>
                     </li>
-                    {% else %}
+                    {%- else %}
                     <li class="nav-item ms-0 ms-lg-3 mt-2 mt-lg-0">
                         <a class="nav-link ps-2" href="{{item.url | relative_url }}">{{item.title}}</a>
                     </li>
-                    {% endif %}
+                    {%- endif %}
                     {%- endfor %}
                     {%- endfor %}
                     <!--start Feedback button-->
@@ -37,13 +36,14 @@
                         {%- else -%}
                         {%- assign feedback_text = "Feedback" -%}
                         {%- endif -%}
-                        {% if site.feedback_link %}
+                        {%- if site.feedback_link %}
                         <a class="nav-link ps-2" title="Submit feedback" href="{{site.feedback_link}}">{{feedback_text}}</a>
-                        {% else %}
+                        {%- else %}
                         <a class="nav-link ps-2" title="Submit feedback" href="#" onclick="javascript:window.location='mailto:{{site.contact_email}}?subject={{site.feedback_subject_line}}&body=I have some feedback about the {{page.title}} page: ' + window.location.href;"><i class="far fa-envelope"></i> {{feedback_text}}</a>
-                        {% endif %}
+                        {%- endif %}
                     </li>
-                    {% endunless %}
+                    {%- endunless %}
+                    {%- include topnav-social.html %}
                     <!--start search-->
                     <li class="nav-item ms-0 ms-lg-3 mt-2 mt-lg-0">
                         <form autocomplete="off" class="form-inline">
