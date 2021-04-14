@@ -693,6 +693,10 @@ h2.card-title {
 /*--------------Custom classes--------------*/
 /* ---------------------------------------- */
 
+.navbar {
+    height: 100px;
+}
+
 .form-control {
     background-color: var(--tertiary-theme-color);
     border-color: var(--tertiary-theme-color);
