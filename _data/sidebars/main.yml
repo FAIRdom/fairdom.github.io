@@ -1,8 +1,7 @@
 subitems:
-  - title: About  
+  - title: About
+    url: /about.html
     subitems:
-      - title: Overview
-        url: /about.html
       - title: People
         url: /people.html
       - title: Contributors
@@ -18,9 +17,8 @@ subitems:
   - title: FairdomHub
     url: /fairdomhub.html
   - title: Platform
+    url: /platforms.html
     subitems:
-      - title: Platform
-        url: /platforms.html
       - title: SEEK
         url: /seek.html
       - title: RightField
