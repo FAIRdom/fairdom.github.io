@@ -10,7 +10,7 @@ site_title: FAIRDOM
 company_name: FAIRDOM
 # this appears in the page_ending
 
-github_editme_path: https://github.com/FAIRdom/fairdom-website/blob/main/
+github_editme_path: https://github.com/FAIRdom/fairdom.github.io/blob/main/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 description: "A Consortium of Services for Research Data Management and More"
