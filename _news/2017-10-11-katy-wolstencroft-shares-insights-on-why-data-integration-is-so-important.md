@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Katy Wolstencroft shares insights on why data integration is so important.
 ---
 

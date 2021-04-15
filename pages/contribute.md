@@ -3,7 +3,7 @@ title: Contribute And Contact
 ---
 
 
-# Join Us
+## Join Us
 
 [Learn More](https://fair-dom.org/contribute/join-us/)
 
@@ -11,7 +11,7 @@ You can join FAIRDOM as an individual, whether you are a PhD Student, Post-Doc, 
 or just generally interested in data and model management.
 
 
-# Partner With Us
+## Partner With Us
 
  [Learn More](https://fair-dom.org/about-fairdom/contact-us/)
                   
@@ -20,7 +20,7 @@ or just generally interested in data and model management.
  or through informal arrangements agreed between FAIRDOM and the partner.
  
  
-# Contact Us
+## Contact Us
 
  [Learn More](https://fair-dom.org/about-fairdom/contact-us/)
                 

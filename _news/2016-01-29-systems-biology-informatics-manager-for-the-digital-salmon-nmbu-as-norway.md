@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Systems biology informatics manager for the Digital Salmon (NMBU, Ås, Norway)
 ---
 

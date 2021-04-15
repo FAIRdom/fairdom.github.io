@@ -1,7 +1,6 @@
 ---
-layout: post
 title: FAIRDOM passes 30 month funding review
-image: /assets/images/news/heidelberg-castle.jpg
+image: images/news/heidelberg-castle.jpg
 ---
 
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: FAIRDOMHub users - we are introducing licensing
 ---
 

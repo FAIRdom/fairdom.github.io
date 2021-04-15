@@ -1,5 +1,4 @@
 ---
-layout: post
 title: FAIRDOM Workshop at 7th Conference on Systems Biology of Mammalian Cells
 ---
 

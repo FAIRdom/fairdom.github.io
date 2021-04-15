@@ -1,5 +1,4 @@
 ---
-layout: post
 title: New Paper, “FAIRDOMHub - a repository and collaboration environment for sharing systems biology research”.
 ---
 

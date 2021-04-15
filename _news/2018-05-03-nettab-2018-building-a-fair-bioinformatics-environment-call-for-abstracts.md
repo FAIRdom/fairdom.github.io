@@ -1,7 +1,6 @@
 ---
-layout: post
 title: “NETTAB 2018 - Building a FAIR Bioinformatics environment” Call for Abstracts.
-image: /assets/images/news/nettab304_bestLogo-1.jpg
+image: images/news/nettab304_bestLogo-1.jpg
 ---
 
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: New to FAIRDOMHub – Create your own Programmes and Projects
 ---
 

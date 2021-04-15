@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Miss out on our third webinar?
 ---
 

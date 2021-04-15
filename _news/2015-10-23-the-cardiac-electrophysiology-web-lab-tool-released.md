@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Cardiac Electrophysiology Web Lab Tool Released
 ---
 

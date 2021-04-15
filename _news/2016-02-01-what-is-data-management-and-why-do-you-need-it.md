@@ -1,5 +1,4 @@
 ---
-layout: post
 title: What is data management and why do you need it?
 ---
 

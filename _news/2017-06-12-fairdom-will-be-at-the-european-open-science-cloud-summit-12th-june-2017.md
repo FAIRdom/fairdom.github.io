@@ -1,5 +1,4 @@
 ---
-layout: post
 title: FAIRDOM will be at the European Open Science Cloud Summit (12th June 2017)
 ---
 

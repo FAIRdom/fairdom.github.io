@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Strategic research agenda – Systems Biology in Europe 2016
 ---
 

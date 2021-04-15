@@ -1,5 +1,4 @@
 ---
-layout: post
 title: New Blog Post - Systems Biology Developer’s Foundry workshop
 ---
 More than 4 years after organising the first such workshop, FAIRDOM in collaboration with de.NBI ran the 3rd Systems Biology Developer’s Foundry Workshop.

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: New SEEK release (version 1.3.0) supporting integration with openBIS
 ---
 

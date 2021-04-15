@@ -1,7 +1,6 @@
 ---
-layout: post
 title: ERACoBioTech - Cofund on Biotechnologies Announced
-image: /assets/images/news/eracobiotech-2016.png
+image: images/news/eracobiotech-2016.png
 ---
 
 The ERA-Net Cofund on Biotechnologies is a new ERA-Net Cofund Action under Horizon 2020 that will build upon the achievements of ERA-IB2 (ERA-Net for Industrial Biotechnology 2), ERASysAPP (ERA-Net for Applied Systems Biology) and ERASynBio (ERA-Net for Synthetic Biology).

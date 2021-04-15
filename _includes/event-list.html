@@ -1,22 +1,33 @@
 <ul class="list-unstyled w-100">
-    {% assign events = site.events | reverse %}
-    {% for event in events %}
-      <li class='event-list-item' data-start='{{ event.start_date}}'>
-        <h4><a href="{{ event.url }}">{{ event.title | escape }}</a></h4>
-        <p class="text-muted text-info">
-          <time datetime="{{ event.start_date | date_to_xmlschema }}">
-                              {{ event.start_date | date: site.event_date_format }}
-                          </time>
-          {%- if event.end_date -%}
-              - 
-              <time datetime="{{ event.end_date | date_to_xmlschema }}">
-                                          {{ event.end_date | date: site.event_date_format }}
-                                      </time>
-          {%- endif -%}     
-          {%- if event.location -%}
-              &nbsp;({{ event.location }})
-          {%- endif -%}                   
-        </p>      
-      </li>
-    {% endfor %}
+    {%- assign events = site.events | reverse %}
+    {%- for event in events %}
+    <li class='event-list-item' data-start='{{ event.start_date}}'>
+      <h4><a href="{{ event.url }}">{{ event.title | escape }}</a></h4>
+      <p class="text-muted text-info">
+        <time datetime="{{ event.start_date | date_to_xmlschema }}">
+          {{ event.start_date | date: site.event_date_format }}
+        </time>
+        {%- if event.end_date -%}
+        - <time datetime="{{ event.end_date | date_to_xmlschema }}">
+            {{ event.end_date | date: site.event_date_format }}
+          </time>{%- if event.location -%}&nbsp;({{ event.location }}){%- endif -%}
+        {%- endif -%}
+      </p>      
+    </li>
+    {%- endfor %}
 </ul>
+{%- if include.filter == 'past' %}
+<script>
+  $(document).ready(function() {
+      showEventsBeforeNow();
+      $('#calendar-button').show();
+  });
+</script>
+{%- elsif include.filter == 'upcoming' %}
+<script>
+  $(document).ready(function() {
+      showEventsAfterNow();
+      $('#calendar-button').show();
+  });
+</script>
+{%- endif %}

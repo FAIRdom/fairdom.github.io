@@ -8,7 +8,7 @@ The main content uses Markdown, and here is a [Basic Syntax Guide](https://www.m
 
 ## Navigation Menu
 
-The top level menu is determined by a data definition, found at [https://github.com/FAIRdom/fairdom.github.io/blob/master/_data/navigation.yml](https://github.com/FAIRdom/fairdom.github.io/blob/master/_data/navigation.yml)
+The top level menu is determined by a data definition, found at [https://github.com/FAIRDOM/fairdom.github.io/blob/master/_data/navigation.yml](https://github.com/FAIRDOM/fairdom.github.io/blob/master/_data/navigation.yml)
 
 ## Pages
 
@@ -24,7 +24,7 @@ title: This is the title
 ```
 
 
-e.g: - [https://raw.githubusercontent.com/FAIRdom/fairdom.github.io/master/_pages/about.md](https://raw.githubusercontent.com/FAIRdom/fairdom.github.io/master/_pages/about.md)
+e.g: - [https://raw.githubusercontent.com/FAIRDOM/fairdom.github.io/master/_pages/about.md](https://raw.githubusercontent.com/FAIRDOM/fairdom.github.io/master/_pages/about.md)
 
 ## News
 
@@ -44,7 +44,7 @@ The front-matter for News could look like
 ---
 title: This is the news
 date: 2020-02-16
-image: "/asserts/images/news/elixir-logo.png"
+image: "/assertsimages/news/elixir-logo.png"
 ---
 ```
 

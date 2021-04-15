@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Rightfield 0.24 released
 ---
 

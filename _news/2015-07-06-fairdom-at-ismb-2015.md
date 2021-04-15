@@ -1,5 +1,4 @@
 ---
-layout: post
 title: FAIRDOM at ISMB 2015
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Miss our first webinar? Catch up here!
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: New Blog - The Digital Salmon Knowledge Base
 ---
 Our Partners, Digital Salmon, write about their experience of using FAIRDOM tools and expertise in managing their data and models in our new blog “Data and model management needs for a knowledge base of salmon physiology: The Digital Salmon”

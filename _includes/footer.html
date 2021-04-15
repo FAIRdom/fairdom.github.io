@@ -1,31 +1,56 @@
+<footer id="footer">
+    <div class="container py-1 py-4">
+        <div class="row">
+            <div class="col-lg-3 col-sm-6 mb-2">
+            </div>
+            <div class="col-lg-3 col-sm-6 mb-2">
+                <ul>
+                    <li>Acknowledgements here</li>
+                </ul>
+            </div>
+            <div class="col-lg-3 col-sm-6 mb-2">
+                <ul>
+                    <li><a href="mailto:{{ site.contact_email }}">Contact us</a></li>
+                    <li><a href="https://github.com/FAIRdom/fairdom-website">Github</a>
+                    <li><a href="{{ '/privacy.html' | relative_url }}">Privacy</a></li>
+                </ul>
 
-<div class="footer pt-2 mt-4 bg-white flex-shrink-0">
-  <div class="container">
-    <div class="row">
-      <div class="col-2 partner-footer-logo">
-        <img src="/assets/images/logos/partner_ERASysAPP.png"/>
-      </div>
-      <div class="col-2 partner-footer-logo">
-        <img src="/assets/images/logos/partner_SynBioChem-624x219.png"/>
-      </div>
-      <div class="col-2 partner-footer-logo">
-        <img src="/assets/images/logos/partner_SynthSys.png"/>
-      </div>
-      <div class="col-2 partner-footer-logo">
-        <img src="/assets/images/logos/partner_emsl_logo-300x164.png"/>
-      </div>
-      <div class="col-2 partner-footer-logo">
-        <img src="/assets/images/logos/partner_Lisym-300x107.png"/>
-      </div>
-      <div class="col-2 partner-footer-logo">
-        <img src="/assets/images/logos/partner_DigiSal.png"/>
-      </div>
+            </div>
+            <div class="col-lg-3 col-sm-6 mb-2">
+                <img class="company-logo" src="{{ 'assets/img/transparent-fairdom-logo-square5.svg' | relative_url }}"
+                    alt="Company logo" width="88px">
+            </div>
+        </div>
     </div>
-
-    <p class="small">
-      {% octicon pencil height:12  %}<a href="{{site.repository}}/edit/{{ site.branch }}/{{ page.path }}" class="edit">Edit this page</a>
-    </p>
-
-
-  </div>
-</div>
+    <div class="partners py-4" style="background-color: #fff;">
+        <div class="container">
+            <div class="row">
+                <div class="col-2">
+                    <img src="{{ 'assets/img/partner_ERASysAPP.png' | relative_url }}" alt="ERASysAPP partner">
+                </div>
+                <div class="col-2">
+                    <img src="{{ 'assets/img/partner_SynBioChem-624x219.png' | relative_url }}" alt="SynBioChem partner">
+                </div>
+                <div class="col-2">
+                    <img src="{{ 'assets/img/partner_SynthSys.png' | relative_url }}" alt="SynthSys">
+                </div>
+                <div class="col-2">
+                    <img src="{{ 'assets/img/partner_emsl_logo-300x164.png' | relative_url }}" alt="emsl">
+                </div>
+                <div class="col-2">
+                    <img src="{{ 'assets/img/partner_Lisym-300x107.png' | relative_url }}" alt="Lisym">
+                </div>
+                <div class="col-2">
+                    <img src="{{ 'assets/img/partner_DigiSal.png' | relative_url }}" alt="DigiSal">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="text-center py-4" style="background-color: rgba(0, 0, 0, 0.2);"><a rel="license"
+            href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" width="70px"
+                src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
+        <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">FAIRDOM</span> is licensed under a <a
+            rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons
+            Attribution 4.0 International License</a>, except where otherwise noted.
+    </div>
+</footer>

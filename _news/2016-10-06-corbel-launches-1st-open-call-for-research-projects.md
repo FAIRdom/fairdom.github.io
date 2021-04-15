@@ -1,5 +1,4 @@
 ---
-layout: post
 title: CORBEL launches 1st Open Call for research projects
 ---
 

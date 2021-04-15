@@ -1,5 +1,4 @@
 ---
-layout: post
 title: NormSys & CHARME Tutorial/Conference- Future needs – today’s requirements, Building Bridges with Standards in the Life Sciences, December 5-6 – Potsdam, Germany
 ---
 

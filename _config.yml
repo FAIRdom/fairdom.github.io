@@ -1,34 +1,47 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+url: https://fairdom.github.io/fairdom-website
+repository: FAIRdom/fairdom-website
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: FAIRDOM
-email: "community@fair-dom.org"
-description: ""
-baseurl: "" # the subpath of your site, e.g. /blog
-#url: "" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllrb
-#github_username:  jekyll
+# topnav_title: 
+# this appears on the top navigation bar next to the home button
 
-repository: "https://github.com/FAIRdom/fairdom.github.io"
-branch: "master"
+site_title: FAIRDOM
+# this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-# Build settings
-plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-octicons
+company_name: FAIRDOM
+# this appears in the page_ending
+
+github_editme_path: https://github.com/FAIRdom/fairdom-website/blob/main/
+# if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
+
+description: "A Consortium of Services for Research Data Management and More"
+# Metadata description of the website
+
+host: 127.0.0.1
+# the preview server used. Leave as is.
+
+port: 4000
+# the port where the preview is rendered. You can leave this as is unless you have other Jekyll builds using this same port that might cause conflicts. in that case, use another port such as 4006.
+
+exclude:
+  - .gitignore
+  - CODEOWNERS
+  - var/
+  - README.md
+
+feedback_subject_line: FAIRDOM feedback
+
+contact_email: community@fair-dom.org
+# used as a contact email for the Feedback link in the top navigation bar
+
+feedback_disable: true
+# if you uncomment the previous line, the Feedback link gets removed
+
+markdown: kramdown
+highlighter: rouge
+kramdown:
+ input: GFM
+ auto_ids: true
+ hard_wrap: false
 
 feed:
   collections:
@@ -38,40 +51,33 @@ feed:
 collections:
   news:
     output: true
+    layout: "page"
+    sidebar: main
     permalink: /:collection/:path.html
   events:
     output: true
+    layout: "page"
     permalink: /:collection/:path.html
+    sidebar: main
     sort_by: start_date
-  pages:
-    output: true
-    permalink: /:path.html
+
 
 defaults:
-  - scope:
+  -
+    scope:
       path: ""
       type: "pages"
     values:
+      permalink: /:basename:output_ext
       layout: "page"
-  - scope:
-      type: "news"
-    values:
-      layout: "post"
-  - scope:
-      type: "events"
-    values:
-      layout: "event"
+      search: true
+      sidebar: main
 
 date_format: "%B %-d, %Y"
 event_date_format: "%A, %B %-d, %Y"
 
 gtag: "G-746SKYZGG6"
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - update_boostrap.sh
+plugins:
+  - jemoji
+  - jekyll-feed

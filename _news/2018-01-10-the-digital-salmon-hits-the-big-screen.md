@@ -1,5 +1,4 @@
 ---
-layout: post
 title: The Digital Salmon hits the big screen
 ---
 
