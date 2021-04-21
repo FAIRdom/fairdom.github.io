@@ -6,14 +6,19 @@ subitems:
         url: /people.html
       - title: Contributors
         url: /contributors.html 
-      - title: User Communities
-        url: /communities.html
       - title: Funders
         url: /funders.html
       - title: Cite Us
         url: /citation.html
       - title: Media Kit
         url: /mediakit.html
+  - title: Communities
+    url: /communities.html
+    subitems:
+      - title: PALs
+        url: /pals.html
+      - title: Systems Biology Foundry
+        url: /sbf.html
   - title: FairdomHub
     url: /fairdomhub.html
   - title: Platform
