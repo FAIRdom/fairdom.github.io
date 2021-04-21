@@ -14,11 +14,8 @@ Upcoming meetings
 ### Previous meetings
 
 6th-7th December 2018: Information Page
-
 1st-2nd December 2016, Frankfurt, Germany: report
-
 6th-7th October 2014, Heidelberg, Germany: notes | report
-
 19th-20th of March, 2012, Vienna, Austria: report
 
 ### Members
