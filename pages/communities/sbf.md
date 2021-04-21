@@ -11,7 +11,7 @@ Upcoming meetings
 
  
 
-### Previous meetings
+## Previous meetings
 
 6th-7th December 2018: Information Page
 
@@ -22,7 +22,8 @@ Upcoming meetings
 19th-20th of March, 2012, Vienna, Austria: report
 
 
-### Members
+## Members
+
 
 | NAME                 	| AFFILIATION                                  	|
 |----------------------	|----------------------------------------------	|
