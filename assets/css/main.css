@@ -77,6 +77,14 @@ a:hover {
     text-decoration: underline;
 }
 
+blockquote {
+    margin-left: 20px;
+    border-left: 5px solid var(--hover-grey);
+    padding-left: 10px;
+    color: var(--hover-grey);
+    border-radius: 4px;
+}
+
 hr {
     background: #999;
     margin-top: 80px;
@@ -143,7 +151,6 @@ pre code {
     padding: 0;
     font-size: inherit;
     color: inherit;
-    white-space: pre-wrap;
     background-color: transparent;
     border-radius: 0;
 }
