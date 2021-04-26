@@ -33,10 +33,13 @@
             <div class="col-lg-3">
                 {% include sidebar.html %}
             </div>
-            {%- assign content_col_size = "col-lg-9" %}{% endunless %}
+            {%- assign content_col_size = "col-lg-6" %}{% endunless %}
             <!-- Content Column -->
             <div class="{{content_col_size}}">
                 {{content}}
+            </div>
+            <div class="col-lg-3">
+                {% include news-list.html %}
             </div>
         </div>
     </div>

@@ -736,3 +736,23 @@ li.event-list-item {
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
 }
+
+/* News section frontpage */
+
+.news h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.6em;
+    font-weight: 700;
+    color: var(--primary-theme-color);
+}
+
+.news li {
+    border-bottom: 1px solid var(--light-grey);
+    transition-timing-function: ease-in;
+    transition: padding 0.2s linear
+}
+
+.news li:hover {
+    background-color: var(--light-grey);
+    padding-left: 11px;
+}
