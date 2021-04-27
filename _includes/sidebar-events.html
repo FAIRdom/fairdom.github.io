@@ -1,0 +1,27 @@
+<div class="news mt-4">
+  <h2 class="no-anchor">Upcoming events</h2>
+  <ul class="list-unstyled">
+      {%- assign events = site.events | reverse %}
+      {%- for event in events %}
+      <li class='event-list-item py-2' data-start='{{ event.start_date}}'>
+        <a href="{{ event.url }}">{{ event.title | escape }}</a>
+        <br/><small><time datetime="{{ event.start_date | date_to_xmlschema }}">
+            {{ event.start_date | date: site.event_date_format }}
+          </time>
+          {%- if event.end_date -%}
+          - <time datetime="{{ event.end_date | date_to_xmlschema }}">
+              {{ event.end_date | date: site.event_date_format }}
+            </time>{%- if event.location -%}&nbsp;({{ event.location }}){%- endif -%}
+          {%- endif -%}
+        </small>    
+      </li>
+      {%- endfor %}
+  </ul>
+  <p><small>For past events click <a href="{{'past-events' | relative_url}}">here</a></small></p>
+  <script>
+    $(document).ready(function() {
+      showEventsAfterNow();
+    });
+  </script>
+</div>
+

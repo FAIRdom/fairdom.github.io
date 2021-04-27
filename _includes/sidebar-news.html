@@ -1,6 +1,6 @@
 {%- if site.news.size > 0 -%}
-<div class="news">
-    <h2 class="no-anchor">News<i class="fas fa-rss float-end"></i></h2>
+<div class="news mt-4">
+    <h2 class="no-anchor">News</h2>
     <ul class="list-unstyled">
     {%- assign news = site.news | reverse %}
     {%- for post in news limit:5   %}
@@ -10,6 +10,6 @@
         </li>
     {%- endfor %}
     </ul>
-    <p>For more news click <a href="{{'news' | relative_url}}">here</a></p>
+    <p><small>For more news click <a href="{{'news' | relative_url}}">here</a></small></p>
 </div>
 {%- endif -%}

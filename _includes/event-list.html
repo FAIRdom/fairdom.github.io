@@ -19,15 +19,19 @@
 {%- if include.filter == 'past' %}
 <script>
   $(document).ready(function() {
-      showEventsBeforeNow();
-      $('#calendar-button').show();
+    showEventsBeforeNow();
   });
 </script>
 {%- elsif include.filter == 'upcoming' %}
 <script>
   $(document).ready(function() {
-      showEventsAfterNow();
-      $('#calendar-button').show();
+    showEventsAfterNow();
+  });
+</script>
+{%- else %}
+<script>
+  $(document).ready(function() {
+    showAllEvents();
   });
 </script>
 {%- endif %}

@@ -737,7 +737,12 @@ li.event-list-item {
     font-weight: 400;
 }
 
-/* News section frontpage */
+/* News section front-page */
+
+.news {
+    padding: 7px 11px;
+    background-color: var(--light-grey);
+}
 
 .news h2 {
     font-family: 'Montserrat', sans-serif;
@@ -747,12 +752,5 @@ li.event-list-item {
 }
 
 .news li {
-    border-bottom: 1px solid var(--light-grey);
-    transition-timing-function: ease-in;
-    transition: padding 0.2s linear
-}
-
-.news li:hover {
-    background-color: var(--light-grey);
-    padding-left: 11px;
+    border-bottom: 3px solid var(--white);
 }

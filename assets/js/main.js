@@ -91,3 +91,9 @@ function showEventsAfterNow() {
   });
   elements.show();
 };
+
+function showAllEvents() {
+  var dstr = nowToDateString();
+  var elements = $('.event-list-item')
+  elements.show();
+};
