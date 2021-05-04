@@ -1,5 +1,6 @@
 ---
 search: exclude
+sidebar: main
 news: true
 ---
 <div class="home-title">A Consortium of Services for Research Data Management and More</div>

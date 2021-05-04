@@ -666,14 +666,14 @@ h2.card-title {
     margin-left: 10px;
     vertical-align: baseline;
     transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out;
-    background-color: var(--light-grey);
+    background-color: var(--primary-theme-color);
     padding: 7px 11px;
     border: 0px;
+    color: var(--white)
 }
 
 .cookiealert .acceptcookies:hover {
-    background-color: var(--primary-theme-color);
-    color: var(--white-text);
+    background-color: var(--secondary-theme-color);
 }
 
 .cookiealert a {
