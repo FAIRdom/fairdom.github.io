@@ -3,21 +3,27 @@
   <ul class="list-unstyled">
       {%- assign events = site.events | reverse %}
       {%- for event in events %}
-      <li class='event-list-item py-2' data-start='{{ event.start_date}}'>
-        <a href="{{ event.url }}">{{ event.title | escape }}</a>
-        <br/><small><time datetime="{{ event.start_date | date_to_xmlschema }}">
-            {{ event.start_date | date: site.event_date_format }}
-          </time>
-          {%- if event.end_date -%}
-          - <time datetime="{{ event.end_date | date_to_xmlschema }}">
-              {{ event.end_date | date: site.event_date_format }}
-            </time>{%- if event.location -%}&nbsp;({{ event.location }}){%- endif -%}
-          {%- endif -%}
-        </small>    
+      <li class='event-list-item' data-start='{{ event.start_date}}'>
+        <a href="{{ event.url }}">
+          <div class="news-item news-hover">
+            {{ event.title | escape }}
+            <br/><small class="black-line"><i class="far fa-calendar"></i> <time datetime="{{ event.start_date | date_to_xmlschema }}">
+                {{ event.start_date | date: site.event_date_format }}
+              </time>
+              {%- if event.end_date -%}
+              - <time datetime="{{ event.end_date | date_to_xmlschema }}">
+                  {{ event.end_date | date: site.event_date_format }}
+                </time>{%- if event.location -%}<br><i class="fas fa-map-marker-alt"></i> {{ event.location }}{%- endif -%}
+              {%- endif -%}
+            </small>
+          </div>
+        </a>
       </li>
       {%- endfor %}
   </ul>
-  <p><small>For past events click <a href="{{'past-events' | relative_url}}">here</a></small></p>
+  <div class="news-item">
+    <p><small>For past events click <a href="{{'past-events' | relative_url}}">here</a></small></p>
+  </div>
   <script>
     $(document).ready(function() {
       showEventsAfterNow();

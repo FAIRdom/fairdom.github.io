@@ -1,17 +1,17 @@
 :root {
-    --primary-theme-color: #2a72a1;
-    --secondary-theme-color: #2c3e50;
-    --tertiary-theme-color: #2a72a1;
-    --link-color: #2a72a1;
-    --light-grey: #f2f3f5;
+    --primary-theme-color: #2363cc;
+    --secondary-theme-color: #090378;
+    --tertiary-theme-color: #8eafe5;
+    --link-color: #2363cc;
+    --light-grey: #f0f5fd;
     --white: #ffffff;
     --hover-grey: #83858e;
-    --nav-bg: var(--secondary-theme-color);
-    --nav-color: var(--white);
+    --nav-bg: var(--white);
+    --nav-color: var(--primary-theme-color);
     --main-text-color: #080b0f;
     --main-bg-color: var(--white);
-    --footer-bg: var(--secondary-theme-color);
-    --footer-color: var(--white);
+    --footer-bg: var(--light-grey);
+    --footer-color: var(--main-text-color);
     --white-text: var(--white);
 }
 
@@ -166,7 +166,7 @@ pre code {
 }
 
 .navbar-nav .nav-item a:hover {
-    color: var(--primary-theme-color);
+    color: var(--secondary-theme-color);
     text-decoration: none;
 }
 
@@ -176,7 +176,7 @@ pre code {
 }
 
 .navbar-brand img {
-    height: 60px;
+    height: 90px;
 }
 
 .navbar-toggler {
@@ -190,7 +190,7 @@ pre code {
 }
 
 #search-input:focus {
-    box-shadow: 0 0 0 0.25rem #3b97d347;
+    box-shadow: 0 0 0 0.25rem #2363cc47;
     border-color: var(--primary-theme-color);
 }
 
@@ -691,13 +691,17 @@ h2.card-title {
 /* ---------------------------------------- */
 
 .form-control {
-    background-color: var(--tertiary-theme-color);
-    border-color: var(--tertiary-theme-color);
+    background-color: var(--primary-theme-color);
+    border-color: var(--primary-theme-color);
     border-radius: 0px;
 }
 
 .form-control::placeholder {
     color: var(--white-text);
+}
+
+.partners {
+    background-color: var(--white);
 }
 
 .partners img {
@@ -709,6 +713,7 @@ h2.card-title {
 iframe {
     height:400px; 
     width:100%;
+    margin: 40px 0;
 }
 
 li.event-list-item {
@@ -740,8 +745,21 @@ li.event-list-item {
 /* News section front-page */
 
 .news {
-    padding: 7px 11px;
     background-color: var(--light-grey);
+}
+
+.news .news-item {
+    padding: 7px 11px;
+}
+
+.news-hover:hover {
+    text-decoration: none;
+    background-color: var(--primary-theme-color);
+    color: var(--white-text);
+}
+
+.news .black-line {
+    color:var(--main-text-color);
 }
 
 .news h2 {
@@ -749,8 +767,9 @@ li.event-list-item {
     font-size: 1.6em;
     font-weight: 700;
     color: var(--primary-theme-color);
+    padding: 7px 11px;
 }
 
-.news li {
-    border-bottom: 3px solid var(--white);
+.blue {
+    color:var(--primary-theme-color);
 }

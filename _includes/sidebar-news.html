@@ -4,12 +4,18 @@
     <ul class="list-unstyled">
     {%- assign news = site.news | reverse %}
     {%- for post in news limit:5   %}
-        <li class="py-2">
-            <a href="{{post.url | relative_url}}">{{post.title | escape}}</a>
-            <br/><small>{{ post.date | date: site.date_format }}</small>
+        <li>
+            <a href="{{post.url | relative_url}}">
+                <div class="news-item news-hover">
+                    {{post.title | escape}}
+                    <br/><small class="black-line">{{ post.date | date: site.date_format }}</small>
+                </div>
+            </a>
         </li>
     {%- endfor %}
     </ul>
-    <p><small>For more news click <a href="{{'news' | relative_url}}">here</a></small></p>
+    <div class="news-item">
+        <p><small>For more news click <a href="{{'news' | relative_url}}">here</a></small></p>
+    </div>
 </div>
 {%- endif -%}
