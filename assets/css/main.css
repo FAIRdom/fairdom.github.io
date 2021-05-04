@@ -773,3 +773,9 @@ li.event-list-item {
 .blue {
     color:var(--primary-theme-color);
 }
+
+@media (max-width: 992px) {
+    .navbar-brand img {
+        height: 60px;
+    }
+}
