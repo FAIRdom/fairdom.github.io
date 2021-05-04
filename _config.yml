@@ -51,25 +51,37 @@ feed:
 collections:
   news:
     output: true
-    layout: "page"
-    sidebar: main
     permalink: /:collection/:path.html
   events:
     output: true
-    layout: "page"
     permalink: /:collection/:path.html
-    sidebar: main
     sort_by: start_date
 
 
 defaults:
   -
     scope:
-      path: ""
+      path: "pages"
       type: "pages"
     values:
       permalink: /:basename:output_ext
       layout: "page"
+      search: true
+      sidebar: main
+  -
+    scope:
+      path: "_news"
+      type: "news"
+    values:
+      layout: "news"
+      search: true
+      sidebar: main
+  -
+    scope:
+      path: "_events"
+      type: "events"
+    values:
+      layout: "news"
       search: true
       sidebar: main
 
