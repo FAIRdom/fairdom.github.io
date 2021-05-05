@@ -1,5 +1,4 @@
 ---
-search: exclude
 sidebar: main
 news: true
 ---
