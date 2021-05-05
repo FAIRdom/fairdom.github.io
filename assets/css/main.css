@@ -6,7 +6,7 @@
     --light-grey: #f0f5fd;
     --white: #ffffff;
     --hover-grey: #83858e;
-    --nav-bg: var(--white);
+    --nav-bg: var(--light-grey);
     --nav-color: var(--primary-theme-color);
     --main-text-color: #080b0f;
     --main-bg-color: var(--white);
