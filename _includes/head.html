@@ -9,7 +9,7 @@
     <meta name="application-name" content="FAIRDOM">
     <meta name="msapplication-TileColor" content="#ffffff">
     <meta name="theme-color" content="#ffffff">
-    {%- if page.search == "exclude" %}
+    {%- if page.search_exclude == true %}
     <meta name="robots" content="noindex" />
     {%- endif %}
     <title>{%- if page.title %}{{ page.title }} | {{ site.site_title }}{%- else %}{{ site.site_title }}{%- endif %}</title>
