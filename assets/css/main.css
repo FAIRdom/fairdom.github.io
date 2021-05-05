@@ -635,7 +635,7 @@ h2.card-title {
 .contributor-cards .card {
     background-color: var(--light-grey);
     border: 0;
-    border-radius: 4px;
+    border-radius: 0;
 }
 
 .contributor-cards .badge {
