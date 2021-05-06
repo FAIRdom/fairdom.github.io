@@ -848,5 +848,13 @@ li.event-list-item {
 
 .carousel{
     overflow: hidden;
-    height: 500px;
+    height: 300px;
 }
+
+@media (min-width: 992px) {
+    .carousel{
+        width: 75%;
+        height: 400px;
+    }
+}
+
