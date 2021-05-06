@@ -1,7 +1,7 @@
 ---
 title: Project Area Liaisons (PALs)
+images: ["images/communities/ERASysAPP-PALS-Berlin-2015-3.jpg", "images/communities/Gruppe_15-09-15_0005_a_0.jpg","images/communities/neu1.jpg","images/communities/neu7.jpg","images/communities/neu8.jpg", "images/communities/old1.jpg", "images/communities/old2.jpg", "images/communities/old5.jpg", "images/communities/Workshop_Olga_Krebs_157.jpg"]
 ---
-
 
 
 FAIRDOM PALs are “front line” experimentalists, modellers and bioinformaticians from each of the projects we work with. They act as our advocates and communicate our progress back to their projects.

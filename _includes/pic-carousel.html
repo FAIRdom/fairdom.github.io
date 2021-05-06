@@ -1,0 +1,30 @@
+{%- assign pictures = page.images %}
+
+<div id="picture-carousel" class="carousel slide my-5 bg-dark" data-bs-ride="carousel">
+    <div class="carousel-indicators">
+        {%- assign counter1 = 0 %}
+        {%- for picture in pictures %}
+        <button type="button" data-bs-target="#picture-carousel" data-bs-slide-to="{{counter1}}" {% if counter1 == 0 %}class="active" aria-current="true"{% endif %} aria-label="Slide {{counter1}}"></button>
+        {%- assign counter1 = counter1 | plus:1 %}
+        {%- endfor %}
+    </div>
+    <div class="carousel-inner">
+        {%- assign counter2 = 0 %}
+        {%- for picture in pictures %}
+        <div class="carousel-item {% if counter2 == 0 %}active{% endif %}">
+            <img src="{{ picture | relative_url }}" class="d-block w-100" alt="Picture {{ picture }}">
+        </div>
+        {%- assign counter2 = counter2 | plus:1 %}
+        {%- endfor %}
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#picture-carousel"
+        data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#picture-carousel"
+        data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
+</div>
