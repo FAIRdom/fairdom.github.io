@@ -47,11 +47,7 @@ subitems:
   - title: News
     url: /news.html
   - title: Events
-    subitems:
-      - title: Upcoming Events
-        url: /upcoming-events.html
-      - title: Past Events
-        url: /past-events.html
+    url: /events.html
       
   - title: Join Us
     url: /contribute.html

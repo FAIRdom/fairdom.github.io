@@ -487,24 +487,19 @@ function nowToDateString() {
   return new Date().toISOString().substring(0, 10);
 };
 
-function showEventsBeforeNow() {
+function showUpcomingEvents() {
   var dstr = nowToDateString();
-  var elements = $('.event-list-item').filter(function () {
-    return $(this).data('start') < dstr;
-  });
-  elements.show();
-};
-
-function showEventsAfterNow() {
-  var dstr = nowToDateString();
-  var elements = $('.event-list-item').filter(function () {
+  var elements = $('li.upcoming-event').filter(function () {
     return $(this).data('start') >= dstr;
   });
+  elements.prepend('<span class="badge bg-primary">Upcoming</span>');
   elements.show();
 };
 
-function showAllEvents() {
+function showPastEvents() {
   var dstr = nowToDateString();
-  var elements = $('.event-list-item')
+  var elements = $('li.past-event').filter(function () {
+    return $(this).data('start') < dstr;
+  });
   elements.show();
 };

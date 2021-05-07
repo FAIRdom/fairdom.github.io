@@ -87,7 +87,6 @@ blockquote {
 
 hr {
     background: #999;
-    margin-top: 80px;
     width: 90%;
     margin-left: auto;
     margin-right: auto;
@@ -781,7 +780,7 @@ iframe {
     margin: 40px 0;
 }
 
-li.event-list-item {
+li.upcoming-event, li.past-event {
     display: none;
 }
 
