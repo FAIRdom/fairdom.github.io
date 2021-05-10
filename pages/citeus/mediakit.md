@@ -7,49 +7,32 @@ For use in presentations, tutroials and all other FAIRDOM related activities the
 
 ## Dark Blue Background
 
-### SVG (9KB)
-
-![FAIRDOM MK](assets/img/darkBlue-fairdom-logo-compact.svg)
-
-### High-resolution PNG (82KB)
-
-![FAIRDOM MK](assets/img/darkBlue-fairdom-logo-big.png)
-
-### Low-resolution PNG (4KB)
-
-![FAIRDOM MK](assets/img/darkBlue-fairdom-logo-small.png)
+<p>
+  <img alt="FAIRDOM MK" src="{{ 'assets/img/darkBlue-fairdom-logo-compact.svg' | relative_url }}" class="m-2" style="max-width: 20%; max-height: 5em; vertical-align: middle" /> 
+    [<a href="{{ 'assets/img/darkBlue-fairdom-logo-compact.svg' | relative_url }}">svg</a>]
+    <!-- [<a href="{{ 'assets/img/' | relative_url }}">png</a>] -->
+</p>
 
 ## Transparent Background
 
-### SVG (9KB)
-
-![FAIRDOM MK](assets/img/transparent-fairdom-logo-compact.svg)
-
-### High-resolution PNG (82KB)
-
-![FAIRDOM MK](assets/img/transparent-fairdom-logo-big-highRes.png)
-
-### Low-resolution PNG (4KB)
-
-![FAIRDOM MK](assets/img/transparent-fairdom-logo-small.png)
-
+<p>
+  <img alt="FAIRDOM MK" src="{{ 'assets/img/transparent-fairdom-logo-compact.svg' | relative_url }}" class="m-2" style="max-width: 20%; max-height: 5em; vertical-align: middle" /> 
+    [<a href="{{ 'assets/img/transparent-fairdom-logo-compact.svg' | relative_url }}">svg</a>]
+    <!-- [<a href="{{ 'assets/img/' | relative_url }}">png</a>] -->
+</p>
 
 ## Dark Blue Background (Square Version) 
 
-### SVG
-
-![FAIRDOM MK](assets/img/darkBlue-fairdom-logo-square5.svg)
-
-### PNG 
-
-![FAIRDOM MK](assets/img/darkBlue-fairdom-logo-square5.png)
+<p>
+  <img alt="FAIRDOM MK" src="{{ 'assets/img/darkBlue-fairdom-logo-square5.svg' | relative_url }}" class="m-2" style="max-width: 20%; max-height: 5em; vertical-align: middle" /> 
+    [<a href="{{ 'assets/img/darkBlue-fairdom-logo-square5.svg' | relative_url }}">svg</a>]
+    <!-- [<a href="{{ 'assets/img/' | relative_url }}">png</a>] -->
+</p>
 
 ## Transparent Background (Square Version)
 
-### SVG 
-![FAIRDOM MK](assets/img/transparent-fairdom-logo-square5.svg)
-
-### PNG 
-
-![FAIRDOM MK](assets/img/transparent-fairdom-logo-square5.png)
-
+<p>
+  <img alt="FAIRDOM MK" src="{{ 'assets/img/transparent-fairdom-logo-square.svg' | relative_url }}" class="m-2" style="max-width: 20%; max-height: 5em; vertical-align: middle" /> 
+    [<a href="{{ 'assets/img/transparent-fairdom-logo-square.svg' | relative_url }}">svg</a>]
+    <!-- [<a href="{{ 'assets/img/' | relative_url }}">png</a>] -->
+</p>
