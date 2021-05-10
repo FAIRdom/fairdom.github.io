@@ -295,26 +295,6 @@ ul#results-container li a:hover {
     background-color: var(--primary-theme-color);
 }
 
-/*-----Images-----*/
-
-.docimage {
-    margin: 20px 0px;
-}
-
-.post-content figure img, .post-content p img {
-    width: auto;
-    height: auto;
-    max-width: 100%;
-    max-height: 100%;
-}
-
-figcaption {
-    margin-top: 10px;
-    max-width: 90%;
-    font-style: italic;
-    color: var(--hover-grey);
-}
-
 /*-----Sidebar-----*/
 
 @media (min-width: 992px) {
