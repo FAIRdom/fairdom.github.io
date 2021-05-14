@@ -748,6 +748,7 @@ h2.card-title {
     background-color: var(--primary-theme-color);
     border-color: var(--primary-theme-color);
     border-radius: 0px;
+    background-clip: unset;
 }
 
 .form-control::placeholder {
