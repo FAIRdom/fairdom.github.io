@@ -6,7 +6,7 @@ toc: off
 
 ## Leads
 
-{% include contributor-page.html custom="Carole Goble, Wolfgang Mueller,Frederik Coppens"%}
+{% include contributor-page.html custom="Carole Goble, Wolfgang Mueller, Frederik Coppens"%}
 
 ## Community
 
