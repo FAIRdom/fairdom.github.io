@@ -33,6 +33,7 @@ Frederik Coppens:
     affiliation: VIB-UGent / ELIXIR-BE
 Munazah Andrabi:
     git: smza
+    email: munazah.andrabi@manchester.ac.uk
     affiliation: The University of Manchester
 Ulrike Wittig:
     git: wittigue
@@ -46,10 +47,50 @@ Wolfgang Mueller:
     affiliation: Heidelberg Institute for Theoretical Studies
     role: Co-Director
 Martin Golebiewski:
+    email: martin.golebiewski@h-its.org
     affiliation: LiSyM (Liver Systems Medicine) / Heidelberg Institute for Theoretical Studies
     image_url: images/people/Martin_Golebiewski-420x629.jpg
 Olga Krebs:
     email: olga.krebs@h-its.org
     affiliation: Heidelberg Institute for Theoretical Studies
     image_url: images/people/Olga_Krebs.png
-
+Finn Bacall:
+    git: fbacall
+    email: finn.bacall@manchester.ac.uk
+    affiliation: The University of Manchester  
+Stuart Owen:
+    git: stuzart
+    email: stuart.owen@manchester.ac.uk
+    affiliation: The University of Manchester
+Alan Williams:
+    git: alaninmcr
+    email: alan.r.williams@manchester.ac.uk
+    affiliation: The University of Manchester
+Xiaoming Hu:
+    email: xiaoming.hu@h-its.org
+    affiliation: Heidelberg Institute for Theoretical Studies
+Vahid Kiani:
+    git: vdkkia
+    email: vahid.kiani@ugent.vib.be
+    affiliation: VIB-UGent / ELIXIR-BE
+Bernd Rinn:
+   email: brinn@ethz.ch
+   affiliation: ETH Zurich
+Jacky Snoep:
+   email: jls@SUN.AC.ZA
+   affiliation: University of Stellenbosch
+Jakub Straszewski:
+   email: jakub.straszewski@id.ethz.ch
+   affiliation: 
+Katy Wolstencroft:
+   email: k.j.wolstencroft@liacs.leidenuniv.nl
+   affiliation: The University of Leiden
+Lars Malmstroem:
+   affiliation: University of Zurich
+Natalie J Stanford:
+   affiliation: The University of Manchester
+Quyen Nguyen:
+   affiliation: Heidelberg Institute for Theoretical Studies
+Rostyslav Kuzyakiv:
+affiliation: University of Zurich
+   
