@@ -10,7 +10,7 @@ toc: off
 
 ## Community
 
-{% include contributor-page.html custom="Martin Golebiewski, Bert Droesbeke, Flora D'Anna, Ulrike Wittig, Munazah Andrabi"%}
+{% include contributor-page.html custom="Martin Golebiewski, Bert Droesbeke, Flora D'Anna, Ulrike Wittig, Munazah Andrabi, Olga Krebs"%}
 
 ## Developers
 
