@@ -1,5 +1,6 @@
 ---
 title: FAIRDOM Platform
+toc: off
 ---
 
 The FAIRDOM Platform uses a stack of software platforms to provide a “Project Commons” – that is, a shared place where projects 
