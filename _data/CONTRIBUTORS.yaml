@@ -27,6 +27,7 @@ Carole Goble:
     affiliation: The University of Manchester
 Frederik Coppens:
     git: frederikcoppens
+    role: Co-Director
     orcid: 0000-0001-6565-5145
     email: frederik.coppens@psb.vib-ugent.be
     affiliation: VIB-UGent / ELIXIR-BE
@@ -47,4 +48,8 @@ Wolfgang Mueller:
 Martin Golebiewski:
     affiliation: LiSyM (Liver Systems Medicine) / Heidelberg Institute for Theoretical Studies
     image_url: images/people/Martin_Golebiewski-420x629.jpg
+Olga Krebs:
+    email: olga.krebs@h-its.org
+    affiliation: Heidelberg Institute for Theoretical Studies
+    image_url: images/people/Olga_Krebs.png
 
