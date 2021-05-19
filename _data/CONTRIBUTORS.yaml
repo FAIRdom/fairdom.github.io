@@ -27,11 +27,13 @@ Carole Goble:
     affiliation: The University of Manchester
 Frederik Coppens:
     git: frederikcoppens
+    role: Co-Director
     orcid: 0000-0001-6565-5145
     email: frederik.coppens@psb.vib-ugent.be
     affiliation: VIB-UGent / ELIXIR-BE
 Munazah Andrabi:
     git: smza
+    email: munazah.andrabi@manchester.ac.uk
     affiliation: The University of Manchester
 Ulrike Wittig:
     git: wittigue
@@ -45,6 +47,77 @@ Wolfgang Mueller:
     affiliation: Heidelberg Institute for Theoretical Studies
     role: Co-Director
 Martin Golebiewski:
+    email: martin.golebiewski@h-its.org
     affiliation: LiSyM (Liver Systems Medicine) / Heidelberg Institute for Theoretical Studies
     image_url: images/people/Martin_Golebiewski-420x629.jpg
-
+Olga Krebs:
+    email: olga.krebs@h-its.org
+    affiliation: Heidelberg Institute for Theoretical Studies
+    image_url: images/people/Olga_Krebs.png
+Maja Rey:
+    email: Maja.Rey@h-its.org
+    affiliation: Heidelberg Institute for Theoretical Studies
+Rafael Buono: 
+    email: rafael.buono@psb.ugent.be  
+    affiliation: VIB-UGent / ELIXIR-BE
+Korbinian Bösl:
+    email: Maja.Rey@h-its.org
+    affiliation: Centre for Digital Life Norway/ ELIXIR NO
+    image_url: images/people/Korbinian_Bosl.jpg
+Finn Bacall:
+    git: fbacall
+    email: finn.bacall@manchester.ac.uk
+    affiliation: The University of Manchester  
+    image_url: images/people/Finn_Bacall.png
+Stuart Owen:
+    git: stuzart
+    email: stuart.owen@manchester.ac.uk
+    affiliation: The University of Manchester
+    image_url: images/people/Stuart_Owen.png
+Alan Williams:
+    git: alaninmcr
+    email: alan.r.williams@manchester.ac.uk
+    affiliation: The University of Manchester
+Xiaoming Hu:
+    git: whomingbird
+    email: xiaoming.hu@h-its.org
+    affiliation: Heidelberg Institute for Theoretical Studies
+    image_url: images/people/Xiaoming_Hu.png
+Vahid Kiani:
+    git: vdkkia
+    email: vahid.kiani@ugent.vib.be
+    affiliation: VIB-UGent / ELIXIR-BE
+Alain Becam:
+    email: alain.becam@h-its.org
+    affiliation: Heidelberg Institute for Theoretical Studies
+Aitor Apaolaza:
+    email: aitor.apaolaza@manchester.ac.uk
+    affiliation: The University of Manchester 
+Bernd Rinn:
+    email: brinn@ethz.ch
+    affiliation: ETH Zurich
+    image_url: images/people/Bernd_Rinn.png
+Jacky Snoep:
+    email: jls@SUN.AC.ZA
+    affiliation: University of Stellenbosch
+    image_url: images/people/Jacky_Snoep.png
+Jakub Straszewski:
+    email: jakub.straszewski@id.ethz.ch
+    affiliation: ETH Zurich
+    image_url: images/people/Jakub_Straszewski.png
+Katy Wolstencroft:
+    email: k.j.wolstencroft@liacs.leidenuniv.nl
+    affiliation: The University of Leiden
+    image_url: images/people/Katy_Wolstencroft.png
+Lars Malmstroem:
+    affiliation: University of Zurich
+    image_url: images/people/Lars Malmstroem.png
+Natalie J Stanford:
+    affiliation: The University of Manchester
+    image_url: images/people/Natalie_Stanford.png
+Quyen Nguyen:
+    affiliation: Heidelberg Institute for Theoretical Studies
+    image_url: images/people/Quyen_Nguyen.png
+Rostyslav Kuzyakiv:
+    affiliation: University of Zurich
+    image_url: images/people/Rostyslav_Kuzyakiv.png
