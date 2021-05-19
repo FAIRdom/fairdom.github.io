@@ -4,8 +4,6 @@ subitems:
     subitems:
       - title: People
         url: /people.html
-      - title: Contributors
-        url: /contributors.html 
       - title: Funders
         url: /funders.html
       - title: Cite Us
