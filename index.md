@@ -1,8 +1,9 @@
 ---
 sidebar: main
+layout: page
 news: true
 ---
-<div class="home-title">A Consortium of Services for Research Data Management and More</div>
+<h1 class="home-title">A Consortium of Services for Research Data Management and More</h1>
 {% include fair-banner.html %}
 
 **Collect**, **Manage**, **Store** and **Publish** your **data, models** and **operating procedures** in a **FAIR** manner.
