@@ -54,6 +54,16 @@ Olga Krebs:
     email: olga.krebs@h-its.org
     affiliation: Heidelberg Institute for Theoretical Studies
     image_url: images/people/Olga_Krebs.png
+Maja Rey:
+    email: Maja.Rey@h-its.org
+    affiliation: Heidelberg Institute for Theoretical Studies
+Rafael Buono: 
+    email: rafael.buono@psb.ugent.be  
+    affiliation: VIB-UGent / ELIXIR-BE
+Korbinian Bösl:
+    email: Maja.Rey@h-its.org
+    affiliation: Centre for Digital Life Norway/ ELIXIR NO
+    image_url: images/people/Korbinian_Bosl.jpg
 Finn Bacall:
     git: fbacall
     email: finn.bacall@manchester.ac.uk
@@ -77,6 +87,9 @@ Vahid Kiani:
     git: vdkkia
     email: vahid.kiani@ugent.vib.be
     affiliation: VIB-UGent / ELIXIR-BE
+Alain Becam:
+    email: alain.becam@h-its.org
+    affiliation: Heidelberg Institute for Theoretical Studies
 Bernd Rinn:
    email: brinn@ethz.ch
    affiliation: ETH Zurich
