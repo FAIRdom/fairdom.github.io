@@ -1,10 +1,11 @@
 ---
-
 title: Funders
-
+toc: false
 ---
 
-### At present FAIRDOM is supported directly or indirectly by various Infrastructures and Projects such as the:
+## Present
+
+At present FAIRDOM is supported directly or indirectly by various Infrastructures and Projects such as the:
 
 {% include logo-page.html data="FUNDERS"%}
 
@@ -17,7 +18,9 @@ title: Funders
 * de.NBI: German Bioinformatics Infrastructure funded by BMBF (German Federal Ministry of Education and Research)
 * Synthesys Plus: Synthesis of systematic resources
     
-### In the past the FAIRDOM has also been funded by the following organisations:
+## Past
+
+In the past the FAIRDOM has also been funded by the following organisations:
 
 * Biotechnology and Biological Sciences Research Council (BBSRC) is a UK Research Council and non-departmental public body. 
   Being the largest UK public funder of non-medical bioscience, the organization funds scientific research institutes and university 

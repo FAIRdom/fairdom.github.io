@@ -2,5 +2,15 @@
   image_url: /images/funders/logo-ibisba.png
   url: https://www.ibisba.eu/
 - name: EOSC Life
-  image_url: /images/funders/eosclifelogo.png
+  image_url: /images/funders/eosc-life.svg
   url: https://www.eosc-life.eu/
+- name: ELIXIR CONVERGE
+  image_url: /images/funders/converge_logo.svg
+  url: https://elixir-europe.org/about-us/how-funded/eu-projects/converge
+- name: de.NBI
+  image_url: /images/funders/denbi-logo-color.svg
+  url: https://www.denbi.de/
+- name: Synthesys Plus
+  image_url: /images/funders/Synthesys_plus_logo.png
+  url: https://www.synthesys.info/
+
