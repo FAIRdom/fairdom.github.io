@@ -12,11 +12,11 @@ toc: off
 
 {% include contributor-page.html custom="Martin Golebiewski, Bert Droesbeke, Flora D'Anna, Ulrike Wittig, Munazah Andrabi, Olga Krebs, Rafael Buono, Maja Rey, Korbinian Bösl"%}
 
-## Developers
+## Technical
 {% include contributor-page.html custom="Stuart Owen, Finn Bacall, Alan Williams, Vahid Kiani, Xiaoming Hu, Alain Becam, Aitor Apaolaza"%}
 
 ## Associates
-{% include contributor-page.html custom="Bernd Rinn, Jacky Snoep, Jakub Straszewski, Katy Wolstencroft"%}
+{% include contributor-page.html custom="Bernd Rinn, Jacky Snoep, Katy Wolstencroft"%}
 
 ## Alumni 
-{% include contributor-page.html custom="Lars Malmstroem, Natalie J Stanford, Quyen Nguyen, Rostyslav Kuzyakiv"%}
+{% include contributor-page.html custom="Lars Malmstroem, Natalie J Stanford, Quyen Nguyen, Rostyslav Kuzyakiv, Jakub Straszewski"%}
