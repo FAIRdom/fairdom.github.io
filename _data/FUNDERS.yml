@@ -1,0 +1,6 @@
+- name: IBISBA
+  image_url: /images/funders/logo-ibisba.png
+  url: https://www.ibisba.eu/
+- name: EOSC Life
+  image_url: /images/funders/eosclifelogo.png
+  url: https://www.eosc-life.eu/
