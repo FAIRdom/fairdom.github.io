@@ -71,6 +71,7 @@ Finn Bacall:
     image_url: images/people/Finn_Bacall.png
 Stuart Owen:
     git: stuzart
+    role: Lead
     email: stuart.owen@manchester.ac.uk
     affiliation: The University of Manchester
     image_url: images/people/Stuart_Owen.png
@@ -91,8 +92,12 @@ Alain Becam:
     email: alain.becam@h-its.org
     affiliation: Heidelberg Institute for Theoretical Studies
 Aitor Apaolaza:
+    git: aapaolaza
     email: aitor.apaolaza@manchester.ac.uk
     affiliation: The University of Manchester 
+Dawie van Niekerk:
+    email: ddvniekerk@sun.ac.za
+    affiliation: Stellenbosch University
 Bernd Rinn:
     email: brinn@ethz.ch
     affiliation: ETH Zurich
