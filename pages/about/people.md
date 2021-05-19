@@ -10,10 +10,10 @@ toc: off
 
 ## Community
 
-{% include contributor-page.html custom="Martin Golebiewski, Bert Droesbeke, Flora D'Anna, Ulrike Wittig, Munazah Andrabi, Olga Krebs"%}
+{% include contributor-page.html custom="Martin Golebiewski, Bert Droesbeke, Flora D'Anna, Ulrike Wittig, Munazah Andrabi, Olga Krebs, Rafael Buono, Maja Rey, Korbinian Bösl"%}
 
 ## Developers
-{% include contributor-page.html custom="Stuart Owen, Finn Bacall, Alan Williams, Vahid Kiani, Xiaoming Hu"%}
+{% include contributor-page.html custom="Stuart Owen, Finn Bacall, Alan Williams, Vahid Kiani, Xiaoming Hu, Alain Becam, Aitor Apaolaza"%}
 
 ## Associates
 {% include contributor-page.html custom="Bernd Rinn, Jacky Snoep, Jakub Straszewski, Katy Wolstencroft"%}
