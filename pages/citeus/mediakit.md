@@ -1,5 +1,6 @@
 ---
 title: FAIRDOM LOGOs
+toc: FALSE
 ---
 
 For use in presentations, tutroials and all other FAIRDOM related activities the FAIRDOM logo is available in several formats:  
