@@ -16,7 +16,7 @@ toc: off
 {% include contributor-page.html custom="Stuart Owen, Finn Bacall, Alan Williams, Vahid Kiani, Xiaoming Hu, Alain Becam, Aitor Apaolaza, Dawie van Niekerk"%}
 
 ## Associates
-{% include contributor-page.html custom="Bernd Rinn, Jacky Snoep, Katy Wolstencroft"%}
+{% include contributor-page.html custom="Bernd Rinn, Jacky Snoep, Katy Wolstencroft, Andrew Millar"%}
 
 ## Alumni 
 {% include contributor-page.html custom="Lars Malmstroem, Natalie J Stanford, Quyen Nguyen, Rostyslav Kuzyakiv, Jakub Straszewski"%}
