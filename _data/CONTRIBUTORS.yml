@@ -58,7 +58,9 @@ Maja Rey:
     email: Maja.Rey@h-its.org
     affiliation: Heidelberg Institute for Theoretical Studies
 Rafael Buono: 
-    email: rafael.buono@psb.ugent.be  
+    git: rabuono
+    email: rafael.buono@psb.ugent.be 
+    orcid: 0000-0002-6675-3836
     affiliation: VIB-UGent / ELIXIR-BE
 Korbinian Bösl:
     email: Maja.Rey@h-its.org
@@ -89,7 +91,9 @@ Vahid Kiani:
     email: vahid.kiani@ugent.vib.be
     affiliation: VIB-UGent / ELIXIR-BE
 Alain Becam:
+    git: abecam
     email: alain.becam@h-its.org
+    orcid: 0000-0001-5741-0447
     affiliation: Heidelberg Institute for Theoretical Studies
 Aitor Apaolaza:
     git: aapaolaza
