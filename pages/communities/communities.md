@@ -3,7 +3,7 @@ title: User Communities
 toc: False
 ---
 
-### FAIRDOM supports many communities from different disciplines and domains, such as:
+## FAIRDOM supports many communities from different disciplines and domains, such as:
 
 ## Systems Biology: 
 Digital Salmon (https://fairdomhub.org/projects/38)
