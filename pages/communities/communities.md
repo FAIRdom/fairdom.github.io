@@ -8,7 +8,7 @@ toc: False
 ### Systems Biology: 
 * [Digital Salmon](https://fairdomhub.org/projects/38)
 
-* [Plant Systems-biology Modelling](PlaSMo: https://fairdomhub.org/projects/129)
+* [Plant Systems-biology Modelling](https://fairdomhub.org/projects/129)
 
 ### Systems Medicine: 
 * [LiSyM](https://seek.lisym.org)
