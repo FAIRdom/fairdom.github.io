@@ -6,33 +6,33 @@ toc: False
 ## FAIRDOM supports many communities from different disciplines and domains, such as:
 
 ## Systems Biology: 
-Digital Salmon (https://fairdomhub.org/projects/38)
+* Digital Salmon (https://fairdomhub.org/projects/38)
 
-Plant Systems-biology Modelling (PlaSMo: https://fairdomhub.org/projects/129)
+* Plant Systems-biology Modelling (PlaSMo: https://fairdomhub.org/projects/129)
 
 ## Systems Medicine: 
-LiSyM (https://seek.lisym.org)
+* LiSyM (https://seek.lisym.org)
 
-MESI-STRAT (https://fairdomhub.org/projects/99)
+* MESI-STRAT (https://fairdomhub.org/projects/99)
 
-COVID-19 Disease Maps (https://fairdomhub.org/projects/190)
+* COVID-19 Disease Maps (https://fairdomhub.org/projects/190)
 
-PoLiMeR (https://fairdomhub.org/projects/130)
+* PoLiMeR (https://fairdomhub.org/projects/130)
 
 
 ## Synthetic Biology: 
-IBISBAHub (https://hub.ibisba.eu/)
+* IBISBAHub (https://hub.ibisba.eu/)
 
 ## Medical Informatics:  
-NFDI4Health (https://seek.studyhub.nfdi4health.de/)
+* NFDI4Health (https://seek.studyhub.nfdi4health.de/)
 
-Leipzig Health Atlas (https://www.health-atlas.de)
+* Leipzig Health Atlas (https://www.health-atlas.de)
 
 ## Drug discovery: 
-NMTrypI (https://fairdomhub.org/projects/199)
+* NMTrypI (https://fairdomhub.org/projects/199)
 
 ## General Life Sciences: 
-WorkflowHub (https://workflowhub.eu/)
+* WorkflowHub (https://workflowhub.eu/)
 
 ## Other Domains: 
-HITS-Publications
+* HITS-Publications
