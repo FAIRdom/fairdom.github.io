@@ -13,8 +13,9 @@ subitems:
       - title: Media Kit
         url: /mediakit.html
   - title: Communities
-    url: /communities.html
     subitems:
+      - title: User Communities
+        url: /communities.html
       - title: PALs
         url: /pals.html
       - title: Systems Biology Foundry
