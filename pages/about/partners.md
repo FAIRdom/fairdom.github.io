@@ -3,9 +3,10 @@ title: Partners
 toc: false
 ---
 
-## Current partners forming the FAIRDOM Consortium   
+## Current partners forming the FAIRDOM Consortium  
 
-### Institutes & Universities   
+
+### Institutes & Universities  
 
 {% include logo-page.html data= "Partners"%}
 
