@@ -7,6 +7,8 @@ toc: false
 
 ### Institutes & Universities   
 
+{% include logo-page.html data= "partners/Uni_Institutes"%}
+
 * The University of Manchester, UK
 * Heidelberg Institute for Theoretical Studies (HITS), Germany 
 * The University of Leiden, Netherlands
