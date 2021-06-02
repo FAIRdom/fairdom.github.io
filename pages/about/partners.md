@@ -7,7 +7,7 @@ toc: false
 
 ### Institutes & Universities   
 
-{% include logo-page.html data= "partners/Uni_Institutes"%}
+{% include logo-page.html data= "Partners"%}
 
 * The University of Manchester, UK
 * Heidelberg Institute for Theoretical Studies (HITS), Germany 
