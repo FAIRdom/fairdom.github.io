@@ -2,8 +2,8 @@
   image_url: /images/partners/Uni_Institutes/logo-university-of-manchester.svg
   url: https://www.manchester.ac.uk/
 - name: Heidelberg Institute for Theoretical Studies
-  image_url: /images/partners/Uni_Institutes/
-  url: https://www.h-its.org/hits-logo.svg
+  image_url: /images/partners/Uni_Institutes/hits-logo.svg
+  url: https://www.h-its.org/
 - name: VIB-PSB
   image_url: /images/partners/Uni_Institutes/VIB-PSB.svg
   url: https://www.psb.ugent.be/
@@ -15,7 +15,7 @@
   url: https://www.universiteitleiden.nl/en
 - name: Stellenbosch University 
   image_url: /images/partners/Uni_Institutes/Stellenbosch_University_Crest.svg
-  url: http://www.sun.ac.za/english
+  url: https://www.sun.ac.za/english
 - name: University of Zurich
   image_url: /images/partners/Uni_Institutes/University_of_Zurich_seal.svg
   url: https://https://www.uzh.ch/en.html
