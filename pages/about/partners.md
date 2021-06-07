@@ -10,13 +10,6 @@ toc: false
 
 {% include logo-page.html data= "Partners"%}
 
-* The University of Manchester, UK
-* Heidelberg Institute for Theoretical Studies (HITS), Germany 
-* VIB, Ghent
-* Stellenbosch University, South Africa
-* The University of Leiden, Netherlands
-* The University of Edinburgh, UK
-* University of Zürich, Switzerland
   
 ### Infrastructures
 
