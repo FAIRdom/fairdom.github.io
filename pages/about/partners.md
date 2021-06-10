@@ -8,7 +8,7 @@ toc: false
 
 ### Institutes & Universities  
 
-{% include logo-page.html data= "Partners"%}
+{% include logo-page.html data= "partners"%}
 
   
 ### Infrastructures

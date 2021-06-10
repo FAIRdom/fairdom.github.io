@@ -1,0 +1,22 @@
+- name: The Manchester University
+  image_url: /images/partners/uni_institutes/logo-university-of-manchester.svg
+  url: https://www.manchester.ac.uk/
+- name: Heidelberg Institute for Theoretical Studies
+  image_url: /images/partners/uni_institutes/hits-logo.svg
+  url: https://www.h-its.org/
+- name: VIB-PSB
+  image_url: /images/partners/uni_institutes/VIB-PSB.svg
+  url: https://www.psb.ugent.be/
+- name: Stellenbosch University 
+  image_url: /images/partners/uni_institutes/Stellenbosch_University_Crest.png
+  url: http://www.sun.ac.za/english   
+- name: Leiden University
+  image_url: /images/partners/uni_institutes/Leiden_University_seal.svg
+  url: https://www.universiteitleiden.nl/en
+- name: The University of Edinburgh
+  image_url: /images/partners/uni_institutes/University_of_Edinburgh_ceremonial_roundel.svg
+  url: https://www.ed.ac.uk 
+- name: University of Zurich
+  image_url: /images/partners/uni_institutes/University_of_Zurich_seal.svg
+  url: https://www.uzh.ch/en.html
+  

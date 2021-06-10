@@ -7,7 +7,7 @@ toc: false
 
 At present FAIRDOM is supported directly or indirectly by various Infrastructures and Projects such as the:
 
-{% include logo-page.html data="FUNDERS"%}
+{% include logo-page.html data="funders"%}
 
 
 
