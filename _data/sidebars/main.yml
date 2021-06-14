@@ -37,6 +37,8 @@ subitems:
     subitems:
       - title: Data Management Checklist
         url: /dm_checklist.html
+      - title: FAIRDOM
+        url: /FAIRDOM Cost.html
   - title: Outreach
     subitems:
       - title: Publications
@@ -45,10 +47,11 @@ subitems:
         url:  /presentations.html
       - title: Tutorials
         url: /tutorials.html
+      - title: Webinars
+        url: webinars.html
   - title: News
     url: /news.html
   - title: Events
     url: /events.html
-      
   - title: Join Us
     url: /contribute.html
