@@ -3,24 +3,20 @@ title: Contact Us
 ---
 
 
-## Users
+## General contact and user support
 
-[Learn More](https://fair-dom.org/contribute/join-us/)
+For any questions and suggestions related to FAIRDOM projects, tools, standards and events please contact us at support@fair-dom.org
 
-You can join FAIRDOM as an individual, whether you are a PhD Student, Post-Doc, Professor, Developer, Publisher, Funder,  or just generally interested in data and model management.
-Please contact us for all questions and suggestions related to FAIRDOM projects, tools, standards, events etc.
+We are open to generating partnerships with both Collaborators and Facilities. Collaborators can partner with FAIRDOM through formal arrangements such as joint grant proposals, or through informal arrangements agreed between FAIRDOM and the partner. If you want to discuss any such arrangements that can be also done through support@fair-dom.org .
 
+## Reporting bugs and feature requests
 
-## Developers
+Bugs and feature requests can be reported through [Github Issues](https://github.com/seek4science/seek/issues)
 
-   Developers (developers mailing list/link to GitHub)
+For more details and guidelines please visit [Reporting Bugs and raising Feature Requests](https://docs.seek4science.org/tech/reporting-bugs-and-features.html)
  
- 
- 
-## Partner with Us
 
- FAIRDOM is broadening its community reach. We are looking to generate partnerships with both Collaborators and Facilities. 
- Collaborators can partner with FAIRDOM through formal arrangements such as joint grant proposals, 
- or through informal arrangements agreed between FAIRDOM and the partner.
+
+
                 
 
