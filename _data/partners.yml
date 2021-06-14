@@ -19,4 +19,15 @@
 - name: University of Zurich
   image_url: /images/partners/uni_institutes/University_of_Zurich_seal.svg
   url: https://www.uzh.ch/en.html
-  
+- name: Elixir UK
+  image_url: /images/partners/infrastructures/elixir_uk_logo.png
+  url: https://elixiruknode.org
+- name: Elixir Belgium
+  image_url: /images/partners/infrastructures/elixir_belgium_logo.jpg
+  url: https://www.elixir-belgium.org
+- name: Elixir Norway
+  image_url: /images/partners/infrastructures/elixir_norway_logo.png
+  url: https://elixir.no
+- name: Elixir Germany
+  image_url: /images/partners/infrastructures/elixir_germany_logo.jpg
+  url: https://elixir-europe.org/about-us/who-we-are/nodes/germany
