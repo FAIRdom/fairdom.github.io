@@ -13,7 +13,7 @@ toc: false
   
 ### Infrastructures
 
-{% include logo-page.html data= “infrastructures”%} 
+{% include logo-page.html data= "infrastructures"%} 
 
 
 ## Founding members
