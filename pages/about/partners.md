@@ -13,10 +13,8 @@ toc: false
   
 ### Infrastructures
 
-* ELIXIR UK 
-* ELIXIR Belgium
-* ELIXIR Norway
-* ELIXIR Germany (de.NBI)
+{% include logo-page.html data= “partners”%} 
+
 
 ## Founding members
 
