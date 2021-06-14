@@ -22,6 +22,6 @@ Historically, FAIRDOM was founded as a joint action of ERANet ERASysAPP and Euro
 
 * The University of Manchester, UK: Prof. Carole Goble; Prof. Jacky Snoep
 * Heidelberg Institute for Theoretical Studies (HITS), Germany: Dr. Wolfgang Müller
-* The University of Zürich, Switzerland: Dr. Lars Malmström
+* The University of Zürich, Switzerland: Dr. Peter Kunszt
 * The Eidgenössische Technische Hochschule (ETH) Zürich, Switzerland: Dr. Bernd Rinn
-* The University of Leiden, Netherlands: Dr. Katy Wolstencrof
+* The University of Leiden, Netherlands: Dr. Katy Wolstencroft
