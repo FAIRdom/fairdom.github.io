@@ -20,7 +20,7 @@ subitems:
         url: /pals.html
       - title: Systems Biology Foundry
         url: /sbf.html
-  - title: FairdomHub
+  - title: FAIRDOMHub
     url: /fairdomhub.html
   - title: Platform
     url: /platforms.html
