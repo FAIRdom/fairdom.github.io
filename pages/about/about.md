@@ -7,7 +7,7 @@ toc: false
 
 * Organise their People & Investigations  
 * Organise, Catalogue, Manage & Share Outputs  
-* Catalogue across different epositories    
+* Catalogue across different repositories    
 
 The associate partners work together in varying degrees from using the software and providing development feedback, through to co-development of software, knowledge and broader collaboration.   
 
