@@ -12,6 +12,15 @@ subitems:
         url: /citation.html
       - title: Media Kit
         url: /mediakit.html
+  - title: FAIRDOM Instances
+    url: /instance.html
+    subitems:
+      - title: FAIRDOMHub
+        url: /fairdomhub.html
+      - title: IBISBAHub
+        url: /ibisbahub.html
+      - title: WorkflowHub
+        url: /workflowhub.html
   - title: Communities
     subitems:
       - title: User Communities
@@ -20,8 +29,6 @@ subitems:
         url: /pals.html
       - title: Systems Biology Foundry
         url: /sbf.html
-  - title: FAIRDOMHub
-    url: /fairdomhub.html
   - title: Platform
     url: /platforms.html
     subitems:
