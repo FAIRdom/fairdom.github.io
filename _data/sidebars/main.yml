@@ -21,14 +21,6 @@ subitems:
         url: /ibisbahub.html
       - title: WorkflowHub
         url: /workflowhub.html
-  - title: Communities
-    subitems:
-      - title: User Communities
-        url: /communities.html
-      - title: PALs
-        url: /pals.html
-      - title: Systems Biology Foundry
-        url: /sbf.html
   - title: Platform
     url: /platforms.html
     subitems:
@@ -40,6 +32,14 @@ subitems:
         url: /rightfield.html
       - title: JWS Online
         url: /jws.html
+  - title: Communities
+    subitems:
+      - title: User Communities
+        url: /communities.html
+      - title: PALs
+        url: /pals.html
+      - title: Systems Biology Foundry
+        url: /sbf.html
   - title: Support
     subitems:
       - title: Data Management Checklist
