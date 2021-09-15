@@ -26,8 +26,8 @@ subitems:
     subitems:
       - title: Openbis
         url: /openbis.html
-      - title: SEEK
-        url: /seek.html
+      #- title: SEEK
+      #  url: /seek.html
       - title: RightField
         url: /rightfield.html
       - title: JWS Online
