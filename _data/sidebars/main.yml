@@ -12,7 +12,7 @@ subitems:
         url: /citation.html
       - title: Media Kit
         url: /mediakit.html
-  - title: FAIRDOM Instances
+  - title: FAIRDOM-SEEK
     url: /instance.html
     subitems:
       - title: FAIRDOMHub
