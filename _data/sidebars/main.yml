@@ -15,11 +15,11 @@ subitems:
   - title: FAIRDOM-SEEK
     url: /instance.html
     subitems:
-      - title: FAIRDOMHub
+      - title: Public Hubs
         url: /fairdomhub.html
-      - title: IBISBAHub
+      - title: Project Hubs
         url: /ibisbahub.html
-      - title: WorkflowHub
+      - title: Specialised Hubs
         url: /workflowhub.html
   - title: Platform
     url: /platforms.html
