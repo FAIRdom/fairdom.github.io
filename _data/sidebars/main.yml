@@ -23,8 +23,8 @@ subitems:
             url: /ibisbahub.html
           - title: LiSyM
             url: /LiSyM.html
-  - title: Specialised Hubs
-    url: /workflowhub.html
+      - title: Specialised Hubs
+        url: /workflowhub.html
   - title: Platform
     url: /platforms.html
     subitems:
