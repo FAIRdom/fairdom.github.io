@@ -18,7 +18,11 @@ subitems:
       - title: Public Hubs
         url: /fairdomhub.html
       - title: Project Hubs
+        subitems:
+        title: IBISBAHub
         url: /ibisbahub.html
+        title: LiSyM
+        url: /LiSyM.html
       - title: Specialised Hubs
         url: /workflowhub.html
   - title: Platform
