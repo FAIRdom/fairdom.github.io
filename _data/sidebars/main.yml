@@ -20,7 +20,7 @@ subitems:
           - title: FAIRDOMHub
             url: /fairdomhub.html
           - title: DataHub
-            url: /DataHub.html
+            url: /Datahub.html
       - title: Project Hubs
         subitems:
           - title: IBISBAHub
