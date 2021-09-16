@@ -1,5 +1,5 @@
 ---
-title: Workflow Hub
+title: WorkflowHub
 toc: false
 ---
 
