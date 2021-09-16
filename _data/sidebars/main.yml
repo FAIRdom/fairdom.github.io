@@ -16,7 +16,11 @@ subitems:
     url: /instance.html
     subitems:
       - title: Public Hubs
-        url: /fairdomhub.html
+        subitems:
+          - title: FAIRDOMHub
+            url: /fairdomhub.html
+          - title: DataHub
+            url: /DataHub.html
       - title: Project Hubs
         subitems:
           - title: IBISBAHub
