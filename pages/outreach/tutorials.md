@@ -1,5 +1,6 @@
 ---
 title: Tutorials
+toc:  true
 ---
 
 ## FAIRDOMHub Online Tutorials:
