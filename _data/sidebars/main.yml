@@ -33,17 +33,17 @@ subitems:
             url: /NFDI4.html
       - title: Specialised Hubs
         url: /workflowhub.html
-  - title: Platform
-    url: /platforms.html
-    subitems:
+      - title: Integrated Platforms
+        url: /platforms.html
+    #subitems:
       #- title: Openbis
       #  url: /openbis.html
       #- title: SEEK
       #  url: /seek.html
-      - title: RightField
-        url: /rightfield.html
-      - title: JWS Online
-        url: /jws.html
+      #- title: RightField
+      #  url: /rightfield.html
+      #- title: JWS Online
+      #  url: /jws.html
   - title: Communities
     subitems:
       - title: User Communities
