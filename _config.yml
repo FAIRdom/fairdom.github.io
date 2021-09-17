@@ -55,7 +55,7 @@ collections:
   events:
     output: true
     permalink: /:collection/:path.html
-    sort_by: start_date
+    sort_by: start_date    
 
 
 defaults:
@@ -81,7 +81,7 @@ defaults:
       path: "_events"
       type: "events"
     values:
-      layout: "news"
+      layout: "event"
       search: true
       sidebar: main
 
