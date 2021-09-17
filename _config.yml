@@ -93,3 +93,4 @@ gtag: "G-746SKYZGG6"
 plugins:
   - jemoji
   - jekyll-feed
+  - jekyll-redirect-from

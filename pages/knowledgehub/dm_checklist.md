@@ -2,6 +2,9 @@
 
 title: Data Management Checklist
 
+redirect_from: 
+  - /knowledgehub/data-management-checklist/
+
 ---
 
 
