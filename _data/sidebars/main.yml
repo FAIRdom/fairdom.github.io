@@ -36,8 +36,8 @@ subitems:
   - title: Platform
     url: /platforms.html
     subitems:
-      - title: Openbis
-        url: /openbis.html
+      #- title: Openbis
+      #  url: /openbis.html
       #- title: SEEK
       #  url: /seek.html
       - title: RightField
