@@ -31,7 +31,7 @@ toc: False
 
 * [NMTrypI](https://fairdomhub.org/projects/199)
 
-### General Life Sciences
+### Bioinformatics
 
 * [WorkflowHub](https://workflowhub.eu/)
 
