@@ -1,7 +1,6 @@
 ---
-sidebar: main
 layout: page
-news: true
+news: false
 ---
 
 <h1 class="home-title">A Consortium of Services for Research Data Management and More</h1>
