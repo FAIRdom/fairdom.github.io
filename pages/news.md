@@ -6,16 +6,18 @@ title: News
 <br/>
 <ul class="list-unstyled">
     {%- for post in site.news reversed -%}
-    <li>
-    <span class="text-muted">
-        {%- assign date_format = "%b %-d, %Y" -%}
-        {{ post.date | date: date_format }}
-    </span>
-    <p class="h5">
+    <li>    
+    <h4 class="mt-1">
         <a href="{{ post.url | relative_url }}">
         {{ post.title | escape }}
         </a>
-    </p>
+    </h4>
+    
+    <span class="text-muted">        
+        <time datetime="{{ post.date | date_to_xmlschema }}">
+           {{ post.date | date: site.date_format }}</time>
+    </span>
+    
     {%- if site.show_excerpts -%}
         {{ post.excerpt }}
     {%- endif -%}

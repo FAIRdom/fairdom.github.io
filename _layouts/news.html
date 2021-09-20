@@ -3,5 +3,6 @@ layout: default
 ---
 {%- if page.title %}
 <h1>{{ page.title }}</h1>
+<p><small class="black-line">{{ page.date | date: site.date_format }}</small></p>
 {{content}}
 {%- endif %}
