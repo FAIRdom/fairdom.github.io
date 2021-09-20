@@ -21,6 +21,7 @@ title: News
     {%- if site.show_excerpts -%}
         {{ post.excerpt }}
     {%- endif -%}
+    
     </li>
     {%- endfor -%}
 </ul>

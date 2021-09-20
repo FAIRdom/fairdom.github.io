@@ -25,6 +25,6 @@ There have many improvements and bugfixes, but the main highlights include:
 
 More details about the changes can be found in the [1.11.0 Release Notes](https://docs.seek4science.org/tech/releases/#version-1110).
 
-Details on installing SEEK can be found in our Documentation, at [https://docs.seek4science.org/get-seek.html](https://docs.seek4science.org/get-seek.html) – including running with Docker.
+Details on installing SEEK can be found in our Documentation, at [https://docs.seek4science.org/get-seek.html](https://docs.seek4science.org/get-seek.html) – including running with [Docker](https://www.docker.com/).
 
 The upgrade guide can be found in the usual place at [https://docs.seek4science.org/tech/upgrading.html](https://docs.seek4science.org/tech/upgrading.html)

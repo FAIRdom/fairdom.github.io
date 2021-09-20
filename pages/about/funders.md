@@ -1,6 +1,9 @@
 ---
 title: Funders
 toc: false
+
+redirect_from:
+  - /about-fairdom/funders/
 ---
 
 ## Present

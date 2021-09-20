@@ -1,7 +1,15 @@
 ---
 title: FAIRDOM Framework
 toc: off
+
+redirect_from:
+    - /platform/seek/
+    - /platform/
+    - /platform/rightfield/
+    - /jws-online/
+    - /platform/openbis
 ---
+
 
 The [FAIRDOM-SEEK](https://seek4science.org) platform uses a stack of software platforms to provide a shared place where projects 
 can organise their own data, models, protocols, workflows in their own managed space.
