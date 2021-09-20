@@ -8,14 +8,14 @@ news: true
 
 {% include fair-banner.html %}
 
-   **Collect**, **Manage**, **Store** and **Publish** your **data, models** and **operating procedures** in a **FAIR** manner.
-
+  
 
 {% include image.html file="About_FAIRDOM.png" alt="FAIRDOM About" %}
 
 
 
-
+**Collect**, **Manage**, **Store** and **Publish** your **data, models** and **operating procedures** in a **FAIR** manner.
+ 
 **[Join](https://fair-dom.org/contribute/join-us)** the hundreds of researchers who have improved research management practices in their lab, and for themselves using our software and expertise.
 
 Or **[find out more](https://fair-dom.org/about-fairdom)** about making your research **FAIR – Findable, Accessible, Interoperable, and Re-usable**.
