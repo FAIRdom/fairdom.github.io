@@ -1,5 +1,8 @@
 ---
 title: Join us at “FAIR Data Management in Life-Sciences” a workshop and user meeting in Lyon France, Sat 27th Oct.
+
+redirect_from:
+    - /2018/05/30/join-us-at-fair-data-management-in-life-sciences-a-workshop-and-user-meeting-in-lyon-france-sat-27th-oct/
 ---
 
 We are hosting a workshop and user meeting entitled “FAIR Data Management in Life-Sciences”, as a satellite of this year’s ICSB 2018, in Lyon, 

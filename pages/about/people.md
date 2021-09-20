@@ -1,6 +1,9 @@
 ---
 title: FAIRDOM People
 toc: off
+
+redirect_from:
+    - /person/stuart-owen/
 ---
 
 
