@@ -8,10 +8,8 @@ news: true
 
 {% include fair-banner.html %}
 
-**Collect**, **Manage**, **Store** and **Publish** your **data, models** and **operating procedures** in a **FAIR** manner.
+   **Collect**, **Manage**, **Store** and **Publish** your **data, models** and **operating procedures** in a **FAIR** manner.
 
-
-## Data and Model Managment for all Scales of Projects
 
 {% include image.html file="About_FAIRDOM.png" alt="FAIRDOM About" %}
 
