@@ -6,18 +6,22 @@ news: true
 
 <h1 class="home-title">A Consortium of Services for Research Data Management and More</h1>
 
-## Data and Model Managment for all Scales of Projects
-
 {% include fair-banner.html %}
 
-
-
 **Collect**, **Manage**, **Store** and **Publish** your **data, models** and **operating procedures** in a **FAIR** manner.
+
+
+## Data and Model Managment for all Scales of Projects
+
+{% include image.html file="About_FAIRDOM.png" alt="FAIRDOM About" %}
+
+
+
 
 **[Join](https://fair-dom.org/contribute/join-us)** the hundreds of researchers who have improved research management practices in their lab, and for themselves using our software and expertise.
 
 Or **[find out more](https://fair-dom.org/about-fairdom)** about making your research **FAIR – Findable, Accessible, Interoperable, and Re-usable**.
 
-<iframe src="https://www.youtube.com/embed/PWutnWBfUSw" frameborder="0" height="200px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#<iframe src="https://www.youtube.com/embed/PWutnWBfUSw" frameborder="0" height="200px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
