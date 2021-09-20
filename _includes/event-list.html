@@ -16,7 +16,7 @@
         </time>
         {%- if event.end_date -%}
          <time datetime="{{ event.end_date | date_to_xmlschema }}">
-          {{ event.end_date | date: site.event_date_format }}</time>
+          - {{ event.end_date | date: site.event_date_format }}</time>
         {%- endif -%}  
         {%- if event.location -%}
         <br><i class="fas fa-map-marker-alt me-2"></i> {{ event.location }}
@@ -43,7 +43,7 @@
          </time>
          {%- if event.end_date -%}
           <time datetime="{{ event.end_date | date_to_xmlschema }}">
-           {{ event.end_date | date: site.event_date_format }}</time>
+          - {{ event.end_date | date: site.event_date_format }}</time>
          {%- endif -%}  
          {%- if event.location -%}
          <br><i class="fas fa-map-marker-alt me-2"></i> {{ event.location }}

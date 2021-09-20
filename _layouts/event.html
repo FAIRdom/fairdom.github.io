@@ -11,7 +11,7 @@ layout: default
      </time>
      {%- if page.end_date -%}
         <time datetime="{{ page.end_date | date_to_xmlschema }}">
-        {{ page.end_date | date: site.event_date_format }}</time>
+        - {{ page.end_date | date: site.event_date_format }}</time>
      {%- endif -%}
      {%- if page.location -%}
         <br><i class="fas fa-map-marker-alt me-2"></i> {{ page.location }}
