@@ -2,6 +2,8 @@ subitems:
   - title: About
     url: /about.html
     subitems:
+      - title: test
+        url: /index2.html       
       - title: People
         url: /people.html
       - title: Partners
