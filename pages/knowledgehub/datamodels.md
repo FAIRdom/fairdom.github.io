@@ -1,5 +1,7 @@
 ---
 title: Data And Model Management
+
+search_exclude: true
 ---
 
 Data and model management is the process of controlling information that is generated during research projects. All research projects require some degree of data and model management, 
