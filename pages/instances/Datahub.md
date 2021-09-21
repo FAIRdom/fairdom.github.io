@@ -1,5 +1,5 @@
 ---
-title: DataHub (Under Active Developement)
+title: DataHub (Under Active Development)
 ---
 
 [DataHub](https://datahub.elixir-belgium.org) is a **Public Hub** supported by the FAIRDOM Consortium and developed by ELIXIR Belgium. 
