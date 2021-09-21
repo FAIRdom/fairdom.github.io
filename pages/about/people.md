@@ -4,6 +4,9 @@ toc: off
 
 redirect_from:
     - /person/stuart-owen/
+    - /person/carole-goble/
+    - /person/olga-krebs/
+    - /about-fairdom/people/
 ---
 
 

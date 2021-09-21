@@ -1,5 +1,8 @@
 ---
 title: SEEK 1.0 Released !!
+
+redirect_from:
+    - /2015/12/17/seek-1-0-released/
 ---
 
 We are pleased to announce the release of SEEK version 1.0.

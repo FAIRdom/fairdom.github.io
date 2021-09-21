@@ -3,6 +3,7 @@ title: Publications
 
 redirect_from:
     - /publication/fairdomhub-a-repository-and-collaboration-environment-for-sharing-systems-biology-research/
+    - /publications/
 ---
 
 

@@ -1,6 +1,9 @@
 ---
 title: Tutorials
 toc:  true
+
+redirect_from:
+    - /knowledgehub/tutorials/
 ---
 
 ## FAIRDOMHub Online Tutorials:

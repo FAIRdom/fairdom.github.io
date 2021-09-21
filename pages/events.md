@@ -1,5 +1,9 @@
 ---
 title: Events
+
+redirect_from:
+    - /past-events/
+    - /upcoming-events/
 ---
 
 

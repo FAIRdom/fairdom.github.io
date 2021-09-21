@@ -1,6 +1,9 @@
 ---
 title: Systems Biology Developers Foundry
 toc: off
+
+redirect_from:
+    - /communities/systems-biology-developers-foundry/
 ---
 
 
