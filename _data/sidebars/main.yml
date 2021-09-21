@@ -68,8 +68,8 @@ subitems:
         url: /presentations.html
       - title: Tutorials
         url: /tutorials.html
-      #- title: Webinars
-      #  url: /webinars.html
+      - title: Webinars
+        url: /webinars.html
   - title: News
     url: /news.html
   - title: Events
