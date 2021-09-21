@@ -1,5 +1,8 @@
 ---
 title: "ELIXIR Training 'Best practices in research data management and stewardship'"
+
+redirect_from:
+    - /2020/09/09/elixir-training-best-practices-in-research-data-management-and-stewardship/
 ---
 
 FAIRDOMHub is presented at the ELIXIR Training “Best practices in research data management and stewardship” by FAIRDOM team member Olga Krebs.

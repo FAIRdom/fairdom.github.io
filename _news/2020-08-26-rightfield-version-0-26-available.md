@@ -1,5 +1,8 @@
 ---
 title: RightField version 0.26 available
+
+redirect_from:
+    - /2020/08/26/rightfield-version-0-26-available/
 ---
 
 A new version of the [RightField](/platforms/rightfield/) software has been released, version 0.26.

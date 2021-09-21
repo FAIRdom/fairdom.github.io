@@ -1,6 +1,9 @@
 ---
 title: Congratulations to Carole Goble on Honorary Doctorate
 image: images/news/carole-honorary-doctorate.png
+
+redirect_from:
+    - /2018/01/29/congratulations-to-carole-goble-on-honorary-doctorate/
 ---
 
 Our very own Carole Goble was awarded an honorary doctorate from Maastricht University this weekend. This was part of their 42nd birthday celebration.

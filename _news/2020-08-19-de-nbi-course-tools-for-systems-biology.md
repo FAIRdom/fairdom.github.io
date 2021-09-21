@@ -1,5 +1,8 @@
 ---
 title: "de.NBI Course: 'Tools for Systems biology modeling and data exchange: COPASI, CellNetAnalyzer, SABIO-RK, FAIRDOMHub/SEEK'"
+
+redirect_from:
+    - /2020/08/19/de-nbi-course-tools-for-systems-biology-modeling-and-data-exchange-copasi-cellnetanalyzer-sabio-rk-fairdomhub-seek/
 ---
 
 During this 3-day course, attendees will learn basic techniques for modeling of biochemical networks 

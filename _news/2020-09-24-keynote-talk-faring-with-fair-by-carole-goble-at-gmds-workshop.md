@@ -1,5 +1,8 @@
 ---
 title: "Keynote talk 'Faring with FAIR' by Carole Goble at GMDS Workshop"
+
+redirect_from:
+    - /2020/09/24/keynote-talk-faring-with-fair-by-carole-goble-at-gmds-workshop/
 ---
 
 Carole Goble is giving a keynote talk about “Faring with FAIR” at the GMDS Workshop [“FAIRe Data Infrastructures”](https://www.gmds.de/aktivitaeten/medizinische-informatik/projektgruppenseiten/faire-dateninfrastrukturen-fuer-die-biomedizinische-informatik/workshop-2020/) on 

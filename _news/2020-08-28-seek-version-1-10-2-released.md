@@ -1,5 +1,8 @@
 ---
 title: SEEK version 1.10.2 released
+
+redirect_from:
+    - /2020/08/28/seek-version-1-10-2-released/
 ---
 
 A new version of the [FAIRDOM SEEK](/platforms/seek) software has been made available, version 1.10.2, 

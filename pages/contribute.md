@@ -3,6 +3,7 @@ title: Contact Us
 
 redirect_from:
     - /about-fairdom/contact-us/
+    - /contribute/
 ---
 
 

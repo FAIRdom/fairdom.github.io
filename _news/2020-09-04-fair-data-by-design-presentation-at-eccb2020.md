@@ -1,5 +1,8 @@
 ---
 title: “'FAIR Data by Design' Presentation at ECCB2020"
+
+redirect_from:
+    - /2020/09/04/fair-data-by-design-presentation-at-eccb2020/
 ---
 
 FAIRDOM team member Flora D’Anna from VIB Belgium gives a presentation on “FAIR Data by Design” at [ECCB2020](https://eccb2020.info/).
