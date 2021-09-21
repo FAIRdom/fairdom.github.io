@@ -1,6 +1,8 @@
 ---
 layout: page
 news: false
+
+search_exclude: true
 ---
 
 <h1 class="home-title">A Consortium of Services for Research Data Management and More</h1>

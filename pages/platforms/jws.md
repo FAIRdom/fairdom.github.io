@@ -2,6 +2,8 @@
 
 title: JWS Online
 
+search_exclude: true
+
 ---
 
 

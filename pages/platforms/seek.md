@@ -2,6 +2,8 @@
 
 title: FAIRDOM-SEEK
 
+search_exclude: true
+
 ---
 
 

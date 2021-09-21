@@ -1,5 +1,7 @@
 ---
 title: "Editors Guide"
+
+search_exclude: true
 ---
 
 ## Formatting

@@ -1,5 +1,7 @@
 ---
 title: OpenBIS
+
+search_exclude: true
 ---
 
 
