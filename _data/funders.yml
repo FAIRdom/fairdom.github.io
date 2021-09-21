@@ -13,4 +13,6 @@
 - name: Synthesys Plus
   image_url: /images/funders/Synthesys_plus_logo.png
   url: https://www.synthesys.info/
-
+- name: Centre for Digital Life Norway
+  image_url: /images/funders/DLN_RCN.svg
+  url: https://www.digitallifenorway.org/
