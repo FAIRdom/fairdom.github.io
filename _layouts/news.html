@@ -4,13 +4,7 @@ layout: default
 {%- if page.title %}
 <h1>{{ page.title }}</h1>
 {%- endif %}
-
 <p><small class="black-line">{{ page.date | date: site.date_format }}</small></p>
-
-
-
-
-
 {%- if page.image %}
 <div class='mw-25 p-3'>
     <image src="/{{ page.image }}" class='img-fluid rounded'/>
