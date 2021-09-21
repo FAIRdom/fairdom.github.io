@@ -1,6 +1,9 @@
 ---
 title: Data And Model Management
 
+redirect_from:
+  - /knowledgehub/data-and-model-management/
+
 search_exclude: true
 ---
 

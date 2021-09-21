@@ -2,6 +2,9 @@
 
 title: Rightfield
 
+redirect_from:
+    - /platforms/rightfield/
+
 ---
 
 

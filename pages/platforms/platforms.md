@@ -8,6 +8,7 @@ redirect_from:
     - /platform/rightfield/
     - /jws-online/
     - /platform/openbis
+    - /platforms/seek/    
 ---
 
 
