@@ -16,7 +16,6 @@ redirect_from:
 Welcome to our Webinars for Data and Model management Practice in the Interdisciplinary Life Sciences. These webinars will interest students, researchers, project investigators, lab managers, institutions, publishers, data provider and anyone with data or models to manage. Details of our two season can be found below.
 
 ## Season 2
-
 | DATE 	| SPEAKER 	| TITLE 	|
 |---	|---	|---	|
 | 19th January 2017 	| Niall Beard, ELIXIR-UK, UK 	| Building a training material portal: BioSchemas and metadata scraping 	|
@@ -26,6 +25,7 @@ Welcome to our Webinars for Data and Model management Practice in the Interdisci
 | 18th May 2017 	| Susheel Varma, VPH-Dare, UK 	| The VPH-DARE@IT Platform for Translating Research to Clinical Decision Support of early and differential diagnosis of dementia 	|
 | 15th June 2017 	| Bjoern Gruening 	| Conda and Containers for a sustainable bioinformatic infrastructure 	|
 | 20th July 2017 	| Matthew Pocock, Turing Ate My Hamster LTD 	| ShortBOL: A shorthand for synthetic biology design. 	|
+
 
 
 ## Season 1
