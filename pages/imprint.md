@@ -3,9 +3,9 @@ title: Imprint
 toc: false
 ---
 
-The content on this website is provided by
+## The content on this website is provided by
 
-HITS gGmbH
+**HITS gGmbH**
 Schloss-Wolfsbrunnenweg 35
 69118 Heidelberg
 Germany
@@ -15,7 +15,7 @@ Dr. Wolfgang Müller
 Phone: +49 6221 533 231
 Fax: +49 6221 533 298
 
-Managing Director (Geschäftsführerin)
+**Managing Director (Geschäftsführerin)**
 Dr. Gesa Schönberger
 
 Registergericht
