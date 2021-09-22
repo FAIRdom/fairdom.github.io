@@ -10,7 +10,7 @@ news: true
 
 **Collect**, **Manage**, **Store** and **Publish** your **data, models** and **operating procedures** in a **FAIR** manner.
  
-**[Join](https://fair-dom.org/contribute/join-us)** the hundreds of researchers who have improved research management practices in their lab, and for themselves using our software and expertise.
+**[Join](https://fairdom.github.io/contact.html)** the hundreds of researchers who have improved research management practices in their lab, and for themselves using our software and expertise.
 
 Or **[find out more](https://fairdom.github.io/about.html)** about making your research **FAIR – Findable, Accessible, Interoperable, and Re-usable**.
 
