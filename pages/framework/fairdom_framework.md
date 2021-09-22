@@ -15,7 +15,7 @@ redirect_from:
 The [FAIRDOM-SEEK](https://seek4science.org) platform uses a stack of software platforms to provide a shared place where projects 
 can organise their own data, models, protocols, workflows in their own managed space.
 
-{% include image.html file="Platforms.png" alt="FAIRDOM platform" %}
+{% include image.html file="Platforms.png" alt="FAIRDOM Framework" %}
 
 
 ## Integrating Data Infrastructures 
