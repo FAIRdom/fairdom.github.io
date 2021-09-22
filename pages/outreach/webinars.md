@@ -30,6 +30,7 @@ Welcome to our Webinars for Data and Model management Practice in the Interdisci
 
 
 ## Season 1
+
 | DATE               	| SPEAKER                                                       	| TITLE                                                                                        	|
 |--------------------	|---------------------------------------------------------------	|----------------------------------------------------------------------------------------------	|
 | 1st February 2016  	| Steven Wiley, Pacific North-Western National Laboratory, USA. 	| Future-proofing your data: working to ensure that your work will survive the connected world 	|
