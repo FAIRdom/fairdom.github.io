@@ -1,5 +1,5 @@
 ---
-title: NFDI4Health 
+title: NFDI4Health (Coming Soon)
 toc: false
 ---
 
