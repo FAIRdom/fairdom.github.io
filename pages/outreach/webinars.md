@@ -29,5 +29,13 @@ Welcome to our Webinars for Data and Model management Practice in the Interdisci
 |                    |                                                                                                               |
 
 
-
 ## Season 1
+| DATE               	| SPEAKER                                                       	| TITLE                                                                                        	|
+|--------------------	|---------------------------------------------------------------	|----------------------------------------------------------------------------------------------	|
+| 1st February 2016  	| Steven Wiley, Pacific North-Western National Laboratory, USA. 	| Future-proofing your data: working to ensure that your work will survive the connected world 	|
+| 29th February 2016 	| Brett Olivier, VU Amsterdam, Netherlands.                     	| Models, standards and software in systems biology.                                           	|
+| 28th March 2016    	| Public Holiday in UK                                          	|  No Webinar                                                                                  	|
+| 25th April 2016    	| Philippe Rocca Serra, University of Oxford, UK.               	| ISA and Biosharing resources – Exemplars of use.                                             	|
+| 30th May 2016      	| Public Holiday in UK                                          	|  No Webinar                                                                                  	|
+| 27th June 2016     	| Neil Swainston, University of Manchester, UK.                 	| Design Tools and Data in Synthetic Biology                                                   	|
+| 25th July 2016     	| Martin Scharm, University of Rostock, Germany.                	| Challenges for model management                                                              	|
