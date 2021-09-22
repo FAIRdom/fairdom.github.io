@@ -16,9 +16,9 @@ redirect_from:
 Welcome to our Webinars for Data and Model management Practice in the Interdisciplinary Life Sciences. These webinars will interest students, researchers, project investigators, lab managers, institutions, publishers, data provider and anyone with data or models to manage. Details of our two season can be found below.
 
 ## Season 2
-                                                                            	|
-| DATE               | SPEAKER                                                                                                       | TITLE                                                                                                                          |
-|--------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+                                      
+| DATE               | SPEAKER                                                                                                     | TITLE                                                                                                                          |
+|--------------------|---------------------------------------------------------------------------------------------------------------|------------------------|
 | 19th January 2017  | Niall Beard, ELIXIR-UK, UK                                                                                    | Building a training material portal: BioSchemas and metadata scraping                                                          |   |
 | 16th February 2017 |                                                                                                               | No Webinar                                                                                                                     |
 | 16th March 2017    | Caterina Barillari, ETH Zürich                                                                                | High-throughput data management: openBis                                                                                       |
