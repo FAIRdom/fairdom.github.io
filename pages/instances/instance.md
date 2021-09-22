@@ -20,5 +20,5 @@ The [FAIRDOM-SEEK](https://seek4science.org/) can be downloaded, installed and m
 *	Project Hubs installed and hosted locally 
 *	Specialised Hubs 
 
-### Supported Hubs
+## Supported Hubs
 {% include image.html file="Hub_Types.png" alt="FAIRDOM SEEK" %}
