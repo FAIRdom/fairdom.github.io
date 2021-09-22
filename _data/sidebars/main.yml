@@ -34,7 +34,9 @@ subitems:
           - title: NFDI4Health
             url: /NFDI4.html
       - title: Specialised Hubs
-        url: /workflowhub.html
+        subitems:
+          - title: WorkflowHub
+            url: /workflowhub.html
   - title: FAIRDOM Framework
     url: /fairdom_framework.html
     #subitems:
