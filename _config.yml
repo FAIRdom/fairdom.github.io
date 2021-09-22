@@ -88,7 +88,7 @@ defaults:
 date_format: "%B %-d, %Y"
 event_date_format: "%A, %B %-d, %Y"
 
-gtag: "G-746SKYZGG6"
+gtag: "G-TF5CNTSWHW"
 
 plugins:
   - jemoji
