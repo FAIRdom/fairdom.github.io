@@ -36,16 +36,14 @@ subitems:
       - title: Specialised Hubs
         url: /workflowhub.html
   - title: FAIRDOM Framework
-    url: /platforms.html
-    #subitems:
-      #- title: Openbis
-      #  url: /openbis.html
-      #- title: SEEK
-      #  url: /seek.html
-      #- title: RightField
-      #  url: /rightfield.html
-      #- title: JWS Online
-      #  url: /jws.html
+    url: /fairdom_framework.html
+    subitems:
+       - title: RightField
+         url: /rightfield.html
+       - title: JWS Online
+         url: /jws.html
+       - title: Openbis
+         url: /openbis.html
   - title: Communities
     subitems:
       - title: User Communities
