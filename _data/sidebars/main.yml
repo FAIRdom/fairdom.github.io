@@ -56,8 +56,8 @@ subitems:
         url: /sbf.html
   - title: Support
     subitems:
-      - title: Data Management Checklist
-        url: /dm_checklist.html
+      - title: Data Management
+        url: /data_management.html
       - title: FAIRDOM Cost
         url: /FAIRDOM_Cost.html
   - title: Outreach
