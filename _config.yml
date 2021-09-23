@@ -4,6 +4,7 @@ repository: FAIRdom/fairdom.github.io
 # topnav_title: 
 # this appears on the top navigation bar next to the home button
 
+title: FAIRDOM
 site_title: FAIRDOM
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
