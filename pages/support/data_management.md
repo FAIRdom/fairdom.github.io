@@ -1,9 +1,9 @@
 ---
 
-title: Data Management Checklist
+title: Data Management 
 
 redirect_from: 
-  - /knowledgehub/data-management-checklist/
+  - /knowledgehub/data-management/
 
 ---
 
