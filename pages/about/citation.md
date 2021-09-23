@@ -1,5 +1,8 @@
 ---
 title: Cite FAIRDOM
+
+redirect_from:
+  - /cite
 ---
 
 
