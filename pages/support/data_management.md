@@ -21,3 +21,7 @@ Every funder, university and research institute usually provide information abou
 To get started with your Life Sciences data management, you can use the best practices and guidelines found in [RDMkit](https://rdmkit.elixir-europe.org/data_management_plan.html).
 
 ## How does FAIRDOM help me with good data management?
+
+The FAIRDOM consortium offers support for the data management within your research project. 
+
+For details please contact us at support@fair-dom.org
