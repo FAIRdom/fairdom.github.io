@@ -22,6 +22,7 @@ To get started with your Life Sciences data management, you can use the best pra
 
 ## How does FAIRDOM help me with good data management?
 
-The FAIRDOM consortium offers support for the data management within your research project. 
+The FAIRDOM consortium offers support for the data management within your research project. It could include consultancy from a FAIRDOM team member for your project to assist with data management planning, demonstrating good data management practices, or training courses.
+ 
 
 For details please contact us at support@fair-dom.org
