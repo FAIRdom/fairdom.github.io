@@ -3,7 +3,7 @@
 title: Data Management 
 
 redirect_from: 
-  - /knowledgehub/data-management/
+  - /knowledgehub/data-management-checklist/
 
 ---
 
