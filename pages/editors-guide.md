@@ -57,8 +57,8 @@ image: "/images/news/elixir-logo.png"
 An example is [_news/2018-03-28-carole-goble-presents-at-digitallife-2018.md](https://raw.githubusercontent.com/FAIRdom/fairdom.github.io/master/_news/2018-03-28-carole-goble-presents-at-digitallife-2018.md)
 ## Events
 
-ews items should be placed in the _"_events/"_ folder, with the filename prefixed with the date stamp, following [ISO 8601 Calendar Date](https://en.wikipedia.org/wiki/ISO_8601#Calendar_dates) - **YYYY-MM-DD** .
-This defines the post date for the event item, and also helps keep the files in order.
+Events should be placed in the _"_events/"_ folder, with the filename prefixed with the date stamp, following [ISO 8601 Calendar Date](https://en.wikipedia.org/wiki/ISO_8601#Calendar_dates) - **YYYY-MM-DD** .
+This defines the post date for the event item, and also helps keep the files in order.. The rest of the filename should be a short piece of text that summarised the event.
 
 The event front-matter is a bit more complicated and looks like:
 
