@@ -36,7 +36,7 @@ These define a redirection from a page that existed on the old site, that is lin
 ## News
 
 News items should be placed in the _"_news/"_ folder, with the filename prefixed with the date stamp, following [ISO 8601 Calendar Date](https://en.wikipedia.org/wiki/ISO_8601#Calendar_dates) - **YYYY-MM-DD** .
-This defines the date for the news item, and also helps keep the files in order.
+This defines the date for the news item, and also helps keep the files in order. The rest of the filename should be a short piece of text that summarised the news item.
 
 News will automatically adopt the _news_ layout unless overridden.
 
