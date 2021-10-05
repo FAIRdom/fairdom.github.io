@@ -18,7 +18,7 @@ The FAIR principles have been formalised in the publication [The FAIR Guiding Pr
 
 Every funder, university and research institute usually provide information about data management requirements and best practices. Therefore, it is recommended to be aware of the guidelines provided by your funder, university or research institute.
 
-To get started with your Life Sciences data management, you can use the best practices and guidelines found in [RDMkit](https://rdmkit.elixir-europe.org/data_management_plan.html).
+To get started with your Life Sciences data management, you can use the best practices and guidelines found in [RDMkit](https://rdmkit.elixir-europe.org).
 
 ## How does FAIRDOM help me with good data management?
 
