@@ -18,8 +18,9 @@ Here is a selection of key presentations from the FAIRDOM Team and invited speak
 
 ### ELIXIR Guest Webinar: “Two universes, one world - Community standards vs. formal ISO standards in the life sciences” by Martin Golebiewski
 
-<iframe src="youtu.be/5Md6McKt64g" frameborder="0" allowfullscreen></iframe>
-<i class="fas fa-link me-2"></i>**[Source](https://youtu.be/5Md6McKt64g)**
+<iframe src="https://www.youtube.com/embed/5Md6McKt64g" frameborder="0" height="200px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<i class="fas fa-link me-2"></i>**[Source](https://elixir-europe.org/events/elixir-guest-webinar-two-universes-one-world-community-standards-vs-formal-iso-standards-life)**
 
 
 ## 2019
