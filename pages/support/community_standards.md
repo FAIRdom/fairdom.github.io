@@ -2,7 +2,7 @@
 title: Community Standards
 
 redirect_from:
-    - /knowledgehub/community-standards/
+  - /knowledgehub/community-standards/
 ---
 
 You can view our FAIRDOM Standards collection in the [biosharing catalogue](https://biosharing.org/collection/FAIRDOM).
