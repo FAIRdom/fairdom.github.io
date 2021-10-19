@@ -54,6 +54,10 @@ subitems:
         url: /pals.html
       - title: Systems Biology Foundry
         url: /sbf.html
+  - title: Collaborations
+    subitems:
+      - title: Increasing plant data findability and MIAPPE
+        url: /plant-is-and-miappe
   - title: Support
     subitems:
       - title: Data Management
