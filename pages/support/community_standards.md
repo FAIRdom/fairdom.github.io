@@ -36,7 +36,7 @@ Metadata is data about data – or descriptions of data. They are used to descri
 allowing them to be easily interpreted, reused, and reproduced. Descriptions can include strains of an organism, media
 used for growth, pH, temperature, sample collection times, or even samples identifiers (e.g. metabolite or protein
 names), as well as many others. Minimum information checklists are used to ensure data and models contain enough
-description to be understandable. [Biosharing community](https://biosharing.org/) make a wide range of minimum information checklists available for
+description to be understandable. [FAIRsharing community](https://fairsharing.org/) make a wide range of minimum information checklists available for
 researchers to use. Metadata descriptions are also best used in conjunction with naming conventions, such as ontologies
 or controlled vocabularies. Naming conventions ensure that the semantics of an entity, such as a metabolite or gene, are
 unambiguous. There are a number of specialised ontologies for systems biology such as Systems Biology Ontology ([SBO](http://www.ebi.ac.uk/sbo/main/)),
