@@ -8,6 +8,8 @@ redirect_from:
 
 **2021**
 
+COVID19 Disease Map, a computational knowledge repository of virus–host interaction mechanisms. Ostaszewski M, Niarakis A, Mazein A, Kuperstein I, Phair R, et al. (2021). Molecular Systems Biology 17(10): e10387. [Full Text](https://www.embopress.org/doi/full/10.15252/msb.202110387)
+
 Facilitating Study and Item Level Browsing for Clinical and Epidemiological COVID-19 Studies. Schmidt CO, Darms J, Shutsko A, Löbe M, Nagrani R, Seifert B, Lindstädt B, Golebiewski M, Koleva S, Bender T, Bauer CR, Sax U, Hu X, Lieser M, Junker V, Klopfenstein S, Zeleke A, Waltemath D, Pigeot I, Fluck J and the NFDI4Health Task Force COVID-19 (May 2021). Studies in health technology and informatics, 281:794-798. [Full Text](10.3233/SHTI210284)
 
 Making COVID-19 research data more accessible-building a nationwide information infrastructure [in German: COVID-19-Forschungsdaten leichter zugänglich machen – Aufbau einer bundesweiten Informationsinfrastruktur]. Schmidt CO, Fluck J, Golebiewski M, et al. (23 July 2021). Bundesgesundheitsblatt 64, 1084–1092. [Full Text](10.1007/s00103-021-03386-x)
@@ -19,7 +21,7 @@ The first 10 years of the international coordination network for standards in sy
 
 COVID-19 Disease Map, a computational knowledge repository of SARS-CoV-2 virus-host interaction mechanisms. Ostaszewski M, Niarakis A, Mazein A, Kuperstein I, et al. (2020). bioRxiv 2020.10.26.356014 (preprint) [Full Text](https://doi.org/10.1101/2020.10.26.356014)
 
-SBML Level 3: an extensible format for the exchange and reuse of biological models. Keating SM, Waltemath D, König M, Zhang F, et al. (2020). Molecular Systems Biology 16(8): e9110. [Full Text](10.15252/msb.20199110)
+SBML Level 3: an extensible format for the exchange and reuse of biological models. Keating SM, Waltemath D, König M, Zhang F, et al. (2020). Molecular Systems Biology 16(8): e9110. [Full Text](https://doi.org/10.15252/msb.20199110)
 
 Specifications of standards in systems and synthetic biology: status and developments in 2020. Schreiber F, Sommer B, Czauderna T, Golebiewski M, Gorochowski TE, Hucka M, Keating SM, Konig M, Myers C, Nickerson D, Waltemath D (2020). Journal of Integrative Bioinformatics. 2020;17(2-3): 20200022. [Full Text](10.1515/jib-2020-0022)
 
