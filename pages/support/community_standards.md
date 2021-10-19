@@ -41,7 +41,7 @@ researchers to use. Metadata descriptions are also best used in conjunction with
 or controlled vocabularies. Naming conventions ensure that the semantics of an entity, such as a metabolite or gene, are
 unambiguous. There are a number of specialised ontologies for systems biology such as Systems Biology Ontology ([SBO](http://www.ebi.ac.uk/sbo/main/)),
 and Just Enough Results Model ([JERM](https://jermontology.org)). They are also best used in conjunction with real world identifiers, which are
-identifiers that can be linked unambiguously to databases detailing the entity, for example Chebi for metabolites.
+identifiers that can be linked unambiguously to databases detailing the entity, for example [ChEBI](https://www.ebi.ac.uk/chebi) for metabolites.
 Metadata standards and controlled vocabularies are used by only about half of the community according to a research
 survey. As a result many researchers find reusing data and models produced by other researchers difficult, with
 understanding the origin of data used within a model referenced as being particularly difficult.
