@@ -5,7 +5,7 @@ redirect_from:
   - /knowledgehub/community-standards/
 ---
 
-You can view our FAIRDOM Standards collection in the [Fairsharing catalogue](https://fairsharing.org/collection/FAIRDOM).
+You can view our FAIRDOM Standards collection in the [FAIRsharing catalogue](https://fairsharing.org/collection/FAIRDOM).
 
 ## What are Community Standards?
 
