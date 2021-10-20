@@ -16,8 +16,8 @@ within the [ISA](https://isa-tools.org/) structure. This was provided by joint d
 and [INRA-URGI](https://urgi.versailles.inrae.fr/) to add what we called "_Custom Metadata_".
 
 Very similar to the Samples, Custom Metadata allowed FAIRDOM-SEEK entities to have their metadata extended with
-key/value pairs, controlled by metadata types that can be validated, and set as required or optional. These were applied
-to the Investigations and Studies, along with an Excel template to populate multiple Studies as a batch process. 
+key/value pairs, controlled by metadata types that can be validated, and set as required or optional. Custom Metadata for MIAPPE were specified and
+applied to the Investigations and Studies, along with an Excel template to populate multiple Studies as a batch process. 
 Support for ontology based controlled vocabularies, derived from the [Ontology Lookup Service (OLS)](https://www.ebi.ac.uk/ols/index), 
 was also added, for both Sample metadata and the Custom metadata extensions.
 
