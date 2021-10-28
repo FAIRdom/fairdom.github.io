@@ -27,7 +27,7 @@ The Custom Metadata is designed to be generic such that it can be reused to supp
 In future, we plan to add a user interface for FAIRDOM-SEEK administrators to define their own Custom Metadata extensions.
 
 
-## Increasing Plant data findability and reuse beyond ELIXIR
+## Increasing Plant data findability for ELIXIR and beyond
 
 Following on, FAIRDOM was included in a successful bid for an ELIXIR implementation study, [Increasing Plant data findability and reuse beyond ELIXIR](https://elixir-europe.org/about-us/commissioned-services/increasing-plant-data-findability), where we will continue to build upon the previous achievements.
 
