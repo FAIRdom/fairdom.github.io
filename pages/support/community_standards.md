@@ -26,7 +26,7 @@ support systems biologists in structuring models (e.g. [SBML](http://sbml.org/Ma
 e.g [MzTAB](http://www.psidev.info/mztab) for Proteomics; ), and structuring investigations (e.g. ISATab). 
 
 A [FAIRDOM survey of standard usage](http://dx.doi.org/10.15252/msb.20156053) has shown that the community use of
-standard formats is above two thirds. It has been noted that systems biology standards are not suitable for all types of data and models produced within the field, with physiology models, and certain cellular processes such as transcription not having suitable, mature standards available for use.
+standard formats is above two thirds. But it has been noted that systems biology standards are not suitable for all types of data and models produced within the field, with physiology models, and certain cellular processes such as transcription not having suitable, mature standards available for use.
 
 ## Metadata Descriptions
 
