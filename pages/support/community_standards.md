@@ -24,11 +24,10 @@ key information to be easily found both by researchers, and software. Standardis
 support systems biologists in structuring models (e.g. [SBML](http://sbml.org/Main_Page)
 , [CellML](https://www.cellml.org/)), simulating models (e.g. [SBRML](http://www.comp-sys-bio.org/SBRML.html)
 , [SEDML](http://sed-ml.org/)), visualising models (e.g. [SBGN](http://sbgn.github.io/sbgn/)), structuring data (
-e.g [MzTAB](http://www.psidev.info/mztab) for Proteomics; ), and structuring investigations (e.g. ISATab). A
-recent [FAIRDOM survey of standard usage](http://dx.doi.org/10.15252/msb.20156053) has shown that the community use of
-standard formats is above two thirds, the most widely used standard within systems biology. It has been noted that
-systems biology standards are not suitable for all types of data and models produced within the field, with physiology
-models, and certain cellular processes such as transcription not having suitable, mature standards available for use.
+e.g [MzTAB](http://www.psidev.info/mztab) for Proteomics; ), and structuring investigations (e.g. ISATab). 
+
+A [FAIRDOM survey of standard usage](http://dx.doi.org/10.15252/msb.20156053) has shown that the community use of
+standard formats is above two thirds. It has been noted that systems biology standards are not suitable for all types of data and models produced within the field, with physiology models, and certain cellular processes such as transcription not having suitable, mature standards available for use.
 
 ## Metadata Descriptions
 
@@ -36,10 +35,12 @@ Metadata is data about data – or descriptions of data. They are used to descri
 allowing them to be easily interpreted, reused, and reproduced. Descriptions can include strains of an organism, media
 used for growth, pH, temperature, sample collection times, or even samples identifiers (e.g. metabolite or protein
 names), as well as many others. Minimum information checklists are used to ensure data and models contain enough
-description to be understandable. [FAIRsharing community](https://fairsharing.org/) make a wide range of minimum information checklists available for
+description to be understandable. [FAIRsharing](https://fairsharing.org/) makes a wide range of minimum information checklists available for
 researchers to use. Metadata descriptions are also best used in conjunction with naming conventions, such as ontologies
 or controlled vocabularies. Naming conventions ensure that the semantics of an entity, such as a metabolite or gene, are
-unambiguous. There are a number of specialised ontologies for systems biology such as Systems Biology Ontology ([SBO](http://www.ebi.ac.uk/sbo/main/)),
+unambiguous. 
+
+There are a number of specialised ontologies for systems biology such as Systems Biology Ontology ([SBO](http://www.ebi.ac.uk/sbo/main/)),
 and Just Enough Results Model ([JERM](https://jermontology.org)). They are also best used in conjunction with real world identifiers, which are
 identifiers that can be linked unambiguously to databases detailing the entity, for example [ChEBI](https://www.ebi.ac.uk/chebi) for metabolites.
 Metadata standards and controlled vocabularies are used by only about half of the community according to a research
