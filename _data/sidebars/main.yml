@@ -64,6 +64,8 @@ subitems:
         url: /data_management.html
       - title: FAIRDOM Cost
         url: /FAIRDOM_Cost.html
+      - title: Community Standards
+        url: /community_standards.html
   - title: Outreach
     subitems:
       - title: Publications
