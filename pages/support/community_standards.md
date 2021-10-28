@@ -13,8 +13,7 @@ Standards are, in essence, an agreed way of organising and describing things. Sy
 formatting, and for annotating data and models. They are designed by experts with an understanding of what key
 information will comprise the outcome of an experiment, and how it is best structured in a written format. Agreements
 and development of standards for systems and synthetic biology often occur at a grass-roots level through communities
-such as [COMBINE](http://co.mbine.org/).  
-Although there are some relevant top-down standards developed by
+such as [COMBINE](http://co.mbine.org/). There are also some relevant top-down standards developed by
 the [International Standards Organisation (ISO)](http://www.iso.org/).
 
 ## Standard Formatting
