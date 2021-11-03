@@ -13,3 +13,5 @@ Katy will be talking about [RightField](https://rightfield.org.uk), and joins ex
 To attend, registration is required but is free - you can register from the [Panel discussion page](https://www.software.ac.uk/panel-discussion-do-we-have-right-tools-research).
 
 There are also a number of other spreadsheet related [Workshops](https://www.software.ac.uk/programme-research-software-camp-beyond-spreadsheet) being run, which are also free to join.
+
+There is also blog post about RightField related to this event at [https://www.software.ac.uk/blog/2021-11-02-rightfield-stealthy-semantic-annotation-spreadsheets](https://www.software.ac.uk/blog/2021-11-02-rightfield-stealthy-semantic-annotation-spreadsheets)
