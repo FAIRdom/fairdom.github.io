@@ -1,7 +1,7 @@
 ---
 title: "Panel discussion: Do we have the right tools for research?"
-start_date: 2021-11-05
-end_date: 2021-11-05
+start_date: 2021-11-05T14:00:00Z
+end_date: 2021-11-05T15:00:00Z
 location: Online, hosted by the Software Sustainability Institute
 ---
 
