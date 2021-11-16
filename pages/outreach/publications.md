@@ -104,13 +104,13 @@ HM, Scharm M, Soiland-Reyes S, Waltemath D, Yvon F, Le Novère (2014). BMC Bioin
 
 **Why linked data is not enough for scientists**. Bechhofer S, Buchan I, De Roure D, Missier P, Ainsworth J, Bhagat J, Couch
 P, Cruickshank D, Delderfield M, Dunlop I, Gamble M, Michaelides D, Owen S, Newman D, Sufi S, Goble C (2013). Future Generation
-Computer Systems, 29:2, 599-611.[Full Text](https://doi.org/10.1016/j.future.2011.08.004)
+Computer Systems, 29:2, 599-611. [Full Text](https://doi.org/10.1016/j.future.2011.08.004)
 
 **Stealthy annotation of experimental biology by spreadsheets**. Wolstencroft K, Owen S, Horridge M, Jupp S, Krebs O, Snoep
-J, du Preez F, Mueller W, Stevens R, Goble C (2013). Concurrency and Computation: Practice and Experience, 25:4, 467 – 480.[Full Text](https://doi.org/10.1002/cpe.2941)
+J, du Preez F, Mueller W, Stevens R, Goble C (2013). Concurrency and Computation: Practice and Experience, 25:4, 467 – 480. [Full Text](https://doi.org/10.1002/cpe.2941)
 
 **Semantic Data and Models Sharing in Systems Biology: The Just Enough Results Model and the SEEK Platform**. Wolstencroft
-K, Owen S, Krebs O, Mueller W, Nguyen Q, Snoep JL, Goble C (2013). Springer, Berlin, Heidelberg.[Full Text](https://link.springer.com/content/pdf/10.1007%2F978-3-642-41338-4_14.pdf)
+K, Owen S, Krebs O, Mueller W, Nguyen Q, Snoep JL, Goble C (2013). Springer, Berlin, Heidelberg. [Full Text](https://link.springer.com/content/pdf/10.1007%2F978-3-642-41338-4_14.pdf)
 
 **2012**
 
@@ -119,7 +119,7 @@ Neumann S, Tong W, Amaral-Zettler L, Begley K, Booth T, Bougueleret L, Burns G, 
 J, Das S, de Daruvar A, de Matos P, Dix I, Edmunds S, Evelo CT, Forster MJ, Gaudet P, Gilbert J, Goble C, Griffin JL,
 Jacob D, Kleinjans J, Harland L, Haug K, Hermjakob H, Ho Sui SJ, Laederach A, Liang S, Marshall S, McGrath A, Merrill E,
 Reilly D, Roux M, Shamu CE, Shang CA, Steinbeck C, Trefethen A, Williams-Jones B, Wolstencroft K, Xenarios I, Hide W (2012).
-Nature Genetics, 44:2, 121-126.[Full Text](https://doi.org/10.1038/ng.1054)
+Nature Genetics, 44:2, 121-126. [Full Text](https://doi.org/10.1038/ng.1054)
 
 Our publications are also on [ResearchGate](https://www.researchgate.net/project/FAIRDOM).Please feel free to follow us
 on there.
