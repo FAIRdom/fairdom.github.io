@@ -37,6 +37,8 @@ contact_email: community@fair-dom.org
 feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
 
+github_project_board: https://github.com/seek4science/seek/projects/12
+
 markdown: kramdown
 highlighter: rouge
 kramdown:
