@@ -1,6 +1,5 @@
 ---
 layout: page
-news: false
 
 search_exclude: true
 ---

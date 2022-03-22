@@ -1,0 +1,31 @@
+/*-----Theme colors-----*/
+$white: #fff;
+$primary: #2363cc;
+$secondary: #090378;
+$gray-600: #74767f;
+$blue: $primary;
+$light: #f0f5fd;
+$dark: #080b0f;
+
+/*-----Custom values for Bootstrap variables-----*/
+$component-active-bg: $primary;
+$navbar-dark-toggler-border-color: transparent;
+$nav-link-color: $primary;
+$nav-link-hover-color: $secondary;
+$border-radius: 0;
+$link-color: $blue;
+$card-border-width: 0;
+$card-cap-bg: #0903780f;
+$info: $blue;
+$link-decoration: none;
+$body-bg: $white;
+$body-color: $dark;
+$font-family-sans-serif: 'Open Sans', sans-serif;
+$alert-border-width: 0;
+$input-bg: $light;
+$input-border-width: 0;
+$h1-font-size: 1rem * 2.8 !default;
+$h3-font-size: 1rem * 1.6 !default;
+$h4-font-size: 1rem * 1.2 !default;
+$h5-font-size: 1rem !default;
+$h6-font-size: 1rem !default;

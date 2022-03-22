@@ -6,6 +6,7 @@ redirect_from:
     - /communities/pals/
 ---
 
+{% include pic-carousel.html %}
 
 FAIRDOM PALs are “front line” experimentalists, modellers and bioinformaticians from each of the projects we work with. They act as our advocates and communicate our progress back to their projects.
 

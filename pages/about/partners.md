@@ -8,12 +8,12 @@ toc: false
 
 ### Institutes & Universities  
 
-{% include logo-page.html data= "partners"%}
+{% include affiliation-tiles-selection.html type="partners"%}
 
   
 ### Infrastructures
 
-{% include logo-page.html data= "infrastructures"%} 
+{% include affiliation-tiles-selection.html type="infrastructures"%}
 
 
 ## Founding members

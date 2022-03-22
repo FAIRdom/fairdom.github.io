@@ -1,0 +1,100 @@
+# Funders
+- name: IBISBA
+  image_url: /images/funders/logo-ibisba.png
+  type: funders
+  expose: true
+  url: https://www.ibisba.eu/
+- name: EOSC Life
+  image_url: /images/funders/eosc-life.svg
+  type: funders
+  expose: true
+  url: https://www.eosc-life.eu/
+- name: ELIXIR CONVERGE
+  image_url: /images/funders/converge_logo.svg
+  type: funders
+  expose: true
+  url: https://elixir-europe.org/about-us/how-funded/eu-projects/converge
+- name: de.NBI
+  image_url: /images/funders/denbi-logo-color.svg
+  type: funders
+  expose: true
+  url: https://www.denbi.de/
+- name: Synthesys Plus
+  image_url: /images/funders/Synthesys_plus_logo.png
+  type: funders
+  expose: true
+  url: https://www.synthesys.info/
+- name: Centre for Digital Life Norway
+  image_url: /images/funders/DLN_RCN.svg
+  type: funders
+  expose: true
+  url: https://www.digitallifenorway.org/
+- name: NFDI4Health
+  image_url: /images/funders/NFDI4Health.png
+  type: funders
+  expose: true
+  url: https://www.nfdi4health.de/en/
+# Infrastructures
+- name: ELIXIR UK
+  image_url: /images/partners/infrastructures/elixir_uk_logo.png
+  url: https://elixiruknode.org
+  type: infrastructures
+  expose: true
+- name: ELIXIR Belgium
+  image_url: /images/partners/infrastructures/elixir_belgium_logo.jpg
+  url: https://www.elixir-belgium.org
+  type: infrastructures
+  expose: true
+- name: ELIXIR Norway
+  image_url: /images/partners/infrastructures/elixir_norway_logo.png
+  url: https://elixir.no
+  type: infrastructures
+  expose: true
+- name: ELIXIR Germany
+  image_url: /images/partners/infrastructures/elixir_germany_logo.jpg
+  url: https://elixir-europe.org/about-us/who-we-are/nodes/germany
+  type: infrastructures
+  expose: true
+- name: NFDI4Health
+  image_url: /images/partners/infrastructures/NFDI4Health.png
+  url: hhttps://www.nfdi4health.de/en/
+  type: infrastructures
+  expose: true
+# Partners
+- name: The Manchester University
+  image_url: /images/partners/uni_institutes/logo-university-of-manchester.svg
+  url: https://www.manchester.ac.uk/
+  type: partners
+  expose: true
+- name: Heidelberg Institute for Theoretical Studies
+  image_url: /images/partners/uni_institutes/hits-logo.svg
+  url: https://www.h-its.org/
+  type: partners
+  expose: true
+- name: Stellenbosch University 
+  image_url: /images/partners/uni_institutes/Stellenbosch_University_Crest.png
+  url: http://www.sun.ac.za/english
+  type: partners
+  expose: true
+- name: Leiden University
+  image_url: /images/partners/uni_institutes/Leiden_University_seal.svg
+  url: https://www.universiteitleiden.nl/en
+  type: partners
+  expose: true
+- name: The University of Edinburgh
+  image_url: /images/partners/uni_institutes/University_of_Edinburgh_ceremonial_roundel.svg
+  url: https://www.ed.ac.uk 
+  type: partners
+  expose: true
+- name: University of Zurich
+  image_url: /images/partners/uni_institutes/University_of_Zurich_seal.svg
+  url: https://www.uzh.ch/en.html
+  type: partners
+  expose: true
+- name: University of Bergen
+  image_url: /images/partners/uni_institutes/UiB-emblem_gray.svg
+  url: https://www.uib.no/
+  type: partners
+  expose: true
+
+
