@@ -1,84 +1,84 @@
 subitems:
   - title: About
-    url: /about.html
+    url: /about
     subitems:
       #- title: test
-      #  url: /index2.html       
+      #  url: /index2       
       - title: People
-        url: /people.html
+        url: /people
       - title: Partners
-        url: /partners.html
+        url: /partners
       - title: Funders
-        url: /funders.html
+        url: /funders
       - title: Cite Us
-        url: /citation.html
+        url: /citation
       - title: Media Kit
-        url: /mediakit.html
+        url: /mediakit
   - title: FAIRDOM-SEEK
-    url: /instance.html
+    url: /instance
     subitems:
       - title: Public Hubs
         subitems:
           - title: FAIRDOMHub
-            url: /fairdomhub.html
+            url: /fairdomhub
           - title: DataHub
-            url: /Datahub.html
+            url: /Datahub
       - title: Project Hubs
         subitems:
           - title: IBISBAHub
-            url: /ibisbahub.html
+            url: /ibisbahub
           - title: LiSyM
-            url: /LiSyM.html
+            url: /LiSyM
           - title: Leipzig Health Atlas
-            url: /Leipzig.html
+            url: /Leipzig
           - title: NFDI4Health
-            url: /NFDI4.html
+            url: /NFDI4
       - title: Specialised Hubs
         subitems:
           - title: WorkflowHub
-            url: /workflowhub.html
+            url: /workflowhub
   - title: FAIRDOM Framework
-    url: /fairdom_framework.html
+    url: /fairdom_framework
     #subitems:
       # - title: RightField
-      #   url: /rightfield.html
+      #   url: /rightfield
       # - title: JWS Online
-      #   url: /jws.html
+      #   url: /jws
       # - title: Openbis
-      #   url: /openbis.html
+      #   url: /openbis
   - title: Communities
     subitems:
       - title: User Communities
-        url: /communities.html
+        url: /communities
       - title: PALs
-        url: /pals.html
+        url: /pals
       - title: Systems Biology Foundry
-        url: /sbf.html
+        url: /sbf
   - title: Collaborations
     subitems:
       - title: MIAPPE, Plant Data Integration and Findability
-        url: /plant-is-and-miappe.html
+        url: /plant-is-and-miappe
   - title: Support
     subitems:
       - title: Data Management
-        url: /data_management.html
+        url: /data_management
       - title: FAIRDOM Cost
-        url: /FAIRDOM_Cost.html
+        url: /FAIRDOM_Cost
       - title: Community Standards
-        url: /community_standards.html
+        url: /community_standards
   - title: Outreach
     subitems:
       - title: Publications
-        url: /publications.html
+        url: /publications
       - title: Presentations
-        url: /presentations.html
+        url: /presentations
       - title: Tutorials
-        url: /tutorials.html
+        url: /tutorials
       - title: Webinars
-        url: /webinars.html
+        url: /webinars
   - title: News
-    url: /news.html
+    url: /news
   - title: Events
-    url: /events.html
+    url: /events
   - title: Contact Us
-    url: /contact.html
+    url: /contact
