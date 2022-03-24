@@ -1,12 +1,16 @@
 ---
 title: News
 ---
+<div class="mb-4">
+  <a href="{{ '/news.xml' | relative_url }}" class="btn bg-light hover-primary">
+      <i class="fa fa-rss me-2"></i>Subscribe to the RSS feed
+  </a>
+</div>
 
-<a href="/news.xml"><i class="fas fa-rss fs-1"></i></a>
-<br/>
+
 <ul class="list-unstyled">
     {%- for post in site.news reversed -%}
-    <li>    
+    <li class="br-1">    
     <h4 class="mt-1">
         <a href="{{ post.url | relative_url }}">
         {{ post.title | escape }}
@@ -25,5 +29,3 @@ title: News
     </li>
     {%- endfor -%}
 </ul>
-
-<p class="rss-subscribe">subscribe <a href="{{ '/feed.xml' | relative_url }}">via RSS</a></p>

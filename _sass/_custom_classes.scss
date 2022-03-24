@@ -8,8 +8,12 @@ h1 {
 
 @media (max-width: 992px) {
     .navbar-brand img {
-        height: 60px!important;
+        height: 60px !important;
     }
+}
+
+.navbar-brand {
+    padding: 0;
 }
 
 .form-control::placeholder {
@@ -19,9 +23,8 @@ h1 {
 /*-----Sidebar-----*/
 
 #side-nav ul li a {
-    margin-bottom: 0!important;
+    margin-bottom: 0 !important;
 }
-
 
 /*-----Events & news-----*/
 
@@ -58,7 +61,6 @@ li.past-event {
     }
 }
 
-
 /*-----Picture carousel-----*/
 
 .carousel {
@@ -79,7 +81,6 @@ li.past-event {
 }
 
 /*-----Scaling presentations and videos-----*/
-
 
 iframe {
     height: 400px;

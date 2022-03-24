@@ -5,7 +5,7 @@ description: "A Consortium of Services for Research Data Management and More"
 github_project_board: https://github.com/seek4science/seek/projects/12
 
 
-remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.9.0
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@topnav-icons
 
 sass:
   style: compressed
@@ -13,6 +13,8 @@ sass:
 
 
 theme_variables:
+  topnav:
+    twitter: https://twitter.com/FAIRDOM_eu
   theme_color: c23669
   fonts:
     - https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;0,800;1,400&display=swap
