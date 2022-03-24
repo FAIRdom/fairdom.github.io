@@ -5,7 +5,7 @@ description: "A Consortium of Services for Research Data Management and More"
 github_project_board: https://github.com/seek4science/seek/projects/12
 
 
-remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@topnav-icons
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@footer-title
 
 sass:
   style: compressed
