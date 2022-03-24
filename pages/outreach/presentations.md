@@ -16,6 +16,13 @@ Here is a selection of key presentations from the FAIRDOM Team and invited speak
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/1tffPaD8Dk9awm" frameborder="0" allowfullscreen></iframe>
 <i class="fas fa-link me-2"></i>**[Source](https://www.slideshare.net/carolegoble/how-are-we-faring-with-fair-and-what-fair-is-not)**
 
+### ELIXIR Guest Webinar: “Two universes, one world - Community standards vs. formal ISO standards in the life sciences” by Martin Golebiewski
+
+<iframe src="https://www.youtube.com/embed/5Md6McKt64g" frameborder="0" height="200px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<i class="fas fa-link me-2"></i>**[Source](https://elixir-europe.org/events/elixir-guest-webinar-two-universes-one-world-community-standards-vs-formal-iso-standards-life)**
+
+
 ## 2019
 
 ### FAIRy stories: tales from building the FAIR Research Commons from Carole Goble

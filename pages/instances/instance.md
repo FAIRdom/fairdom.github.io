@@ -10,6 +10,8 @@ The [FAIRDOM-SEEK](https://seek4science.org/) platform is a mature web-based res
 
 The platform enables the building of Project Hubs where investigators can store, share, access, connect and interact with digital objects generated from their research, and use them in their own analyses.   
 
+To see what changes and new features are coming, see the [FAIRDOM-SEEK Roadmap](https://docs.seek4science.org/tech/roadmap.html); 
+and to track what is currently under development and planned for the upcoming version, visit the current [Project Board]({{site.github_project_board}})
 
 {% include image.html file="Hubs.png" alt="FAIRDOM SEEK" %}
 

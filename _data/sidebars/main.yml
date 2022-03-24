@@ -34,7 +34,9 @@ subitems:
           - title: NFDI4Health
             url: /NFDI4.html
       - title: Specialised Hubs
-        url: /workflowhub.html
+        subitems:
+          - title: WorkflowHub
+            url: /workflowhub.html
   - title: FAIRDOM Framework
     url: /fairdom_framework.html
     #subitems:
@@ -52,12 +54,18 @@ subitems:
         url: /pals.html
       - title: Systems Biology Foundry
         url: /sbf.html
+  - title: Collaborations
+    subitems:
+      - title: MIAPPE, Plant Data Integration and Findability
+        url: /plant-is-and-miappe
   - title: Support
     subitems:
-      - title: Data Management Checklist
-        url: /dm_checklist.html
+      - title: Data Management
+        url: /data_management.html
       - title: FAIRDOM Cost
         url: /FAIRDOM_Cost.html
+      - title: Community Standards
+        url: /community_standards.html
   - title: Outreach
     subitems:
       - title: Publications

@@ -27,14 +27,15 @@ body {
 
 h1 {
     font-family: 'Montserrat', sans-serif;
-    font-size: 3.5em;
+    font-size: 2.8em;
     font-weight: 400;
     margin-bottom: 0.5em;
+    text-align: center;
 }
 
 @media (max-width:992px) {
     h1 {
-        font-size: 3em;
+        font-size: 2em;
     }
 }
 
@@ -677,6 +678,7 @@ h2.card-title {
     margin-left: 12px;
     font-size: small;
     border-radius: 0px;
+    float: right;
 }
 
 .github-edit-btn:hover {
@@ -772,12 +774,6 @@ li.upcoming-event, li.past-event {
         width: 100%;
         font-size: 0.8rem;
     }
-}
-
-.home-title {
-    font-size: 2.5em;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 400;
 }
 
 /* News section front-page */

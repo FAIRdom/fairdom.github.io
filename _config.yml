@@ -1,9 +1,10 @@
-url: https://fairdom.github.io
+url: https://fair-dom.org
 repository: FAIRdom/fairdom.github.io
 
 # topnav_title: 
 # this appears on the top navigation bar next to the home button
 
+title: FAIRDOM
 site_title: FAIRDOM
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
@@ -35,6 +36,8 @@ contact_email: community@fair-dom.org
 
 feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
+
+github_project_board: https://github.com/seek4science/seek/projects/12
 
 markdown: kramdown
 highlighter: rouge
@@ -88,7 +91,7 @@ defaults:
 date_format: "%B %-d, %Y"
 event_date_format: "%A, %B %-d, %Y"
 
-gtag: "G-746SKYZGG6"
+gtag: "UA-71406140-5"
 
 plugins:
   - jemoji

@@ -1,6 +1,9 @@
 ---
 title: User Communities
 toc: False
+
+redirect_from:
+  - /2016/11/03/digital-salmon-knowledge-base/
 ---
 
 ## FAIRDOM supports many communities from different disciplines and domains
