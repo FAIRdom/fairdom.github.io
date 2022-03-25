@@ -1,50 +1,27 @@
-url: https://fair-dom.org
-repository: FAIRdom/fairdom.github.io
-
-# topnav_title: 
-# this appears on the top navigation bar next to the home button
-
 title: FAIRDOM
-site_title: FAIRDOM
-# this appears in the html browser tab for the site title (seen mostly by search engines, not users)
-
-company_name: FAIRDOM
-# this appears in the page_ending
-
-github_editme_path: https://github.com/FAIRdom/fairdom.github.io/blob/master/
-# if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 description: "A Consortium of Services for Research Data Management and More"
-# Metadata description of the website
-
-host: 127.0.0.1
-# the preview server used. Leave as is.
-
-port: 4000
-# the port where the preview is rendered. You can leave this as is unless you have other Jekyll builds using this same port that might cause conflicts. in that case, use another port such as 4006.
-
-exclude:
-  - .gitignore
-  - CODEOWNERS
-  - var/
-  - README.md
-
-feedback_subject_line: FAIRDOM feedback
-
-contact_email: community@fair-dom.org
-# used as a contact email for the Feedback link in the top navigation bar
-
-feedback_disable: true
-# if you uncomment the previous line, the Feedback link gets removed
 
 github_project_board: https://github.com/seek4science/seek/projects/12
 
-markdown: kramdown
-highlighter: rouge
-kramdown:
- input: GFM
- auto_ids: true
- hard_wrap: false
+
+remote_theme: ELIXIR-Belgium/elixir-toolkit-theme@1.11.0
+
+sass:
+  style: compressed
+  sourcemap: never
+
+
+theme_variables:
+  github_buttons: 
+    position: bottom
+  topnav:
+    twitter: https://twitter.com/FAIRDOM_eu
+  theme_color: 2363cc
+  fonts:
+    - https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;0,400;0,500;0,600;0,700;0,800;1,400&display=swap
+    - https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap
+
 
 feed:
   collections:
@@ -54,10 +31,10 @@ feed:
 collections:
   news:
     output: true
-    permalink: /:collection/:path.html
+    permalink: /:collection/:path
   events:
     output: true
-    permalink: /:collection/:path.html
+    permalink: /:collection/:path
     sort_by: start_date    
 
 
@@ -67,17 +44,17 @@ defaults:
       path: "pages"
       type: "pages"
     values:
-      permalink: /:basename:output_ext
+      permalink: /:basename
       layout: "page"
-      search: true
       sidebar: main
+      search_exclude: false
   -
     scope:
       path: "_news"
       type: "news"
     values:
       layout: "news"
-      search: true
+      toc: false
       sidebar: main
   -
     scope:
@@ -85,7 +62,7 @@ defaults:
       type: "events"
     values:
       layout: "event"
-      search: true
+      toc: false
       sidebar: main
 
 date_format: "%B %-d, %Y"
@@ -97,3 +74,4 @@ plugins:
   - jemoji
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-sitemap

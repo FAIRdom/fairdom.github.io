@@ -10,7 +10,7 @@ redirect_from:
 
 At present FAIRDOM is supported directly or indirectly by various Infrastructures and Projects such as the:
 
-{% include logo-page.html data="funders"%}
+{% include affiliation-tiles-selection.html type="funders"%}
 
 
     

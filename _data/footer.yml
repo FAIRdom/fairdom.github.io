@@ -1,0 +1,38 @@
+copyright: '[![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/) FAIRDOM is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/), except where otherwise noted.'
+extra_line: 
+columns:
+  - type: image
+    image_width: 120px
+    width: 2
+    src: '/assets/img/icon-home-hub.svg'
+    alt: FAIRDOM
+  - type: links
+    width: 3
+    children: 
+      - url_text: Contact
+        url: /contact.html
+      - url_text: GitHub
+        external_url: https://github.com/FAIRdom/fairdom.github.io
+      - url_text: Privacy
+        url: /privacy.html
+      - url_text: Imprint
+        external_url: /imprint.html
+  - type: links
+    title: Funders
+    width: 3
+    children: 
+      - url_text: BBSRC
+        external_url: https://www.bbsrc.ac.uk/
+      - url_text: SystemX
+        external_url: http://www.systemsx.ch/
+      - url_text: German Federal Ministry of Education and Research
+        external_url: https://www.bmbf.de/bmbf/en/home/home_node.html
+      - url_text: NWO
+        external_url: https://www.nwo.nl/en
+  - type: image
+    image_width: 100px
+    width: 2
+    src: '/assets/img/transparent-fairdom-logo-square.svg'
+    alt: FAIRdrom logo square
+
+

@@ -1,0 +1,112 @@
+/*-----General styling-----*/
+
+h1 {
+    text-align: center;
+}
+
+/*-----Top navigation-----*/
+
+@media (max-width: 992px) {
+    .navbar-brand img {
+        height: 60px !important;
+    }
+}
+
+.navbar-brand {
+    padding: 0;
+}
+
+.form-control::placeholder {
+    color: $white;
+}
+
+/*-----Sidebar-----*/
+
+#side-nav ul li a {
+    margin-bottom: 0 !important;
+}
+
+/*-----Events & news-----*/
+
+li.upcoming-event,
+li.past-event {
+    display: none;
+}
+
+// News section front-page
+
+.news-sidebar {
+    background-color: $light;
+
+    .news-item {
+        padding: 7px 11px;
+    }
+
+    .news-hover:hover {
+        text-decoration: none;
+        background-color: $primary;
+        color: $white;
+    }
+
+    .black-line {
+        color: $dark;
+    }
+
+    h2 {
+        font-family: "Montserrat", sans-serif;
+        font-size: 1.6em;
+        font-weight: 700;
+        color: $primary;
+        padding: 7px 11px;
+    }
+}
+
+/*-----Picture carousel-----*/
+
+.carousel {
+    overflow: hidden;
+    height: 250px;
+}
+
+@media (min-width: 768px) {
+    .carousel {
+        height: 400px;
+    }
+}
+
+@media (min-width: 992px) {
+    .carousel {
+        width: 75%;
+    }
+}
+
+/*-----Scaling presentations and videos-----*/
+
+iframe {
+    height: 400px;
+    width: 100%;
+    margin: 40px 0;
+}
+
+/*-----Front page classes------*/
+
+.fair-icon {
+    width: 11rem;
+    font-size: 1.2rem;
+}
+
+@media (max-width: 768px) {
+    .fair-icon i {
+        font-size: 2rem;
+    }
+    .fair-icon {
+        width: 100%;
+        font-size: 0.8rem;
+    }
+}
+
+/*-----GitHub buttons------*/
+
+#github-buttons-wrapper {
+    justify-content: flex-end;
+}
