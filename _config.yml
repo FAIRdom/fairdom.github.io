@@ -13,6 +13,8 @@ sass:
 
 
 theme_variables:
+  github_buttons: 
+    position: bottom
   topnav:
     twitter: https://twitter.com/FAIRDOM_eu
   theme_color: 2363cc
