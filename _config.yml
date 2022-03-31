@@ -37,6 +37,7 @@ collections:
     permalink: /:collection/:path
     sort_by: start_date    
 
+future: true
 
 defaults:
   -

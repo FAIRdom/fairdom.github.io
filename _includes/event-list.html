@@ -8,7 +8,7 @@
     {%- assign events = site.events | reverse %}
     {%- for event in events %}
     <li class='upcoming-event' data-start='{{ event.start_date}}'>
-      <h4 class="mt-1"><a href="{{ event.url }}">{{ event.title | escape }}</a></h4>
+      <h4 class="mt-1"><a href="{{ event.url | relative_url }}">{{ event.title | escape }}</a></h4>
       <p class="text-muted mb-4">
        <i class="far fa-calendar me-2"></i>
        <time datetime="{{ event.start_date | date_to_xmlschema }}">
@@ -35,7 +35,7 @@
     {%- assign events = site.events | reverse %}
     {%- for event in events %}
     <li class='past-event' data-start='{{ event.start_date}}'>
-      <h4 class="mt-1"><a href="{{ event.url }}">{{ event.title | escape }}</a></h4>
+      <h4 class="mt-1"><a href="{{ event.url | relative_url }}">{{ event.title | escape }}</a></h4>
       <p class="text-muted mb-4">
         <i class="far fa-calendar me-2"></i>
         <time datetime="{{ event.start_date | date_to_xmlschema }}">
