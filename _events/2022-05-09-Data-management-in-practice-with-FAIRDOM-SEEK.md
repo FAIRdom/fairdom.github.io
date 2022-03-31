@@ -1,5 +1,5 @@
 ---
-title: “Data management in practice with FAIRDOM-SEEK"
+title: Data management in practice with FAIRDOM-SEEK
 start_date: 2022-05-09
 location: online
 ---
