@@ -51,18 +51,20 @@ defaults:
       search_exclude: false
   -
     scope:
-      path: "_news"
-      type: "news"
+      path: _news
+      type: news
     values:
-      layout: "news"
+      layout: news
       toc: false
       sidebar: main
+      type: news
   -
     scope:
-      path: "_events"
-      type: "events"
+      path: _events
+      type: events
     values:
-      layout: "event"
+      layout: event
+      type: events
       toc: false
       sidebar: main
 

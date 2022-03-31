@@ -4,6 +4,10 @@ h1 {
     text-align: center;
 }
 
+h1.has-subtitle span {
+    color: #74767f!important;
+}
+
 /*-----Top navigation-----*/
 
 @media (max-width: 992px) {
