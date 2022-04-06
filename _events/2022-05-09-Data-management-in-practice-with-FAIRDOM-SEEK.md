@@ -16,6 +16,7 @@ Confirmed invited speakers:
   * Jasper Koehorst - WorkflowHub ([https://workflowhub.eu](https://workflowhub.eu))
   * Andrej Blejec - Bulk uploading from pISA-tree to FAIRDOM using SEEK API and R package seekr
 
+
 Please [register](https://kta-email.zoom.us/meeting/register/tJcucuGrqDsoGNQmGSvYQ0oI4_eOB_AScmRF) for free to get the Zoom access details.
 
 
