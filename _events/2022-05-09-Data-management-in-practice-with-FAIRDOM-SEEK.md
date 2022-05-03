@@ -18,8 +18,7 @@ Programme:
   * 15:20    Andrej Blejec - Bulk uploading from pISA-tree to FAIRDOM using SEEK API and R package seekr
   * 15:40    Discussion
 
-
-
+<p>
 Please [register](https://kta-email.zoom.us/meeting/register/tJcucuGrqDsoGNQmGSvYQ0oI4_eOB_AScmRF) for free to get the Zoom access details.
 
 
