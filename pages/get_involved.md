@@ -24,7 +24,7 @@ please join our meetings or pings us on various communication channels.
 
 * **Agenda, zoom details and minutes:**  [Here](https://docs.google.com/document/d/1tjWlIrbRXUqlqSEyu1Wnwk3sUVnc4dfhFpNM_TVWuao/edit)
 
-* **How to Join:** Use the zoom link and join us anytime
+* **How to Join:** Use the zoom link and drop in anytime
 
 
 ### FAIRDOM Developers Meeting: Discussion of technical development, APIs, assigining and resolving GitHub issues
