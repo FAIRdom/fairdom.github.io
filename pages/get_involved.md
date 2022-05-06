@@ -34,8 +34,12 @@ please join our meetings or pings us on various communication channels.
 
 ## Communication Channels 
 
-* **Mailing list:** FAIRDOM-INTERNAL@listserv.manchester.ac.uk (subscribe/archive)
+* **Slack chat:** https://seek4science.slack.com/archives/C0JRAUQHG
 
-* **Slack chat:** seek4science.slack.com
+* **Seek Github Discussions:** https://github.com/seek4science/seek/discussions 
 
+## Google groups
+* **SEEK:** https://groups.google.com/g/seek4science 
+* **SEEK Developers:** https://groups.google.com/g/seek-developers 
+* **FAIRDOM Community:**  https://groups.google.com/g/fairdom-community 
 * **Google Drive:** To Request access, ping us on the Slack channel
