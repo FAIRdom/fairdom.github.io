@@ -15,9 +15,7 @@ please join our meetings or pings us on various communication channels.
 
 * **When:**  Bi-weekly, on Tuesday 12:00 BST/13:00 CEST
 
-* **Agenda, zoom details and minutes:** [Here](https://docs.google.com/document/d/1HQPiXilOoNVqazvi_ktPq7fDKN_kv_tDzBFMkZ8NFHo/edit)
-
-* **Who can join:** All Welcome!!
+* **How to Join:** Contact us on <community@fair-dom.org>
 
 
 ### FAIRDOM Community Meeting: Prioritization of features requests from users of GUI and outreach (organisation of training, events)
@@ -26,15 +24,14 @@ please join our meetings or pings us on various communication channels.
 
 * **Agenda, zoom details and minutes:**  [Here](https://docs.google.com/document/d/1tjWlIrbRXUqlqSEyu1Wnwk3sUVnc4dfhFpNM_TVWuao/edit)
 
-* **Who can join:** All Welcome!!
+* **How to Join:** Use the zoom link and join us anytime
+
 
 ### FAIRDOM Developers Meeting: Discussion of technical development, APIs, assigining and resolving GitHub issues
 
 * **When:**  Weekly, on Wednesday at 13:30 BST/ 14:30 CEST
 
-* **Agenda, zoom details and minutes:** [Here](https://docs.google.com/document/d/1wgkwom_tqZRinJnll-KteYn8L7UxQBAvh0fbY1tDboo/edit)
-
-* **Who can join:** All Welcome!!
+* **How To join:** Contact us on our slack channel < seek4science.slack.com >
 
 
 
