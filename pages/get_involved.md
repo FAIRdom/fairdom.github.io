@@ -34,7 +34,7 @@ please join our meetings or pings us on various communication channels.
 **Agenda, zoom details and minutes: ** [Here](https://docs.google.com/document/d/1wgkwom_tqZRinJnll-KteYn8L7UxQBAvh0fbY1tDboo/edit)
 
 
-## FAIRDOM Communication Channels 
+## Communication Channels 
 
 ** Mailing list: ** FAIRDOM-INTERNAL@listserv.manchester.ac.uk (subscribe/archive)
 
