@@ -31,8 +31,7 @@ please join our meetings or pings us on various communication channels.
 
 * **When:**  Weekly, on Wednesday at 13:30 BST/ 14:30 CEST
 
-* **How To join:** Contact us on our slack channel < seek4science.slack.com >
-
+* **How to join:** Contact us on our slack channel < seek4science.slack.com >
 
 
 ## Communication Channels 
