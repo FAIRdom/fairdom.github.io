@@ -11,7 +11,7 @@ please join our meetings or pings us on various communication channels.
 
 ## Regular Meetings 
 
-**FAIRDOM Club:** Strategic meeting for resources assignment, collaborations, new projects
+**FAIRDOM Club Meeting:** Strategic meeting for resources assignment, collaborations, new projects
 
 **When:**  Bi-weekly, on Tuesday 12:00 BST/13:00 CEST
 
@@ -35,6 +35,8 @@ please join our meetings or pings us on various communication channels.
 **Agenda, zoom details and minutes:** [Here](https://docs.google.com/document/d/1wgkwom_tqZRinJnll-KteYn8L7UxQBAvh0fbY1tDboo/edit)
 
 **Who can join:** All Welcome!!
+
+
 
 ## Communication Channels 
 
