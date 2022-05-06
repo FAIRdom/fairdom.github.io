@@ -29,7 +29,7 @@ please join our meetings or pings us on various communication channels.
 
 * **When:**  Weekly, on Wednesday at 13:30 BST/ 14:30 CEST
 
-* **How to join:** Contact us on our slack channel < seek4science.slack.com >
+* **How to join:** Contact us on our [slack channel](https://seek4science.slack.com/archives/C0JRAUQHG)
 
 
 ## Communication Channels 
@@ -42,4 +42,4 @@ please join our meetings or pings us on various communication channels.
 * **SEEK:** https://groups.google.com/g/seek4science 
 * **SEEK Developers:** https://groups.google.com/g/seek-developers 
 * **FAIRDOM Community:**  https://groups.google.com/g/fairdom-community 
-* **Google Drive:** To Request access, ping us on the Slack channel
+* **Google Drive:** To Request access, ping us on the [Slack channel](https://seek4science.slack.com/archives/C0JRAUQHG)
