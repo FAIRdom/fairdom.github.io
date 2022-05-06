@@ -26,7 +26,7 @@ please join our meetings or pings us on various communication channels.
 
 ## FAIRDOM Communication Channels 
 
-** Mailing list: ** FAIRDOM-INTERNAL@listserv.manchester.ac.uk> (subscribe/archive)
+** Mailing list: ** FAIRDOM-INTERNAL@listserv.manchester.ac.uk (subscribe/archive)
 
 ** Slack chat: ** seek4science.slack.com
 
