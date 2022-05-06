@@ -18,13 +18,11 @@ please join our meetings or pings us on various communication channels.
 * **How to Join:** Contact us on <community@fair-dom.org>
 
 
-### FAIRDOM Community Meeting: Prioritization of features requests from users of GUI and outreach (organisation of training, events)
+### FAIRDOM Community Workers Meeting: Prioritization of features requests from users of GUI and outreach (organisation of training, events)
 
 * **When:** Last Thursday of each month at 14:00 BST/ 15:00 CEST
 
-* **Agenda, zoom details and minutes:**  [Here](https://docs.google.com/document/d/1tjWlIrbRXUqlqSEyu1Wnwk3sUVnc4dfhFpNM_TVWuao/edit)
-
-* **How to Join:** Use the zoom link and drop in anytime
+* **How to Join:** Contact us on <community@fair-dom.org>
 
 
 ### FAIRDOM Developers Meeting: Discussion of technical development, APIs, assigining and resolving GitHub issues
