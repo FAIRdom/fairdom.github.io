@@ -34,7 +34,7 @@ please join our meetings or pings us on various communication channels.
 
 ## Communication Channels 
 
-* **Slack chat:** https://seek4science.slack.com/archives/C0JRAUQHG
+* **Slack chat:** https://join.slack.com/t/seek4science/shared_invite/zt-csqh94qb-kf~kFbZxuHl1Hpxhbc8avw
 
 * **Seek Github Discussions:** https://github.com/seek4science/seek/discussions 
 
