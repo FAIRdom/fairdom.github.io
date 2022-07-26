@@ -1,5 +1,5 @@
 ---
-title: FAIRDOM User Meeting
+title: FAIRDOM User Meeting - Data management in practice with FAIRDOM-SEEK
 start_date: 2022-10-17
 location: online
 ---
