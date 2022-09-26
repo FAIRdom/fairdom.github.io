@@ -13,9 +13,19 @@ The purpose of the FAIRDOM User Meetings is to establish an active FAIRDOM user 
 Within the two-hours event invited users will showcase the use of FAIRDOMHub and other FAIRDOM-SEEK instances for their research projects. After the presentations we’ll have plenty of time for discussions and networking. 
 
 Speakers:
-  * **Huiming Ding** (Massachusetts Institute of Technology, US): "Creating mutable samples using NExtSEEK"
-  * **Sara El-Gebali** (SciLifeLab Data Centre, SE): "Samples Metadata at the SciLifeLab"
-  * **Marek Ostaszewski** (Luxembourg Centre for Systems Biomedicine, LU): "FAIRDOMHub - a platform for the research community building the COVID-19 Disease Map"
+  * **Huiming Ding** (Massachusetts Institute of Technology, US) 
+    
+    _"Creating mutable samples using NExtSEEK"_
+    
+  * **Sara El-Gebali** (SciLifeLab Data Centre, SE)
+  
+    _"Samples Metadata at the SciLifeLab"_
+    
+  * **Marek Ostaszewski** (Luxembourg Centre for Systems Biomedicine, LU)
+  
+    _"FAIRDOMHub - a platform for the research community building the COVID-19 Disease Map"_  
 
 
-Please [register](https://kta-email.zoom.us/meeting/register/tJMkcu2opzgsG9Pg3Yo8-OHME4CPGp_RKXMr) for free to get the Zoom access details.
+
+&nbsp;
+Please [register](https://kta-email.zoom.us/meeting/register/tJMkcu2opzgsG9Pg3Yo8-OHME4CPGp_RKXMr) for free to get the Zoom access details.  
