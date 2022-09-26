@@ -9,7 +9,7 @@ location: online
 
 The next FAIRDOM user meeting is scheduled for 17th of October, 2022 at 14:00 CEST.
 
-The purpose of the FAIRDOM User Meetings is to establish an active FAIRDOM user community to allow networking between various FAIRDOM-SEEK users and learn from each other's experiences. 
+The purpose of the FAIRDOM user meetings is to establish an active FAIRDOM user community to allow networking between various FAIRDOM-SEEK users and learn from each other's experiences. 
 Within the two-hours event invited users will showcase the use of FAIRDOMHub and other FAIRDOM-SEEK instances for their research projects. After the presentations we’ll have plenty of time for discussions and networking. 
 
 Speakers:
@@ -27,5 +27,5 @@ Speakers:
 
 
 
-&nbsp;
+  
 Please [register](https://kta-email.zoom.us/meeting/register/tJMkcu2opzgsG9Pg3Yo8-OHME4CPGp_RKXMr) for free to get the Zoom access details.  
