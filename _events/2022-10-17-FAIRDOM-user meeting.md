@@ -15,7 +15,7 @@ Within the two-hours event invited users will showcase the use of FAIRDOMHub and
 Speakers:
   * **Huiming Ding** (Massachusetts Institute of Technology, US): "Creating mutable samples using NExtSEEK"
   * **Sara El-Gebali** (SciLifeLab Data Centre, SE): "Samples Metadata at the SciLifeLab"
-  * **Marek Ostaszewski** (Luxembourg Centre for Systems Biomedicine, LU)
+  * **Marek Ostaszewski** (Luxembourg Centre for Systems Biomedicine, LU): "FAIRDOMHub - a platform for the research community building the COVID-19 Disease Map"
 
 
 Please [register](https://kta-email.zoom.us/meeting/register/tJMkcu2opzgsG9Pg3Yo8-OHME4CPGp_RKXMr) for free to get the Zoom access details.
