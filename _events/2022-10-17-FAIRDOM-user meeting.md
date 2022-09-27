@@ -26,6 +26,6 @@ Speakers:
     _"FAIRDOMHub - a platform for the research community building the COVID-19 Disease Map"_  
 
 
-
+&nbsp;
   
 Please [register](https://kta-email.zoom.us/meeting/register/tJMkcu2opzgsG9Pg3Yo8-OHME4CPGp_RKXMr) for free to get the Zoom access details.  
