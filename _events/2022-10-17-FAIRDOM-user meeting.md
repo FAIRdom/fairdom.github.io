@@ -12,18 +12,25 @@ The next FAIRDOM user meeting is scheduled for 17th of October, 2022 at 14:00 CE
 The purpose of the FAIRDOM user meetings is to establish an active FAIRDOM user community to allow networking between various FAIRDOM-SEEK users and learn from each other's experiences. 
 Within the two-hours event invited users will showcase the use of FAIRDOMHub and other FAIRDOM-SEEK instances for their research projects. After the presentations we’ll have plenty of time for discussions and networking. 
 
-Speakers:
-  * **Huiming Ding** (Massachusetts Institute of Technology, US) 
+Agenda:
+  * 14:00 - Welcome
+  * 14:10 - **Marek Ostaszewski** (Luxembourg Centre for Systems Biomedicine, LU)
+  
+    _"FAIRDOMHub - a platform for the research community building the COVID-19 Disease Map"_
+           
+  * 14:30 - **Huiming Ding** (Massachusetts Institute of Technology, US) 
     
     _"Creating mutable samples using NExtSEEK"_
-    
-  * **Sara El-Gebali** (SciLifeLab Data Centre, SE)
+           
+  * 14:50 - **Sara El-Gebali** - (SciLifeLab Data Centre, SE)
   
     _"Samples Metadata at the SciLifeLab"_
-    
-  * **Marek Ostaszewski** (Luxembourg Centre for Systems Biomedicine, LU)
+           
+  * 15:10 - **Rafael Andrade Buono** (University of Ghent, BE)
   
-    _"FAIRDOMHub - a platform for the research community building the COVID-19 Disease Map"_  
+    _"DataHub: focusing on sample metadata"_
+  
+  * 15:30 - Discussion
 
 
 &nbsp;
