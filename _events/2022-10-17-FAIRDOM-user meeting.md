@@ -26,7 +26,7 @@ Agenda:
   
     _"Samples Metadata at the SciLifeLab"_
            
-  * 15:10 - **Rafael Andrade Buono** (University of Ghent, BE)
+  * 15:10 - **Rafael Andrade Buono** (VIB, BE)
   
     _"DataHub: focusing on sample metadata"_
   
