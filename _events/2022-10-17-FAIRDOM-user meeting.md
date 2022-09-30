@@ -35,4 +35,5 @@ Agenda:
 
 &nbsp;
   
-Please [register](https://kta-email.zoom.us/meeting/register/tJMkcu2opzgsG9Pg3Yo8-OHME4CPGp_RKXMr) for free to get the Zoom access details.  
+Please [register](https://kta-email.zoom.us/meeting/register/tJMkcu2opzgsG9Pg3Yo8-OHME4CPGp_RKXMr) for free to get the Zoom access details. 
+
