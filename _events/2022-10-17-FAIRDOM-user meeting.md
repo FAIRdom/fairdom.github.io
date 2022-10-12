@@ -22,7 +22,7 @@ Agenda:
     
     _"Creating mutable samples using NExtSEEK"_
            
-  * 14:50 - **Sara El-Gebali** - (SciLifeLab Data Centre, SE)
+  * 14:50 - **Sara El-Gebali** (SciLifeLab Data Centre, SE)
   
     _"Samples Metadata at the SciLifeLab"_
            
