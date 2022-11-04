@@ -20,6 +20,7 @@ In the past the FAIRDOM has also been funded by the following organisations:
 
 * **Biotechnology and Biological Sciences Research Council (BBSRC)**: UK Research Council and non-departmental public body. 
   
+* **German Federal Ministry of Education and Research (BMBF)**
   
 * **The Netherlands Organization for Scientific Research (Nederlandse Organisatie voor Wetenschappelijk Onderzoek)**:  The national research council 
   of the Netherlands.  
