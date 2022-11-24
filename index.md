@@ -14,6 +14,6 @@ news: true
 
 * Or **[find out more](/about.html)** about making your research **FAIR – Findable, Accessible, Interoperable, and Re-usable**.
 
-[![What is data management](/images/DataManagementYTThumb.jpg)](/whatisdatamanagement.html)
+[![What is data management](/images/DataManagementYTThumb.jpg)](/whatisdatamanagement)
 
 
