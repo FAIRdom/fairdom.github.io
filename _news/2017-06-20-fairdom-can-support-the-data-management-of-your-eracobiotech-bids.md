@@ -14,7 +14,7 @@ To prepare the written data management section we have prepared:
 We encourage people who want to include us to speak directly with us. You can contact us at community@fair-dom.org.
 
 **Webinar Video**
-<iframe src="https://www.youtube.com/embed/79gl3Gn09Hc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/79gl3Gn09Hc" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 **Slides from the Webinar**
 <iframe style="border: 1px solid #CCC; border-width: 1px; margin-bottom: 5px; max-width: 100%;" src="//www.slideshare.net/slideshow/embed_code/key/bPifXVU5WxSBqh" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"> </iframe>

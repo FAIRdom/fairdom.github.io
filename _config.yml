@@ -71,7 +71,7 @@ defaults:
 date_format: "%B %-d, %Y"
 event_date_format: "%A, %B %-d, %Y"
 
-gtag: "UA-71406140-5"
+gtag:  # "UA-71406140-5"
 
 plugins:
   - jemoji
