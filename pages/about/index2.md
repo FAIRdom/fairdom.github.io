@@ -13,4 +13,4 @@ search_exclude: true
 
 Or **[find out more](https://fair-dom.org/about-fairdom)** about making your research **FAIR – Findable, Accessible, Interoperable, and Re-usable**.
 
-<iframe src="https://www.youtube-nocookie.com/embed/PWutnWBfUSw" frameborder="0" height="200px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=embed/PWutnWBfUSw" frameborder="0" height="200px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
