@@ -16,36 +16,43 @@ Bert Droesbeke:
     orcid: 0000-0003-0522-5674
     role: Webmaster
     affiliation: VIB-UGent / ELIXIR-BE
+    image_url: images/people/bedroesb.jfif
 Flora D'Anna:
     git: floradanna
     orcid: 0000-0003-4665-6673
     affiliation: VIB-UGent / ELIXIR-BE
+    image_url: images/people/floradanna.jfif
 Carole Goble:
     git: CaroleGoble
     role: Co-Director
     orcid: 0000-0003-1219-2137
     affiliation: The University of Manchester
+    image_url: images/people/CaroleGoble.jfif
 Frederik Coppens:
     git: frederikcoppens
     role: Co-Director
     orcid: 0000-0001-6565-5145
     email: frederik.coppens@psb.vib-ugent.be
     affiliation: VIB-UGent / ELIXIR-BE
+    image_url: images/people/frederikcoppens.jfif
 Munazah Andrabi:
     git: smza
     email: munazah.andrabi@manchester.ac.uk
     affiliation: The University of Manchester
+    image_url: images/people/smza.png
 Ulrike Wittig:
     git: wittigue
     email: ulrike.wittig@h-its.org
     orcid: 0000-0002-9077-5664
     affiliation: de.NBI / Heidelberg Institute for Theoretical Studies
+    image_url: images/people/wittigue.jfif
 Wolfgang Mueller:
     git: muellerwhd
     email: wolfgang.mueller@h-its.org
     orcid: 0000-0002-4980-3512
     affiliation: Heidelberg Institute for Theoretical Studies
     role: Co-Director
+    image_url: images/people/muellerwhd.jfif
 Martin Golebiewski:
     email: martin.golebiewski@h-its.org
     orcid: 0000-0002-8683-7084
@@ -87,6 +94,7 @@ Alan Williams:
     email: alan.r.williams@manchester.ac.uk
     orcid: 0000-0003-3156-2105
     affiliation: The University of Manchester
+    image_url: images/people/alaninmcr.jfif
 Xiaoming Hu:
     git: whomingbird
     email: xiaoming.hu@h-its.org
@@ -96,6 +104,7 @@ Vahid Kiani:
     git: vdkkia
     email: vahid.kiani@ugent.vib.be
     affiliation: VIB-UGent / ELIXIR-BE
+    image_url: images/people/vdkkia.jfif
 Alain Becam:
     git: abecam
     email: alain.becam@h-its.org
@@ -105,10 +114,12 @@ Alain Becam:
 Aitor Apaolaza:
     git: aapaolaza
     email: aitor.apaolaza@manchester.ac.uk
-    affiliation: The University of Manchester 
+    affiliation: The University of Manchester
+    image_url: images/people/aapaolaza.png 
 Dawie van Niekerk:
     email: ddvniekerk@sun.ac.za
     affiliation: Stellenbosch University
+    image_url: images/people/no_github.png
 Bernd Rinn:
     email: brinn@ethz.ch
     affiliation: ETH Zurich
