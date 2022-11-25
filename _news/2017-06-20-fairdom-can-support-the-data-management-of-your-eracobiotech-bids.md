@@ -14,7 +14,7 @@ To prepare the written data management section we have prepared:
 We encourage people who want to include us to speak directly with us. You can contact us at community@fair-dom.org.
 
 **Webinar Video**
-[![Webinar on Youtube](images/news/FairdomERACoBio_2017-06-20.png)](https://www.youtube.com/watch?v=79gl3Gn09Hc){:target="_blank"}
+[![Webinar on Youtube](/images/news/FairdomERACoBio_2017-06-20.png)](https://www.youtube.com/watch?v=79gl3Gn09Hc){:target="_blank"}
 
 **Slides from the Webinar**
-[![Slides from the Webinar of the Ceremony](images/news/FairdomERACoBio_2017_06_20_2.png)](https://www.slideshare.net/slideshow/key/bPifXVU5WxSBqh){:target="_blank"}
+[![Slides from the Webinar of the Ceremony](/images/news/FairdomERACoBio_2017_06_20_2.png)](https://www.slideshare.net/FAIRDOM/fairdom-data-management-support-for-eracobiotech-proposals){:target="_blank"}

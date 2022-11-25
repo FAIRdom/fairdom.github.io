@@ -14,8 +14,6 @@ subitems:
         url: /citation
       - title: Media Kit
         url: /mediakit
-      - title: What is data management
-        url: /whatisdatamanagement
   - title: FAIRDOM-SEEK
     url: /instance
     subitems:

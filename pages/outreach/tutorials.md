@@ -10,22 +10,20 @@ redirect_from:
 
 ### Register, Login, Browse
 
-<iframe src="https://www.youtube.com/watch?v=embed/XOiKXxDmDDQ" frameborder="0" height="200px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch on Youtube: Register/Login/Browse](/images/tutorials/RegisterLoginBrowse_1.png)](https://www.youtube.com/watch?v=XOiKXxDmDDQ){:target="_blank"}
 
 ### Registering Data Files
 
-<iframe src="https://www.youtube.com/watch?v=embed/zOi_P81sbHE" frameborder="0" height="200px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch on Youtube: Registering DataFiles](/images/tutorials/RegisteringDataFiles_2.png)](https://www.youtube.com/watch?v=zOi_P81sbHE){:target="_blank"}
 
 ### Publishing assets and assigning DOIs
 
-<iframe src="https://www.youtube.com/watch?v=embed/l5SRqIIh28E" frameborder="0" height="200px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch on Youtube: Publishing Assets and assigning DOIs](/images/tutorials/PublishingAssetsAndAssignindDOI_3.png)](https://www.youtube.com/watch?v=l5SRqIIh28E){:target="_blank"}
 
 ### How to use the Samples framework
 
-<iframe src="https://www.youtube.com/watch?v=embed/HzjdLPCqf3g" frameborder="0" height="200px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch on Youtube: How to use the Samples framework](/images/tutorials/HowToUseTheSamplesFramework_4.png)](https://www.youtube.com/watch?v=HzjdLPCqf3g){:target="_blank"}
 
 ### Uploading Data Files from NeLS
 
-<iframe src="https://www.youtube.com/watch?v=embed/m7HkOkdPFAc" frameborder="0" height="200px" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+[![Watch on Youtube: Uploading Data Files from NeLS](/images/tutorials/UploadingDataFilesFromNeLS.png)](https://www.youtube.com/watch?v=m7HkOkdPFAc){:target="_blank"}
