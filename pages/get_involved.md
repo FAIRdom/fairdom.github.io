@@ -13,7 +13,7 @@ please join our meetings or pings us on various communication channels.
 
 ### FAIRDOM Club Meeting: Strategic meeting for resources assignment, collaborations, new projects
 
-* **When:**  Bi-weekly, on Tuesday 12:00 BST/13:00 CEST
+* **When:**  Monthly, last Tuesday 12:00 BST/13:00 CEST
 
 * **How to Join:** Contact us on <community@fair-dom.org>
 
