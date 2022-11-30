@@ -11,21 +11,24 @@ please join our meetings or pings us on various communication channels.
 
 ## Regular Meetings 
 
-### FAIRDOM Club Meeting: Strategic meeting for resources assignment, collaborations, new projects
+### FAIRDOM Club Meeting: 
+Strategic meeting for resources assignment, collaborations, new projects
 
 * **When:**  Monthly, last Tuesday 12:00 BST/13:00 CEST
 
 * **How to Join:** Contact us on <community@fair-dom.org>
 
 
-### FAIRDOM Community Workers Meeting: Prioritization of features requests from users of GUI and outreach (organisation of training, events)
+### FAIRDOM Community Workers Meeting: 
+Prioritization of features requests from users of GUI and outreach (organisation of training, events)
 
 * **When:** Last Thursday of each month at 14:00 BST/ 15:00 CEST
 
 * **How to Join:** Contact us on <community@fair-dom.org>
 
 
-### FAIRDOM Developers Meeting: Discussion of technical development, APIs, assigining and resolving GitHub issues
+### FAIRDOM Developers Meeting: 
+Discussion of technical development, APIs, assigining and resolving GitHub issues
 
 * **When:**  Weekly, on Wednesday at 13:30 BST/ 14:30 CEST
 
