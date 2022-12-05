@@ -37,9 +37,9 @@ Discussion of technical development, APIs, assigining and resolving GitHub issue
 
 ## Communication Channels 
 
-* **Slack chat:** https://join.slack.com/t/seek4science/shared_invite/zt-csqh94qb-kf~kFbZxuHl1Hpxhbc8avw
-
-* **Seek Github Discussions:** https://github.com/seek4science/seek/discussions 
+* **FAIRDOM Mailing List:** https://listserv.manchester.ac.uk/cgi-bin/wa?SUBED1=fairdom&A=1
+* **FAIRDOM-SEEK Slack:** https://join.slack.com/t/seek4science/shared_invite/zt-csqh94qb-kf~kFbZxuHl1Hpxhbc8avw
+* **FAIRDOM-SEEK GitHub Discussions:** https://github.com/seek4science/seek/discussions 
 
 ## Google groups
 * **SEEK:** https://groups.google.com/g/seek4science 
