@@ -20,7 +20,7 @@ please join our meetings or pings us on various communication channels.
 ### FAIRDOM Club Meeting: 
 Strategic meeting for resources assignment, collaborations, new projects
 
-* **When:**  Monthly, last Tuesday 12:00 BST/13:00 CEST
+* **When:**  Monthly, last Tuesday 12:00 GMT / 13:00 CET
 
 * **How to Join:** Contact us on <community@fair-dom.org>
 
@@ -28,7 +28,7 @@ Strategic meeting for resources assignment, collaborations, new projects
 ### FAIRDOM Community Workers Meeting: 
 Prioritization of features requests from users of GUI and outreach (organisation of training, events)
 
-* **When:** Last Thursday of each month at 14:00 BST/ 15:00 CEST
+* **When:** Last Thursday of each month at 14:00 GMT / 15:00 CET
 
 * **How to Join:** Contact us on <community@fair-dom.org>
 
@@ -36,9 +36,9 @@ Prioritization of features requests from users of GUI and outreach (organisation
 ### FAIRDOM Developers Meeting: 
 Discussion of technical development, APIs, assigining and resolving GitHub issues
 
-* **When:**  Weekly, on Wednesday at 13:30 BST/ 14:30 CEST
+* **When:**  Weekly, on Wednesday at 13:00 GMT / 14:00 CET
 
-* **How to join:** Contact us on our [slack channel](https://join.slack.com/t/seek4science/shared_invite/zt-csqh94qb-kf~kFbZxuHl1Hpxhbc8avw)
+* **How to join:** Contact us on our [slack channel](https://join.slack.com/t/seek4science/shared_invite/zt-csqh94qb-kf~kFbZxuHl1Hpxhbc8avw) or on <community@fair-dom.org>
  
 
 ## Google groups
