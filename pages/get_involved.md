@@ -9,6 +9,12 @@ and individual users to join us in our efforts to use and develop FAIRDOM-SEEK.
 If you are interested in data management, a user of any of our platforms, a developer wanting to contribute to our codebase, or just curious about data mangement and want to learn more, 
 please join our meetings or pings us on various communication channels.
 
+## Communication Channels 
+
+* **FAIRDOM Mailing List:** [https://listserv.manchester.ac.uk/cgi-bin/wa?SUBED1=fairdom&A=1](https://listserv.manchester.ac.uk/cgi-bin/wa?SUBED1=fairdom&A=1)
+* **FAIRDOM-SEEK Slack:** [https://join.slack.com/t/seek4science/shared_invite/zt-csqh94qb-kf~kFbZxuHl1Hpxhbc8avw](https://join.slack.com/t/seek4science/shared_invite/zt-csqh94qb-kf~kFbZxuHl1Hpxhbc8avw)
+* **FAIRDOM-SEEK GitHub Discussions:** [https://github.com/seek4science/seek/discussions](https://github.com/seek4science/seek/discussions)
+
 ## Regular Meetings 
 
 ### FAIRDOM Club Meeting: 
@@ -33,13 +39,7 @@ Discussion of technical development, APIs, assigining and resolving GitHub issue
 * **When:**  Weekly, on Wednesday at 13:30 BST/ 14:30 CEST
 
 * **How to join:** Contact us on our [slack channel](https://join.slack.com/t/seek4science/shared_invite/zt-csqh94qb-kf~kFbZxuHl1Hpxhbc8avw)
-
-
-## Communication Channels 
-
-* **FAIRDOM Mailing List:** https://listserv.manchester.ac.uk/cgi-bin/wa?SUBED1=fairdom&A=1
-* **FAIRDOM-SEEK Slack:** https://join.slack.com/t/seek4science/shared_invite/zt-csqh94qb-kf~kFbZxuHl1Hpxhbc8avw
-* **FAIRDOM-SEEK GitHub Discussions:** https://github.com/seek4science/seek/discussions 
+ 
 
 ## Google groups
 * **SEEK:** https://groups.google.com/g/seek4science 
