@@ -73,7 +73,7 @@ event_date_format: "%A, %B %-d, %Y"
 
 gtag:  # "UA-71406140-5"
 
-calender_url_root: https://open-web-calendar.hosted.quelltext.eu/
+calender_url_root: https://open-web-calendar.hosted.quelltext.eu
 
 plugins:
   - jemoji
