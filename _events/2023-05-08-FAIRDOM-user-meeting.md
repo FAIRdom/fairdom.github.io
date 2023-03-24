@@ -20,4 +20,8 @@ Speakers:
             
   * **Jacky Snoep** (Stellenbosch University, South Africa)
   
-   
+  
+  &nbsp;
+  
+  Please [register](https://kta-email.zoom.us/meeting/register/tJYudu6trj8iEtG8ZCNjCLhRX04pehWomdTo) for free to get the ZOOM access details.
+  
