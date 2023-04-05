@@ -13,13 +13,21 @@ The purpose of the FAIRDOM user meetings is to establish an active FAIRDOM user 
 Within the two-hours event invited users will showcase the use of FAIRDOMHub and other FAIRDOM-SEEK instances for their research projects. After the presentations we’ll have plenty of time for discussions and networking. 
 
 Speakers:
+  * 14:00 - Welcome
   
-  * **Ulrich Sax** (University Medical Center Göttingen, Germany)
+  * 14:10 - **Ulrich Sax** (University Medical Center Göttingen, Germany)
+  
+    _tba_
            
-  * **Dagmar Waltemath** (University Medicine Greifswald, Germany) 
-            
-  * **Jacky Snoep** (Stellenbosch University, South Africa)
+  * 14:30 - **Dagmar Waltemath** (University Medicine Greifswald, Germany)
   
+    _tba_ 
+            
+  * 14:50 - **Jacky Snoep** (Stellenbosch University, South Africa)
+  
+    _"Running reproducible modelling projects on the FAIRDOMHub: from model construction to publication"_
+  
+   * 15:10 - Discussion
   
   &nbsp;
   
