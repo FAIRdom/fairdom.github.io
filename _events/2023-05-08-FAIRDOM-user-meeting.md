@@ -22,7 +22,7 @@ Agenda:
            
   * 14:30 - **Dagmar Waltemath** (University Medicine Greifswald, Germany)
   
-    _tba_ 
+    _"Managing computational models in biology and medicine: Experiences from running FAIRDOMHubs in the COMBINE and Medical Informatics communities"_ 
             
   * 14:50 - **Jacky Snoep** (Stellenbosch University, South Africa)
   
