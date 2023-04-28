@@ -18,7 +18,7 @@ Agenda:
   
   * 14:10 - **Ulrich Sax** (University Medical Center Göttingen, Germany)
   
-    _tba_
+    _"A translational use case for SEEK in current cancer research"_
            
   * 14:30 - **Dagmar Waltemath** (University Medicine Greifswald, Germany)
   
