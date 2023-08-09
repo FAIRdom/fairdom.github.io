@@ -9,7 +9,7 @@ The EOSC Portal Marketplace offers a catalogue of resources and services for Ope
 
 The resource and provider details in the EOSC Portal Marketplace can be found here:
 
-[FAIRDOMHub](https://marketplace.eosc-portal.eu/datasources/eosc.hits.901e9baaa76d72017ebd7dfd93436caf)
+[FAIRDOMHub](https://marketplace.eosc-portal.eu/services/fairdomhub)
 
-[WorkflowHub](https://marketplace.eosc-portal.eu/datasources/eosc.elixir-uk.5126ffcc8e23f65bbbe219d36128f2c8)
+[WorkflowHub](https://marketplace.eosc-portal.eu/services/workflowhub-2d3acb63-8481-4cbd-819f-55bee294bedc)
 
