@@ -1,7 +1,7 @@
 ---
 title: Tools for Systems biology modeling and data exchange - COPASI, CellNetAnalyzer, SABIO-RK, FAIRDOMHub/SEEK
-start_date: 2023-10-28
-end_date: 2023-10-30
+start_date: 2023-11-28
+end_date: 2023-11-30
 location: Magdeburg, Germany
 ---
 
