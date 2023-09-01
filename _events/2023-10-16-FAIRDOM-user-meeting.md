@@ -11,9 +11,9 @@ The upcoming FAIRDOM user meeting is scheduled for Monday, **16th October, 2023 
 
 It will focus on presentations by FAIRDOM team members including:
 
-* **Update about features under development (e.g. Samples in FAIRDOM-SEEK)**
-* **Presentation of the current roadmap**
-* **Discussion about future plans (e.g. integration of other tools)**
+* Update about features under development (e.g. Samples in FAIRDOM-SEEK)
+* Presentation of the current roadmap
+* Discussion about future plans (e.g. integration of other tools)
   
 All participants of the meeting are invited to contribute to the discussions and to ask us anything related to FAIRDOM-SEEK current developments and future plans.
 
