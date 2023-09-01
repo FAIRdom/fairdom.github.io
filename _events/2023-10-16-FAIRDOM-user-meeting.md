@@ -17,3 +17,5 @@ It will focus on presentations by FAIRDOM team members including:
   
 All participants of the meeting are invited to contribute to the discussions and to ask us anything related to FAIRDOM-SEEK current developments and future plans.
 
+Please [register here](https://kta-email.zoom.us/meeting/register/tJIucuyorjgqEtNgTJsJmOUetFFg3OfTuGkk) to get the ZOOM access details.
+
