@@ -7,15 +7,22 @@ location: online
 ### Data management in practice with FAIRDOM-SEEK
 
 
-The upcoming FAIRDOM user meeting is scheduled for Monday, **16th October, 2023 at 14:00 -16:00 CEST**.
+The FAIRDOM user meeting is scheduled for Monday, **16th October, 2023 at 14:00 -16:00 CEST**.
 
-It will focus on presentations by FAIRDOM team members including:
+Agenda:
 
-* Update about features under development (e.g. Samples in FAIRDOM-SEEK)
-* Presentation of the current roadmap
-* Discussion about future plans (e.g. integration of other tools)
-  
-All participants of the meeting are invited to contribute to the discussions and to ask us anything related to FAIRDOM-SEEK current developments and future plans.
+14:00 - **Welcome & Agenda**
 
-Please [register here](https://kta-email.zoom.us/meeting/register/tJIucuyorjgqEtNgTJsJmOUetFFg3OfTuGkk) to get the ZOOM access details.
+14:05 - **Update about Samples related features in FAIRDOM-SEEK** (Flora D’Anna, VIB)
+
+14:30 - **Overview of the latest FAIRDOM-SEEK release** (Stuart Owen, University of Manchester)
+
+14:40 - **Presentation of the new roadmap** (Stuart Owen, University of Manchester)
+
+15:00 - **Discussion about the roadmap**
+
+15:15 - **Q&A: ask me anything**
+
+
+The slides of the presentations are available on [FAIRDOMHub](https://fairdomhub.org/presentations/1414).
 
