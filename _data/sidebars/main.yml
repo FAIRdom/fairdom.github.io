@@ -14,14 +14,12 @@ subitems:
         url: /citation
       - title: Media Kit
         url: /mediakit
-
   - title: FAIRDOM Platform
-    url: /fairdom_platform
     subitems:
-       - title: FAIRDOM-SEEK
-         url: /fairdomseek
-       - title: FAIRDOM Framework 
-         url: /fairdom_framework
+      - title: FAIRDOM-SEEK
+        url: /fairdomseek
+      - title: FAIRDOM Framework 
+        url: /fairdom_framework
       # - title: RightField
       #   url: /rightfield
       # - title: JWS Online
