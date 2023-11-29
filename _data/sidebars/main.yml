@@ -14,6 +14,20 @@ subitems:
         url: /citation
       - title: Media Kit
         url: /mediakit
+
+  - title: FAIRDOM Platform
+    url: /fairdom_platform
+    #subitems:
+       - title: FAIRDOM-SEEK
+         url: /fairdomseek
+       - title: FAIRDOM Framework 
+         url: /fairdom_framework
+      # - title: RightField
+      #   url: /rightfield
+      # - title: JWS Online
+      #   url: /jws
+      # - title: Openbis
+      #   url: /openbis
   - title: FAIRDOM Hubs
     url: /fairdom_hubs
     subitems:
@@ -37,19 +51,6 @@ subitems:
         subitems:
           - title: WorkflowHub
             url: /workflowhub
-  - title: FAIRDOM Platform
-    url: /fairdom_pltform
-    #subitems:
-       - title: FAIRDOM-SEEK
-         url: /fairdomseek
-       - title: FAIRDOM Framework 
-         url: /fairdom_framework
-      # - title: RightField
-      #   url: /rightfield
-      # - title: JWS Online
-      #   url: /jws
-      # - title: Openbis
-      #   url: /openbis
   - title: Communities
     subitems:
       - title: User Communities
