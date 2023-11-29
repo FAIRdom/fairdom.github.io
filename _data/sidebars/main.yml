@@ -27,7 +27,6 @@ subitems:
       # - title: Openbis
       #   url: /openbis
   - title: FAIRDOM Hubs
-    url: /fairdom_hubs
     subitems:
       - title: Public Hubs
         subitems:
