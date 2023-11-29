@@ -17,7 +17,7 @@ subitems:
 
   - title: FAIRDOM Platform
     url: /fairdom_platform
-    #subitems:
+    subitems:
        - title: FAIRDOM-SEEK
          url: /fairdomseek
        - title: FAIRDOM Framework 
