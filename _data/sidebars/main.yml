@@ -37,9 +37,13 @@ subitems:
         subitems:
           - title: WorkflowHub
             url: /workflowhub
-  - title: FAIRDOM Framework
-    url: /fairdom_framework
+  - title: FAIRDOM Platform
+    url: /fairdom_pltform
     #subitems:
+       - title: FAIRDOM-SEEK
+         url: /fairdomseek
+       - title: FAIRDOM Framework 
+         url: /fairdom_framework
       # - title: RightField
       #   url: /rightfield
       # - title: JWS Online
