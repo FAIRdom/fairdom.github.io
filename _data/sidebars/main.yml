@@ -14,8 +14,8 @@ subitems:
         url: /citation
       - title: Media Kit
         url: /mediakit
-  - title: FAIRDOM-SEEK
-    url: /instance
+  - title: FAIRDOM Hubs
+    url: /fairdom_hubs
     subitems:
       - title: Public Hubs
         subitems:
