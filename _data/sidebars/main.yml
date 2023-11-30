@@ -26,8 +26,8 @@ subitems:
       #   url: /jws
       # - title: Openbis
       #   url: /openbis
-  - title: FAIRDOM In Use
-    url: /fairdom_in_use
+ #- title: FAIRDOM In Use
+ #  url: /fairdom_in_use
     subitems:
       - title: BioIndustry4.0 
         url: /bioindustry4.0
