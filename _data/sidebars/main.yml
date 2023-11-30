@@ -31,6 +31,8 @@ subitems:
     subitems:
       - title: IBISBA
         url: /ibisba
+      - title: WorkflowHub
+        url: /workflowhub
   - title: FAIRDOM Hubs
     subitems:
       - title: Public Hubs
