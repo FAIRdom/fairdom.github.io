@@ -11,4 +11,3 @@ In this section you will find:
 
 {% include section-navigation-tiles.html type="fairdom_in_use" search=true %}
 
-{{page.type}}
