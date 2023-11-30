@@ -1,6 +1,8 @@
 ---
-title: FAIRDOM In Use COMING SOON
+title: FAIRDOM In Use 
 ---
+
+Coming soon .....
 
 In this section you will find:
 
