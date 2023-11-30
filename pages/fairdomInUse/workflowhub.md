@@ -6,5 +6,5 @@ description:
 ## Introduction
 
 
-## IBISBAHub
+## WorkflowHub
 [WorkflowHub](https://workflowhub.eu)
