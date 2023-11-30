@@ -29,30 +29,30 @@ subitems:
 # - title: FAIRDOM In Use
 #   url: /fairdom_in_use
 #   subitems:
-      - title: BioIndustry4.0 
-        url: /bioindustry4.0
-      - title: Covid-19 Disease Map
-        url: /covid19dm
-      - title: Centre for Digital Life
-        url: /digitallifenorway
-      - title: Digital Salmon
-        url: /digitalsalmon
-      - title: Leipzig Health Atlas
-        url: /leipzig
-      - title: NFDI4Health
-        url: /nfdi4health
-      - title: Plant Systems-biology Modelling
-        url: /plantsysbiomod
-      - title: Systems Biology Modelling
-        url: /sysbiomod
-      - title: IBISBA
-        url: /ibisba
-      - title: WorkflowHub
-        url: /workflowhub
-      - title: DataHub
-        url: /datahub
-      - title: Digital Research Hub
-        url: /scilifelab.md
+     # - title: BioIndustry4.0 
+     #   url: /bioindustry4.0
+     # - title: Covid-19 Disease Map
+     #   url: /covid19dm
+     # - title: Centre for Digital Life
+     #   url: /digitallifenorway
+     # - title: Digital Salmon
+     #   url: /digitalsalmon
+     # - title: Leipzig Health Atlas
+     #   url: /leipzig
+     # - title: NFDI4Health
+     #   url: /nfdi4health
+     # - title: Plant Systems-biology Modelling
+     #   url: /plantsysbiomod
+     # - title: Systems Biology Modelling
+     #   url: /sysbiomod
+     # - title: IBISBA
+     #   url: /ibisba
+     # - title: WorkflowHub
+     #   url: /workflowhub
+     # - title: DataHub
+     #   url: /datahub
+     # - title: Digital Research Hub
+     #   url: /scilifelab.md
   - title: FAIRDOM Hubs
     subitems:
       - title: Public Hubs
