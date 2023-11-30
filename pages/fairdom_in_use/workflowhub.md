@@ -1,6 +1,7 @@
 ---
 title: WorkflowHub
 description: 
+type: fairdom_in_use
 ---
 
 ## Introduction
