@@ -1,30 +1,29 @@
 <!doctype html>
 <html lang="en">
 {% include head.html %}
-<body>
+<body class="d-flex flex-column min-vh-100"{% unless page.toc == false %} data-bs-spy="scroll" data-bs-target="#toc-contents" data-bs-smooth-scroll="true" tabindex="0"{% endunless %}>
+    {% if jekyll.environment == "development" %}{% include dev-info.html %}{% endif %}
     {% include topnav.html %}
     <!-- Page Content -->
-    <div class="container min-vh-100">
+    <div class="container flex-grow-1">
         <!-- Content Row -->
-        <div class="row gx-0 gx-lg-5">
-            {%- assign content_col_size = "col-lg-12" %}{% unless page.hide_sidebar %}
-            <!-- Sidebar Column -->
-            <div class="col-lg-3">
+        <div {% unless page.sidebar == nil or page.sidebar == false %}id="layout" class="gap-5"{% endunless %}>
+            <!-- Sidebar -->
+            {%- unless page.sidebar == nil or page.sidebar == false %}
+            <aside id="sidebar">
                 {% include sidebar.html %}
                 {%- if page.news %}
                 {% include sidebar-news.html %}
                 {%- endif %}
-            </div>
-            {%- assign content_col_size = "col-lg-9" %}{% endunless %}
-            <!-- Content Column -->
-            <div class="{{content_col_size}}">
-                {{content}}
-            </div>
+            </aside>
+            {% endunless %}
+            <!-- Content -->
+            {{content}}
         </div>
     </div>
     {%- if site.theme_variables.back_to_top or site.theme_variables.back_to_top == nil %}
-    <button id="back-to-top" class="btn btn-primary" type="button" aria-hidden="true" onclick="topFunction()">
-        <i class="fa-solid fa-arrow-up"></i><span class="ms-2 d-none d-sm-inline">Back to top</span>
+    <button id="back-to-top" class="btn btn-primary rounded-3" type="button" aria-hidden="true" onclick="topFunction()">
+        <i class="fa-solid fa-arrow-up"></i>
     </button>
     {%- endif %}
     {% include footer.html %}
