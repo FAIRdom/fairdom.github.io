@@ -1,6 +1,7 @@
 ---
 title: IBISBA
 description: 
+type: fairdom_in_use
 ---
 
 ## Introduction

@@ -27,7 +27,7 @@ subitems:
       # - title: Openbis
       #   url: /openbis
   - title: FAIRDOM In Use
-    url: /projects
+    url: /fairdom_in_use
     subitems:
       - title: IBISBA
         url: /ibisba
