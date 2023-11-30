@@ -26,9 +26,9 @@ subitems:
       #   url: /jws
       # - title: Openbis
       #   url: /openbis
- #- title: FAIRDOM In Use
- #  url: /fairdom_in_use
-    subitems:
+# - title: FAIRDOM In Use
+#   url: /fairdom_in_use
+#   subitems:
       - title: BioIndustry4.0 
         url: /bioindustry4.0
       - title: Covid-19 Disease Map
