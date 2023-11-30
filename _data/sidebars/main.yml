@@ -28,6 +28,9 @@ subitems:
       #   url: /openbis
   - title: FAIRDOM In Use
     url: /projects
+    subitems:
+      - title: IBISBA
+        url: /ibisba
   - title: FAIRDOM Hubs
     subitems:
       - title: Public Hubs
