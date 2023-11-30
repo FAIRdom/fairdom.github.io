@@ -26,6 +26,9 @@ subitems:
       #   url: /jws
       # - title: Openbis
       #   url: /openbis
+
+   - title: FAIRDOM In Use
+    url: /projects
   - title: FAIRDOM Hubs
     subitems:
       - title: Public Hubs
