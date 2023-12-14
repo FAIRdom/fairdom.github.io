@@ -15,12 +15,12 @@ Bert Droesbeke:
     email: bedro@psb.ugent.be
     orcid: 0000-0003-0522-5674
     role: Webmaster
-    affiliation: VIB-UGent / ELIXIR-BE
+    affiliation: VIB Data Core / ELIXIR-BE
     image_url: images/people/bedroesb.jfif
 Flora D'Anna:
     git: floradanna
     orcid: 0000-0003-4665-6673
-    affiliation: VIB-UGent / ELIXIR-BE
+    affiliation: VIB Data Core / ELIXIR-BE
     image_url: images/people/floradanna.jfif
 Carole Goble:
     git: CaroleGoble
@@ -33,7 +33,7 @@ Frederik Coppens:
     role: Co-Director
     orcid: 0000-0001-6565-5145
     email: frederik.coppens@psb.vib-ugent.be
-    affiliation: VIB-UGent / ELIXIR-BE
+    affiliation: VIB Data Core / ELIXIR-BE
     image_url: images/people/frederikcoppens.jfif
 Munazah Andrabi:
     git: smza
@@ -71,7 +71,7 @@ Rafael Buono:
     git: rabuono
     email: rafael.buono@psb.ugent.be 
     orcid: 0000-0002-6675-3836
-    affiliation: VIB-UGent / ELIXIR-BE
+    affiliation: VIB Data Core / ELIXIR-BE
     image_url: images/people/Rafael_Buono.jpg
 Korbinian Bösl:
     email: Maja.Rey@h-its.org
@@ -101,8 +101,6 @@ Xiaoming Hu:
     affiliation: Heidelberg Institute for Theoretical Studies
     image_url: images/people/Xiaoming_Hu.png
 Vahid Kiani:
-    git: vdkkia
-    email: vahid.kiani@ugent.vib.be
     affiliation: VIB-UGent / ELIXIR-BE
     image_url: images/people/vdkkia.jfif
 Alain Becam:
@@ -153,3 +151,9 @@ Quyen Nguyen:
 Rostyslav Kuzyakiv:
     affiliation: University of Zurich
     image_url: images/people/Rostyslav_Kuzyakiv.png
+Kevin De Pelseneer:
+    git: kdp-cloud
+    email: kevin.depelseneer@vib.be
+    orcid: 0009-0000-7435-4475
+    affiliation: VIB Data Core / ELIXIR-BE
+    image_url: images/people/kevin_de_pelseneer.jpeg
