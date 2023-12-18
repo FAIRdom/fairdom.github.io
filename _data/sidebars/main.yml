@@ -54,7 +54,7 @@ subitems:
      # - title: Digital Research Hub
      #   url: /scilifelab.md
   - title: FAIRDOM Hubs
-    url: /instance.md
+    url: /instance
     subitems:
       - title: Public Hubs
         subitems:
