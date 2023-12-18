@@ -7,4 +7,4 @@ The [LiSyM SEEK](https://seek.lisym.org) is one of the key Project Hubs build on
 
 The project members use the [LiSyM SEEK](https://seek.lisym.org) to upload and or interlink experimental data, as well as organizing computational models build from these. 
 
-{% include image.html file="LiSyM.png" alt="LiSyM SEEK" %}
+# {% include image.html file="LiSyM.png" alt="LiSyM SEEK" %}
