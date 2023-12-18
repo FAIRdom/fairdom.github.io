@@ -1,6 +1,6 @@
 ---
 title: LiSyM cancer
-description: 
+description: LiSyM SEEK build on the FAIRDOM-SEEK platform, serves as the LiSyM (Liver Systems Medicine)-Cancer network
 type: fairdom_in_use
 ---
 
