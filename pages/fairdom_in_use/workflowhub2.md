@@ -12,4 +12,4 @@ and is heavily used by other [ELIXIR](http://elixir-europe.org/) activities.
 
 More details can be found about WorkflowHub at <https://about.workflowhub.eu>
 
-{% include image.html file="WorkflowHub.png" alt="Workflow Hub" %}
+
