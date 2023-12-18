@@ -10,8 +10,8 @@ The [LiSyM SEEK](https://seek.lisym.org/) is one of the key Project Hubs buildin
 
 Within the LiSyM-Cancer projects five different platforms are in use for data storage and exchange due to the need of the network members. Integrating these different platforms to easily transfer and connect the data and metadata between the different systems is a key responsibility of the data management team.
 
-# ![Lysim Front Page](images/fairdom_in_use/lysim-front-page.png)
-# Figure 1. Screenshot of LiSyM SEEK landing page
+<!-- ![Lysim Front Page](images/fairdom_in_use/lysim-front-page.png) -->
+<!-- Figure 1. Screenshot of LiSyM SEEK landing page -->
 
-# ![Lysim Overview](images/fairdom_in_use/lysim-overview.png)
-# Figure 2. Integration of five systems for efficient data exchange and management in LiSyM-Cancer
+<!-- ![Lysim Overview](images/fairdom_in_use/lysim-overview.png) -->
+<!-- Figure 2. Integration of five systems for efficient data exchange and management in LiSyM-Cancer -->
