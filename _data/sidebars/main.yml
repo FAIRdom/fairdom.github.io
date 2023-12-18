@@ -31,6 +31,8 @@ subitems:
     subitems:
        - title: LiSyM
          url: /Lisym
+       - title: IBISBA
+         url: /ibisba
      # - title: BioIndustry4.0 
      #   url: /bioindustry4.0
      # - title: Covid-19 Disease Map
@@ -46,17 +48,16 @@ subitems:
      # - title: Plant Systems-biology Modelling
      #   url: /plantsysbiomod
      # - title: Systems Biology Modelling
-     #   url: /sysbiomod
-         title: IBISBA
-         url: /ibisba
+     #   url: /sysbiomod   
      # - title: WorkflowHub
      #   url: /workflowhub
-     #   title: DataHub
+       - title: DataHub
          url: /datahub
      # - title: Digital Research Hub
      #   url: /scilifelab.md
        - title: MIAPPE, Plant Data Integration and Findability
-        url: /plant-is-and-miappe
+         url: /plant-is-and-miappe
+        
   - title: FAIRDOM Hubs
     url: /instance
     subitems:
