@@ -26,9 +26,11 @@ subitems:
       #   url: /jws
       # - title: Openbis
       #   url: /openbis
-# - title: FAIRDOM In Use
-#   url: /fairdom_in_use
-#   subitems:
+  - title: FAIRDOM In Use
+    url: /fairdom_in_use
+    subitems:
+       - title: LiSyM
+         url: /Lisym
      # - title: BioIndustry4.0 
      #   url: /bioindustry4.0
      # - title: Covid-19 Disease Map
@@ -45,14 +47,16 @@ subitems:
      #   url: /plantsysbiomod
      # - title: Systems Biology Modelling
      #   url: /sysbiomod
-     # - title: IBISBA
-     #   url: /ibisba
+         title: IBISBA
+         url: /ibisba
      # - title: WorkflowHub
      #   url: /workflowhub
-     # - title: DataHub
-     #   url: /datahub
+     #   title: DataHub
+         url: /datahub
      # - title: Digital Research Hub
      #   url: /scilifelab.md
+       - title: MIAPPE, Plant Data Integration and Findability
+        url: /plant-is-and-miappe
   - title: FAIRDOM Hubs
     url: /instance
     subitems:
@@ -78,16 +82,15 @@ subitems:
             url: /workflowhub
   - title: Communities
     subitems:
-      - title: User Communities
-        url: /communities
-      - title: PALs
-        url: /pals
-      - title: Systems Biology Foundry
-        url: /sbf
-  - title: Collaborations
-    subitems:
-      - title: MIAPPE, Plant Data Integration and Findability
-        url: /plant-is-and-miappe
+      #- title: User Communities
+      #  url: /communities
+      #- title: PALs
+      #  url: /pals
+      # - title: Systems Biology Foundry
+      #  url: /sbf
+  #- title: Collaborations
+  #  subitems:
+      
   - title: Support
     subitems:
       - title: Data Management
