@@ -11,7 +11,7 @@ The platform enables the building of Project Hubs where investigators can store,
 To see what changes and new features are coming, see the [FAIRDOM-SEEK Roadmap](https://docs.seek4science.org/tech/roadmap.html); 
 and to track what is currently under development and planned for the upcoming version, visit the current [Project Board]({{site.github_project_board}})
 
-{% include image.html file="Hubs.png" alt="FAIRDOM SEEK" %}
+{% include image.html file="Hubs_small.png" alt="FAIRDOM SEEK" %}
 
 
 The [FAIRDOM-SEEK](https://seek4science.org/) can be downloaded, installed and managed locally as hubs or instances providing a solution to data sharing within groups and consortia. Currently three types of hubs are supported:
