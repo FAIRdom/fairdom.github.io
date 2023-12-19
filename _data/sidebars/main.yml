@@ -48,15 +48,15 @@ subitems:
      # - title: Plant Systems-biology Modelling
      #   url: /plantsysbiomod
      # - title: Systems Biology Modelling
-     #   url: /sysbiomod   
-     # - title: WorkflowHub
-     #   url: /workflowhub
+     #   url: /sysbiomod
        - title: DataHub
          url: /datahub
      # - title: Digital Research Hub
      #   url: /scilifelab.md
        - title: MIAPPE, Plant Data Integration and Findability
          url: /plant-is-and-miappe
+       - title: WorkflowHub
+         url: /workflowhub2
         
   - title: FAIRDOM Hubs
     url: /instance
