@@ -4,7 +4,6 @@ description: "The WorkflowHub is a registry for sharing and publishing computati
 type: fairdom_in_use
 ---
 
-## Introduction
 
 The WorkflowHub is a registry and repository for sharing and publishing computational workflows and facilitates the re-use of these workflows in an accessible and interoperable way.
 
