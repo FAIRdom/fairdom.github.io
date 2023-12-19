@@ -19,10 +19,10 @@ redirect_from:
 {% include contributor-tiles-all.html custom="Martin Golebiewski, Bert Droesbeke, Flora D'Anna, Ulrike Wittig, Munazah Andrabi, Olga Krebs, Rafael Buono, Maja Rey, Korbinian Bösl"%}
 
 ## Technical
-{% include contributor-tiles-all.html custom="Stuart Owen, Finn Bacall, Alan Williams, Kevin De Pelseneer, Xiaoming Hu, Alain Becam, Aitor Apaolaza, Dawie van Niekerk"%}
+{% include contributor-tiles-all.html custom="Stuart Owen, Finn Bacall, Kevin De Pelseneer, Xiaoming Hu, Dawie van Niekerk"%}
 
 ## Associates
 {% include contributor-tiles-all.html custom="Bernd Rinn, Jacky Snoep, Katy Wolstencroft, Andrew Millar"%}
 
 ## Alumni
-{% include contributor-tiles-all.html custom="Lars Malmstroem, Natalie J Stanford, Quyen Nguyen, Rostyslav Kuzyakiv, Jakub Straszewski, Vahid Kiani"%}
+{% include contributor-tiles-all.html custom="Lars Malmstroem, Natalie J Stanford, Quyen Nguyen, Rostyslav Kuzyakiv, Jakub Straszewski, Vahid Kiani, Alan Williams, Alain Becam, Aitor Apaolaza"%}
