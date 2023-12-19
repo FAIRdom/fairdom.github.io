@@ -29,4 +29,6 @@ and is heavily used by other [ELIXIR](http://elixir-europe.org/) activities.
 * Workflow Version management
 * Workflows organised into Collections
 
+### More information
+
 More details can be found about WorkflowHub at <https://about.workflowhub.eu>
