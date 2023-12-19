@@ -12,7 +12,7 @@ The [WorkflowHub](https://workflowhub.eu) is a customised instance of FAIRDOM-SE
 and is now sponsored by [BY-COVID](https://by-covid.org/), [EuroScienceGateway](https://eurosciencegateway.eu/), [TRE-FX](https://trefx.uk/), [BioDT](https://biodt.eu/), [BioIndustry4.0](https://esciencelab.org.uk/projects/bioindustry-4.0/), 
 and is heavily used by other [ELIXIR](http://elixir-europe.org/) activities.
 
-{% include image.html file="WorkflowHub.png" alt="Workflow Hub" %}
+{% include image.html file="WorkflowHub.png" alt="Workflow Hub" max-width='90%' click=true %}
 
 ### The WorkflowHub serves as:
 * a private and public collaboration space for workflow teams;
