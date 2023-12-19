@@ -14,18 +14,10 @@ subitems:
         url: /citation
       - title: Media Kit
         url: /mediakit
-  - title: FAIRDOM Platform
-    subitems:
-      - title: FAIRDOM-SEEK
-        url: /fairdomseek
-      - title: FAIRDOM Framework 
-        url: /fairdom_framework
-      # - title: RightField
-      #   url: /rightfield
-      # - title: JWS Online
-      #   url: /jws
-      # - title: Openbis
-      #   url: /openbis
+  - title: FAIRDOM-SEEK
+    url: /fairdomseek
+  - title: FAIRDOMHub
+    url: /fairdomhub
   - title: FAIRDOM In Use
     url: /fairdom_in_use
     subitems:
