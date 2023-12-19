@@ -3,7 +3,7 @@ title: FAIRDOM-SEEK Platform
 toc: false
 ---
 
-The [FAIRDOM-SEEK](https://fairdomseek.org/) platform is the [open source](https://github.com/seek4science/seek) web based Research Data Management Platform developed and 
+The [FAIRDOM-SEEK](https://fairdomseek.org/) platform is the [open source](https://github.com/seek4science/seek) Research Data Management Platform developed and 
 supported by the members of the FAIRDOM consortium.
 
 It is a mature web-based resource for organising, 
