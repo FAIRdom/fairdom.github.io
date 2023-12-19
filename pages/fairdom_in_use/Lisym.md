@@ -7,7 +7,7 @@ type: fairdom_in_use
 
 
 The [LiSyM SEEK](https://seek.lisym.org/) is one of the key Project Hubs building on the FAIRDOM-SEEK platform, serving the LiSyM (Liver Systems Medicine)-Cancer network. 
-[LiSyM-Cancer] (https://www.lisym-cancer.org/) is a multidisciplinary research network funded by the German Federal Ministry of Education and Research (BMBF). 
+[LiSyM-Cancer](https://www.lisym-cancer.org/) is a multidisciplinary research network funded by the German Federal Ministry of Education and Research (BMBF). 
 
 Molecular and cell biologists, clinical researchers and experts in mathematical modeling are jointly conducting research to investigate the development of liver cancer from pre-existing conditions such as steatotic liver disease or liver cirrhosis. The aim of the joint project is to identify relevant biomarkers to diagnose and prevent hepatocellular carcinoma at early stages. The LiSyM-Cancer project is a follow up of LiSyM. Research results of both projects are collected and published on the LiSyM-SEEK platform.
 
