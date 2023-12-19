@@ -81,12 +81,12 @@ subitems:
         subitems:
           - title: WorkflowHub
             url: /workflowhub
-  #- title: Communities
-  #  subitems:
+  - title: Communities
+    subitems:
       #- title: User Communities
       #  url: /communities
-      #- title: PALs
-      #  url: /pals
+      - title: PALs
+        url: /pals
       # - title: Systems Biology Foundry
       #  url: /sbf
   #- title: Collaborations
