@@ -6,7 +6,19 @@ redirect_from:
     - /publications/
 ---
 
+**2023**
+
+**Specifications of standards in systems and synthetic biology: status and developments in 2022 and the COMBINE meeting 2022**. Konig M, Gleeson P, Golebiewski M, Gorochowski TE, Hucka M, et al. (2023) J Integr Bioinform. 20(1):20230004.[Full Text](https://doi.org/10.1515/jib-2023-0004)
+
+**2022**
+
+**Systems Biology in ELIXIR: modelling in the spotlight**. Santos VMd, Anton M, Szomolay B, Ostaszewski M, Arts I, Benfeitas R, Angel VDD, Ferk P, Fey D, Goble C, et al. (2022). F1000Res 11:1265 [Full Text](https://f1000research.com/articles/11-1265/v1)
+
+**Publication Policy of the National Research Data Infrastructure for Personal Health Data (NFDI4Health) and the NFDI4Health Task Force COVID-19**. Lindstädt B, Shutsko A, Golebiewski M, Kipker D, Lettieri V, Klopfenstein S, Vorisek C, Löbe M, Schmidt CO (2022). [Full Text](https://doi.org/10.4126/FRL01-006431467)
+
 **2021**
+
+**Implementing FAIR data management within the German Network for Bioinformatics Infrastructure (de.NBI) exemplified by selected use cases**. Mayer G, Muller W, Schork K, Uszkoreit J, Weidemann A, Wittig U, Rey M, et al. (2021) Brief Bioinform. 22(5). pii: 6135008. [Full text](https://doi.org/10.1093/bib/bbab010)
 
 **COVID19 Disease Map, a computational knowledge repository of virus–host interaction mechanisms**. Ostaszewski M, Niarakis A, Mazein A, Kuperstein I, Phair R, et al. (2021). Molecular Systems Biology 17(10):e10387. [Full Text](https://www.embopress.org/doi/full/10.15252/msb.202110387)
 
