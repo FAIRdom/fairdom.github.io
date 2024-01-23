@@ -5,9 +5,10 @@ end_date: 2024-05-15
 location: Leipzig, Germany
 ---
 
-### 9th Conference on Systems Biology of Mammalian Cells - SBMC 2024
+## 9th Conference on Systems Biology of Mammalian Cells - SBMC 2024
 
 ## “Translating Systems Medicine into the clinics”
+
 
 The scientific program offers diverse sessions:
 * From single cell analysis to clinical application
