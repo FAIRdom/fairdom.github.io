@@ -5,9 +5,9 @@ end_date: 2024-05-15
 location: Leipzig, Germany
 ---
 
-### 9th Conference on **Systems Biology of Mammalian Cells - SBMC 2024**
+### 9th Conference on Systems Biology of Mammalian Cells - SBMC 2024
 
-**“Translating Systems Medicine into the clinics”**
+## “Translating Systems Medicine into the clinics”
 
 The scientific program offers diverse sessions:
 * From single cell analysis to clinical application
@@ -29,6 +29,3 @@ The conference is taking place at a historical place in Leipzig – the Paulinum
 
 Please find all information on the conference website: [https://www.lisym-cancer.org/sbmc2024](https://www.lisym-cancer.org/sbmc2024)
 
-Scientific organizing committee:
-
-Thomas Berg, Beat Müllhaupt, Madlen Matz-Soja, Christiane Körner, Janett Fischer, Stefan Hoehme, Georg Damm, Ursula Klingmüller, Steven Dooley, Jochen Hampe, Jens Timmer, Ina Biermayer, Susan Eckerle, Juliane Heisig
