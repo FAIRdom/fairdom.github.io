@@ -14,8 +14,11 @@ Molecular and cell biologists, clinical researchers and experts in mathematical 
 Within the LiSyM-Cancer projects five different platforms are in use for data storage and exchange due to the need of the network members. 
 Integrating these different platforms to easily transfer and connect the data and metadata between the different systems is a key responsibility of the data management team.
 
-<!-- ![Lysim Front Page](images/fairdom_in_use/lysim-front-page.png) -->
-<!-- Figure 1. Screenshot of LiSyM SEEK landing page -->
+{% include image.html file="fairdom_in_use/lysim-front-page.png" alt="Figure 1. Screenshot of LiSyM SEEK landing page" max-width='90%' click=true %}
 
-<!-- ![Lysim Overview](images/fairdom_in_use/lysim-overview.png) -->
-<!-- Figure 2. Integration of five systems for efficient data exchange and management in LiSyM-Cancer -->
+Figure 1. Screenshot of LiSyM SEEK landing page
+
+
+{% include image.html file="fairdom_in_use/lysim-overview.png" alt="Figure 2. Integration of five systems for efficient data exchange and management in LiSyM-Cancer" max-width='90%' click=true %}
+
+Figure 2. Integration of five systems for efficient data exchange and management in LiSyM-Cancer
