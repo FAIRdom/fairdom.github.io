@@ -2,7 +2,6 @@
 title: FAIRDOM-SEEK In Use 
 ---
 
-Coming soon .....
 
 In this section you will find:
 

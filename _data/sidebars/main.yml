@@ -21,58 +21,59 @@ subitems:
   - title: FAIRDOM In Use
     url: /fairdom_in_use
     subitems:
-       - title: LiSyM
-         url: /Lisym
-       - title: IBISBA
-         url: /ibisba
-     # - title: BioIndustry4.0 
-     #   url: /bioindustry4.0
-     # - title: Covid-19 Disease Map
-     #   url: /covid19dm
-     # - title: Centre for Digital Life
-     #   url: /digitallifenorway
-     # - title: Digital Salmon
-     #   url: /digitalsalmon
-     # - title: Leipzig Health Atlas
-     #   url: /leipzig
-     # - title: NFDI4Health
-     #   url: /nfdi4health
-     # - title: Plant Systems-biology Modelling
-     #   url: /plantsysbiomod
-     # - title: Systems Biology Modelling
-     #   url: /sysbiomod
-       - title: DataHub
-         url: /datahub
-     # - title: Digital Research Hub
-     #   url: /scilifelab.md
-       - title: MIAPPE, Plant Data Integration and Findability
+      - title: FAIRDOM Hubs
+        subitems:
+        - title: WorkflowHub
+          url:   /workflowhub
+        - title: IBISBAHub
+          url: /ibisbahub
+        - title: DataHub
+          url: /Datahub
+        - title: Digital Research Hub
+          url: /scilifelab.md
+      - title: Projects
+        subitems:
+        - title: BioIndustry4.0 
+          url: /bioindustry4.0
+        - title: Covid-19 Disease Map
+          url: /covid19dm
+     #  - title: Centre for Digital Life
+     #    url: /digitallifenorway
+        - title: Digital Salmon
+          url: /digitalsalmon
+        - title: Leipzig Health Atlas
+          url: /leipzig
+        - title: NFDI4Health
+          url: /nfdi4health
+        - title: Plant Systems-biology Modelling
+          url: /plantsysbiomod
+        - title: Systems Biology Modelling
+          url: /sysbiomod
+        - title: MIAPPE, Plant Data Integration and Findability
          url: /plant-is-and-miappe
-       - title: WorkflowHub
-         url: /workflowhub2
-        
-  - title: FAIRDOM Hubs
-    url: /instance
-    subitems:
-      - title: Public Hubs
-        subitems:
-          - title: FAIRDOMHub
-            url: /fairdomhub
-          - title: DataHub
-            url: /Datahub
-      - title: Project Hubs
-        subitems:
-          - title: IBISBAHub
-            url: /ibisbahub
-          - title: LiSyM
-            url: /LiSyM
-          - title: Leipzig Health Atlas
-            url: /Leipzig
-          - title: NFDI4Health
-            url: /NFDI4
-      - title: Specialised Hubs
-        subitems:
-          - title: WorkflowHub
-            url: /workflowhub
+  #- title: FAIRDOM Hubs
+   # url: /instance
+    #subitems:
+     # - title: Public Hubs
+      #  subitems:
+       #   - title: FAIRDOMHub
+        #  - title: DataHub
+        #    url: /fairdomhub
+        #    url: /Datahub
+      #- title: Project Hubs
+        #subitems:
+      #    - title: IBISBAHub
+      #      url: /ibisbahub
+      #    - title: LiSyM
+      #      url: /LiSyM
+      #    - title: Leipzig Health Atlas
+      #      url: /Leipzig
+      #    - title: NFDI4Health
+      #      url: /NFDI4
+      #- title: Specialised Hubs
+      #  subitems:
+      #    - title: WorkflowHub
+      #      url: /workflowhub
   - title: Communities
     subitems:
       #- title: User Communities
@@ -82,8 +83,7 @@ subitems:
       # - title: Systems Biology Foundry
       #  url: /sbf
   #- title: Collaborations
-  #  subitems:
-      
+  #  subitems: 
   - title: Support
     subitems:
       - title: Data Management
