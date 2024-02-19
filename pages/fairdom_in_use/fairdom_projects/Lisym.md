@@ -1,24 +1,10 @@
 ---
-title: LiSyM SEEK
-description: LiSyM SEEK built on the FAIRDOM-SEEK platform, serves the LiSyM (Liver Systems Medicine)-Cancer network
-type: fairdom_in_use
+title: LiSyM
+toc: false
 ---
 
+The [LiSyM SEEK](https://seek.lisym.org) is one of the key Project Hubs build on the FAIRDOM-SEEK platform, serving the LiSyM network. Liver Systems Medicine (LiSyM) project is a network of German research centers and institutions, working together to develop a Systems Medicine approach to study early and advanced liver disease. It was funded by the German Ministry for Education and Research (BMBF, Bundesministerium für Bildung und Forschung) and in the tradition of a 15 year long initiative towards clinically actionable systems understanding of the liver. The BMBF enables active contribution of LiSyM data managers to the FAIRDOM project.
 
+The project members use the [LiSyM SEEK](https://seek.lisym.org) to upload and or interlink experimental data, as well as organizing computational models build from these. 
 
-The [LiSyM SEEK](https://seek.lisym.org/) is one of the key Project Hubs building on the FAIRDOM-SEEK platform, serving the LiSyM (Liver Systems Medicine)-Cancer network. 
-[LiSyM-Cancer](https://www.lisym-cancer.org/) is a multidisciplinary research network funded by the German Federal Ministry of Education and Research (BMBF). 
-
-Molecular and cell biologists, clinical researchers and experts in mathematical modeling are jointly conducting research to investigate the development of liver cancer from pre-existing conditions such as steatotic liver disease or liver cirrhosis. The aim of the joint project is to identify relevant biomarkers to diagnose and prevent hepatocellular carcinoma at early stages. The LiSyM-Cancer project is a follow up of LiSyM. Research results of both projects are collected and published on the LiSyM-SEEK platform.
-
-Within the LiSyM-Cancer projects five different platforms are in use for data storage and exchange due to the need of the network members. 
-Integrating these different platforms to easily transfer and connect the data and metadata between the different systems is a key responsibility of the data management team.
-
-{% include image.html file="fairdom_in_use/lysim-front-page.png" alt="Figure 1. Screenshot of LiSyM SEEK landing page" max-width='90%' click=true %}
-
-Figure 1. Screenshot of LiSyM SEEK landing page
-
-
-{% include image.html file="fairdom_in_use/lysim-overview.png" alt="Figure 2. Integration of five systems for efficient data exchange and management in LiSyM-Cancer" max-width='90%' click=true %}
-
-Figure 2. Integration of five systems for efficient data exchange and management in LiSyM-Cancer
+<!-- {% include image.html file="LiSyM.png" alt="LiSyM SEEK" %} -->
