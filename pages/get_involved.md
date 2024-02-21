@@ -28,7 +28,7 @@ Strategic meeting for resources assignment, collaborations, new projects
 ### FAIRDOM Community Workers Meeting: 
 Prioritization of features requests from users of GUI and outreach (organisation of training, events)
 
-* **When:** Last Thursday of each month at 14:00 GMT / 15:00 CET
+* **When:** Last Thursday of each month at 15:00 GMT / 16:00 CET
 
 * **How to Join:** Contact us on <community@fair-dom.org>
 
