@@ -24,4 +24,4 @@ Preliminary agenda topics:
   &nbsp;
 
 
-Please register [here](https://kta-email.zoom.us/meeting/register/tJUqceqvrD4pGdHIFQmq3gFsWON2X5n8UNF6) to get the meeting access details.
+Please use the [Zoom registration link](https://kta-email.zoom.us/meeting/register/tJUqceqvrD4pGdHIFQmq3gFsWON2X5n8UNF6) to get the meeting access details.
