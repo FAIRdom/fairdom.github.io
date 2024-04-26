@@ -11,16 +11,28 @@ The next FAIRDOM user meeting is scheduled for Wednesday, **5th June, 2024 at 14
 
   &nbsp;
 
-Preliminary agenda topics:
+Agenda:
 
-- Data Management Plan integration in FAIRDOM-SEEK (use case with NeLS)
+  * 14:00 - Welcome
   
-- Extended metadata (use cases in NFDI4Health)
+  * 14:10 - **Korbinian Bösl** (University of Bergen, Norway)
   
-- SOP metadata (use cases in WorkflowHub)
+    _"Integrating FAIRDOM-SEEK with storage and data management planning tools"_
+           
+  * 14:30 - **Martin Golebiewski, Xiaoming Hu** (HITS, Germany), **Frank Meineke** (University of Leipzig, Germany),
   
-- FAIRDOM-SEEK user documentation and guidelines 
+    _"Extended metadata feature of SEEK in the Local Data Hub of NFDI4Health"_ 
+            
+  * 14:50 - **Nick Juty** (University of Manchester, UK)
+  
+    _"SOPs in WorkflowHub"_
 
+  * 15:10 - **Munazah Andrabi** (University of Manchester, UK)
+  
+    _"Discussion about FAIRDOM-SEEK user documentation and guidelines"_
+  
+ 
+  
   &nbsp;
 
 
