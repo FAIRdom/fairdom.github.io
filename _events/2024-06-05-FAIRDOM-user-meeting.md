@@ -19,7 +19,7 @@ Agenda:
   
     _"Integrating FAIRDOM-SEEK with storage and data management planning tools"_
            
-  * 14:30 - **Martin Golebiewski, Xiaoming Hu** (HITS, Germany), **Frank Meineke** (University of Leipzig, Germany),
+  * 14:30 - **Martin Golebiewski, Xiaoming Hu** (HITS, Germany), **Frank Meineke** (University of Leipzig, Germany)
   
     _"Extended metadata feature of SEEK in the Local Data Hub of NFDI4Health"_ 
             
