@@ -16,7 +16,7 @@ redirect_from:
 
 ## Community
 
-{% include contributor-tiles-all.html custom="Martin Golebiewski, Bert Droesbeke, Flora D'Anna, Ulrike Wittig, Munazah Andrabi, Olga Krebs, Rafael Buono, Maja Rey, Korbinian Bösl"%}
+{% include contributor-tiles-all.html custom="Martin Golebiewski, Bert Droesbeke, Flora D'Anna, Ulrike Wittig, Munazah Andrabi, Olga Krebs, Rafael Buono, Maja Rey, Korbinian Bösl, Phil Reed"%}
 
 ## Technical
 {% include contributor-tiles-all.html custom="Stuart Owen, Finn Bacall, Kevin De Pelseneer, Xiaoming Hu, Dawie van Niekerk"%}
