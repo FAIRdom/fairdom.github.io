@@ -19,19 +19,21 @@ subitems:
   - title: FAIRDOMHub
     url: /fairdomhub
   - title: FAIRDOM In Use
-    url: /fairdom_in_use
+    url: /fdom_in_use
     subitems:
       - title: FAIRDOM Hubs
+        url: /fairdom_hubs_search
         subitems:
         - title: WorkflowHub
           url:   /workflowhub
-        - title: IBISBAHub
+        - title: IBISBAKHub
           url: /ibisbahub
         - title: DataHub
           url: /Datahub
         - title: Digital Research Hub
-          url: /scilifelab.md
+          url: /scilifelab
       - title: Projects
+        url: /fairdom_projects_search
         subitems:
         - title: BioIndustry4.0 
           url: /bioindustry4.0
@@ -50,7 +52,7 @@ subitems:
         - title: Systems Biology Modelling
           url: /sysbiomod
         - title: MIAPPE, Plant Data Integration and Findability
-         url: /plant-is-and-miappe
+          url: /plant-is-and-miappe
   #- title: FAIRDOM Hubs
    # url: /instance
     #subitems:

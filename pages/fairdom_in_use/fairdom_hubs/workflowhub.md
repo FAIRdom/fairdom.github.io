@@ -1,6 +1,8 @@
 ---
 title: WorkflowHub
 toc: false
+type: hub
+description: The WorkflowHub is a public registry for sharing and publishing computational workflows from any discipline using any workflow language, including Notebooks. 
 ---
 
 

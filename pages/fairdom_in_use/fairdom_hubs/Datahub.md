@@ -1,5 +1,7 @@
 ---
-title: DataHub (Coming soon)
+title: DataHub
+type: hub
+description: DataHub is a public FAIRDOM-SEEK instance developed by ELIXIR Belgium with funding from FWO
 ---
 
 In collaboration with the FAIRDOM Consortium, [DataHub](https://datahub.elixir-belgium.org) is a public FAIRDOM-SEEK instance (a **Public Hub**) developed by [ELIXIR Belgium](https://www.elixir-belgium.org/) with funding from [FWO](https://www.fwo.be/). 
