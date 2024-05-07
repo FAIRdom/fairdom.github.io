@@ -39,12 +39,14 @@ subitems:
           url: /bioindustry4.0
         - title: Covid-19 Disease Map
           url: /covid19dm
-     #  - title: Centre for Digital Life
-     #    url: /digitallifenorway
+        - title: Centre for Digital Life
+          url: /digitallifenorway
         - title: Digital Salmon
-          url: /digitalsalmon
+          url: /digitallifenorway
         - title: Leipzig Health Atlas
           url: /leipzig
+        - title: LiSyM
+          url: /Lisym
         - title: NFDI4Health
           url: /nfdi4health
         - title: Plant Systems-biology Modelling
