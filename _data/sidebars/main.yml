@@ -82,10 +82,12 @@ subitems:
     subitems:
       #- title: User Communities
       #  url: /communities
-      - title: PALs
-        url: /pals
+      #- title: PALs
+      #  url: /pals
       # - title: Systems Biology Foundry
       #  url: /sbf
+      - title: Engage
+        url: /engage
   #- title: Collaborations
   #  subitems: 
   - title: Support
