@@ -1,7 +1,7 @@
 ---
 title: MIAPPE, Plant Data Integration and Findability
 description: Extension to FAIRDOM-SEEK to support MIAPPE, as a collaboration within EOSC-Life and the ELIXIR Plant Community
-type: projects
+type: project
 ---
 
 ## EOSC-Life and Plant A+ Demonstrator
