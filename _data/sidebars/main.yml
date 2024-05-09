@@ -19,42 +19,42 @@ subitems:
   - title: FAIRDOMHub
     url: /fairdomhub
   - title: FAIRDOM In Use
-    url: /fdom_in_use
+    url: /fairdom-in-use/fdom_in_use
     subitems:
       - title: FAIRDOM Hubs
-        url: /fairdom_hubs_search
+        url: /fairdom-in-use/fairdom_hubs_search
         subitems:
         - title: WorkflowHub
-          url:   /workflowhub
+          url:   /fairdom-in-use/workflowhub
         - title: IBISBAKHub
-          url: /ibisbahub
+          url: /fairdom-in-use/ibisbahub
         - title: DataHub
-          url: /Datahub
+          url: /fairdom-in-use/Datahub
         - title: Digital Research Hub
-          url: /scilifelab
+          url: /fairdom-in-use/scilifelab
       - title: Projects
-        url: /fairdom_projects_search
+        url: /fairdom-in-use/fairdom_projects_search
         subitems:
         - title: BioIndustry4.0 
-          url: /bioindustry4.0
+          url: /fairdom-in-use/bioindustry4.0
         - title: Covid-19 Disease Map
-          url: /covid19dm
+          url: /fairdom-in-use/covid19dm
         - title: Centre for Digital Life
-          url: /digitallifenorway
+          url: /fairdom-in-use/digitallifenorway
         - title: Digital Salmon
-          url: /digitallifenorway
+          url: /fairdom-in-use/digitallifenorway
         - title: Leipzig Health Atlas
-          url: /leipzig
+          url: /fairdom-in-use/leipzig
         - title: LiSyM
-          url: /Lisym
+          url: /fairdom-in-use/Lisym
         - title: NFDI4Health
-          url: /nfdi4health
+          url: /fairdom-in-use/nfdi4health
         - title: Plant Systems-biology Modelling
-          url: /plantsysbiomod
+          url: /fairdom-in-use/plantsysbiomod
         - title: Systems Biology Modelling
-          url: /sysbiomod
+          url: /fairdom-in-use/sysbiomod
         - title: MIAPPE, Plant Data Integration and Findability
-          url: /plant-is-and-miappe
+          url: /fairdom-in-use/plant-is-and-miappe
   #- title: FAIRDOM Hubs
    # url: /instance
     #subitems:
