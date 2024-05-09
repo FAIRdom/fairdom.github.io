@@ -17,7 +17,7 @@ subitems:
   - title: FAIRDOM-SEEK
     url: /fairdomseek
   - title: FAIRDOMHub
-    url: /fairdomhub
+    url: /fairdom-in-use/fairdomhub
   - title: FAIRDOM In Use
     url: /fairdom-in-use/fdom_in_use
     subitems:
@@ -94,8 +94,8 @@ subitems:
     subitems:
       - title: Data Management
         url: /data_management
-      - title: FAIRDOM Cost
-        url: /FAIRDOM_Cost
+      #- title: FAIRDOM Cost
+      #  url: /FAIRDOM_Cost
       - title: Community Standards
         url: /community_standards
   - title: Outreach
@@ -116,3 +116,6 @@ subitems:
     url: /contact
   - title: How to Get Involved
     url: /get_involved
+    subitems:
+      - title: FAIRDOM Cost
+        url: /FAIRDOM_Cost
