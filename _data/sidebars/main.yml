@@ -27,7 +27,7 @@ subitems:
         - title: WorkflowHub
           url:   /fairdom-in-use/workflowhub
         - title: IBISBAKHub
-          url: /fairdom-in-use/ibisbahub
+          url: /fairdom-in-use/ibisbakhub
         - title: DataHub
           url: /fairdom-in-use/Datahub
         - title: Digital Research Hub
