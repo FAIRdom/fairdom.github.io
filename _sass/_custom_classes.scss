@@ -119,5 +119,14 @@ iframe {
 /* -----Search tiles-----*/
 
 .navigation-tiles .card .card-header {
-    background-color: $secondary;
+    background-color: $primary;
+}
+
+main .form-control, main .input-group-text {
+    background-color: $light;
+    color: black;
+}
+
+main .input-group {
+    border: thin solid $primary;
 }
