@@ -27,7 +27,11 @@ Agenda:
   
     _"SOPs in WorkflowHub"_
 
-  * 15:10 - **Munazah Andrabi** (University of Manchester, UK)
+  * 15:10 - **Charles Demurjian** (Massachusetts Institute of Technology, US)
+  
+    _"NExtSEEK: Redesigning Graphical User Interface for Increased User Engagement"_   
+
+  * 15:30 - **Munazah Andrabi** (University of Manchester, UK)
   
     _"Discussion about FAIRDOM-SEEK user documentation and guidelines"_
   
