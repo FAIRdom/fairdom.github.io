@@ -7,7 +7,7 @@ location: online
 ### Data management in practice with FAIRDOM-SEEK
 
 
-The next FAIRDOM user meeting is scheduled for Wednesday, **5th June, 2024 at 14:00 -16:00 CEST**.
+The FAIRDOM user meeting is scheduled for Wednesday, **5th June, 2024 at 14:00 -16:00 CEST**.
 
   &nbsp;
 
