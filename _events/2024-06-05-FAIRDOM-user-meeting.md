@@ -31,7 +31,7 @@ Agenda:
   
     _"NExtSEEK: Redesigning Graphical User Interface for Increased User Engagement"_   
 
-  * 15:30 - **Munazah Andrabi and Phil Reed** (University of Manchester, UK)
+  * 15:30 - **Munazah Andrabi, Phil Reed** (University of Manchester, UK)
   
     _"Discussion about FAIRDOM-SEEK user documentation and guidelines"_
   
@@ -40,4 +40,4 @@ Agenda:
   &nbsp;
 
 
-Please use the [Zoom registration link](https://kta-email.zoom.us/meeting/register/tJUqceqvrD4pGdHIFQmq3gFsWON2X5n8UNF6) to get the meeting access details.
+The slides of the presentations are available on [FAIRDOMHub](https://fairdomhub.org/events/329).
