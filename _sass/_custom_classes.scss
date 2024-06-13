@@ -122,11 +122,19 @@ iframe {
     background-color: $primary;
 }
 
-main .form-control, main .input-group-text {
+main .form-control, main .input-group-text, main .form-control:focus {
     background-color: $light;
     color: black;
 }
 
 main .input-group {
     border: thin solid $primary;
+}
+
+main .form-control::placeholder {
+    color: $primary;
+    opacity: 1; /* Firefox */
+}
+main .form-control::-ms-input-placeholder { /* Edge 12-18 */
+    color: $primary;
 }
