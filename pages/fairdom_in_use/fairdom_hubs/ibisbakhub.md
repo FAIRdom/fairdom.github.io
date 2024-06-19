@@ -6,6 +6,7 @@ description: The IBISBAKHub is a Knowledge Hub for scientific information relate
 redirect_from:
     - /ibisbahub
     - /fairdom-in-use/ibisbahub
+    - /ibisba
 ---
 
 

@@ -2,7 +2,8 @@
 title: LiSyM
 type: project
 description: The LiSyM SEEK is one of the key Project Hubs building on the FAIRDOM-SEEK platform, serving the Liver Systems Medicine LiSyM network  and its follow up project LiSyM-Cancer. Research results of both projects are collected and published on the LiSyM-SEEK platform.
-
+redirect_from:
+ - /Lisym
 toc: false
 ---
 <!--

@@ -3,6 +3,8 @@ title: Leipzig Health Atlas
 toc: false
 type: project
 description: The Leipzig Health Atlas is another Project Hub supported by the FAIRDOM Consortium.
+redirect_from:
+ - /Leipzig
 ---
 
 

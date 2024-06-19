@@ -2,6 +2,8 @@
 title: DataHub
 type: hub
 description: DataHub is a public FAIRDOM-SEEK instance developed by ELIXIR Belgium
+redirect_from:
+ - /datahub
 ---
 
 In collaboration with the FAIRDOM Consortium, [DataHub](https://datahub.elixir-belgium.org) is a public FAIRDOM-SEEK instance (a **Public Hub**) developed by [ELIXIR Belgium](https://www.elixir-belgium.org/). 
