@@ -67,6 +67,11 @@ defaults:
       type: events
       toc: false
       sidebar: main
+  -
+    scope:
+      path: "pages/fairdom_in_use"
+    values:
+      permalink: /fairdom-in-use/:basename
 
 date_format: "%B %-d, %Y"
 event_date_format: "%A, %B %-d, %Y"

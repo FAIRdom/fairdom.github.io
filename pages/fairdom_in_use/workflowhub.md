@@ -1,6 +1,7 @@
 ---
 title: WorkflowHub
 toc: false
+# a page with this name appears in two locations!
 ---
 
 
@@ -22,5 +23,6 @@ The [WorkflowHub](https://workflowhub.eu) is a public registry for sharing and p
 * Workflow Version management
 * Workflows organised into Collections
 
-**More Information:**
+### More Information:
+
 Goble, C., Soiland-Reyes, S., Bacall, F., Owen, S., Pireddu, L., & Leo, S. (2023). EOSC-Life Implementation of a mechanism for publishing and sharing workflows across instances of the environment. [Zenodo](https://doi.org/10.5281/zenodo.7886545)
