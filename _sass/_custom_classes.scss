@@ -138,3 +138,11 @@ main .form-control::placeholder {
 main .form-control::-ms-input-placeholder { /* Edge 12-18 */
     color: $primary;
 }
+
+/* ----- included image using ETT code -----  */
+
+figure.centered {
+    /* centered image */
+    margin-left: auto;
+    margin-right: auto;
+}
