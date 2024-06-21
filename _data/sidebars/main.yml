@@ -17,79 +17,85 @@ subitems:
   - title: FAIRDOM-SEEK
     url: /fairdomseek
   - title: FAIRDOMHub
-    url: /fairdomhub
+    url: /fairdom-in-use/fairdomhub
   - title: FAIRDOM In Use
-    url: /fairdom_in_use
+    url: /fairdom-in-use/fdom_in_use
     subitems:
-       - title: LiSyM
-         url: /Lisym
-       - title: IBISBA
-         url: /ibisba
-     # - title: BioIndustry4.0 
-     #   url: /bioindustry4.0
-     # - title: Covid-19 Disease Map
-     #   url: /covid19dm
-     # - title: Centre for Digital Life
-     #   url: /digitallifenorway
-     # - title: Digital Salmon
-     #   url: /digitalsalmon
-     # - title: Leipzig Health Atlas
-     #   url: /leipzig
-     # - title: NFDI4Health
-     #   url: /nfdi4health
-     # - title: Plant Systems-biology Modelling
-     #   url: /plantsysbiomod
-     # - title: Systems Biology Modelling
-     #   url: /sysbiomod
-       - title: DataHub
-         url: /datahub
-     # - title: Digital Research Hub
-     #   url: /scilifelab.md
-       - title: MIAPPE, Plant Data Integration and Findability
-         url: /plant-is-and-miappe
-       - title: WorkflowHub
-         url: /workflowhub2
-        
-  - title: FAIRDOM Hubs
-    url: /instance
-    subitems:
-      - title: Public Hubs
+      - title: FAIRDOM Hubs
+        url: /fairdom-in-use/fairdom_hubs_search
         subitems:
-          - title: FAIRDOMHub
-            url: /fairdomhub
-          - title: DataHub
-            url: /Datahub
-      - title: Project Hubs
+        - title: WorkflowHub
+          url:   /fairdom-in-use/workflowhub
+        - title: IBISBAKHub
+          url: /fairdom-in-use/ibisbakhub
+        - title: DataHub
+          url: /fairdom-in-use/Datahub
+        - title: Digital Research Hub
+          url: /fairdom-in-use/scilifelab
+      - title: Projects
+        url: /fairdom-in-use/fairdom_projects_search
         subitems:
-          - title: IBISBAHub
-            url: /ibisbahub
-          - title: LiSyM
-            url: /LiSyM
-          - title: Leipzig Health Atlas
-            url: /Leipzig
-          - title: NFDI4Health
-            url: /NFDI4
-      - title: Specialised Hubs
-        subitems:
-          - title: WorkflowHub
-            url: /workflowhub
+        - title: BioIndustry4.0 
+          url: /fairdom-in-use/bioindustry4.0
+        - title: Covid-19 Disease Map
+          url: /fairdom-in-use/covid19dm
+        - title: Centre for Digital Life
+          url: /fairdom-in-use/digitallifenorway
+        - title: Digital Salmon
+          url: /fairdom-in-use/digitallifenorway
+        - title: Leipzig Health Atlas
+          url: /fairdom-in-use/leipzig
+        - title: LiSyM
+          url: /fairdom-in-use/Lisym
+        - title: NFDI4Health
+          url: /fairdom-in-use/nfdi4health
+        - title: Plant Systems-biology Modelling
+          url: /fairdom-in-use/plantsysbiomod
+        - title: Systems Biology Modelling
+          url: /fairdom-in-use/sysbiomod
+        - title: MIAPPE, Plant Data Integration and Findability
+          url: /fairdom-in-use/plant-is-and-miappe
+  #- title: FAIRDOM Hubs
+   # url: /instance
+    #subitems:
+     # - title: Public Hubs
+      #  subitems:
+       #   - title: FAIRDOMHub
+        #  - title: DataHub
+        #    url: /fairdomhub
+        #    url: /Datahub
+      #- title: Project Hubs
+        #subitems:
+      #    - title: IBISBAHub
+      #      url: /ibisbahub
+      #    - title: LiSyM
+      #      url: /LiSyM
+      #    - title: Leipzig Health Atlas
+      #      url: /Leipzig
+      #    - title: NFDI4Health
+      #      url: /NFDI4
+      #- title: Specialised Hubs
+      #  subitems:
+      #    - title: WorkflowHub
+      #      url: /workflowhub
   - title: Communities
     subitems:
       #- title: User Communities
       #  url: /communities
-      - title: PALs
-        url: /pals
+      #- title: PALs
+      #  url: /pals
       # - title: Systems Biology Foundry
       #  url: /sbf
+      - title: Engage
+        url: /engage
   #- title: Collaborations
-  #  subitems:
-      
+  #  subitems: 
   - title: Support
     subitems:
       - title: Data Management
         url: /data_management
-      - title: FAIRDOM Cost
-        url: /FAIRDOM_Cost
+      #- title: FAIRDOM Cost
+      #  url: /FAIRDOM_Cost
       - title: Community Standards
         url: /community_standards
   - title: Outreach
@@ -110,3 +116,6 @@ subitems:
     url: /contact
   - title: How to Get Involved
     url: /get_involved
+    subitems:
+      - title: FAIRDOM Cost
+        url: /FAIRDOM_Cost
