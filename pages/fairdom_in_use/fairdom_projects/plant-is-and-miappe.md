@@ -30,7 +30,7 @@ The objective of the Plant A+ project is to develop tools to integrate and analy
 Extended Metadata allows FAIRDOM-SEEK entities to have their metadata extended with key/value pairs, controlled by metadata types that can be validated, and set as required or optional.
 Extended Metadata for MIAPPE were specified and applied to the Investigations and Studies, along with an Excel template to populate multiple Studies as a batch process. Support for ontology based controlled vocabularies, derived from the [Ontology Lookup Service (OLS)](https://www.ebi.ac.uk/ols/index), was also added, for both Sample metadata and the Extended metadata extensions.
 
-{% include image.html file="collaborations/plants-miappe/custom-metadata.png" alt="MIAPPE Extended Metadata" click=true max-width='20em' %}
+{% include image.html file="collaborations/plants-miappe/custom-metadata.png" alt="MIAPPE Extended Metadata" click=true class='screenshot' %}
 
 In future, they plan to add a user interface for FAIRDOM-SEEK administrators to define their own Extended Metadata extensions.
 

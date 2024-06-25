@@ -10,7 +10,7 @@ The objective of the Plant A+ project is to develop tools to integrate and analy
 
 Custom Metadata allows FAIRDOM-SEEK entities to have their metadata extended with key/value pairs, controlled by metadata types that can be validated, and set as required or optional. Custom Metadata for MIAPPE were specified and applied to the Investigations and Studies, along with an Excel template to populate multiple Studies as a batch process. Support for ontology based controlled vocabularies, derived from the [Ontology Lookup Service (OLS)](https://www.ebi.ac.uk/ols/index), was also added, for both Sample metadata and the Custom metadata extensions.
 
-{% include image.html file="collaborations/plants-miappe/custom-metadata.png" alt="MIAPPE Custom Metadata" click=true %}
+{% include image.html file="collaborations/plants-miappe/custom-metadata.png" alt="MIAPPE Custom Metadata" click=true class='screenshot' %}
 
 
 In summary, during the first phase of support to the Plant A+ demonstrator project FAIRDOM-SEEK was extended to achieve the following:  
