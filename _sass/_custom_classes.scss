@@ -147,3 +147,9 @@ figure.screenshot {
     margin-right: auto;
     max-width: 70%;
 }
+
+/* We don't need to see the type of page  */
+
+h1.has-subtitle span.text-secondary {
+    display: none !important;
+}

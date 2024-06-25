@@ -10,3 +10,5 @@ group :test do
   gem 'rake'
   gem 'html-proofer'
 end
+
+gem "jemoji", "~> 0.13.0"
