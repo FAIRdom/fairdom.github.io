@@ -23,7 +23,7 @@ Within the LiSyM-Cancer project SEEK integrates data derived from four different
 
 Integrating these different platforms to easily transfer and connect the data and metadata between the different systems is a key task of the data management for LiSyM-Cancer.
 
-{% include image.html file="fairdom_in_use/lysim-overview.png" alt="LiSyM Cancer" %}
+{% include image.html file="fairdom_in_use/lysim-overview.png" alt="LiSyM Cancer" class="screenshot" %}
 
 ## LiSyM SEEK serves as
 

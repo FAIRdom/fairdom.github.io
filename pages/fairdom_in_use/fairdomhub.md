@@ -12,6 +12,7 @@ FAIRDOMHub enables researchers to organize, share and publish data, models and p
 By using the FAIRDOMHub, researchers can achieve more effective exchange with geographically distributed collaborators during projects,
 ensure results are sustained and preserved and generate reproducible publications that adhere to the FAIR guiding principles of data stewardship.
 
+
 {% include image.html file="FAIRDOMHub.png" alt="FAIRDOM Hub" click=true class='screenshot' %}
 
 
