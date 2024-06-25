@@ -31,4 +31,4 @@ This comprehensive suite of features ensures that DataHub not only supports the 
 
 [DataHub (exlir-belgium.org)](https://datahub.elixir-belgium.org/)
 
-{% include image.html file="DataHub.png" alt="Data Hub" %}
+{% include image.html file="DataHub.png" alt="Data Hub" class='screenshot' %}
