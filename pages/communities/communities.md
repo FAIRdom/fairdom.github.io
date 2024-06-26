@@ -1,43 +1,17 @@
 ---
-title: User Communities
+title: FAIRDOM Community Engagement
 toc: False
 
-redirect_from:
-  - /2016/11/03/digital-salmon-knowledge-base/
 ---
 
-## FAIRDOM supports many communities from different disciplines and domains
+## FAIRDOM Community Engagement
 
-### Systems Biology
+FAIRDOM organizes user meetings twice a year. The purpose of the [FAIRDOM user meetings](https://fair-dom.org/events) is to establish an active FAIRDOM user community to allow networking between various FAIRDOM-SEEK users and to learn from data management experiences in different research projects. 
 
-* [Digital Salmon](https://fairdomhub.org/projects/38)
-* [Plant Systems-biology Modelling](https://fairdomhub.org/projects/129)
+[Biohackathon](https://biohackathon-europe.org) is the hackathon run by ELIXIR, the European ESFRI Infrastructure for Bioinformatics. The website also comprises a list of projects that give an impression. FAIRDOM typically runs or contributes projects in these hackathons. [de.NBI](https://www.denbi.de), the organisation behind the German node of ELIXIR runs a similar set of hackathons (https://www.denbi.de/de-nbi-events).
 
-### Systems Medicine
+The [Systems Biology Community of ELIXIR](https://elixir-europe.org/communities/systems-biology) is the community of systems biology experts within the infrastructure ELIXIR. It coordinates work done within ELIXIR to interlink and harmonize infrastructure for models, software and data. The overarching long-term goal of the ELIXIR Systems Biology Community is to make systems biology modelling a central pillar of research in biology.
 
-* [LiSyM](https://seek.lisym.org)
-* [MESI-STRAT](https://fairdomhub.org/projects/99)
-* [COVID-19 Disease Maps](https://fairdomhub.org/projects/190)
-* [PoLiMeR](https://fairdomhub.org/projects/130)
+From 2012 to 2018 we ran four so-called foundry meetings with practitioners in support delivery for systems biology all over Europe, to exchange ideas and practices, to share software and to interoperate systems where useful to do so. We did not continue these meetings as we feel the grounds of the foundry meetings is covered by two sets of activities, the Systems Biology Community in ELIXIR that covers the conceptual aspects of systems biology infrastructure, and the Biohackathons that help increasing interaction of systems biology infrastructure around concrete projects.
 
 
-### Synthetic Biology
-
-* [IBISBAHub](https://hub.ibisba.eu/)
-
-### Medical Informatics
-
-* [NFDI4Health](https://seek.studyhub.nfdi4health.de/)
-* [Leipzig Health Atlas](https://www.health-atlas.de)
-
-### Drug discovery
-
-* [NMTrypI](https://fairdomhub.org/projects/199)
-
-### Bioinformatics
-
-* [WorkflowHub](https://workflowhub.eu/)
-
-### Other Domains
-
-* HITS-Publications
