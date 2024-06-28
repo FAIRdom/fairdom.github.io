@@ -13,7 +13,7 @@ By using the FAIRDOMHub, researchers can achieve more effective exchange with ge
 ensure results are sustained and preserved and generate reproducible publications that adhere to the FAIR guiding principles of data stewardship.
 
 
-{% include image.html file="FAIRDOMHub.png" alt="FAIRDOM Hub" click=true class='screenshot' %}
+{% include image.html file="FAIRDOMHub-landing.png" alt="FAIRDOM Hub" click=true class='screenshot' caption='Screenshot of the FAIRDOMHub  homepage' %}
 
 
 

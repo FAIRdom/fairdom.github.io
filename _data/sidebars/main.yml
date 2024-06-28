@@ -32,7 +32,7 @@ subitems:
           url: /fairdom-in-use/Datahub
         - title: Digital Research Hub
           url: /fairdom-in-use/scilifelab
-      - title: Projects
+      - title: FAIRDOM Projects
         url: /fairdom-in-use/fairdom_projects_search
         subitems:
         - title: BioIndustry4.0 
@@ -86,16 +86,16 @@ subitems:
       #  url: /pals
       # - title: Systems Biology Foundry
       #  url: /sbf
-      - title: Engage
-        url: /engage
+      #- title: Engage
+      #  url: /engage
   #- title: Collaborations
   #  subitems: 
   - title: Support
     subitems:
       - title: Data Management
         url: /data_management
-      #- title: FAIRDOM Cost
-      #  url: /FAIRDOM_Cost
+      - title: FAIRDOM Cost
+        url: /FAIRDOM_Cost
       - title: Community Standards
         url: /community_standards
   - title: Outreach
@@ -116,6 +116,6 @@ subitems:
     url: /contact
   - title: How to Get Involved
     url: /get_involved
-    subitems:
-      - title: FAIRDOM Cost
-        url: /FAIRDOM_Cost
+    #subitems:
+    #  - title: FAIRDOM Cost
+    #    url: /FAIRDOM_Cost
