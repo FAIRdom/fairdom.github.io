@@ -3,7 +3,7 @@ title: WorkflowHub
 toc: false
 type: hub
 description: The WorkflowHub is a public registry for sharing and publishing computational workflows from any discipline using any workflow language. 
-# a page with this name appears in two locations!
+# a page with this name appeared in two locations!
 redirect_from:
 - /workflowhub
 - /workflowhub2
@@ -11,6 +11,8 @@ redirect_from:
 
 
 The [WorkflowHub](https://workflowhub.eu) is a public registry for sharing and publishing computational workflows from any discipline using any workflow language, including Notebooks. It aims to facilitate the re-use of workflows in an accessible and interoperable way, and to support the sharing and publishing of workflows between authors, teams and disciplines. This hub also supports the registration and sharing of Standard Operating Procedures. 
+
+{% include image.html file='fairdom_in_use/WorkflowHub.png' alt='WorkflowHub screenshot' class='small_screenshot' click=true %}
 
 ### The WorkflowHub serves as:
   * a private and public collaboration space for workflow teams;

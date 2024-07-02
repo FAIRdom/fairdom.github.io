@@ -10,4 +10,11 @@ redirect_from:
 
 Alternatively, FAIRDOM-SEEK can also be used as the web-accessible public Commons platform, [FAIRDOMHub](https://fairdomhub.org/), offering public information and password protected user collaboration spaces.
 
-{% include section-navigation-tiles-simple.html type="fairdom_in_use_search" %}
+* [Browse FAIRDOM Hubs in use]({{'/fairdom-in-use/fairdom_hubs_search' | relative_url}})
+* [Browse FAIRDOM Projects in use]({{'/fairdom-in-use/fairdom_projects_search' | relative_url}})
+
+{% comment %} 
+Include relative_url filter above so that internal URLs still work
+in dev site GitHub Pages, where the whole site is hosted within a folder,
+not the root URL.
+{% endcomment %}
