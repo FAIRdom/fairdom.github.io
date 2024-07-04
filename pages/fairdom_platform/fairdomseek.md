@@ -6,11 +6,12 @@ toc: false
 The [FAIRDOM-SEEK](https://fairdomseek.org/) platform is the [open source](https://github.com/seek4science/seek) Research Data Management Platform developed and
 supported by the members of the FAIRDOM consortium.
 
+{% include image.html file="fairdom-seek-logo-alt.svg" alt="FAIRDOM-SEEK logo" class='small_screenshot' %}
+
 It is a mature web-based resource for organising,
 sharing and publishing heterogeneous scientific research datasets, models or simulations, protocols, workflows, samples, publications and other research outcomes.
 It preserves associations between them, along with information about the people and organisations.
 
-{% include image.html file="fairdom-seek.png" alt="FAIRDOM-SEEK" click=true class='screenshot' caption='FAIRDOMHub is an example of the FAIRDOM-SEEK platform' %}
 
 The platform enables the building of Project Hubs where investigators can store, share, access, connect and interact with digital objects generated from their research,
 and use them in their own analyses.
