@@ -15,5 +15,5 @@ redirect_from:
 
 The associate partners work together in varying degrees from using the software and providing development feedback, through to co-development of software, knowledge and broader collaboration.   
 
-{% include image.html file="About_FAIRDOM.png" alt="FAIRDOM About" %}
+{% include image.html file="About_FAIRDOM.png" alt="FAIRDOM About" class="screenshot" click=true %}
 

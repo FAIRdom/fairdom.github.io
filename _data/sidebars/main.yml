@@ -78,8 +78,8 @@ subitems:
       #  subitems:
       #    - title: WorkflowHub
       #      url: /workflowhub
-  - title: Communities
-    subitems:
+  #- title: Communities
+  #  subitems:
       #- title: User Communities
       #  url: /communities
       #- title: PALs
@@ -90,7 +90,7 @@ subitems:
       #  url: /engage
   #- title: Collaborations
   #  subitems: 
-  - title: Support
+  - title: Support and Engage
     subitems:
       - title: Data Management
         url: /data_management

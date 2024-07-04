@@ -6,14 +6,48 @@ redirect_from:
  - /fairdom_in_use
 ---
 
-**FAIRDOM-SEEK**  can be installed, run and further developed as an own instance, enabling the building of Project Hubs where investigators can store, share, access, connect and interact with digital objects generated from their research, and use them in their own analyses.
+The [FAIRDOM-SEEK](/fairdom-seek) platform enables the building of Project Hubs where investigators can store, share, access, connect and interact with digital objects generated from their research, and use them in their own analyses.
 
-Alternatively, FAIRDOM-SEEK can also be used as the web-accessible public Commons platform, [FAIRDOMHub](https://fairdomhub.org/), offering public information and password protected user collaboration spaces.
+Each Hub draws on the common features of the SEEK platform in different ways, configuring and customising its look, organisation and content. The SEEK has an organisational structure based on the [ISA](https://isa-tools.org/format/specification.html) model. Hubs commonly customise this. For example:
 
-* [Browse FAIRDOM Hubs in use]({{'/fairdom-in-use/fairdom_hubs_search' | relative_url}})
-* [Browse FAIRDOM Projects in use]({{'/fairdom-in-use/fairdom_projects_search' | relative_url}})
+- [FAIRDOMHub](/fairdomhub) projects are based on the ISA. 
+- [WorkflowHub](/fairdom-in-use/workflowhub) “teams” replace projects and the ISA is not used at all.
+
+Each Hub positions itself in a different place in the project asset management pipeline, depending on their different characters. For example:
+
+- [IBISBAKHub](/fairdom-in-use/ibisbakhub) is chiefly used for private collaborations between project partners and for handing over data and models between facilities during the execution of a project.
+- [FAIRDOMHub](/fairdomhub) is a Hub used for collaborations and public publishing of results, as well as long term retention of outputs after projects have been completed, relying on the FAIRDOM Alliance to look after them. 
+- [MIT  BioMicroCentre](https://openwetware.org/wiki/BioMicroCenter) uses a private hub within the MIT facility to coordinate project management during the running of a project and then pushes the outputs to the FAIRDOMHub in a final publishing step.
+
+Take a look at the Hubs described below and see the different ways Hubs are configured to suit different needs.
+
+<div class="row navigation-tiles">
+    <div class="col" >
+        <div class="card">
+            <div class="card-header">
+                <a class="stretched-link" aria-label="Go to the FAIRDOM Hubs page" href="/fairdom-in-use/fairdom_hubs_search">
+                    <h3 class="card-title m-0">FAIRDOM Hubs</h3>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="col" >
+        <div class="card">
+            <div class="card-header">
+                <a class="stretched-link" aria-label="Go to the FAIRDOM Projects page" href="/fairdom-in-use/fairdom_projects_search">
+                    <h3 class="card-title m-0">FAIRDOM Projects</h3>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
 
 {% comment %} 
+include section-navigation-tiles.html type="fairdom_in_use_search"
+
+* [FAIRDOM Hubs in use]({{'/fairdom-in-use/fairdom_hubs_search' | relative_url}})
+* [FAIRDOM Projects in use]({{'/fairdom-in-use/fairdom_projects_search' | relative_url}})
 Include relative_url filter above so that internal URLs still work
 in dev site GitHub Pages, where the whole site is hosted within a folder,
 not the root URL.

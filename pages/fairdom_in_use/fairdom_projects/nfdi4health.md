@@ -28,7 +28,7 @@ The SEEK-based Local Data Hub now fully represents the comprehensive NFDI4Health
 Extended Metadata supports the definition of additional metadata attributes for a particular type, enabling adherence to specific standards (e.g., NFDI4Health MDS). While not directly visible to users, these attributes are associated with a particular attribute type, marked as optional or mandatory, and validated against. Extended Metadata works similarly to Samples, sharing code and defining attributes with names linked to a SampleAttributeType.
 
 
-{% include image.html file="fairdom_in_use/nfdi4health2.png" alt="screenshot of the architecture of Extended Metadata" class="screenshot" caption="Screenshot of the architecture of Extended Metadata" %}
+{% include image.html file="fairdom_in_use/nfdi4health2.png" alt="screenshot of the architecture of Extended Metadata" class="screenshot" caption="Screenshot of the architecture of Extended Metadata." %}
 
 
 Extended Metadata types are linked to specific resource types in SEEK, including Collection, DataFile, Document, Event, Model, Presentation, SOP, and Project.  
@@ -50,9 +50,6 @@ Moreover, users can define Nested Extended Metadata, introducing a hierarchical 
 It is worth mentioning that users can easily access extended metadata through the user interface or the API. The API extends possibilities, enabling interaction with remote platforms like the German Health Study Hub.
 
 
-{% include image.html file="fairdom_in_use/nfdi4health3.png" alt="screenshot of MDS implementation using extended metadata function" class="screenshot" caption="Screenshot of MDS implementation using extended metadata function" %}
-
-{% include image.html file="fairdom_in_use/nfdi4health4.png" alt="screenshot of accessing MDS in SEEK through the user interface or the JSON API" class="screenshot" caption="Screenshot of accessing MDS in SEEK through the user interface or the JSON API" %}
- 
+{% include image.html file="fairdom_in_use/nfdi4health3.png" alt="screenshot of MDS implementation using extended metadata function" class="screenshot" caption="Screenshot of MDS implementation using extended metadata function." %}
 
 
