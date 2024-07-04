@@ -2,7 +2,7 @@
 title: WorkflowHub
 toc: false
 type: hub
-description: The WorkflowHub is a public registry for sharing and publishing computational workflows from any discipline using any workflow language. 
+description: A public registry for sharing and publishing computational workflows from any discipline using any workflow language. 
 # a page with this name appeared in two locations!
 redirect_from:
 - /workflowhub
