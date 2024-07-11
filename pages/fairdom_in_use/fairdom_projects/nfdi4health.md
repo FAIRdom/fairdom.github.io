@@ -1,6 +1,6 @@
 ---
 title: NFDI4Health
-description: 
+description: The main local component and connector of the federated distributed services of NFDI4Health, Germany.
 toc: false
 type: project
 ---
@@ -12,7 +12,7 @@ The Local Data Hub (LDH) is the main local component and connector of the federa
 Adhering to the fundamental FAIR principles (Findable, Accessible, Interoperable, Reusable), the LDH ensures that stored information is easily discoverable, accessible to authorized users, interoperable across various systems, and available for reuse in subsequent research endeavors. 
 
 
-{% include image.html file="fairdom_in_use/nfdi4health1.png" alt="NFDI4Health system" click=true class='screenshot' %}
+{% include image.html file="fairdom_in_use/nfdi4health1.png" alt="NFDI4Health system" click=true class='screenshot' caption="Diagram of the NFDI4Health system." %}
 
 The Local Data Hub within the NFDI4Health ecosystem offers a comprehensive suite of features to enhance research collaboration and data management. It systematically organizes information related to local research, ensuring easy navigation and accessibility. The hub creates meaningful links between domain-specific metadata and data from local studies, facilitating a cohesive research environment. With fine-grained access rights management, it allows precise control over data access. The Local Data Hub supports programmatic access (API), promoting interoperability and data exchange with analytical tools like DataSHIELD or Personal Health Train. Additionally, it facilitates the sharing of public metadata by submitting data to the German Health Study Hub, another core service of NFDI4Health.
 
@@ -28,7 +28,7 @@ The SEEK-based Local Data Hub now fully represents the comprehensive NFDI4Health
 Extended Metadata supports the definition of additional metadata attributes for a particular type, enabling adherence to specific standards (e.g., NFDI4Health MDS). While not directly visible to users, these attributes are associated with a particular attribute type, marked as optional or mandatory, and validated against. Extended Metadata works similarly to Samples, sharing code and defining attributes with names linked to a SampleAttributeType.
 
 
-{% include image.html file="fairdom_in_use/nfdi4health2.png" alt="screenshot of the architecture of Extended Metadata" class="screenshot" caption="Screenshot of the architecture of Extended Metadata." %}
+{% include image.html file="fairdom_in_use/nfdi4health2.png" alt="screenshot of the architecture of Extended Metadata" class="screenshot" caption="Screenshot of the architecture of Extended Metadata." click=true %}
 
 
 Extended Metadata types are linked to specific resource types in SEEK, including Collection, DataFile, Document, Event, Model, Presentation, SOP, and Project.  
@@ -50,6 +50,6 @@ Moreover, users can define Nested Extended Metadata, introducing a hierarchical 
 It is worth mentioning that users can easily access extended metadata through the user interface or the API. The API extends possibilities, enabling interaction with remote platforms like the German Health Study Hub.
 
 
-{% include image.html file="fairdom_in_use/nfdi4health3.png" alt="screenshot of MDS implementation using extended metadata function" class="screenshot" caption="Screenshot of MDS implementation using extended metadata function." %}
+{% include image.html file="fairdom_in_use/nfdi4health3.png" alt="screenshot of MDS implementation using extended metadata function" class="screenshot" caption="Diagram of MDS implementation using extended metadata function." click=true %}
 
 
