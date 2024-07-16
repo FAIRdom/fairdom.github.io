@@ -148,6 +148,12 @@ figure.screenshot {
     max-width: 70%;
 }
 
+figure.small_screenshot {
+    /* side image */
+    float: right;
+    max-width: 30%;
+}
+
 /* We don't need to see the type of page  */
 
 h1.has-subtitle span.text-secondary {

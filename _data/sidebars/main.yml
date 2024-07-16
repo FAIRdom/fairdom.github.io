@@ -32,7 +32,7 @@ subitems:
           url: /fairdom-in-use/Datahub
         - title: Digital Research Hub
           url: /fairdom-in-use/scilifelab
-      - title: Projects
+      - title: FAIRDOM Projects
         url: /fairdom-in-use/fairdom_projects_search
         subitems:
         - title: BioIndustry4.0 
@@ -41,8 +41,8 @@ subitems:
           url: /fairdom-in-use/covid19dm
         - title: Centre for Digital Life
           url: /fairdom-in-use/digitallifenorway
-        - title: Digital Salmon
-          url: /fairdom-in-use/digitallifenorway
+#        - title: Digital Salmon
+#          url: /fairdom-in-use/digitallifenorway
         - title: Leipzig Health Atlas
           url: /fairdom-in-use/leipzig
         - title: LiSyM
@@ -78,24 +78,24 @@ subitems:
       #  subitems:
       #    - title: WorkflowHub
       #      url: /workflowhub
-  - title: Communities
-    subitems:
+  #- title: Communities
+  #  subitems:
       #- title: User Communities
       #  url: /communities
       #- title: PALs
       #  url: /pals
       # - title: Systems Biology Foundry
       #  url: /sbf
-      - title: Engage
-        url: /engage
+      #- title: Engage
+      #  url: /engage
   #- title: Collaborations
   #  subitems: 
-  - title: Support
+  - title: Support and Engage
     subitems:
       - title: Data Management
         url: /data_management
-      #- title: FAIRDOM Cost
-      #  url: /FAIRDOM_Cost
+      - title: FAIRDOM Cost
+        url: /FAIRDOM_Cost
       - title: Community Standards
         url: /community_standards
   - title: Outreach
@@ -116,6 +116,6 @@ subitems:
     url: /contact
   - title: How to Get Involved
     url: /get_involved
-    subitems:
-      - title: FAIRDOM Cost
-        url: /FAIRDOM_Cost
+    #subitems:
+    #  - title: FAIRDOM Cost
+    #    url: /FAIRDOM_Cost

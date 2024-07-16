@@ -2,7 +2,7 @@
 title: IBISBAKHub
 toc: false
 type: hub
-description: The IBISBAKHub is a Knowledge Hub for scientific information related to IBISBA, the European infrastructure producing translational R&D&I services to an international community of Industrial Biotechnology.
+description: A Knowledge Hub for scientific information related to an international community of Industrial Biotechnology.
 redirect_from:
     - /ibisbahub
     - /fairdom-in-use/ibisbahub
@@ -11,6 +11,8 @@ redirect_from:
 
 
 The [IBISBAKHub](https://hub.ibisba.eu) is a Knowledge Hub for scientific information related to [IBISBA](https://www.ibisba.eu), the European infrastructure producing translational R&D&I services to an international community of Industrial Biotechnology.
+
+{% include image.html file='fairdom_in_use/IBISBAKHub.png' alt='IBISBA Knowledge Hub screenshot' class='small_screenshot' click=true %}
 
 ### The IBISBAKHub serves as:
 

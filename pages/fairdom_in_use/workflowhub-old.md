@@ -1,7 +1,8 @@
 ---
 title: WorkflowHub
 toc: false
-# a page with this name appears in two locations!
+# a page with this name appeared in two locations!
+# this page is replaced by /faifrdom_in_use/fairdom_hubs/workflowhub.md
 ---
 
 

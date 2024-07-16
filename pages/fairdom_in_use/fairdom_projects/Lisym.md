@@ -1,7 +1,7 @@
 ---
 title: LiSyM
 type: project
-description: The LiSyM SEEK is one of the key Project Hubs building on the FAIRDOM-SEEK platform, serving the Liver Systems Medicine LiSyM network  and its follow up project LiSyM-Cancer. Research results of both projects are collected and published on the LiSyM-SEEK platform.
+description: Serves the Liver Systems Medicine LiSyM network and its follow up project LiSyM-Cancer.
 redirect_from:
  - /Lisym
 toc: false
@@ -13,7 +13,6 @@ The project members use the [LiSyM SEEK](https://seek.lisym.org) to upload and o
 -->
 <!-- {% include image.html file="LiSyM.png" alt="LiSyM SEEK" %} -->
 
-## Description of the Hub
 
 The [LiSyM SEEK](https://seek.lisym.org/) is one of the key Project Hubs building on the FAIRDOM-SEEK platform, serving the Liver Systems Medicine [LiSyM](https://www.lisym.org/) network  and its follow up project LiSyM-Cancer. Research results of both projects are collected and published on the LiSyM-SEEK platform.
 

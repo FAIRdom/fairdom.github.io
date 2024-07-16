@@ -1,7 +1,7 @@
 ---
 title: Systems Biology Modelling
 description: 
-type: projects
+type: project
 ---
 
 ## Introduction

@@ -1,6 +1,6 @@
 ---
 title: Centre for Digital Life Norway
-description: The Centre for Digital Life Norway supports its project on the usage of the FAIRDOM-SEEK platform and has integrated it with the Norwegian e-Infrastructure for Life Sciences
+description: Integrated with the Norwegian e-Infrastructure for Life Sciences.
 toc: false
 #type: fairdom_in_use
 type: project
