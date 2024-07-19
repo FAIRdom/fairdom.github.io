@@ -43,6 +43,8 @@ subitems:
           url: /fairdom-in-use/digitallifenorway
 #        - title: Digital Salmon
 #          url: /fairdom-in-use/digitallifenorway
+        - title: HITS Publications Management Tool
+          url: /fairdom-in-use/hits
         - title: Leipzig Health Atlas
           url: /fairdom-in-use/leipzig
         - title: LiSyM
