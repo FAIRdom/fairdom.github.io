@@ -100,8 +100,8 @@ subitems:
         url: /FAIRDOM_Cost
       - title: Community Standards
         url: /community_standards
-      - title: Community Engagement
-        url: /communities
+  - title: FAIRDOM Community
+    url: /communities
   - title: Outreach
     subitems:
       - title: Publications
