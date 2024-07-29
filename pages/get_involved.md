@@ -41,7 +41,7 @@ Discussion of technical development, APIs, assigning and resolving GitHub issues
 * **How to join:** Contact us on our [slack channel](https://join.slack.com/t/seek4science/shared_invite/zt-csqh94qb-kf~kFbZxuHl1Hpxhbc8avw) or on <community@fair-dom.org>
  
 
-## Google groups
-* **SEEK:** https://groups.google.com/g/seek4science 
-* **SEEK Developers:** https://groups.google.com/g/seek-developers 
-* **FAIRDOM Community:**  https://groups.google.com/g/fairdom-community 
+## Google Groups
+* **SEEK:** [https://groups.google.com/g/seek4science](https://groups.google.com/g/seek4science) 
+* **SEEK Developers:** [https://groups.google.com/g/seek-developers](https://groups.google.com/g/seek-developers) 
+* **FAIRDOM Community:**  [https://groups.google.com/g/fairdom-community](https://groups.google.com/g/fairdom-community) 
