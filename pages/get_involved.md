@@ -6,7 +6,7 @@ title: How to Get Involved
 
 FAIRDOM is a community driven consortium supported by various UK and European projects. We're an open community and welcome developers, user communities, 
 and individual users to join us in our efforts to use and develop FAIRDOM-SEEK.
-If you are interested in data management, a user of any of our platforms, a developer wanting to contribute to our codebase, or just curious about data mangement and want to learn more, 
+If you are interested in data management, a user of any of our platforms, a developer wanting to contribute to our codebase, or just curious about data management and want to learn more, 
 please join our meetings or pings us on various communication channels.
 
 ## Communication Channels 
@@ -34,7 +34,7 @@ Prioritization of features requests from users of GUI and outreach (organisation
 
 
 ### FAIRDOM Developers Meeting: 
-Discussion of technical development, APIs, assigining and resolving GitHub issues
+Discussion of technical development, APIs, assigning and resolving GitHub issues
 
 * **When:**  Weekly, on Wednesday at 13:00 GMT / 14:00 CET
 

@@ -7,9 +7,9 @@ type: project
 
 ## The Local Data Hubs (LDH)
 
-The Local Data Hub (LDH) is the main local component and connector of the federated distributed services of NFDI4Health (see Meineke F., Golebiewski M., Hu X. at al.). It enables local (meta-)data structuring, bundling, and sharing within Data Holding Organizations (DHOs) and beyond. Its software operationalizes NFDI4Health standards, including a tailored metadata schema (MDS) for health studies, facilitating communication with the German Central Health Study Hub. Integration into DHO processes and workflows is imperative. These LDHs target (bio)medicine, epidemiology, biostatistics, modeling, and bio- and medical informatics researchers, providing standardized platforms for collaborative sharing of various data elements such as projects, studies, publications, and software tools.
+The Local Data Hub (LDH) is the main local component and connector of the federated distributed services of NFDI4Health (see Meineke F., Golebiewski M., Hu X. at al.). It enables local (meta-)data structuring, bundling, and sharing within Data Holding Organizations (DHOs) and beyond. Its software operationalizes NFDI4Health standards, including a tailored metadata schema (MDS) for health studies, facilitating communication with the German Central Health Study Hub. Integration into DHO processes and workflows is imperative. These LDHs target (bio)medicine, epidemiology, biostatistics, modelling, and bio- and medical informatics researchers, providing standardized platforms for collaborative sharing of various data elements such as projects, studies, publications, and software tools.
 
-Adhering to the fundamental FAIR principles (Findable, Accessible, Interoperable, Reusable), the LDH ensures that stored information is easily discoverable, accessible to authorized users, interoperable across various systems, and available for reuse in subsequent research endeavors. 
+Adhering to the fundamental FAIR principles (Findable, Accessible, Interoperable, Reusable), the LDH ensures that stored information is easily discoverable, accessible to authorized users, interoperable across various systems, and available for reuse in subsequent research endeavours. 
 
 
 {% include image.html file="fairdom_in_use/nfdi4health1.png" alt="NFDI4Health system" click=true class='screenshot' caption="Diagram of the NFDI4Health system." %}
@@ -41,7 +41,7 @@ Future plans include making it easier for administrators to define Extended Meta
 
 If users are managing their own SEEK instance, they possess the flexibility to tailor Extended Metadata types to align with their project's specific needs by employing a seed file to populate the database.
 
-In addition to defining fundamental attribute types such as string, text, date, date-time, integer, real number, and boolean, SEEK offers the capability to establish more sophisticated types like controller vocabularies and controlled vocabulary lists. 
+In addition to defining fundamental attribute types such as string, text, date, date-time, integer, real number, and Boolean, SEEK offers the capability to establish more sophisticated types like controller vocabularies and controlled vocabulary lists. 
 
 Controlled vocabularies restrict attributes to a predefined set, presented as a single-select dropdown, while controlled vocabulary lists offer more flexibility, allowing users to make multiple selections from a predetermined  value set for a given attribute.
 
