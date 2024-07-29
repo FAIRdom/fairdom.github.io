@@ -26,7 +26,7 @@ The [WorkflowHub](https://workflowhub.eu) is a public registry for sharing and p
  * Full support for FAIR Digital Objects with  Workflow RO-Crate import and export and FAIR Signposting implementation
  * Workflow launch from the Hub using the GA4GH TRS API
  * Integration with workflow services for monitoring (LifeMonitor) 
- * Integration with Github repos 
+ * Integration with GitHub repos 
  * Workflow Version management
  * Workflows organised into Collections
 

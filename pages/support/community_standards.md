@@ -20,10 +20,15 @@ the [International Standards Organisation (ISO)](http://www.iso.org/).
 
 Standardised formats are used to structure knowledge from experiments and models in a consistent way. This allows the
 key information to be easily found both by researchers, and software. Standardised formats have been generated to
-support systems biologists in structuring models (e.g. [SBML](http://sbml.org/Main_Page)
-, [CellML](https://www.cellml.org/)), simulating models (e.g. [SBRML](http://www.comp-sys-bio.org/SBRML.html)
-, [SEDML](http://sed-ml.org/)), visualising models (e.g. [SBGN](http://sbgn.github.io/sbgn/)), structuring data (
-e.g [MzTAB](http://www.psidev.info/mztab) for Proteomics; ), and structuring investigations (e.g. ISATab). 
+support systems biologists in structuring models 
+(e.g. [SBML](http://sbml.org/Main_Page), [CellML](https://www.cellml.org/)), 
+simulating models 
+(e.g. [SBRML](http://www.comp-sys-bio.org/SBRML.html), [SEDML](http://sed-ml.org/)), 
+visualising models 
+(e.g. [SBGN](http://sbgn.github.io/sbgn/)), 
+structuring data 
+(e.g [MzTAB](http://www.psidev.info/mztab) for Proteomics), 
+and structuring investigations (e.g. ISATab). 
 
 A [FAIRDOM survey of standard usage](http://dx.doi.org/10.15252/msb.20156053) has shown that the community use of
 standard formats is above two thirds. But it has been noted that systems biology standards are not suitable for all types of data and models produced within the field, with physiology models, and certain cellular processes such as transcription not having suitable, mature standards available for use.
@@ -43,7 +48,7 @@ There are a number of specialised ontologies for systems biology such as Systems
 and Just Enough Results Model ([JERM](https://jermontology.org)). They are also best used in conjunction with real world identifiers, which are
 identifiers that can be linked unambiguously to databases detailing the entity, for example [ChEBI](https://www.ebi.ac.uk/chebi) for metabolites.
 Metadata standards and controlled vocabularies are used by only about half of the community according to a research
-survey. As a result many researchers find reusing data and models produced by other researchers difficult, with
+survey. As a result, many researchers find reusing data and models produced by other researchers difficult, with
 understanding the origin of data used within a model referenced as being particularly difficult.
 
 

@@ -46,7 +46,7 @@ Support for storing, versioning, and running SBML models using JWS Online
 
 - Yellow pages describing researchers used as input for [LiSyM-Cancer](https://www.lisym-cancer.org) 
 - More model types & file types  (e.g. MulticellML, [PEtab](https://petab.readthedocs.io)) 
-- Publically available mover tools between SEEK and the other systems using the API
+- Publicly available mover tools between SEEK and the other systems using the API
 
 ## More Information
 

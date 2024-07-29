@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 
-Good data management includes maximising the Findablity, Accessiblity, Interoperablity and Reusablity (FAIR) of data used in and generated during a project. This enables effective collaboration in a project, deeper insights and increases the value of the data for potential reuse.
+Good data management includes maximising the Findability, Accessibility, Interoperability and Reusability (FAIR) of data used in and generated during a project. This enables effective collaboration in a project, deeper insights and increases the value of the data for potential reuse.
 
 ## What is FAIR?
 

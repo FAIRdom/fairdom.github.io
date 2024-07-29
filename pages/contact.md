@@ -16,9 +16,9 @@ We are open to generating partnerships with both Collaborators and Facilities. C
 
 ## Reporting Bugs and Feature Requests
 
-Bugs and feature requests can be reported through [Github Issues](https://github.com/seek4science/seek/issues)
+Bugs and feature requests can be reported through [GitHub Issues](https://github.com/seek4science/seek/issues).
 
-For more details and guidelines please visit [Reporting Bugs and raising Feature Requests](https://docs.seek4science.org/tech/reporting-bugs-and-features.html)
+For more details and guidelines please visit [Reporting Bugs and raising Feature Requests](https://docs.seek4science.org/tech/reporting-bugs-and-features.html).
  
 
 
