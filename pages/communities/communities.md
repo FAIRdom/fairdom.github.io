@@ -15,9 +15,9 @@ FAIRDOM organizes user meetings twice a year. The purpose of the [FAIRDOM user m
 
 The [Systems Biology Community of ELIXIR](https://elixir-europe.org/communities/systems-biology) is the community of systems biology experts within the infrastructure ELIXIR. It coordinates work done within ELIXIR to interlink and harmonize infrastructure for models, software and data. The overarching long-term goal of the ELIXIR Systems Biology Community is to make systems biology modelling a central pillar of research in biology.
 
-{% include pic-carousel.html %}
-
 ## History
+
+{% include pic-carousel.html %}
 
 From 2012 to 2018 we ran four “foundry” meetings with practitioners in support delivery for systems biology all over Europe, to exchange ideas and practices, to share software and to interoperate systems where useful to do so. We did not continue these meetings as we found the grounds of the foundry meetings is covered by two sets of activities, the Systems Biology Community in ELIXIR that covers the conceptual aspects of systems biology infrastructure, and the Biohackathons that help increasing interaction of systems biology infrastructure around concrete projects.
 
