@@ -7,6 +7,8 @@ location: online
 
 ### de.NBI Training Course SABIO-RK and FAIRDOMHub / FAIRDOM-SEEK
 
+  &nbsp;
+
 **Day 1: SABIO-RK** 25-NOV-2024 2:00 pm - 5:00pm (CET / UTC +1)
 
 SABIO-RK (https://sabiork.h-its.org/) is a manually curated database for biochemical reactions and their kinetic properties. Data are mainly extracted from literature and include detailed information about biochemical reactions, their kinetic rate equations with parameters and experimental conditions.
@@ -15,6 +17,8 @@ Agenda:
 * Introduction to SABIO-RK
 * Hands-on session: manual search and export functionalities
 * Hands-on session: programmatic access
+
+  &nbsp;
 
 **Day 2: FAIRDOM-SEEK:** 26-NOV-2024 2:00 pm - 6:00pm (CET / UTC +1)
 
@@ -27,6 +31,7 @@ Agenda:
   * Storage and exchange of data and models according to the FAIR principles
   * Modeling specific functionalities in FAIRDOMHub / FAIRDOM-SEEK
 
+  &nbsp;
  
 More details and registration at the [de.NBI website](https://www.denbi.de/training-courses-2024/1777-virtual-2-day-workshop-sabio-rk-and-fairdomhub-fairdom-seek).
 
