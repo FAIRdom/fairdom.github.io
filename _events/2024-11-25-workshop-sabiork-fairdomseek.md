@@ -16,8 +16,9 @@ SABIO-RK (https://sabiork.h-its.org/) is a manually curated database for biochem
 
 Agenda:
 * Introduction to SABIO-RK
-* Hands-on session: manual search and export functionalities
-* Hands-on session: programmatic access
+* Hands-on session:
+  * manual search and export functionalities
+  * programmatic access
 
   &nbsp;
 
