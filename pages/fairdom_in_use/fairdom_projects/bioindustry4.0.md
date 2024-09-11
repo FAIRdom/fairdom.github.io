@@ -48,8 +48,10 @@ FAIRDOM-SEEK is undergoing a number of enhancements to facilitate this, includin
 Along with the metadata, data files are also registered as references to entries in the Data Fabric data store, or another
 repository. The data may be legacy files, or a reference to a live data stream being monitored by a bioreactor sensor.
 
+{% comment %}
 {% include image.html file="fairdom_in_use/bioindustry-fairdatastation-integration.png" alt="BioIndustry4.0 Digital Twin" class="
 screenshot" click=true %}
+{% endcomment %}
 
 ## Funding
 
