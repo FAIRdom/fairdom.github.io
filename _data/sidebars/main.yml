@@ -37,8 +37,8 @@ subitems:
         subitems:
         - title: BioIndustry4.0 
           url: /fairdom-in-use/bioindustry4.0
-        - title: Covid-19 Disease Map
-          url: /fairdom-in-use/covid19dm
+        #- title: Covid-19 Disease Map
+        #  url: /fairdom-in-use/covid19dm
         - title: Centre for Digital Life
           url: /fairdom-in-use/digitallifenorway
 #        - title: Digital Salmon
@@ -49,14 +49,16 @@ subitems:
           url: /fairdom-in-use/leipzig
         - title: LiSyM
           url: /fairdom-in-use/Lisym
+        - title: MIAPPE, Plant Data Integration and Findability
+          url: /fairdom-in-use/plant-is-and-miappe
         - title: NFDI4Health
           url: /fairdom-in-use/nfdi4health
         - title: Plant Systems-biology Modelling
           url: /fairdom-in-use/plantsysbiomod
-        - title: Systems Biology Modelling
-          url: /fairdom-in-use/sysbiomod
-        - title: MIAPPE, Plant Data Integration and Findability
-          url: /fairdom-in-use/plant-is-and-miappe
+        #- title: Systems Biology Modelling
+        #  url: /fairdom-in-use/sysbiomod
+        - title: deCYPher
+          url: /fairdom-in-use/decypher
   #- title: FAIRDOM Hubs
    # url: /instance
     #subitems:
