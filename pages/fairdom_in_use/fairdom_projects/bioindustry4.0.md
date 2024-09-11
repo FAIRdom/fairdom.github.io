@@ -36,10 +36,12 @@ the central metadata store.
 
 FAIRDOM-SEEK is undergoing a number of enhancements to facilitate this, including:
 
-* Integration with the [FAIR Data Station](https://fairds.fairbydesign.nl/) for metadata collection, validation and processing.
+* Integration with the [FAIR Data Station](https://fairds.fairbydesign.nl/) for metadata collection, validation and
+  processing.
 * Enhancements to the Extended Metadata Support, including addition of attribute persistent identifiers (PID's).
-* Introduction of [Observation Units](https://docs.fairbydesign.nl/docs/fairdatastation/template.html#observation-unit) (between linking Studies to Samples and Assays) to satisfy the FDS model, and the
-  Bioindustry information model for experiments.
+* Introduction
+  of [Observation Units](https://docs.fairbydesign.nl/docs/fairdatastation/template.html#observation-unit) (describing
+  instances of observation and measurement) to satisfy the FDS model, and the Bioindustry information model for experiments.
 * Enhanced RDF generation to include statements about the extended metadata and samples (where PID's are available to
   provide the predicate).
 * Revisiting the use of SEEK alongside an RDF triple store, to produce a knowledge graph and allow SPARQL queries over
@@ -55,6 +57,6 @@ screenshot" click=true %}
 
 ## Funding
 
-This work is funded through the Horizon Europe (HORIZON) Programme’s Research and Innovation Actions (RIA) 2022 call for next generation of
-scientific instrumentation, tools, and methods (_HORIZON-INFRA-2022-TECH-01_)
+This work is funded through the Horizon Europe (HORIZON) Programme’s Research and Innovation Actions (RIA) 2022 call for
+next generation of scientific instrumentation, tools, and methods (_HORIZON-INFRA-2022-TECH-01_).
 
