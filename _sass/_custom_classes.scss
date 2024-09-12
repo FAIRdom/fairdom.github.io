@@ -154,6 +154,12 @@ figure.small_screenshot {
     max-width: 30%;
 }
 
+figure.small_logo {
+    /* small and centered logo for a project or hub */
+    margin: 0 auto;
+    max-width: 15%;
+}
+
 /* We don't need to see the type of page  */
 
 h1.has-subtitle span.text-secondary {
