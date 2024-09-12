@@ -15,5 +15,7 @@ redirect_from:
 
 The associate partners work together in varying degrees from using the software and providing development feedback, through to co-development of software, knowledge and broader collaboration.   
 
+('FAIRDOM' stands for Findable, Accessible, Interoperable and Reusable Documents, Operations and Models.)
+
 {% include image.html file="About_FAIRDOM.png" alt="FAIRDOM About" class="screenshot" click=true %}
 
