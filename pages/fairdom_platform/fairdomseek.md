@@ -3,6 +3,8 @@ title: FAIRDOM-SEEK Platform
 toc: false
 ---
 
+{% include image.html file="fairdom-seek-logo-alt.svg" alt="FAIRDOM-SEEK logo" max-width='12em' %}
+
 The [FAIRDOM-SEEK](https://fairdomseek.org/) platform is the [open source](https://github.com/seek4science/seek) Research Data Management Platform developed and
 supported by the members of the FAIRDOM consortium.
 
@@ -19,14 +21,12 @@ FAIRDOM provides a public Hub that anyone can register with and use. For more de
 For more information about FAIRDOM-SEEK, including more details about available features, please visit <https://fairdomseek.org/>.
 More details can also found by browsing the [Documentation](https://docs.seek4science.org).
 
-{% include image.html file="fairdom-seek-logo-alt.svg" alt="FAIRDOM-SEEK logo" class='small_logo' %}
-
 To see what changes and new features are coming, see the FAIRDOM-SEEK [Roadmap](https://docs.seek4science.org/tech/roadmap.html).
 
-For examples of FAIRDOM-SEEK being used, please visit [FAIRDOM-SEEK In Use](/fairdom_in_use).
+For examples of FAIRDOM-SEEK being used, take a look at FAIRDOM-SEEK Hubs and Projects [In Use](/fairdom_in_use).
 
 You can also easily install your own instance of FAIRDOM-SEEK on Ubuntu or other Debian-based Linux distribution, or can be
-installed using Docker. For more information see [Getting FAIRDOM-SEEK](https://docs.seek4science.org/get-seek.html).
+installed using Docker. For more information see the [Get FAIRDOM-SEEK](https://docs.seek4science.org/get-seek.html) page.
 
 If you wish to contribute to FAIRDOM-SEEK, either through providing code, requesting features or updating the documentation, then please
 visit the [Contributing](https://docs.seek4science.org/contributing.html) page.

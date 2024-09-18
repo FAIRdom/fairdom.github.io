@@ -19,26 +19,25 @@ Each Hub positions itself in a different place in the project asset management p
 - [FAIRDOMHub](/fairdomhub) is a Hub used for collaborations and public publishing of results, as well as long term retention of outputs after projects have been completed, relying on the FAIRDOM Alliance to look after them. 
 - [MIT  BioMicroCentre](https://openwetware.org/wiki/BioMicroCenter) uses a private hub within the MIT facility to coordinate project management during the running of a project and then pushes the outputs to the FAIRDOMHub in a final publishing step.
 
-**Take a look at the Hubs described below** and see the different ways Hubs are configured to suit different needs.
+**Take a look at the Hubs and Projects below** and see the different ways that FAIRDOM-SEEK is configured to suit different needs.
 
 <div class="row navigation-tiles">
     <div class="col" >
-        <div class="card">
-            <div class="card-header">
-                <a class="stretched-link" aria-label="Go to the FAIRDOM Hubs page" href="/fairdom-in-use/fairdom_hubs_search">
-                    <h3 class="card-title m-0">FAIRDOM Hubs</h3>
+        <div class="card card-tall">
+                <a class="stretched-link" aria-label="Go to the FAIRDOM-SEEK Hubs page" href="/fairdom-in-use/fairdom_hubs_search">
+                    <h3 class="card-title m-0"><i class="fa-solid fa-folder-tree"></i> FAIRDOM-SEEK Hubs</h3>
                 </a>
-            </div>
         </div>
     </div>
     <div class="col" >
-        <div class="card">
-            <div class="card-header">
-                <a class="stretched-link" aria-label="Go to the FAIRDOM Projects page" href="/fairdom-in-use/fairdom_projects_search">
-                    <h3 class="card-title m-0">FAIRDOM Projects</h3>
+        <div class="card card-tall">
+                <a class="stretched-link" aria-label="Go to the FAIRDOM-SEEK Projects page" href="/fairdom-in-use/fairdom_projects_search">
+                    <h3 class="card-title m-0"><i class="fa-solid fa-folder-tree"></i> FAIRDOM-SEEK Projects</h3>
                 </a>
-            </div>
         </div>
+    </div>
+    <div class="col" >
+        &nbsp;
     </div>
 </div>
 
