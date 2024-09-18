@@ -15,3 +15,6 @@ The [Leipzig Health Atlas](https://www.health-atlas.de) is another **Project Hub
 
 {% include image.html file="Leipzig.png" alt="Leipzig Health Atlas SEEK" click=true class='screenshot' %}
 
+## More information
+
+For more information, please visit the [Leipzig Health Atlas](https://www.health-atlas.de) website. 

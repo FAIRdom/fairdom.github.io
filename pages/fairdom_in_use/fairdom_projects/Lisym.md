@@ -30,11 +30,11 @@ Integrating these different platforms to easily transfer and connect the data an
 - a private collaboration space for the LiSyM-Cancer network, for exchanging data (of any format), models and SOPs between partners
 - a FAIR public record of sharable results of any file format from the LiSyM-Cancer Network
 - a central registry for all publications derived from the LiSyM-Cancer Network
-- a registry for data deposited in specific data repositories e.g., GEO
-- an optional entry point to upload data to specific data repositories e.g., sequencing data to ENA via use of extended metadata
+- a registry for data deposited in specific data repositories, for example, GEO
+- an optional entry point to upload data to specific data repositories, for example, sequencing data to ENA via use of extended metadata
 - a platform for sharing standardised computational liver models
 
-## Features Include
+## Features 
 
 - ISA structure and data attribution
 - Extended metadata rich enough to capture the metadata of data items in openBIS, NextCloud, REDCap, OMERO, respectively
@@ -43,13 +43,13 @@ Integrating these different platforms to easily transfer and connect the data an
 - Fine grained visibility control for single files or larger groups of files
 Support for storing, versioning, and running SBML models using JWS Online
 
-## Further Developments
+## Further developments
 
 - Yellow pages describing researchers used as input for [LiSyM-Cancer](https://www.lisym-cancer.org) 
 - More model types & file types  (e.g. MulticellML, [PEtab](https://petab.readthedocs.io)) 
 - Publicly available mover tools between SEEK and the other systems using the API
 
-## More Information
+## More information
 
 Read more about the [work and projects](https://www.lisym-cancer.org/projects) of LiSyM-Cancer network and their [related publications](https://seek.lisym.org/publications).
 
