@@ -14,7 +14,7 @@ Good data management includes maximising the Findability, Accessibility, Interop
 
 ## What is FAIR?
 
-The FAIR principles have been formalised in the publication [The FAIR Guiding Principles for scientific data management and stewardship](https://doi.org/10.1038/sdata.2016.18). The FAIR principles "living document" is hosted and maintained [here](https://www.go-fair.org/fair-principles/).
+The FAIR principles have been formalised in the publication [The FAIR Guiding Principles for scientific data management and stewardship](https://doi.org/10.1038/sdata.2016.18). The [FAIR principles "living document"](https://www.go-fair.org/fair-principles/) provides a detailed overview.
 
 ## Practical information for data management
 

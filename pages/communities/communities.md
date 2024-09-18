@@ -5,11 +5,11 @@ images: ["images/communities/ERASysAPP-PALS-Berlin-2015-3.jpg", "images/communit
 
 ---
 
-## Meet other FAIRDOM users
+## FAIRDOM user meetings
 
 FAIRDOM organizes user meetings twice a year. The purpose of the [FAIRDOM user meetings](https://fair-dom.org/events) is to establish an active FAIRDOM user community to allow networking between various FAIRDOM-SEEK users and to learn from data management experiences in different research projects. 
 
-## Engage with ELIXIR communities
+## Engagement with other communities
 
 [BioHackathon](https://biohackathon-europe.org) is the hackathon run by ELIXIR, the European ESFRI Infrastructure for Bioinformatics. [de.NBI](https://www.denbi.de), the organisation behind the German node of ELIXIR runs a [similar set of hackathons](https://www.denbi.de/de-nbi-events). FAIRDOM is typically involved in several projects of these hackathons each year.
 
