@@ -13,6 +13,7 @@ The project members use the [LiSyM SEEK](https://seek.lisym.org) to upload and o
 -->
 <!-- {% include image.html file="LiSyM.png" alt="LiSyM SEEK" %} -->
 
+{% include image.html file="fairdom_in_use/lysim-logo.png" alt="LiSyM Logo" max-width='12em' %}
 
 The [LiSyM SEEK](https://seek.lisym.org/) is one of the key Project Hubs building on the FAIRDOM-SEEK platform, serving the Liver Systems Medicine [LiSyM](https://www.lisym.org/) network  and its follow up project LiSyM-Cancer. Research results of both projects are collected and published on the LiSyM-SEEK platform.
 
@@ -50,5 +51,5 @@ Support for storing, versioning, and running SBML models using JWS Online
 
 ## More Information
 
-[About project](https://www.lisym-cancer.org/projects) and [related publications](https://seek.lisym.org/publications)
+Read more about the [work and projects](https://www.lisym-cancer.org/projects) of LiSyM-Cancer network and their [related publications](https://seek.lisym.org/publications).
 

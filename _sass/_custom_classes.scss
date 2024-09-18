@@ -146,6 +146,9 @@ figure.screenshot {
     margin-left: auto;
     margin-right: auto;
     max-width: 70%;
+    img {
+        border: thin solid $light;
+    }
 }
 
 figure.small_screenshot {

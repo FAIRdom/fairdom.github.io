@@ -35,7 +35,7 @@ subitems:
       - title: FAIRDOM-SEEK Projects
         url: /fairdom-in-use/fairdom_projects_search
         subitems:
-        - title: BioIndustry4.0 
+        - title: BioIndustry 4.0 
           url: /fairdom-in-use/bioindustry4.0
         #- title: Covid-19 Disease Map
         #  url: /fairdom-in-use/covid19dm
