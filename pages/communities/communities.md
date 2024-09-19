@@ -7,7 +7,7 @@ images: ["images/communities/ERASysAPP-PALS-Berlin-2015-3.jpg", "images/communit
 
 ## FAIRDOM user meetings
 
-FAIRDOM organizes user meetings twice a year. The purpose of the [FAIRDOM user meetings](https://fair-dom.org/events) is to establish an active FAIRDOM user community to allow networking between various FAIRDOM-SEEK users and to learn from data management experiences in different research projects. 
+FAIRDOM organises [user meetings](https://fair-dom.org/events) twice a year. The purpose of these events is to maintain an active FAIRDOM user community, providing networking between various FAIRDOM-SEEK users and to learn from data management experiences in different research projects. 
 
 ## Engagement with other communities
 
