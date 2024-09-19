@@ -3,6 +3,7 @@ title: Community Standards
 
 redirect_from:
   - /knowledgehub/community-standards/
+toc: false
 ---
 
 You can view our FAIRDOM Standards collection in the [FAIRsharing catalogue](https://fairsharing.org/collection/FAIRDOM).

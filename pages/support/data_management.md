@@ -6,7 +6,7 @@ redirect_from:
   - /knowledgehub/data-management-checklist/
   - /dm_checklist.html
   - /dm_checklist
-
+toc: false
 ---
 
 

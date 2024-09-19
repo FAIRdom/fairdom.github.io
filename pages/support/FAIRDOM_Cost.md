@@ -1,5 +1,6 @@
 ---
 title: Cost FAIRDOM in your Project
+toc: false
 ---
 
 ## Using FAIRDOM-SEEK
