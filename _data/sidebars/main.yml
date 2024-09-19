@@ -18,24 +18,24 @@ subitems:
     url: /fairdomseek
   - title: FAIRDOMHub
     url: /fairdom-in-use/fairdomhub
-  - title: FAIRDOM In Use
+  - title: FAIRDOM-SEEK In Use
     url: /fairdom-in-use/fdom_in_use
     subitems:
-      - title: FAIRDOM Hubs
+      - title: FAIRDOM-SEEK Hubs
         url: /fairdom-in-use/fairdom_hubs_search
         subitems:
-        - title: WorkflowHub
-          url:   /fairdom-in-use/workflowhub
-        - title: IBISBAKHub
-          url: /fairdom-in-use/ibisbakhub
         - title: DataHub
           url: /fairdom-in-use/Datahub
         - title: Digital Research Hub
           url: /fairdom-in-use/scilifelab
-      - title: FAIRDOM Projects
+        - title: IBISBAKHub
+          url: /fairdom-in-use/ibisbakhub
+        - title: WorkflowHub
+          url:   /fairdom-in-use/workflowhub
+      - title: FAIRDOM-SEEK Projects
         url: /fairdom-in-use/fairdom_projects_search
         subitems:
-        - title: BioIndustry4.0 
+        - title: BioIndustry 4.0 
           url: /fairdom-in-use/bioindustry4.0
         #- title: Covid-19 Disease Map
         #  url: /fairdom-in-use/covid19dm

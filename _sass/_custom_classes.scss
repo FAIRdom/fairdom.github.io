@@ -139,6 +139,11 @@ main .form-control::-ms-input-placeholder { /* Edge 12-18 */
     color: $primary;
 }
 
+/*-----FAIRDOM-SEEK In Use ------*/
+.card-tall {
+    padding: 1em 0.5em;
+}
+
 /* ----- included image using ETT code -----  */
 
 figure.screenshot {
@@ -146,12 +151,21 @@ figure.screenshot {
     margin-left: auto;
     margin-right: auto;
     max-width: 70%;
+    img {
+        border: 2px solid $light;
+    }
 }
 
 figure.small_screenshot {
     /* side image */
     float: right;
     max-width: 30%;
+}
+
+figure.small_logo {
+    /* small and centered logo for a project or hub */
+    margin: 0 auto;
+    max-width: 15%;
 }
 
 /* We don't need to see the type of page  */

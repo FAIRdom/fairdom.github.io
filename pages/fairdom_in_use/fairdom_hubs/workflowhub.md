@@ -9,17 +9,17 @@ redirect_from:
 - /workflowhub2
 ---
 
+{% include image.html file="fairdom_in_use/workflowhub-logo.svg" alt="WorkflowHub Logo" max-width='12em' %}
 
 The [WorkflowHub](https://workflowhub.eu) is a public registry for sharing and publishing computational workflows from any discipline using any workflow language, including Notebooks. It aims to facilitate the re-use of workflows in an accessible and interoperable way, and to support the sharing and publishing of workflows between authors, teams and disciplines. This hub also supports the registration and sharing of Standard Operating Procedures. 
 
-{% include image.html file='fairdom_in_use/WorkflowHub.png' alt='WorkflowHub screenshot' class='small_screenshot' click=true %}
 
-### The WorkflowHub serves as:
+## The WorkflowHub serves as
   * a private and public collaboration space for workflow teams;
   * a one stop shop registry for workflows produced by different communities in their own repositories
   * a public registry for published workflows with DOIs, feeding citation Knowledge Graphs
     
-### Features include:
+## Features
 
  * ISA structure replaced; Projects are replaced by Teams; Programmes are replaced by Spaces 
  * Full support for FAIR workflow metadata including schema.org workflow description, and CWL description
@@ -30,6 +30,6 @@ The [WorkflowHub](https://workflowhub.eu) is a public registry for sharing and p
  * Workflow Version management
  * Workflows organised into Collections
 
-### More Information:
+## More information
 
-Goble, C., Soiland-Reyes, S., Bacall, F., Owen, S., Pireddu, L., & Leo, S. (2023). EOSC-Life Implementation of a mechanism for publishing and sharing workflows across instances of the environment. [Zenodo](https://doi.org/10.5281/zenodo.7886545)
+For more information, please read the publication [Goble, C., Soiland-Reyes, S., Bacall, F., Owen, S., Pireddu, L., & Leo, S. (2023), 'EOSC-Life Implementation of a mechanism for publishing and sharing workflows across instances of the environment'](https://doi.org/10.5281/zenodo.7886545).

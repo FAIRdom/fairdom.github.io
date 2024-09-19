@@ -1,12 +1,12 @@
 ---
 title: BioIndustry 4.0
-description: FAIRDOM-SEEK as the metadata store within the Bioindustry4.0 Data Fabric, supporting decision support systems and
-  Digital Twins 
+description: FAIRDOM-SEEK as the metadata store within the BioIndustry 4.0 Data Fabric, supporting decision support systems and
+  Digital Twins. 
 toc: false
 type: project
 ---
 
-{% include image.html file="fairdom_in_use/bioindustry-logo.png" alt="BioIndustry4.0 Logo" max-width='12em' %}
+{% include image.html file="fairdom_in_use/bioindustry-logo.png" alt="BioIndustry 4.0 Logo" max-width='12em' %}
 
 ## Introduction
 
@@ -27,7 +27,7 @@ By refining these approaches the project aims to empower professionals from acad
 push the boundaries of bioprocess design and control – making the biomanufacturing process faster, cheaper, and more
 sustainable.
 
-## The role of FAIRDOM SEEK
+## The role of FAIRDOM-SEEK
 
 An essential part of the project is the seamless collection, movement and querying of data and metadata (both offline
 and real-time), which can then be used to train
@@ -38,13 +38,13 @@ FAIRDOM-SEEK is undergoing a number of enhancements to facilitate this, includin
 
 * Integration with the [FAIR Data Station](https://fairds.fairbydesign.nl/) for metadata collection, validation and
   processing.
-* Enhancements to the Extended Metadata Support, including addition of attribute persistent identifiers (PID's).
+* Enhancements to the Extended Metadata Support, including addition of attribute persistent identifiers (PIDs).
 * Introduction
   of [Observation Units](https://docs.fairbydesign.nl/docs/fairdatastation/template.html#observation-unit) (describing
   instances of observation and measurement) to satisfy the FDS model, and the Bioindustry information model for experiments.
-* Enhanced RDF generation to include statements about the extended metadata and samples (where PID's are available to
+* Enhanced RDF generation to include statements about the extended metadata and samples (where PIDs are available to
   provide the predicate).
-* Revisiting the use of SEEK alongside an RDF triple store, to produce a knowledge graph and allow SPARQL queries over
+* Revisiting the use of FAIRDOM-SEEK alongside an RDF triple store, to produce a knowledge graph and allow SPARQL queries over
   the metadata.
 
 Along with the metadata, data files are also registered as references to entries in the Data Fabric data store, or another
