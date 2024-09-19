@@ -11,7 +11,11 @@ FAIRDOM organizes user meetings twice a year. The purpose of the [FAIRDOM user m
 
 ## Engagement with other communities
 
-[BioHackathon](https://biohackathon-europe.org) is the hackathon run by ELIXIR, the European ESFRI Infrastructure for Bioinformatics. [de.NBI](https://www.denbi.de), the organisation behind the German node of ELIXIR runs a [similar set of hackathons](https://www.denbi.de/de-nbi-events). FAIRDOM is typically involved in several projects of these hackathons each year.
+FAIRDOM is typically involved in several **hackathon projects** each year, including [ELIXIR BioHackathon Europe](https://biohackathon-europe.org) (the European ESFRI Infrastructure for bioinformatics) and [de.NBI BioHackathon Germany](https://www.denbi.de/de-nbi-events) (the organisation behind the German node of ELIXIR). For example:
+
+- At [ELIXIR BioHackathon 2023 and 2024 (project 23)](https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/23.md) MARS: Multi-omics Adapter for Repository Submissions made great strides in producing a proof of concept for dispatching metadata to multiple repositories using the ISA-JSON format, a standard supported in and popularised by FAIRDOM-SEEK.
+- At [ELIXIR BioHackathon 2022 (project 27)](https://github.com/elixir-europe/biohackathon-projects-2022/blob/main/27/paper.md), a comprehensive strategy for an ISA-JSON-to-ELIXIR Repository brokering system was devised, in order to efficiently share heterogenous, multi-omics metadata to public repositories such as [DataHub](/fairdom-in-use/Datahub).
+- At [1st BioHackathon Germany](https://www.denbi.de/de-nbi-events/1479-miappe-wizard-enabling-easy-creation-of-miappe-compliant-isa-metadata-for-plant-phenotyping-experiments), a tool was produced to make it easier to generate [MIAPPE](/fairdom-in-use/plant-is-and-miappe)-compliant ISA-JSON metadata, supported in FAIRDOM-SEEK. 
 
 The [Systems Biology Community of ELIXIR](https://elixir-europe.org/communities/systems-biology) is the community of systems biology experts within the infrastructure ELIXIR. It coordinates work done within ELIXIR to interlink and harmonize infrastructure for models, software and data. The overarching long-term goal of the ELIXIR Systems Biology Community is to make systems biology modelling a central pillar of research in biology.
 
