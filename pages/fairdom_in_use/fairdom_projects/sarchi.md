@@ -1,5 +1,5 @@
 ---
-title: Mechanistic modelling of health and epidemiology
+title: SARChI, Mechanistic modelling of health and epidemiology
 description: A computational systems biology programme from the South African Research Chair Initiative (SARChI).
 type: project
 toc: false
@@ -7,9 +7,7 @@ toc: false
 
 {% include image.html file="fairdom_in_use/nrf-za-logo.png" alt="National Research Foundation South Africa Logo" max-width='12em' %}
 
-## Description of the programme
-
-This computational systems biology programme: **"Mechanistic modelling of health and epidemiology"** is a DST/NRF (Department of Science and Technology/National Research Foundation) funded SARChI ([South African Research Chair Initiative](https://www.nrf.ac.za/core-mandate-business-divisions/risa-directorates/research-chairs-and-centres-of-excellence-rcce/south-african-research-chairs-initiative/)) project. The research chair holder Jacky Snoep, and co-Pi Dawie van Niekerk, are hosted at the Biochemistry department at Stellenbosch University and at SACEMA (South African Centre for Epidemiological Modelling and Analysis). 
+This computational systems biology programme **"Mechanistic modelling of health and epidemiology"** is a DST/NRF (Department of Science and Technology/National Research Foundation) funded SARChI ([South African Research Chair Initiative](https://www.nrf.ac.za/core-mandate-business-divisions/risa-directorates/research-chairs-and-centres-of-excellence-rcce/south-african-research-chairs-initiative/)) project. The research chair holder Jacky Snoep, and co-Pi Dawie van Niekerk, are hosted at the Biochemistry department at Stellenbosch University and at SACEMA (South African Centre for Epidemiological Modelling and Analysis). 
 
 The SARChI project uses the [FAIRDOMHub](/fairdom-in-use/fairdomhub) for data and model management: [SARCHI: Mechanistic modelling of health and epidemiology](https://fairdomhub.org/programmes/3). It currently has 5 projects: Whole body modelling of glucose metabolism in malaria patients, Glucose metabolism in cancer cell lines, Steroid biosynthesis, Yeast glycolytic oscillations, Computational pathway design for biotechnological applications.
 
@@ -23,8 +21,11 @@ The SARChI project uses the [FAIRDOMHub](/fairdom-in-use/fairdomhub) for data an
 Data and scripts used for model construction, validation and analyses are [provided in the project ISA structure on FAIRDOMHub](https://fairdomhub.org/projects/17/overview), together with model SBML files that can be directly simulated in JWS Online from within FAIRDOMHub. Where applicable, SEDML links are also provided to reproduce published simulations in real-time on JWS Online. These simulations also retrieve data directly from FAIRDOMHub to show simulation results with data on the reproduced figures.
 
 ## More information
-Current project assets include 22 Data Files, 34 Models, 17 SOPs and 3 Publications. For more information, see the [SARCHI: Mechanistic modelling of health and epidemiology](https://fairdomhub.org/programmes/3) page on FAIRDOMHub.
+Current project assets include 22 Data Files, 34 Models, 17 SOPs and 3 Publications. For more information, please see the [SARCHI: Mechanistic modelling of health and epidemiology](https://fairdomhub.org/programmes/3) page on FAIRDOMHub.
 
+{% comment %}
 ## Figures
 
 {% include image.html file="fairdom_in_use/sarchi-screen.png" alt="SARChI programme in FAIRDOMHub" click=true class='screenshot' caption="" %}
+
+{% endcomment %}
