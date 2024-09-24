@@ -1,7 +1,7 @@
 ---
 title: Plant Systems-biology Modelling
 description: 
-type: project
+#type: project #hide this page for now
 ---
 
 ## Introduction
