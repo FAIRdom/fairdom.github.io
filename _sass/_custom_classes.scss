@@ -129,6 +129,10 @@ iframe {
     }
 }
 
+.card-in-use:hover {
+    color: white;
+}
+
 main .form-control, main .input-group-text, main .form-control:focus {
     background-color: $light;
     color: black;
