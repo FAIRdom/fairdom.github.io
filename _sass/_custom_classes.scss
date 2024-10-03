@@ -120,6 +120,13 @@ iframe {
 
 .navigation-tiles .card .card-header {
     background-color: $primary;
+    a h3 {
+        color: white;
+        text-decoration: none;
+    }
+    a:hover h3{
+        text-decoration: underline;
+    }
 }
 
 main .form-control, main .input-group-text, main .form-control:focus {
