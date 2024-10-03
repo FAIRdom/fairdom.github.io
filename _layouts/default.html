@@ -21,11 +21,7 @@
             {{content}}
         </div>
     </div>
-    {%- if site.theme_variables.back_to_top or site.theme_variables.back_to_top == nil %}
-    <button id="back-to-top" class="btn btn-primary rounded-3" type="button" aria-hidden="true" onclick="topFunction()">
-        <i class="fa-solid fa-arrow-up"></i>
-    </button>
-    {%- endif %}
+    {% include scroll-top.html %}
     {% include footer.html %}
     {% include cookie-popup.html %}
 </body>
