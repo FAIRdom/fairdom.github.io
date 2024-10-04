@@ -1,11 +1,11 @@
 ---
 title: Centre for Digital Life Norway
 description: Integrated with the Norwegian e-Infrastructure for Life Sciences.
+page-logo: fairdom_in_use/centre-for-digital-life-norway-logo.svg
 toc: false
 #type: fairdom_in_use
 type: project
 ---
-{% include image.html file="fairdom_in_use/centre-for-digital-life-norway-logo.svg" alt="Centre for Digital Life Norway Logo" max-width='12em' %}
 
 The [Centre for Digital Life Norway (DLN)](https://www.digitallifenorway.org) is a national centre for biotechnology research, education and innovation. The centre facilitates transdisciplinary collaboration across institutions, fields of research and the research projects in the centre. 
 

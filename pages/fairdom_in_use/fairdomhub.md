@@ -1,10 +1,10 @@
 ---
 title: FAIRDOMHub
+page-logo: fairdom_in_use/fairdomhub-logo.svg
 redirect_from:
  - /fairdomhub
 ---
 
-{% include image.html file="fairdom_in_use/fairdomhub-logo.svg" alt="FAIRDOMHub logo" max-width='8em' %}
 
 The [FAIRDOMHub](https://fairdomhub.org/) is a **Public Hub** managed and supported by the FAIRDOM consortium. It is a web-accessible registry for storing, sharing and publishing research assets of biology projects.
 The assets include FAIR (Findable, Accessible, Interoperable and Reusable) Data, Operating procedures and Models. FAIRDOMHub includes special support for the Systems Biology community.

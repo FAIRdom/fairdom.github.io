@@ -2,10 +2,9 @@
 title: HITS Publications Management Tool
 toc: false
 description: The publication management platform for the Heidelberg Institute for Theoretical Studies. 
+page-logo: fairdom_in_use/hits-logo.svg
 type: project
 ---
-
-{% include image.html file="fairdom_in_use/hits-logo.svg" alt="HITS Logo" max-width='12em' %}
 
 As of April 2020, the Heidelberg Institute for Theoretical Studies ([HITS](https://h-its.org/)) adopted [FAIRDOM-SEEK](https://fair-dom.org/fairdomseek) as its [publication management platform](https://publications.h-its.org/). This tool is designed to efficiently collect and manage the institute's research papers and outcomes. FAIRDOM-SEEK provides multiple methods for researchers to register their publications, including using identifiers like DOI or PubMed ID, importing from a BibTeX file for batch creation, or manually entering publication metadata.
 
