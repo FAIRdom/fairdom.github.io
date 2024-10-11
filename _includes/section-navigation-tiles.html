@@ -84,7 +84,17 @@
         <div class="card h-100">
             <div class="card-header">
                 <a class="stretched-link" aria-label="Go to the {{current_page.title}} page" href="{{ current_page.url | relative_url }}">
+                    {%- if current_page.page_img %}
+                    <div class="d-flex justify-content-between">
+                    {%- endif %}
                     <h3 class="card-title m-0">{{current_page.title}}</h3>
+                    {%- if current_page.page_img %}
+                    {%- capture file_url -%}
+                    {{ "/images/" | append: current_page.page_img | relative_url }}
+                    {%- endcapture -%}
+                    <img alt="logo of {{current_page.title}}" src="{{ file_url }}" class="d-inline tile-img-sm" />   
+                    </div>
+                    {%- endif %}
                 </a>
             </div>
             <div class="card-body">

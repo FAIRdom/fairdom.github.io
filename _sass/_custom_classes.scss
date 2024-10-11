@@ -117,17 +117,38 @@ iframe {
 
 
 /* -----Search tiles-----*/
+$card-slide-transition:
+    border-width 0.15s ease-in,
+    margin-right 0.15s ease-in;
 
-.navigation-tiles .card .card-header {
-    background-color: $primary;
-    a h3 {
-        color: white;
-        text-decoration: none;
-    }
-    a:hover h3{
-        text-decoration: underline;
+.navigation-tiles .card {
+    border-left: 0px solid $primary;
+    transition: $card-slide-transition;
+    &:hover {
+        border-left-width: 6px;
+        margin-right: -6px;
     }
 }
+
+.navigation-tiles .card .card-header {
+    background-color: $light;
+    //border-bottom: thick solid $primary;
+    a  {
+        //color: white;
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+        //color: white;
+        //background-color: $primary;
+    }
+}
+.card-tall a:hover {
+    color: $primary;
+    background-color: $light;
+    //text-decoration: underline;
+}
+
 
 .card-in-use:hover {
     color: white;
@@ -184,3 +205,9 @@ figure.small_logo {
 h1.has-subtitle span.text-secondary {
     display: none !important;
 }
+
+
+/*------Tile Image-------*/
+.tile-img-sm {
+    height: 50px;
+  }

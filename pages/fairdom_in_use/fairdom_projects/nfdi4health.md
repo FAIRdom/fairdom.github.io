@@ -2,7 +2,7 @@
 title: NFDI4Health
 description: The main local component and connector of the federated distributed services of NFDI4Health, Germany.
 toc: false
-page-logo: fairdom_in_use/nfdi4health-logo.svg
+page_img: fairdom_in_use/nfdi4health-logo.svg
 type: project
 ---
 

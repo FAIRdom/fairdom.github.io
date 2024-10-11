@@ -3,7 +3,7 @@ title: Leipzig Health Atlas
 toc: false
 type: project
 description: Used by the Medical Oncologist systems biologists and clinical trials groups.
-page-logo: fairdom_in_use/leipzig-health-atlas-logo.png
+page_img: fairdom_in_use/leipzig-health-atlas-logo.png
 redirect_from:
  - /Leipzig
 ---

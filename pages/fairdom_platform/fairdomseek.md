@@ -1,6 +1,6 @@
 ---
 title: FAIRDOM-SEEK Platform
-page-logo: fairdom-seek-logo-alt.svg
+page_img: fairdom-seek-logo-alt.svg
 toc: false
 ---
 

@@ -3,7 +3,7 @@ title: IBISBAKHub
 toc: false
 type: hub
 description: A Knowledge Hub for scientific information related to an international community of Industrial Biotechnology.
-page-logo: fairdom_in_use/ibisba-logo.png
+page_img: fairdom_in_use/ibisba-logo.png
 redirect_from:
     - /ibisbahub
     - /fairdom-in-use/ibisbahub

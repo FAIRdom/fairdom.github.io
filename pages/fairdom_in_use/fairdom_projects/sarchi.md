@@ -1,7 +1,7 @@
 ---
 title: SARChI, Mechanistic modelling of health and epidemiology
 description: A computational systems biology programme from the South African Research Chair Initiative (SARChI).
-page-logo: fairdom_in_use/nrf-za-logo.png
+page_img: fairdom_in_use/nrf-za-logo.png
 type: project
 toc: false
 ---

@@ -2,7 +2,7 @@
 title: LiSyM
 type: project
 description: Serves the Liver Systems Medicine LiSyM network and its follow up project LiSyM-Cancer.
-page-logo: fairdom_in_use/lysim-logo.png
+page_img: fairdom_in_use/lysim-logo.png
 redirect_from:
  - /Lisym
 toc: false

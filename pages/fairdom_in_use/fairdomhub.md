@@ -1,6 +1,6 @@
 ---
 title: FAIRDOMHub
-page-logo: fairdom_in_use/fairdomhub-logo.svg
+page_img: fairdom_in_use/fairdomhub-logo.svg
 redirect_from:
  - /fairdomhub
 ---

@@ -2,7 +2,7 @@
 title: HITS Publications Management Tool
 toc: false
 description: The publication management platform for the Heidelberg Institute for Theoretical Studies. 
-page-logo: fairdom_in_use/hits-logo.svg
+page_img: fairdom_in_use/hits-logo.svg
 type: project
 ---
 

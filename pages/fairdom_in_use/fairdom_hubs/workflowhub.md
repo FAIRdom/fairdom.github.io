@@ -2,7 +2,7 @@
 title: WorkflowHub
 toc: false
 type: hub
-page-logo: fairdom_in_use/workflowhub-logo.svg
+page_img: fairdom_in_use/workflowhub-logo.svg
 description: A public registry for sharing and publishing computational workflows from any discipline using any workflow language. 
 # a page with this name appeared in two locations!
 redirect_from:
