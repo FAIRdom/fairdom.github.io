@@ -53,10 +53,10 @@ subitems:
           url: /fairdom-in-use/plant-is-and-miappe
         - title: NFDI4Health
           url: /fairdom-in-use/nfdi4health
-        - title: Plant Systems-biology Modelling
-          url: /fairdom-in-use/plantsysbiomod
-        #- title: Systems Biology Modelling
-        #  url: /fairdom-in-use/sysbiomod
+        - title: PlaSMo, Plant Systems-biology Modelling
+          url: /fairdom-in-use/plasmo
+        - title: SARChI, Mechanistic modelling of health and epidemiology
+          url: /fairdom-in-use/sarchi
         - title: deCYPher
           url: /fairdom-in-use/decypher
   #- title: FAIRDOM Hubs

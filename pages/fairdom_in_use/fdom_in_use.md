@@ -24,14 +24,14 @@ Each Hub positions itself in a different place in the project asset management p
 <div class="row navigation-tiles">
     <div class="col" >
         <div class="card card-tall">
-                <a class="stretched-link" aria-label="Go to the FAIRDOM-SEEK Hubs page" href="/fairdom-in-use/fairdom_hubs_search">
+                <a class="stretched-link card-in-use" aria-label="Go to the FAIRDOM-SEEK Hubs page" href="/fairdom-in-use/fairdom_hubs_search">
                     <h3 class="card-title m-0"><i class="fa-solid fa-folder-tree"></i> FAIRDOM-SEEK Hubs</h3>
                 </a>
         </div>
     </div>
     <div class="col" >
         <div class="card card-tall">
-                <a class="stretched-link" aria-label="Go to the FAIRDOM-SEEK Projects page" href="/fairdom-in-use/fairdom_projects_search">
+                <a class="stretched-link card-in-use" aria-label="Go to the FAIRDOM-SEEK Projects page" href="/fairdom-in-use/fairdom_projects_search">
                     <h3 class="card-title m-0"><i class="fa-solid fa-folder-tree"></i> FAIRDOM-SEEK Projects</h3>
                 </a>
         </div>
