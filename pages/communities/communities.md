@@ -11,7 +11,7 @@ FAIRDOM organises [user meetings](https://fair-dom.org/events) twice a year. The
 
 ## Engagement with other communities
 
-FAIRDOM is typically involved in several **hackathon projects** each year, including [ELIXIR BioHackathon Europe](https://biohackathon-europe.org) (the European ESFRI Infrastructure for bioinformatics) and [de.NBI BioHackathon Germany](https://www.denbi.de/de-nbi-events) (the organisation behind the German node of ELIXIR). For example:
+FAIRDOM is typically involved in several **hackathon projects** each year, including [ELIXIR BioHackathon Europe](https://biohackathon-europe.org) (the European ESFRI life sciences Infrastructure) and [de.NBI BioHackathon Germany](https://www.denbi.de/de-nbi-events) (the organisation behind the German node of ELIXIR). For example:
 
 - At [ELIXIR BioHackathon 2023 and 2024 (project 23)](https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/23.md) MARS: Multi-omics Adapter for Repository Submissions made great strides in producing a proof of concept for dispatching metadata to multiple repositories using the ISA-JSON format, a standard supported in and popularised by FAIRDOM-SEEK.
 - At [ELIXIR BioHackathon 2022 (project 27)](https://github.com/elixir-europe/biohackathon-projects-2022/blob/main/27/paper.md), a comprehensive strategy for an ISA-JSON-to-ELIXIR Repository brokering system was devised, in order to efficiently share heterogenous, multi-omics metadata to public repositories such as [DataHub](/fairdom-in-use/Datahub).
