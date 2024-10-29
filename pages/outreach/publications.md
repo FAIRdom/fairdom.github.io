@@ -6,6 +6,29 @@ redirect_from:
     - /publications/
 ---
 
+**2024**
+
+**NFDI4Health Local Data Hubs Implementing a Tailored Metadata Schema for Health Data**. 
+Hu X, Abaza H, Hänsel R, Abedi M, Golebiewski M, Müller W, Meineke F (2024).  
+Studies in health technology and informatics, 317, 115–122. 
+[Full Text](https://doi.org/10.3233/SHTI240845)
+
+**Semi-Automatic Export of Electrophysiological Metadata to NFDI4Health Local Data Hubs: Use Case of Microneurography odML-Tables - A Technical Case Report**. 
+Elwes MR, Troglio A, Abedi M, Golebiewski M, Meineke F, Kirsten T, Namer B, Beyan O, Kutafina E (2024). 
+Studies in health technology and informatics, 317, 40–48. 
+[Full Text](https://doi.org/10.3233/SHTI240836)
+
+**Harmonizing Microneurography Metadata with Local Data Hubs: A Concept**. 
+Elwes MR, Namer B, Troglio A, Kirsten T, Beyan O, Kutafina E (2024). 
+Studies in health technology and informatics, 316, 358–359. 
+[Full Text](https://doi.org/10.3233/SHTI240420)
+
+**Using Health IT Standards to Facilitate Metadata Exchange Between Research Data Management Systems**. 
+Löbe M, Hu X, Klopfenstein SAI (2024). 
+Studies in health technology and informatics, 316, 1413–1417. 
+[Full Text](https://doi.org/10.3233/SHTI240676)
+
+
 **2023**
 
 **NFDI4Health Local Data Hubs for Finding and Accessing Health Data**. Meineke F, Golebiewski M, Hu X, Kirsten T, Löbe M, Klammt S, Sax U, Müller W (2023). Proc Conf Res Data Infrastr 1 [Full Text](https://doi.org/10.52825/cordi.v1i.375)
@@ -14,11 +37,31 @@ redirect_from:
 
 **2022**
 
+**Plant Science Data Integration, from Building Community Standards to Defining a Consistent Data Lifecycle.** 
+Pommier C, Coppens F, Ćwiek-Kupczyńska F, Faria D, Beier S, Miguel C, Michotey C, D'Anna F, Owen S, Gruden K (2022). 
+In: Williamson HF, Leonelli S (eds) Towards Responsible Plant Data Linkage: Data Challenges for Agricultural Research and Development. 
+[Full Text](https://doi.org/10.1007/978-3-031-13276-6_8)
+
+**The Leipzig Health Atlas—An Open Platform to Present, Archive, and Share Biomedical Data, Analyses, and Models Online**. 
+Kirsten T, Meineke FA, Loeffler-Wirth H, Beger C, Uciteli A, Stäubert S, Löbe M, Hänsel R, Rauscher F G, Schuster J, Peschel T, Herre H, Wagner J, Zachariae S, Engel C, Scholz M, Rahm E, Binder H., Loeffler M, LHA team (2022). 
+Methods of information in medicine, 61(S 02), e103–e115. 
+[Full Text](https://doi.org/10.1055/a-1914-1985)
+
+**Improving Findability of Digital Assets in Research Data Repositories Using the W3C DCAT Vocabulary**. 
+Löbe M, Ulrich H, Beger C, Bender T, Bauer C, Sax U, Ingenerf J, Winter A (2022). 
+Studies in health technology and informatics, 290, 61–65. 
+[Full Text](https://doi.org/10.3233/SHTI220032)
+
 **Systems Biology in ELIXIR: modelling in the spotlight**. Santos VMd, Anton M, Szomolay B, Ostaszewski M, Arts I, Benfeitas R, Angel VDD, Ferk P, Fey D, Goble C, et al. (2022). F1000Res 11:1265 [Full Text](https://f1000research.com/articles/11-1265/v1)
 
 **Publication Policy of the National Research Data Infrastructure for Personal Health Data (NFDI4Health) and the NFDI4Health Task Force COVID-19**. Lindstädt B, Shutsko A, Golebiewski M, Kipker D, Lettieri V, Klopfenstein S, Vorisek C, Löbe M, Schmidt CO (2022). [Full Text](https://doi.org/10.4126/FRL01-006431467)
 
 **2021**
+
+**COVID19 Disease Map, a computational knowledge repository of virus–host interaction mechanisms**. 
+Ostaszewski M, et al (2021). 
+Mol Syst Biol (2021) 17: e10387
+[Full Text](https://doi.org/10.15252/msb.202110387)
 
 **Implementing FAIR data management within the German Network for Bioinformatics Infrastructure (de.NBI) exemplified by selected use cases**. Mayer G, Muller W, Schork K, Uszkoreit J, Weidemann A, Wittig U, Rey M, et al. (2021) Brief Bioinform. 22(5). pii: 6135008. [Full text](https://doi.org/10.1093/bib/bbab010)
 
@@ -51,6 +94,11 @@ Czauderna T, Golebiewski M, Gorochowski TE, Hucka M, Keating SM, Konig M, Myers 
 Journal of Integrative Bioinformatics, 17(2-3):20200022. [Full Text](https://doi.org/10.1515/jib-2020-0022)
 
 **2019**
+
+**The grant is dead, long live the data - migration as a pragmatic exit strategy for research data preservation**. 
+Zielinski T, Hay J, Millar AJ (2019). 
+Wellcome open research, 4, 104. 
+[Full Text](https://doi.org/10.12688/wellcomeopenres.15341.2)
 
 **Data Management in Computational Systems Biology: Exploring Standards, Tools, Databases, and Packaging Best Practices**.
 Natalie J. Stanford, Martin Scharm, Paul D. Dobson, Martin Golebiewski, Michael Hucka, Varun B. Kothamachu, David
