@@ -17,7 +17,11 @@ FAIRDOM is typically involved in several **hackathon projects** each year, inclu
 - At [ELIXIR BioHackathon 2022 (project 27)](https://github.com/elixir-europe/biohackathon-projects-2022/blob/main/27/paper.md), a comprehensive strategy for an ISA-JSON-to-ELIXIR Repository brokering system was devised, in order to efficiently share heterogenous, multi-omics metadata to public repositories such as [DataHub](/fairdom-in-use/Datahub).
 - At [1st BioHackathon Germany](https://www.denbi.de/de-nbi-events/1479-miappe-wizard-enabling-easy-creation-of-miappe-compliant-isa-metadata-for-plant-phenotyping-experiments), a tool was produced to make it easier to generate [MIAPPE](/fairdom-in-use/plant-is-and-miappe)-compliant ISA-JSON metadata, supported in FAIRDOM-SEEK. 
 
-The [Systems Biology Community of ELIXIR](https://elixir-europe.org/communities/systems-biology) is the community of systems biology experts within the infrastructure ELIXIR. It coordinates work done within ELIXIR to interlink and harmonize infrastructure for models, software and data. The overarching long-term goal of the ELIXIR Systems Biology Community is to make systems biology modelling a central pillar of research in biology.
+The [Systems Biology Community of ELIXIR](https://elixir-europe.org/communities/systems-biology) is the community of systems biology experts within the infrastructure ELIXIR. It coordinates work done within ELIXIR to interlink and harmonise infrastructure for models, software and data. The overarching long-term goal of the ELIXIR Systems Biology Community is to make systems biology modelling a central pillar of research in biology. 
+One way that FAIRDOM facilitates this goal is by providing a public joint repository for both models and data, [FAIRDOMHub](/fairdom-in-use/fairdomhub), 
+which allows interlinking of experimental data, computational models and simulation results in a project-centred approach 
+([Martins dos Santos et al. 2022](https://f1000research.com/articles/11-1265/v1), [Wolstencroft et al. 2017](https://doi.org/10.1093/nar/gkw1032)).
+
 
 ## History
 
