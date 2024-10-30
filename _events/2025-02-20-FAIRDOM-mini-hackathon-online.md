@@ -16,13 +16,16 @@ We would like to invite you to our upcoming event. In a change to our usual FAIR
 
 ## Topics
 
-You will be able to select from a list of topics or suggest your own. The topics relate to bug finding, search, user interface, metadata and machine learning.
+You will be able to select from a list of topics or suggest your own. The topics relate to RO-Crates, bug finding, search, user interface, metadata and machine learning.
+
+Topic titles (subject to change):
 
 - Making additional discoveries from existing data, using **machine learning** tools
 - Improving user interface features for **multi-select search** and/or ISA/file navigation
 - Collecting and organizing ‘**niggles**’
 - Identifying places where weighted **auto-complete feature** could be implemented
 - Improving **controlled vocabulary** usage and extended metadata
+- **RO-Crates** for importing into FAIRDOM-SEEK
 
 ## Register now
 
