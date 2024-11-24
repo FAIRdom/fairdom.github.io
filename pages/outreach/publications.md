@@ -31,6 +31,11 @@ Studies in health technology and informatics, 316, 1413–1417.
 
 **2023**
 
+**FAIR sharing of health data: a systematic review of applicable solutions**. 
+Guillot P, Bøgsted M, Vesteghem C (2023). 
+Health Technol, 13, 869–882.
+[Full Text](https://doi.org/10.1007/s12553-023-00789-5)
+
 **NFDI4Health Local Data Hubs for Finding and Accessing Health Data**. Meineke F, Golebiewski M, Hu X, Kirsten T, Löbe M, Klammt S, Sax U, Müller W (2023). Proc Conf Res Data Infrastr 1 [Full Text](https://doi.org/10.52825/cordi.v1i.375)
 
 **Specifications of standards in systems and synthetic biology: status and developments in 2022 and the COMBINE meeting 2022**. Konig M, Gleeson P, Golebiewski M, Gorochowski TE, Hucka M, et al. (2023) J Integr Bioinform. 20(1):20230004.[Full Text](https://doi.org/10.1515/jib-2023-0004)
