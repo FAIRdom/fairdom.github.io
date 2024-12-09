@@ -8,7 +8,7 @@ This is a large new version, and highlights include:
 
 * **FAIR Data Station Integration** - new work carried out as part of [BioIndustry4.0](https://fair-dom.org/fairdom-in-use/bioindustry4.0) and with contributions from
   [PhenomUK](https://phenomuk.org/) (for improved MIAPPE support).
-  [FAIR Data Station](https://fairds.fairbydesign.nl/) provides a light weight approach to gathering, validating, and injesting metadata through the use of
+  [FAIR Data Station](https://fairds.fairbydesign.nl/) provides a lightweight approach to gathering, validating, and ingesting metadata through the use of
   spreadsheet templates and following FAIR principles.
   Current support includes:
     * The introduction of (optional) [Observation Units](https://docs.fairbydesign.nl/docs/fairdatastation/template.html#observation-unit), that fall between Study and Sample in the ISA structure.
