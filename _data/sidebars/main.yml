@@ -19,10 +19,10 @@ subitems:
   - title: FAIRDOMHub
     url: /fairdom-in-use/fairdomhub
   - title: FAIRDOM-SEEK In Use
-    url: /fairdom-in-use/fdom_in_use
+    url: /fairdom-in-use
     subitems:
       - title: FAIRDOM-SEEK Hubs
-        url: /fairdom-in-use/fairdom_hubs_search
+        url: /fairdom-in-use/fairdom-seek-hubs
         subitems:
         - title: DataHub
           url: /fairdom-in-use/Datahub
@@ -33,7 +33,7 @@ subitems:
         - title: WorkflowHub
           url:   /fairdom-in-use/workflowhub
       - title: FAIRDOM-SEEK Projects
-        url: /fairdom-in-use/fairdom_projects_search
+        url: /fairdom-in-use/fairdom-seek-projects
         subitems:
         - title: BioIndustry 4.0 
           url: /fairdom-in-use/bioindustry4.0

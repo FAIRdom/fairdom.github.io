@@ -1,9 +1,11 @@
 ---
 title: FAIRDOM-SEEK In Use
 toc: false
+permalink: /fairdom-in-use
 redirect_from: 
  - /instance
  - /fairdom_in_use
+ - /fairdom-in-use/fdom_in_use
 ---
 
 The [FAIRDOM-SEEK](/fairdom-seek) platform enables the building of Project Hubs where investigators can store, share, access, connect and interact with digital objects generated from their research, and use them in their own analyses.
@@ -24,14 +26,14 @@ Each Hub positions itself in a different place in the project asset management p
 <div class="row navigation-tiles">
     <div class="col" >
         <div class="card card-tall">
-                <a class="stretched-link card-in-use" aria-label="Go to the FAIRDOM-SEEK Hubs page" href="/fairdom-in-use/fairdom_hubs_search">
+                <a class="stretched-link card-in-use" aria-label="Go to the FAIRDOM-SEEK Hubs page" href="/fairdom-in-use/fairdom-seek-hubs">
                     <h3 class="card-title m-0"><i class="fa-solid fa-folder-tree"></i> FAIRDOM-SEEK Hubs</h3>
                 </a>
         </div>
     </div>
     <div class="col" >
         <div class="card card-tall">
-                <a class="stretched-link card-in-use" aria-label="Go to the FAIRDOM-SEEK Projects page" href="/fairdom-in-use/fairdom_projects_search">
+                <a class="stretched-link card-in-use" aria-label="Go to the FAIRDOM-SEEK Projects page" href="/fairdom-in-use/fairdom-seek-projects">
                     <h3 class="card-title m-0"><i class="fa-solid fa-folder-tree"></i> FAIRDOM-SEEK Projects</h3>
                 </a>
         </div>
