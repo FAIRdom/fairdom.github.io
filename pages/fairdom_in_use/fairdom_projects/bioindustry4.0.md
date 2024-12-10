@@ -8,7 +8,7 @@ type: project
 
 ## Introduction
 
-[BIOINDUSTRY 4.0](https://bioindustry4.hub.inrae.fr/) (_"RI services to promote deep digitalization of Industrial Biotechnology - towards smart
+[BIOINDUSTRY 4.0](https://www.bioindustry4.eu/) (_"RI services to promote deep digitalization of Industrial Biotechnology - towards smart
 biomanufacturing”_) is a cutting-edge initiative bringing together academia and industry in Europe to shape the future
 of industrial biotechnology.
 
