@@ -2,7 +2,6 @@
 title: Centre for Digital Life Norway
 description: Integrated with the Norwegian e-Infrastructure for Life Sciences.
 page_img: fairdom_in_use/centre-for-digital-life-norway-logo.svg
-toc: false
 #type: fairdom_in_use
 type: project
 ---

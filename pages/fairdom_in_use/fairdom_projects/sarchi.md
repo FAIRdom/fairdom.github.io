@@ -3,7 +3,6 @@ title: SARChI, Mechanistic modelling of health and epidemiology
 description: A computational systems biology programme from the South African Research Chair Initiative (SARChI).
 page_img: fairdom_in_use/nrf-za-logo.png
 type: project
-toc: false
 ---
 
 This computational systems biology programme **"Mechanistic modelling of health and epidemiology"** is a DST/NRF (Department of Science and Technology/National Research Foundation) funded SARChI ([South African Research Chair Initiative](https://www.nrf.ac.za/core-mandate-business-divisions/risa-directorates/research-chairs-and-centres-of-excellence-rcce/south-african-research-chairs-initiative/)) project. The research chair holder Jacky Snoep, and co-Pi Dawie van Niekerk, are hosted at the Biochemistry department at Stellenbosch University and at SACEMA (South African Centre for Epidemiological Modelling and Analysis). 

@@ -4,7 +4,6 @@ description: A collaboration within EOSC-Life and the ELIXIR Plant Community.
 type: project
 redirect_from:
  - /plant-is-and-miappe
-toc: false
 ---
 
 ## EOSC-Life and Plant A+ Demonstrator

@@ -3,6 +3,7 @@ title: FAIRDOMHub
 page_img: fairdom_in_use/fairdomhub-logo.svg
 redirect_from:
  - /fairdomhub
+toc: false
 ---
 
 

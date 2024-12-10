@@ -2,7 +2,6 @@
 title: Digital Research Hub
 description: SciLifeLab is a Swedish national resource of unique technologies and expertise available to life scientists.
 page_img: fairdom_in_use/scilifelab-logo.svg
-toc: false
 #type: fairdom_in_use
 type: hub
 ---

@@ -1,6 +1,5 @@
 ---
 title: WorkflowHub
-toc: false
 type: hub
 page_img: fairdom_in_use/workflowhub-logo.svg
 description: A public registry for sharing and publishing computational workflows from any discipline using any workflow language. 

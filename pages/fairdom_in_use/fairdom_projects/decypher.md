@@ -2,7 +2,6 @@
 title: deCYPher
 description: Enhancing sustainable production of natural compounds for making medicines and health supplements.
 page_img: fairdom_in_use/deCYPher-Logo.png
-toc: false
 type: project
 ---
 

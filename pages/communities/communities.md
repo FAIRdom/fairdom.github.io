@@ -1,6 +1,5 @@
 ---
 title: FAIRDOM Community
-toc: False
 images: ["images/communities/ERASysAPP-PALS-Berlin-2015-3.jpg", "images/communities/Gruppe_15-09-15_0005_a_0.jpg","images/communities/neu1.jpg","images/communities/neu7.jpg","images/communities/neu8.jpg", "images/communities/old1.jpg", "images/communities/old2.jpg", "images/communities/old5.jpg", "images/communities/Workshop_Olga_Krebs_157.jpg"]
 
 ---
