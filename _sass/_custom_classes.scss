@@ -149,6 +149,9 @@ $card-slide-transition:
     //text-decoration: underline;
 }
 
+.navigation-tiles .card-body div:first-child {
+    display: none !important;
+}
 
 .card-in-use:hover {
     color: white;
