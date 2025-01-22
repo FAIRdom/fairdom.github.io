@@ -1,4 +1,21 @@
+/*-----Locally hosted font-----*/
+@font-face {
+    font-family: "Montserrat-Medium";
+    src: url('/assets/fonts/Montserrat-Medium.woff') format('woff');
+}
+
+@font-face {
+    font-family: "Montserrat-Medium";
+    src: url('/assets/fonts/Montserrat-MediumItalic.woff') format('woff');
+    font-style: italic;
+}
+
+
 /*-----General styling-----*/
+
+#main h1 {
+    color: $h1-color;
+}
 
 h1.has-subtitle span {
     color: #74767f!important;
