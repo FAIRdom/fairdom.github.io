@@ -1,9 +1,5 @@
 /*-----General styling-----*/
 
-h1 {
-    text-align: center;
-}
-
 h1.has-subtitle span {
     color: #74767f!important;
 }
@@ -153,6 +149,11 @@ main .form-control::-ms-input-placeholder { /* Edge 12-18 */
 /*-----FAIRDOM-SEEK In Use ------*/
 .card-tall {
     padding: 1em 0.5em;
+}
+
+.navigation-tiles .align-items-center {
+    // Hide the Hubs/Projects label
+    display: none !important;
 }
 
 /* ----- included image using ETT code -----  */

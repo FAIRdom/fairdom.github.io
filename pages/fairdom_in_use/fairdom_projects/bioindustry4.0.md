@@ -2,11 +2,9 @@
 title: BioIndustry 4.0
 description: FAIRDOM-SEEK as the metadata store within the BioIndustry 4.0 Data Fabric, supporting decision support systems and
   Digital Twins. 
-toc: false
+page_img: fairdom_in_use/bioindustry-logo.png
 type: project
 ---
-
-{% include image.html file="fairdom_in_use/bioindustry-logo.png" alt="BioIndustry 4.0 Logo" max-width='12em' %}
 
 ## Introduction
 

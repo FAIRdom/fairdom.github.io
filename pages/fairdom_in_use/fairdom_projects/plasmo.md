@@ -2,10 +2,8 @@
 title: PlaSMo, Plant Systems-biology Modelling
 description: Case study of migration as a pragmatic exit strategy for research data preservation.
 type: project 
-toc: false
+page_img: fairdom_in_use/plasmo-logo.png
 ---
-
-{% include image.html file="fairdom_in_use/plasmo-logo.png" alt="PlaSMo Logo" max-width='12em' %}
 
 FAIRDOM provides an opportunity for research project databases to continue to be available long after their original grants have ended. 
 By migrating a database to [FAIRDOMHub](/fairdom-in-use/fairdomhub), open research, data sharing and data re-use can continue to be offered.

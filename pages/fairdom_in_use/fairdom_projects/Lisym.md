@@ -4,16 +4,13 @@ type: project
 description: Serves the Liver Systems Medicine LiSyM network and its follow up project LiSyM-Cancer.
 redirect_from:
  - /Lisym
-toc: false
+page_img: fairdom_in_use/lysim-logo.png
 ---
 <!--
 The [LiSyM SEEK](https://seek.lisym.org) is one of the key Project Hubs build on the FAIRDOM-SEEK platform, serving the LiSyM network. Liver Systems Medicine (LiSyM) project is a network of German research centers and institutions, working together to develop a Systems Medicine approach to study early and advanced liver disease. It was funded by the German Ministry for Education and Research (BMBF, Bundesministerium für Bildung und Forschung) and in the tradition of a 15 year long initiative towards clinically actionable systems understanding of the liver. The BMBF enables active contribution of LiSyM data managers to the FAIRDOM project.
 
 The project members use the [LiSyM SEEK](https://seek.lisym.org) to upload and or interlink experimental data, as well as organizing computational models build from these. 
 -->
-<!-- {% include image.html file="LiSyM.png" alt="LiSyM SEEK" %} -->
-
-{% include image.html file="fairdom_in_use/lysim-logo.png" alt="LiSyM Logo" max-width='12em' %}
 
 The [LiSyM SEEK](https://seek.lisym.org/) is one of the key Project Hubs building on the FAIRDOM-SEEK platform, serving the Liver Systems Medicine [LiSyM](https://www.lisym.org/) network  and its follow up project LiSyM-Cancer. Research results of both projects are collected and published on the LiSyM-SEEK platform.
 
