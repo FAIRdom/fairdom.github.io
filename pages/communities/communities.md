@@ -13,7 +13,9 @@ FAIRDOM organises [user meetings](https://fair-dom.org/events) twice a year. The
 
 FAIRDOM is typically involved in several **hackathon projects** each year, including [ELIXIR BioHackathon Europe](https://biohackathon-europe.org) (the European ESFRI life sciences Infrastructure) and [de.NBI BioHackathon Germany](https://www.denbi.de/de-nbi-events) (the organisation behind the German node of ELIXIR). For example:
 
-- At [ELIXIR BioHackathon 2023 and 2024 (project 23)](https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/23.md) MARS: Multi-omics Adapter for Repository Submissions made great strides in producing a proof of concept for dispatching metadata to multiple repositories using the ISA-JSON format, a standard supported in and popularised by FAIRDOM-SEEK.
+- At [ELIXIR BioHackathon 2024 (project 19)](https://github.com/elixir-europe/biohackathon-projects-2024/blob/main/19.md), a large team worked on ARC-ISA RO-Crate machine-actionability, leading to  numerous user benefits when importing into FAIRDOM-SEEK.
+
+- At [ELIXIR BioHackathon 2023 (project 14)](https://osf.io/preprints/biohackrxiv/7y2jh), a data and metadata layout convention called ARC was proposed, based on ISA, a standard supported in and popularised by FAIRDOM-SEEK. MIAPPE to ISA mapping was refined to ensure compatibility with conversion to RO-Crates.
 - At [ELIXIR BioHackathon 2022 (project 27)](https://github.com/elixir-europe/biohackathon-projects-2022/blob/main/27/paper.md), a comprehensive strategy for an ISA-JSON-to-ELIXIR Repository brokering system was devised, in order to efficiently share heterogenous, multi-omics metadata to public repositories such as [DataHub](/fairdom-in-use/Datahub).
 - At [1st BioHackathon Germany](https://www.denbi.de/de-nbi-events/1479-miappe-wizard-enabling-easy-creation-of-miappe-compliant-isa-metadata-for-plant-phenotyping-experiments), a tool was produced to make it easier to generate [MIAPPE](/fairdom-in-use/plant-is-and-miappe)-compliant ISA-JSON metadata, supported in FAIRDOM-SEEK. 
 
