@@ -1,5 +1,5 @@
 ---
-title: "Registration extended for the first FAIRDOM Mini Hackathon"
+title: "Registration extended for the first FAIRDOM Mini Hackathon" 
 ---
 
 ![Fairground image](/images/news/fairground-bluegrey-wide.png)
