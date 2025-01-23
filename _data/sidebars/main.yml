@@ -51,6 +51,8 @@ subitems:
           url: /fairdom-in-use/Lisym
         - title: MIAPPE, Plant Data Integration and Findability
           url: /fairdom-in-use/plant-is-and-miappe
+        - title: NExtSEEK, Network Extended SEEK
+          url: /fairdom-in-use/nextseek
         - title: NFDI4Health
           url: /fairdom-in-use/nfdi4health
         - title: PlaSMo, Plant Systems-biology Modelling
