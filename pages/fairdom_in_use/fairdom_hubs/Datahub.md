@@ -4,10 +4,8 @@ type: hub
 description: DataHub is a public FAIRDOM-SEEK instance developed by ELIXIR Belgium.
 redirect_from:
  - /datahub
-toc: false
+page_img: fairdom_in_use/datahub-logo.svg
 ---
-
-{% include image.html file="fairdom_in_use/datahub-logo.svg" alt="DataHub logo" max-width='12em' %}
 
 In collaboration with the FAIRDOM Consortium, [DataHub](https://datahub.elixir-belgium.org) is a public FAIRDOM-SEEK instance (a **Public Hub**) developed by [ELIXIR Belgium](https://www.elixir-belgium.org/). 
 DataHub serves as a robust management tool that enables researchers to manage research data and produce FAIR data by design. The platform consolidates metadata about experiments and links to the associated data files. One of its key features is the integration of standard metadata used by EBI repositories, making DataHub a powerful tool for brokering data towards ELIXIR deposition databases.

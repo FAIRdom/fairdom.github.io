@@ -1,9 +1,7 @@
 ---
 title: FAIRDOM-SEEK Platform
-toc: false
+page_img: fairdom-seek-logo-alt.svg
 ---
-
-{% include image.html file="fairdom-seek-logo-alt.svg" alt="FAIRDOM-SEEK logo" max-width='12em' %}
 
 The [FAIRDOM-SEEK](https://fairdomseek.org/) platform is the [open source](https://github.com/seek4science/seek) Research Data Management Platform developed and
 supported by the members of the FAIRDOM consortium.

@@ -1,11 +1,9 @@
 ---
 title: NFDI4Health
 description: The main local component and connector of the federated distributed services of NFDI4Health, Germany.
-toc: false
+page_img: fairdom_in_use/nfdi4health-logo.svg
 type: project
 ---
-
-{% include image.html file="fairdom_in_use/nfdi4health-logo.svg" alt="NFDI4Health Logo" max-width='12em' %}
 
 ## The Local Data Hubs (LDH)
 
