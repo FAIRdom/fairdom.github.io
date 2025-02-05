@@ -22,12 +22,13 @@ You will be able to select from a list of topics or suggest your own. The topics
 
 Topic titles (subject to change):
 
-- Making additional discoveries from existing data, using **machine learning** tools
-- Improving user interface features for **multi-select search** and/or ISA/file navigation
-- Collecting and organizing ‘**niggles**’
-- Identifying places where weighted **auto-complete feature** could be implemented
+- **RO-Crates** for importing into FAIRDOM-SEEK; Interoperability with FAIR Data Station
+- Improving **user interface** features 
+  - ...for **multi-select search** and/or ISA/file navigation
+  - Identifying places where weighted **auto-complete feature** could be implemented
 - Improving **controlled vocabulary** usage and extended metadata
-- **RO-Crates** for importing into FAIRDOM-SEEK
+- Making additional discoveries from existing data, using **machine learning** tools
+- Collecting and organizing ‘**niggles**’ (small irritations)
 
 ## Register now
 
