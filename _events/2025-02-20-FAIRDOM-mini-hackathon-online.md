@@ -31,7 +31,7 @@ Topic titles (subject to change):
 
 ## Register now
 
-Please complete the free registration link below by ~~Friday, 24 January 2025~~ extended to Tuesday, 4 February 2025 and share with your colleagues.
+Please complete the free registration link below by ~~Friday, 24 January 2025~~ extended to Friday, 14 February 2025 and share with your colleagues.
 - [Register for the FAIRDOM Mini Hackathon Online](https://bit.ly/fdhack25) 
 
 If you have any questions, please [contact us](/contact).
