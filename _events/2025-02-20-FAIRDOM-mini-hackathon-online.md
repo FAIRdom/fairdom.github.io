@@ -14,7 +14,7 @@ We would like to invite you to our upcoming event. In a change to our usual FAIR
 - **Location**: Online (Zoom link to be shared upon registration)
 - **Start**: [8am Eastern, 13:00 GMT, 14:00 CET](https://www.timeanddate.com/worldclock/converter.html?iso=20250220T130000&p1=tz_gmt&p2=tz_cet&p3=tz_et)
 - **End**: [1pm Eastern, 18:00 GMT, 19:00 CET](https://www.timeanddate.com/worldclock/converter.html?iso=20250220T180000&p1=tz_gmt&p2=tz_cet&p3=tz_et)
-- You are welcome to join late or leave early. Full agenda to be announced.
+- You are welcome to join late or leave early. 
 
 ## Topics
 
@@ -29,6 +29,18 @@ Topic titles (subject to change):
 - Improving **controlled vocabulary** usage and extended metadata
 - Making additional discoveries from existing data, using **machine learning** tools
 - Collecting and organizing ‘**niggles**’ (small irritations)
+
+## Agenda
+Each project should take additional breaks as required.
+
+| ET \-5 | GMT 0 | CET \+1 | hours |  |
+| :---- | :---- | :---- | :---- | :---- |
+| 8am | 13:00 | 14:00 | 0h00 | Welcome, present the projects |
+| 8.30 | 13:30 | 14:30 | 0h30 | Start hacking, break out as required |
+| 10am | 15:00 | 16:00 | 2h00 | Check in and then break |
+| 11.15 | 16:15 | 17:15 | 3h15 | Review and share, next steps |
+| noon | 17:00 | 18:00 | 5h00 | Additional hour option for US |
+| 1pm | 18:00 | 19:00 | 6h00 | Close |
 
 ## Register now
 
