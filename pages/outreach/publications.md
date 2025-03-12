@@ -1,12 +1,18 @@
 ---
 title: Publications
-
+toc: false
 redirect_from:
-    - /publication/fairdomhub-a-repository-and-collaboration-environment-for-sharing-systems-biology-research/
-    - /publications/
+    - /publication/fairdomhub-a-repository-and-collaboration-environment-for-sharing-systems-biology-research/    
 ---
 
-**2024**
+## 2025
+
+**A practical guide to FAIR data management in the age of multi-OMICS and AI**
+Mugahid D, Lyon J, Demurjian C, Eolin N, Whittaker C, Godek M, Lauffenburger D, Fortune S and Levine S (2025).
+Front. Immunol. 15:1439434
+[Full Text](https://doi.org/10.3389/fimmu.2024.1439434)
+
+## 2024
 
 **NFDI4Health Local Data Hubs Implementing a Tailored Metadata Schema for Health Data**. 
 Hu X, Abaza H, Hänsel R, Abedi M, Golebiewski M, Müller W, Meineke F (2024).  
@@ -29,7 +35,7 @@ Studies in health technology and informatics, 316, 1413–1417.
 [Full Text](https://doi.org/10.3233/SHTI240676)
 
 
-**2023**
+## 2023
 
 **FAIR sharing of health data: a systematic review of applicable solutions**. 
 Guillot P, Bøgsted M, Vesteghem C (2023). 
@@ -40,7 +46,12 @@ Health Technol, 13, 869–882.
 
 **Specifications of standards in systems and synthetic biology: status and developments in 2022 and the COMBINE meeting 2022**. Konig M, Gleeson P, Golebiewski M, Gorochowski TE, Hucka M, et al. (2023) J Integr Bioinform. 20(1):20230004.[Full Text](https://doi.org/10.1515/jib-2023-0004)
 
-**2022**
+## 2022
+
+**NExtSEEK: Extending SEEK for Active Management of Interoperable Metadata.**
+Pradhan D, Ding H, Zhu J, Engelward BP, Levine SS (2022). 
+Interoperable Metadata, J Biomol Tech, 33(1)
+[Full Text](https://doi.org/10.7171/3fc1f5fe.db404124)
 
 **Plant Science Data Integration, from Building Community Standards to Defining a Consistent Data Lifecycle.** 
 Pommier C, Coppens F, Ćwiek-Kupczyńska F, Faria D, Beier S, Miguel C, Michotey C, D'Anna F, Owen S, Gruden K (2022). 
@@ -61,7 +72,7 @@ Studies in health technology and informatics, 290, 61–65.
 
 **Publication Policy of the National Research Data Infrastructure for Personal Health Data (NFDI4Health) and the NFDI4Health Task Force COVID-19**. Lindstädt B, Shutsko A, Golebiewski M, Kipker D, Lettieri V, Klopfenstein S, Vorisek C, Löbe M, Schmidt CO (2022). [Full Text](https://doi.org/10.4126/FRL01-006431467)
 
-**2021**
+## 2021
 
 **COVID19 Disease Map, a computational knowledge repository of virus–host interaction mechanisms**. 
 Ostaszewski M, et al (2021). 
@@ -81,7 +92,7 @@ Studies in health technology and informatics, 281:794-798. [Full Text](https://d
 infrastructure** [in German: COVID-19-Forschungsdaten leichter zugänglich machen – Aufbau einer bundesweiten Informationsinfrastruktur]. 
 Schmidt CO, Fluck J, Golebiewski M, et al. (23 July 2021). Bundesgesundheitsblatt 64, 1084–1092. [Full Text](https://doi.org/10.1007/s00103-021-03386-x)
 
-**2020**
+## 2020
 
 **The first 10 years of the international coordination network for standards in systems and synthetic biology (COMBINE)**.
 Waltemath D, Golebiewski M, Blinov ML, Gleeson P, Hermjakob H, Hucka M, Inau ET, Keating SM, König M, Krebs O,
@@ -98,7 +109,7 @@ Zhang F, et al.(2020). Molecular Systems Biology, 16(8): e9110. [Full Text](http
 Czauderna T, Golebiewski M, Gorochowski TE, Hucka M, Keating SM, Konig M, Myers C, Nickerson D, Waltemath D (2020).
 Journal of Integrative Bioinformatics, 17(2-3):20200022. [Full Text](https://doi.org/10.1515/jib-2020-0022)
 
-**2019**
+## 2019
 
 **The grant is dead, long live the data - migration as a pragmatic exit strategy for research data preservation**. 
 Zielinski T, Hay J, Millar AJ (2019). 
@@ -122,13 +133,13 @@ Integrative Bioinformatics 16(2): 20190035. [Full Text](https://doi.org/10.1515/
 **Data Formats for Systems Biology and Quantitative Modeling**. Golebiewski M, in: Encyclopedia of Bioinformatics and
 Computational Biology, 2019, Volume 2, Pages 884-893. [Full Text](https://doi.org/10.1016/B978-0-12-809633-8.20471-8)
 
-**2018**
+## 2018
 
 **Specifications of Standards in Systems and Synthetic Biology: Status and Developments in 2017**. Schreiber F, Bader GD,
 Gleeson P, Golebiewski M, Hucka M, Keating SM, Novère NL, Myers C, Nickerson D, Sommer B, Waltemath D (2018). J Integr
 Bioinform, 15(1). [Full Text](https://doi.org/10.1515/jib-2018-0013)
 
-**2017**
+## 2017
 
 **FAIRDOMHub: a repository and collaboration environment for sharing systems biology research**. Wolstencroft K, Krebs O,
 Snoep JL, Stanford NJ, Bacall F, Golebiewski M, Kuzyakiv R, Nguyen Q, Owen S, Soiland-Reyes S, Straszewski J, van
@@ -136,7 +147,7 @@ Niekerk DD, Williams AR, Malmström L, Rinn B, Müller W, Goble C (2017). Nuclei
 
 **Data management and data enrichment for systems biology projects**. Wittig U, Rey M, Weidemann A, Müller W (2017). J Biotechnol. 261:229-237. [Full Text](https://doi.org/10.1016/j.jbiotec.2017.06.007)
 
-**2016**
+## 2016
 
 **The Human Physiome: how standards, software, and innovative service infrastructures are providing the building blocks to
 make it achievable**. Nickerson D, Atalag K, de Bono B, Geiger J, Goble C, Hollmann S, Lonien J, Müller W, Regierer B,
@@ -152,7 +163,7 @@ van Mulligen E, Velterop J, Waagmeester A, Wittenburg P, Wolstencroft K, Zhao J,
 **openBIS ELN-LIMS: an open-source database for academic laboratories**. Barillari C, Ottoz DS, Fuentes-Serna JM,
 Ramakrishnan C, Rinn B, Rudolf F (2016). Bioinformatics, 4, 638-40. [Full Text](https://doi.org/10.1093/bioinformatics/btv606)
 
-**2015**
+## 2015
 
 **SEEK: a systems biology data and model management platform**. Wolstencroft K, Owen S, Krebs O, Nguyen Q, Stanford NJ,
 Golebiewski M, Weidemann A, Bittkowski M, An L, Shockley D, Snoep JL, Mueller W, Goble C (2015). BMC Systems Biology, 9:33. [Full Text](https://doi.org/10.1186/s12918-015-0174-y)
@@ -160,13 +171,13 @@ Golebiewski M, Weidemann A, Bittkowski M, An L, Shockley D, Snoep JL, Mueller W,
 **The evolution of standards and data management practices in systems biology**. Stanford NJ, Wolstencroft K, Golebiewski M, Kania R, 
 Juty N, Tomlinson C, Owen S, Butcher S, Hermjakob H, Le Novère N, Mueller W, Snoep J, Goble C (2015). Molecular Systems Biology, 11:12. [Full Text](https://doi.org/10.15252/msb.20156053)
 
-**2014**
+## 2014
 
 **COMBINE archive and OMEX format: one file to share all information to reproduce a modeling project**. Bergmann FT, Adams
 R, Moodie S, Cooper J, Glont M, Golebiewski M, Hucka M, Laibe C, Miller AK, Nickerson DP, Olivier BG, Rodriguez N, Sauro
 HM, Scharm M, Soiland-Reyes S, Waltemath D, Yvon F, Le Novère (2014). BMC Bioinformatics, 15:1, 369. [Full Text](https://doi.org/10.1186/s12859-014-0369-z)
 
-**2013**
+## 2013
 
 **Why linked data is not enough for scientists**. Bechhofer S, Buchan I, De Roure D, Missier P, Ainsworth J, Bhagat J, Couch
 P, Cruickshank D, Delderfield M, Dunlop I, Gamble M, Michaelides D, Owen S, Newman D, Sufi S, Goble C (2013). Future Generation
@@ -178,7 +189,7 @@ J, du Preez F, Mueller W, Stevens R, Goble C (2013). Concurrency and Computation
 **Semantic Data and Models Sharing in Systems Biology: The Just Enough Results Model and the SEEK Platform**. Wolstencroft
 K, Owen S, Krebs O, Mueller W, Nguyen Q, Snoep JL, Goble C (2013). Springer, Berlin, Heidelberg. [Full Text](https://link.springer.com/content/pdf/10.1007%2F978-3-642-41338-4_14.pdf)
 
-**2012**
+## 2012
 
 **Toward interoperable bioscience data**. Sansone SA, Rocca-Serra P, Field D, Maguire E, Taylor C, Hofmann O, Fang H,
 Neumann S, Tong W, Amaral-Zettler L, Begley K, Booth T, Bougueleret L, Burns G, Chapman B, Clark T, Coleman LA, Copeland
