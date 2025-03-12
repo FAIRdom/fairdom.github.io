@@ -199,7 +199,4 @@ Jacob D, Kleinjans J, Harland L, Haug K, Hermjakob H, Ho Sui SJ, Laederach A, Li
 Reilly D, Roux M, Shamu CE, Shang CA, Steinbeck C, Trefethen A, Williams-Jones B, Wolstencroft K, Xenarios I, Hide W (2012).
 Nature Genetics, 44:2, 121-126. [Full Text](https://doi.org/10.1038/ng.1054)
 
-Our publications are also on [ResearchGate](https://www.researchgate.net/project/FAIRDOM). Please feel free to follow us
-on there.
-
 
