@@ -2,7 +2,8 @@
 title: Publications
 toc: false
 redirect_from:
-    - /publication/fairdomhub-a-repository-and-collaboration-environment-for-sharing-systems-biology-research/    
+    - /publication/fairdomhub-a-repository-and-collaboration-environment-for-sharing-systems-biology-research/
+    - /publications/
 ---
 
 ## 2025
