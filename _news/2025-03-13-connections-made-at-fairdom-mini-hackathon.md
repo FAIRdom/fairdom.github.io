@@ -11,7 +11,7 @@ The mini hackathon format allowed us to discuss and plan upcoming work, without 
 ## RO-Crates and FAIR Data Station interoperability
 [RO-Crates](https://www.researchobject.org/ro-crate/) are increasingly important for exchanging research data, such as importing metadata into [FAIRDOM-SEEK](/fairdomseek). 
 This project, led by Stuart Owen (University of Manchester) looked at matters of interoperability and integration between FAIRDOM-SEEK and [FAIR Data Station](https://fairds.fairbydesign.nl/). 
-They discussed overlaps between FAIR Data Station output and RO-Crate, and the ability to manage ISA persmissions, batch permission changes per Investigation. 
+They discussed overlaps between FAIR Data Station output and RO-Crate, and the ability to manage ISA permissions, batch permission changes per Investigation. 
 
 ## Improving controlled vocabulary usage and extended metadata
 This project was jointly led by Wolfgang Mueller and Xiaoming Hu (Heidelberg Institute for Theoretical Studies). 
