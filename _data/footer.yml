@@ -26,7 +26,7 @@ columns:
       - url_text: SystemX
         external_url: http://www.systemsx.ch/
       - url_text: German Federal Ministry of Education and Research
-        external_url: https://www.bmbf.de/bmbf/en/home/home_node.html
+        external_url: https://www.bmbf.de/EN/Home/home_node.html
       - url_text: NWO
         external_url: https://www.nwo.nl/en
   - type: image

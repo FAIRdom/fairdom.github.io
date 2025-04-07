@@ -38,7 +38,7 @@
   image_url: /images/funders/bmbf_logo.png
   type: funders
   expose: true
-  url: https://www.bmbf.de/bmbf/en/home/home_node.html
+  url: https://www.bmbf.de/EN/Home/home_node.html
 # Infrastructures
 - name: ELIXIR UK
   image_url: /images/partners/infrastructures/elixir_uk_logo.png
