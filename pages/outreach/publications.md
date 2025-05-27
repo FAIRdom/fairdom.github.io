@@ -8,6 +8,11 @@ redirect_from:
 
 ## 2025
 
+**WorkflowHub: a registry for computational workflows**
+Gustafsson, O.J.R., Wilkinson, S.R., Bacall, F. et al. (2025).
+Sci Data 12, 837. 
+[Full Text](https://doi.org/10.1038/s41597-025-04786-3)
+
 **A practical guide to FAIR data management in the age of multi-OMICS and AI**
 Mugahid D, Lyon J, Demurjian C, Eolin N, Whittaker C, Godek M, Lauffenburger D, Fortune S and Levine S (2025).
 Front. Immunol. 15:1439434
