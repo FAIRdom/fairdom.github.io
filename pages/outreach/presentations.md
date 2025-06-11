@@ -8,6 +8,14 @@ You can find presentations from the FAIRDOM Team and invited speakers at FAIRDOM
 
 Here is a selection of key presentations from the FAIRDOM Team and invited speakers from various FAIRDOM events:
 
+## 2025
+
+### FAIRDOM-SEEK – Platform for FAIR data and research outcome management
+Poster presented at [ELIXIR All Hands Meeting 2025](https://elixir-europe.org/events/elixir-all-hands-2025), Thessoloniki.
+[View poster on F1000](https://doi.org/10.7490/f1000research.1120207.1)
+
+Stuart Owen, Munazah Andrabi, Finn Bacall, Phil Reed, Xiaoming Hu, Ulrike Wittig, Maja Rey, Martin Golebiewski, Flora D'Anna, Kevin De Pelseneer, Jacky Snoep, Wolfgang Müller, Carole Goble
+
 
 ## 2020 
 
