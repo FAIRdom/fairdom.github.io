@@ -16,6 +16,12 @@ Poster presented at [Conference on Research Data Infrastructure (CoRDI) 2025](ht
 
 Xiaoming Hu, Stuart Owen, Frank Meineke, Finn Bacall, Carole Goble, Wolfgang Müller, and Martin Golebiewski
 
+### FAIRDOM-SEEK: Platform for FAIR data and research asset management
+Talk presented at [ISMB/ECCB 2025 conference](https://www.iscb.org/ismbeccb2025/home) (BOSC track) in Liverpool, UK. 
+[View slides on Zenodo](https://doi.org/10.5281/zenodo.16966924)
+
+Munazah Andrabi, Stuart Owen, Finn Bacall, Phil Reed, Xiaoming Hu, Ulrike Wittig, Maja Rey, Martin Golebiewski, Flora D’Anna, Kevin De Pelseneer, Jacky Snoep, Wolfgang Müller, Carole Goble
+
 ### FAIRDOM-SEEK – Platform for FAIR data and research outcome management
 Poster presented at [ELIXIR All Hands Meeting 2025](https://elixir-europe.org/events/elixir-all-hands-2025), Thessoloniki, Greece.
 [View poster on F1000](https://doi.org/10.7490/f1000research.1120207.1)
