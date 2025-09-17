@@ -35,5 +35,5 @@ Agenda:
 
 
 
+The slides of the presentations are available on [FAIRDOMHub](https://fairdomhub.org/events/331).
 
-Please use the [Zoom registration link](https://kta-email.zoom.us/meeting/register/JneiNV16QomW6FG5z60CKg) to get the access details.
