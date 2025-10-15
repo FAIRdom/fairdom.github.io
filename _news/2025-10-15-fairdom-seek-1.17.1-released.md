@@ -7,13 +7,13 @@ We are pleased to announce a new version of [FAIRDOM-SEEK](/platforms/seek) is n
 This is a patch release that includes some important bug fixes and improvements, in particular:
 
 * A minor update to Rails (7.2.2.2) and various libraries for bug and security fixes.
-* An update to use the version 2 of the [ROR](https://ror.org/) API.
-* Projects can now specify a Scientific disciplines, which can then be used for filtering. The disciplines are defined
+* An update to use version 2 of the [ROR](https://ror.org/) API.
+* Projects can now specify scientific disciplines, which can then be used for filtering. The disciplines are defined
   by the [OpenAlex classification](https://help.openalex.org/hc/en-us/articles/24736129405719-Topics).
 * There is now a check that creators exist before creating a DOI, notifying the user if missing to avoid an error.
 * A fix to prevent errors occurring following the deletion of a Collection avatar.
 * UI improvement to allow multiple lines of copyright text to be configured.
-* UI improvements to the registration page, when there are 3rd party authentication options configured (e.g. LS Login).
+* UI improvements to the registration page, when there are third-party authentication options configured (e.g. LS Login).
 * Licenses are now displayed to also include the short form, which is sometimes more familiar to users.
 * Fix to correctly display the preview of the name of a Creator when typing.
 * Fix to an incorrect date being displayed when close to a timezone difference.
