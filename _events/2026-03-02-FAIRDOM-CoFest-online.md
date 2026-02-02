@@ -15,14 +15,14 @@ We will not be doing any actual coding in the session.
 ## Details
 
 - **Date**: Monday, 02 March 2026
-- **Location**: Online (Zoom link to be shared nearer the time)
+- **Location**: Online (Zoom link provided upon registration)
 - **Start**: [8am Eastern, 13:00 GMT, 14:00 CET](https://www.timeanddate.com/worldclock/converter.html?iso=20260302T130000&p1=tz_gmt&p2=tz_cet&p3=tz_et)
 - **End**: [10am Eastern, 15:00 GMT, 16:00 CET](https://www.timeanddate.com/worldclock/converter.html?iso=20260302T150000&p1=tz_gmt&p2=tz_cet&p3=tz_et)
 
 
 ## Topics
 
-We will work together on one topic at a time. The details of the topics will be announced nearer the time.
+We will work together on one topic at a time. The [details of the topics](/news/2026-02-02-fairdom-cofest) have been announced.
 
 - FAIRDOM-SEEK Knowledge Graph and Linked Data
 - Neo4J, Visualization and LLM enabling
