@@ -13,5 +13,4 @@ The event will run on Zoom on **Monday, 2 March 2026** for 2 hours, providing op
 - **Topic 2: Visualization and LLM Enabling.** Watch a presentation about how Neo4J, visualization tools, and Large Langage Models (LLM) have been combined in NextSEEK to vastly reduce the time bioinformations spend filling out GEO forms. 
 
 
-
 For full details and to register, please visit the [FAIRDOM CoFest Online 2026 event page](/events/2026-03-02-FAIRDOM-CoFest-online).
