@@ -22,13 +22,16 @@ We will not be doing any actual coding in the session.
 
 ## Topics
 
-We will work together on one topic at a time. The [details of the topics](/news/2026-02-02-fairdom-cofest) have been announced.
+We will work together on one topic at a time. The topics are described below:
 
-- FAIRDOM-SEEK Knowledge Graph and Linked Data
-- Neo4J, Visualization and LLM enabling
+- Learn about FAIRDOM-SEEK features released in the last 12 months, thanks in part to your contributions at the [FAIRDOM Mini Hackathon](2025-03-13-connections-made-at-fairdom-mini-hackathon) in February 2025.
+- **Topic 1: Knowledge Graph and Linked Data**. Join a discussion about querying the public knowledge graph of a FAIRDOM-SEEEK instance, through writing SPARQL queries, using Triple Stores and Extended Metadata.
+- **Topic 2: Visualization and LLM Enabling.** Watch a presentation about how Neo4J, visualization tools, and Large Language Models (LLM) have been combined in NextSEEK to vastly reduce the time bioinformaticians spend filling out GEO forms.
+
 
 ## Registration has opened
 
 - [Register for FAIRDOM CoFest online 2026](https://kta-email.zoom.us/meeting/register/-f6JwnCRSeG2RbcjGogwCA)
+- [View the agenda and notes](https://docs.google.com/document/d/1zGf5S_aCINUDYrw69rf8Kg6nyYmZuST1Az8Sl_krS8M/edit?usp=sharing)
 
 If you have any questions, please [contact us](/contact).
