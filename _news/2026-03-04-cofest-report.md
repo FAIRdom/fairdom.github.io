@@ -6,10 +6,10 @@ title: "Knowledge exchange at FAIRDOM CoFest 2026"
 
 In March 2026, we hosted the first FAIRDOM Collaboration Fest (CoFest) online. Users, developers, leaders and advocates from nine institutions in six countries created an opportunity to collaborate, discuss and progress a range of matters and features which will be of benefit to the wider FAIRDOM-SEEK community. We also welcomed those interested in learning more about FAIRDOM-SEEK and how it could benefit their work.
 
-The mini co-fest format allowed us to discuss and plan upcoming work, without needing to commit any code immediately. We presented two topics, covering a range of concepts and teams.
+The mini CoFest format allowed us to discuss and plan upcoming work, without needing to commit any code immediately. We presented two topics, covering a range of concepts and teams.
 
 
-## Recap of FAIROM-SEEK features released in 2025
+## Recap of FAIRDOM-SEEK features released in 2025
 The session opened with a brief review of the [FAIRDOM-SEEK features released](https://docs.seek4science.org/tech/releases/) since the [Mini Hackathon event we ran in February 2025](/news/2025-03-13-connections-made-at-fairdom-mini-hackathon). 
 These include improved support for [FAIR Data Station](https://fairds.fairbydesign.nl/), enhanced Schema.org metadata support, a new SPARQL view, support for DataCite-based DOIs for publications, and improvements to [WorkflowHub](/fairdom-in-use/workflowhub) and [NeLS](/fairdom-in-use/digitallifenorway). 
 Such features were possible thanks in part to your contributions at the Mini Hackathon.
