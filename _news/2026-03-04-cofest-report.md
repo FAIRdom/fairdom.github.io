@@ -21,9 +21,10 @@ This project, led by Stuart Owen (University of Manchester) with Xiaoming Hu (He
 
 - Introduction to **Linked Data and RDF**, and their benefits
 - How FAIRDOM-SEEK supports Linked Data by describing objects using **JERM**-based RDF, **Schema.org** and **Bioschemas** markup, and **JSON-LD**
-- How FAIRDOM-SEEK uses **Extended Metadata** for Samples, including the Schema.org **PropertyValue** 
-- The **SPARQL view** in FAIRDOM-SEEK, providing access to the **public graph**, with customizable **example queries**
-- Matters of interoperability and integration between FAIRDOM-SEEK and **FAIR Data Station**
+- How FAIRDOM-SEEK includes **Extended Metadata** and **Sample** properties within the RDF
+- How FAIRDOM-SEEK uses the **Sample** bioschemas type, and includes custom properties using **PropertyValue**
+- The new **SPARQL view** in FAIRDOM-SEEK, providing access to the **public knowledge graph**, with customizable **example queries**
+- A brief overview of the interoperability and integration between FAIRDOM-SEEK and **FAIR Data Station**
 - A demonstration of **how to set up** the knowledge graph on your SEEK instance using Virtuoso 
 - A look at **how RDF is generated** from a customizable lookup table
 
