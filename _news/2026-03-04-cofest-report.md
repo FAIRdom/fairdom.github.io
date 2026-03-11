@@ -30,23 +30,31 @@ This project, led by Stuart Owen (University of Manchester) with Xiaoming Hu (He
 
 The presentation concluded with a look at the future plans for developing knowledge graphs in FAIRDOM-SEEK. Suggested work includes the addition of Schema.org in the knowledge graph, enriching the RDF with external identifier info (ROR and ORCID), and discussing how RO-Crate might be included in the graph. Also under consideration is to include Extended Metadata in the Schema.org markup. These plans are subject to change; please follow the [Roadmap](https://docs.seek4science.org/tech/roadmap) to keep updated.
 
+
 ## Topic 2: Neo4J, Visualization and LLM enabling
-TO WRITE 
 
-The project led by Charlie Demurjian (MIT) discussed how to use machine learning tools to enhance data curation.
-They looked at [NExtSEEK](//fairdom-in-use/nextseek) as a background for making additional discoveries from existing data, using text prompts to an LLM chat-bot or potentially an ontology-based search.
+The FAIRDOM-SEEK platform enables the building of project hubs where investigators can store, share, access, connect and interact with digital objects generated from their research, and use them in their own analyses.
+MIT BioMicroCentre uses a private hub called [NExtSEEK](//fairdom-in-use/nextseek) within the MIT facility to coordinate project management during the running of a project. 
+The second topic at the FAIRDOM CoFest was led by Charlie Demurjian (MIT), and described how NextSEEK is developing an agentic team to interpret natural language to query its database. Highlights of the presentation:
 
+- NextSEEK provides **active data management** as a wrapper around FAIRDOM-SEEK.
+- Samples in NextSEEK can be **visualized** in a tree ([example](https://nextseek.mit.edu/seek/sample/id=150141/), requires login), powered by Noe4J. 
+- To make something **"LLM Ready"**: separate the work into small agentic tasks, give specific instructions in a workflow, where each agent has concrete input and output schemas and contexts.
+- Develop the processes using published data, in this case, 50,000 samples. 
+- Start on use cases that are things you can already do on the website, establish a base truth, keep the human in the loop. 
+- Work up to queries such as "Build me a GEO Submission for D.SEQ-221031SHA-67-PUB and D.SEQ-221031SHA-65-PUB". NextSEEK Assist can build a [GEO](https://www.ncbi.nlm.nih.gov/geo/) spreadsheet for two given samples. The agents will go up and down the tree to map to the correct fields in the GEO, generate an Excel workbook with strategy, treatment and protocols for the researcher as their starting step. This will make researchers' lives easier.
 
-
-## Next steps
-TO REWRITE
-
-ADD LINK TO SLIDES AND VIDEO
-
-Each project collected a list of next steps to take back across the FAIRDOM consortium.
-For example, the MIT group are refining questions to ask an agent/chat bot for data management related tasks.
-If anyone is interested in collaborating with them, please get in touch with Charlie directly (or [contact us](/contact)). Our next FAIRDOM user meeting will run in early autumn 2025, check back here for details.
+The presentation concluded with a look at the roadmap for LLM-supported work in NextSEEK. One path is network ingestion (to populate the SEEK database), another is to interoperate with sequencing pipelines (from a repository submission, given sequencing files, run a Nextflow pipeline and bring the results back into SEEK). Many of the approaches and lessons learned could be shared across the FAIRDOM consortium and may apply to other instances of FAIRDOM-SEEK.
 
 
+## Slides and video
 
+The recording of the CoFest is available to watch on YouTube.
+ - https://www.youtube.com/watch?v=OPppIUvfTGs
 
+Slides 
+
+- Main Presentation, Topic 1 -- link TBA
+- Topic 2 -- link TBA
+
+If anyone is interested in collaborating with any of the presenters above, please get in touch directly (or [contact us](/contact)). Our next FAIRDOM user meeting will run in early autumn 2026, check back here for details.
