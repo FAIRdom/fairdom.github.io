@@ -38,7 +38,7 @@ MIT BioMicroCentre uses a private hub called [NExtSEEK](//fairdom-in-use/nextsee
 The second topic at the FAIRDOM CoFest was led by Charlie Demurjian (MIT), and described how NextSEEK is developing an agentic team to interpret natural language to query its database. Highlights of the presentation:
 
 - NextSEEK provides **active data management** as a wrapper around FAIRDOM-SEEK.
-- Samples in NextSEEK can be **visualized** in a tree ([example](https://nextseek.mit.edu/seek/sample/id=150141/), requires login), powered by Noe4J. 
+- Samples in NextSEEK can be **visualized** in a tree, powered by Noe4J. 
 - To make something **"LLM Ready"**: separate the work into small agentic tasks, give specific instructions in a workflow, where each agent has concrete input and output schemas and contexts.
 - Develop the processes using published data, in this case, 50,000 samples. 
 - Start on use cases that are things you can already do on the website, establish a base truth, keep the human in the loop. 
@@ -47,14 +47,15 @@ The second topic at the FAIRDOM CoFest was led by Charlie Demurjian (MIT), and d
 The presentation concluded with a look at the roadmap for LLM-supported work in NextSEEK. One path is network ingestion (to populate the SEEK database), another is to interoperate with sequencing pipelines (from a repository submission, given sequencing files, run a Nextflow pipeline and bring the results back into SEEK). Many of the approaches and lessons learned could be shared across the FAIRDOM consortium and may apply to other instances of FAIRDOM-SEEK.
 
 
-## Slides and video
-
-The recording of the CoFest is available to watch on YouTube.
- - https://www.youtube.com/watch?v=OPppIUvfTGs
+## Following up
 
 Slides 
 
 - Main Presentation, Topic 1 -- link TBA
 - Topic 2 -- link TBA
+
+Video
+
+- Main Presentation, Topic 1 -- link TBA
 
 If anyone is interested in collaborating with any of the presenters above, please get in touch directly (or [contact us](/contact)). Our next FAIRDOM user meeting will run in early autumn 2026, check back here for details.
