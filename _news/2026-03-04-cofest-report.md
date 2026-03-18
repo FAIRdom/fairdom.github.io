@@ -56,6 +56,6 @@ Slides
 
 Video
 
-- Main Presentation, Topic 1 -- link TBA
+- [Main Presentation, Topic 1](https://youtu.be/AcAB1qMX4Dc)
 
 If anyone is interested in collaborating with any of the presenters above, please get in touch directly (or [contact us](/contact)). Our next FAIRDOM user meeting will run in early autumn 2026, check back here for details.
