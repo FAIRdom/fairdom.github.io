@@ -7,7 +7,12 @@ images: ["images/communities/ERASysAPP-PALS-Berlin-2015-3.jpg", "images/communit
 
 ## FAIRDOM user meetings
 
-FAIRDOM organises [user meetings](https://fair-dom.org/events) twice a year. The purpose of these events is to maintain an active FAIRDOM user community, providing networking between various FAIRDOM-SEEK users and to learn from data management experiences in different research projects. 
+FAIRDOM organises [user meetings](https://fair-dom.org/events) twice a year. The purpose of these events is to maintain an active FAIRDOM user community, providing networking between various FAIRDOM-SEEK users and to learn from data management experiences in different research projects. For example:
+
+- At [FAIRDOM CoFest March 2026](/news/2026-03-04-cofest-report) (technical-focus user meeting), we learned about Knowledge Graphs, Linked Data, SPARQL queries, Visualisation and LLM enabling in FAIRDOM-SEEK and NExtSEEK.
+- At [FAIRDOM User Meeting September 2025](/news/2025-09-23-user-meeting-slides), we learned about integration between FAIR Data Station and FAIRDOM-SEEK, development of virtual human twins in DigitalTWINS with FAIRDOM-SEEK, and AI with labelled property graphs in NExtSEEK. 
+- At [FAIRDOM Mini Hackathon February 2025](/news/2025-03-13-connections-made-at-fairdom-mini-hackathon), we ran four sessions in parallel including RO-Crate integration, improved extended metadata provision, and applying machine learning for additional discoveries.
+
 
 ## Engagement with other communities
 

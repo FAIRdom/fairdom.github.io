@@ -51,11 +51,10 @@ The presentation concluded with a look at the roadmap for LLM-supported work in 
 
 Slides 
 
-- Main Presentation, Topic 1 -- link TBA
-- Topic 2 -- link TBA
+- [Main Presentation, Topic 1, Topic 2 (FAIRDOMHub)](https://fairdomhub.org/events/332)
 
 Video
 
-- [Main Presentation, Topic 1](https://youtu.be/AcAB1qMX4Dc)
+- [Main Presentation, Topic 1 (YouTube)](https://youtu.be/AcAB1qMX4Dc)
 
 If anyone is interested in collaborating with any of the presenters above, please get in touch directly (or [contact us](/contact)). Our next FAIRDOM user meeting will run in early autumn 2026, check back here for details.
