@@ -8,6 +8,15 @@ You can find presentations from the FAIRDOM Team and invited speakers at FAIRDOM
 
 Here is a selection of key presentations from the FAIRDOM Team and invited speakers from various FAIRDOM events:
 
+## 2026
+
+### FAIRDOM-SEEK: Platform for FAIR data and research asset management
+Talk presented at [ISCB-UK 2026 conference](https://www.iscb.org/uk2026/home) in Cambridge, UK. 
+[View slides on Zenodo]([https://doi.org/10.5281/zenodo.16966924](https://doi.org/10.5281/zenodo.19696618))
+
+Munazah Andrabi, Stuart Owen, Finn Bacall, Phil Reed, Xiaoming Hu, Ulrike Wittig, Maja Rey, Martin Golebiewski, Flora D’Anna, Kevin De Pelseneer, Jacky Snoep, Wolfgang Müller, Carole Goble
+
+
 ## 2025
 
 ### Flexible Metadata Structuring for Research Data Management Through the FAIRDOM-SEEK Platform
