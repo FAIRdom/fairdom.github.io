@@ -6,7 +6,7 @@ We are pleased to announce a new version of [FAIRDOM-SEEK](/platforms/seek) is n
 
 This is a patch release that includes some important bug fixes and improvements, in particular:
 
-* Fix error handling and reporting when trying to export Pubmed based publications without the email used to access the Pubmed API configured.
+* Fix error handling and reporting when trying to export PubMed based publications without the email used to access the PubMed API being configured.
 * Bugfix for exporting samples from ISA-JSON compliant assays and studies to an Excel spreadsheet in the default view.
 * Fix to an error when uploading content to an empty content blob when using the API.
 
