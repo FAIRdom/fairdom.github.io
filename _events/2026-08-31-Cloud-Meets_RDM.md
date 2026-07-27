@@ -6,7 +6,9 @@ location: Leibniz Institute of Plant Genetics and Crop Plant Research (IPK), Gat
 ---
 
 
-## Joint de.KCD & de.NBI Workshop: Cloud meets Life Science Data Management & Processing - nfdi4LS-IB2026"
+## Joint de.KCD & de.NBI Workshop: Cloud meets Life Science Data Management & Processing - nfdi4LS-IB2026
+
+`This workshop has been cancelled!`
 
 Join us again on a two-day workshop packed with hands-on training that will equip you with the tools, techniques, and best practices needed to start your journey in cloud-based data handling, data management and data processing.
 
