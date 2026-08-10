@@ -72,7 +72,7 @@
   type: partners
   expose: true
 - name: Heidelberg Institute for Theoretical Studies
-  image_url: /images/partners/uni_institutes/hits-logo.svg
+  image_url: /images/partners/uni_institutes/hits-logo-large.svg
   url: https://www.h-its.org/
   type: partners
   expose: true
@@ -92,12 +92,12 @@
   type: partners
   expose: true
 - name: University of Zurich
-  image_url: /images/partners/uni_institutes/University_of_Zurich_seal.svg
+  image_url: /images/partners/uni_institutes/University_of_Zurich_seal-large.svg
   url: https://www.uzh.ch/en.html
   type: partners
   expose: true
 - name: University of Bergen
-  image_url: /images/partners/uni_institutes/UiB-emblem_gray.svg
+  image_url: /images/partners/uni_institutes/UiB-emblem_gray-large.svg
   url: https://www.uib.no/
   type: partners
   expose: true
