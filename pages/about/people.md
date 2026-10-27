@@ -19,7 +19,7 @@ redirect_from:
 {% include contributor-tiles-all.html custom="Martin Golebiewski, Bert Droesbeke, Flora D'Anna, Ulrike Wittig, Munazah Andrabi, Rafael Buono, Maja Rey, Korbinian Bösl, Phil Reed"%}
 
 ## Technical
-{% include contributor-tiles-all.html custom="Stuart Owen, Finn Bacall, Kevin De Pelseneer, Xiaoming Hu, Dawie van Niekerk, Athira Radha Gangadharan, Alper Daggez"%}
+{% include contributor-tiles-all.html custom="Stuart Owen, Finn Bacall, Kevin De Pelseneer, Xiaoming Hu, Dawie van Niekerk, Athira Radha Gangadharan, Alper Daggez, Alberto Miranda Bedate"%}
 
 ## Associates
 {% include contributor-tiles-all.html custom="Bernd Rinn, Jacky Snoep, Katy Wolstencroft, Andrew Millar"%}
