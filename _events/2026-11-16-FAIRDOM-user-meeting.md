@@ -35,6 +35,9 @@ Together, these concepts establish a flexible, machine-actionable foundation for
 
    _"Two documentation sites for DM system choice and their (cloud) setup"_
 
+   <sup>Effective research data management (RDM) requires more than selecting a storage solution: researchers must identify an RDM platform that fits their scientific workflows, data types, collaboration needs, FAIR requirements, and technical constraints. They must also decide which technical architecture and implementation strategy best support their research objectives throughout the data lifecycle. The [FAIR-DMP Registry](https://dekcd.github.io/FAIR-DMP-Registry/) supports researchers in identifying suitable RDM platforms and services based on their project requirements. The [Data Management On The Cloud Technical guide](https://dekcd.github.io/DeKCD-DMOnTheCloud/) helps users in selecting appropriate technical approaches, from bare metal setup to cloud-based solutions, for managing and processing research data. It also gives a first explanation of all technologies and when complexity ask for an IT support or an existing solution. Both resources aim to simplify the increasingly complex landscape of research data management technologies and help researchers align technical choices with FAIR and reproducibility principles.</sup>
+
+
  * 15:10 - Discussion about matters raised
 
  * 15:25 - Q&A: ask me anything
