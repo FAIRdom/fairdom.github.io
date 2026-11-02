@@ -42,7 +42,7 @@ Together, these concepts establish a flexible, machine-actionable foundation for
 
  * 15:25 - Q&A: ask me anything
 
- 
+
   &nbsp;
 
 
