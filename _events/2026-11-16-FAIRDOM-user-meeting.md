@@ -47,7 +47,7 @@ Together, these concepts establish a flexible, machine-actionable foundation for
 
 
 
-Please register for free to get the ZOOM access details: [Registration](https://kta-email.zoom.us/meeting/register/wSnbjsDxQnW4uB1aXmDa-Q).
+The slides of the presentations are available on [FAIRDOMHub](https://fairdomhub.org/events/334).
 
 
  
